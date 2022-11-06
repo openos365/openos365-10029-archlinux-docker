@@ -1,4 +1,4 @@
-FROM archlinux
+FROM archlinux:latest
 
 # Setup mirrors
 RUN printf "[multilib]\nInclude = /etc/pacman.d/mirrorlist\n" \
