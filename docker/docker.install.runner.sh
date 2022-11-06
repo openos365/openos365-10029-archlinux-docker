@@ -12,3 +12,4 @@ env
 whoami
 id
 pwd
+pacman -Syyu --noconfirm
