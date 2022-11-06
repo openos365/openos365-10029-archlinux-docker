@@ -6,7 +6,7 @@ RUN /opt/docker.install.root.sh
 
 # Change to user builder
 USER runner
-
+ENV HOME=/home/runner
 # Change working directory
 WORKDIR /home/runner
 RUN /opt/docker.install.runner.sh
