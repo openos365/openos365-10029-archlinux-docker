@@ -25,6 +25,8 @@ cp -fv ./pacman.conf2 /etc/pacman.conf
 
 pacman -Syyu --noconfirm
 
+pacman -Syyu --noconfirm git sudo python3 base-devel cmake ninja qt5-base archiso arch-install-scripts pyalpm cmake
+pacman -Syyu --noconfirm procps zsh wget git make sudo python3 base-devel cmake ninja qt5-base arch-install-scripts pyalpm squashfs-tools libisoburn dosfstools openssh rsync
 
 export HOME=/root
 export USER=root
