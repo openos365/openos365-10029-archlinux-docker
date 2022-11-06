@@ -33,6 +33,7 @@ export USER=root
 cat /etc/passwd
 groupadd runner
 useradd -m -d /home/runner -G wheel -g runner runner -s /bin/bash
+mkdir -p /etc/sudoers.d
 echo "root ALL=(ALL) NOPASSWD: ALL" > /etc/sudoers.d/root-nopassword
 echo "runner ALL=(ALL) NOPASSWD: ALL"   > /etc/sudoers.d/runner-nopassword
 chmod 750 /etc/sudoers.d/root-nopassword
