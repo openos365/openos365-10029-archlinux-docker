@@ -9,5 +9,5 @@ export TERM=xterm-256color
 echo $PROJECT_NAME
 cd $CMD_PATH
 
-docker run ghcr.io/archlinux365/9318-archlinux-docker/root:latest pacman -Sl > packages.list.all.txt
-docker run ghcr.io/archlinux365/9318-archlinux-docker/root:latest pacman -Qe > packages.list.installed.txt
+sudo docker run ghcr.io/archlinux365/9318-archlinux-docker/root:latest pacman -Sl > packages.list.all.txt
+sudo docker run ghcr.io/archlinux365/9318-archlinux-docker/root:latest pacman -Qe > packages.list.installed.txt
