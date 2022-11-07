@@ -22,9 +22,19 @@ curl https://raw.githubusercontent.com/archlinuxcn/mirrorlist-repo/master/archli
 sed -i 's/^# Server/Server/' /etc/pacman.d/archlinuxcn-mirrorlist
 cat /etc/pacman.d/archlinuxcn-mirrorlist
 
+curl https://github.com/arch4edu/mirrorlist/blob/master/mirrorlist.arch4edu > /etc/pacman.d/arch4edu-mirrorlist
+sed -i 's/^#Server/Server/' /etc/pacman.d/arch4edu-mirrorlist
+cat /etc/pacman.d/arch4edu-mirrorlist
+
 pacman-key --init
 pacman-key --recv-key FBA220DFC880C036 --keyserver keyserver.ubuntu.com
 pacman-key --lsign-key FBA220DFC880C036
+
+# arch4edu
+pacman-key --recv-keys 7931B6D628C8D3BA
+pacman-key --finger 7931B6D628C8D3BA
+pacman-key --lsign-key 7931B6D628C8D3BA
+
 pacman --noconfirm -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst' 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'
 cat /etc/pacman.d/chaotic-mirrorlist
 cat /etc/pacman.conf
