@@ -18,7 +18,7 @@ curl -s https://blackarch.org/strap.sh | bash -
 cat /etc/pacman.conf
 
 curl https://raw.githubusercontent.com/archlinuxcn/mirrorlist-repo/master/archlinuxcn-mirrorlist > /etc/pacman.d/archlinuxcn-mirrorlist
-sed -i 's/^#Server/Server/' /etc/pacman.d/archlinuxcn-mirrorlist
+sed -i 's/^# Server/Server/' /etc/pacman.d/archlinuxcn-mirrorlist
 cat /etc/pacman.d/archlinuxcn-mirrorlist
 
 pacman-key --init
