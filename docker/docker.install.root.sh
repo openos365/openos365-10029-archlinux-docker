@@ -97,6 +97,13 @@ pacman --noconfirm --noprogressbar --needed -Syyu base-devel
 
 pacman -Syyu --noconfirm
 pacman -Scc --noconfirm
-# https://hustlei.github.io/2018/11/msys2-pacman.html
-pacman -Sl > packages.list.all.txt
-pacman -Qe > packages.list.installed.txt
+mkdit -p /opt/9138packages
+git config --global user.email "gnuhub@gmail.com"
+git config --global user.name "gnuhub"
+cd /opt/9138packages
+cp /opt/9139.packages.sh ./
+chmod +x *.sh 
+./9139.packages.sh
+git init 
+git add .
+git commit -a -m "add"
