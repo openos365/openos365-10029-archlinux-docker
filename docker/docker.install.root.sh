@@ -15,6 +15,7 @@ sed -i 's/^#Server/Server/' /etc/pacman.d/mirrorlist
 cat /etc/pacman.d/mirrorlist
 pacman -Syyu --noconfirm
 curl -s https://blackarch.org/strap.sh | bash -
+sed -i 's/^#Server/Server/' /etc/pacman.d/blackarch-mirrorlist
 cat /etc/pacman.d/blackarch-mirrorlist
 
 curl https://raw.githubusercontent.com/archlinuxcn/mirrorlist-repo/master/archlinuxcn-mirrorlist > /etc/pacman.d/archlinuxcn-mirrorlist
