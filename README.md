@@ -46,11 +46,14 @@ rsync
 docker pull ghcr.io/archlinux365/9318-archlinux-docker/root:latest
 
 ```
+history versions: https://github.com/orgs/archlinux365/packages/container/package/9318-archlinux-docker/root
+
 * 3.2 a normal user: runner without password
 
 ```
 docker pull ghcr.io/archlinux365/9318-archlinux-docker/runner:latest
 ```
+history versions: https://github.com/orgs/archlinux365/packages/container/package/9318-archlinux-docker/runner
 
 ## used by projects
 
