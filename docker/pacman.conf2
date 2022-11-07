@@ -98,7 +98,8 @@ Include = /etc/pacman.d/mirrorlist
 Include = /etc/pacman.d/chaotic-mirrorlist 
 
 [archlinuxcn]
-Server = https://repo.archlinuxcn.org/$arch
+Include = /etc/pacman.d/archlinuxcn-mirrorlist
+
 
 # An example of a custom package repository.  See the pacman manpage for
 # tips on creating your own repositories.
