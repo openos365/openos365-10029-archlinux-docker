@@ -12,9 +12,10 @@ env
 # 1 pacman.conf
 cp -fv ./pacman.conf1 /etc/pacman.conf
 sed -i 's/^#Server/Server/' /etc/pacman.d/mirrorlist
-
+cat /etc/pacman.d/mirrorlist
 pacman -Syyu --noconfirm
 curl -s https://blackarch.org/strap.sh | bash -
+cat /etc/pacman.conf
 
 curl https://raw.githubusercontent.com/archlinuxcn/mirrorlist-repo/master/archlinuxcn-mirrorlist > /etc/pacman.d/archlinuxcn-mirrorlist
 sed -i 's/^#Server/Server/' /etc/pacman.d/archlinuxcn-mirrorlist
@@ -24,6 +25,7 @@ pacman-key --init
 pacman-key --recv-key FBA220DFC880C036 --keyserver keyserver.ubuntu.com
 pacman-key --lsign-key FBA220DFC880C036
 pacman --noconfirm -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst' 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'
+cat /etc/pacman.d/chaotic-mirrorlist
 
 cp -fv ./pacman.conf2 /etc/pacman.conf
 
