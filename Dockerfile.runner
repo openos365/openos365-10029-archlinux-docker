@@ -1,12 +1,17 @@
 FROM docker.io/library/archlinux:latest
+# 1
 USER root
 ENV TERM=xterm-256color
 COPY docker/ /opt
+# 2
+WORKDIR /root
+ENV USER=root
+ENV HOME=/root
 RUN /opt/docker.install.root.sh
 
-# Change to user builder
+# 3
 USER runner
-ENV HOME=/home/runner
-# Change working directory
 WORKDIR /home/runner
-RUN /opt/docker.install.runner.sh
+ENV USER=runner
+ENV HOME=/home/runner
+RUN /opt/docker.install.root.sh
