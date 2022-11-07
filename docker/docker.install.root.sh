@@ -16,6 +16,10 @@ sed -i 's/^#Server/Server/' /etc/pacman.d/mirrorlist
 pacman -Syyu --noconfirm
 curl -s https://blackarch.org/strap.sh | bash -
 
+curl https://raw.githubusercontent.com/archlinuxcn/mirrorlist-repo/master/archlinuxcn-mirrorlist > /etc/pacman.d/archlinuxcn-mirrorlist
+sed -i 's/^#Server/Server/' /etc/pacman.d/archlinuxcn-mirrorlist
+
+
 pacman-key --init
 pacman-key --recv-key FBA220DFC880C036 --keyserver keyserver.ubuntu.com
 pacman-key --lsign-key FBA220DFC880C036
@@ -23,6 +27,7 @@ pacman --noconfirm -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring
 
 cp -fv ./pacman.conf2 /etc/pacman.conf
 
+pacman -Su archlinuxcn-keyring --noconfirm
 pacman -Syyu --noconfirm
 
 pacman -Syyu --noconfirm git sudo python3 base-devel cmake ninja qt5-base archiso arch-install-scripts pyalpm cmake
