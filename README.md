@@ -9,6 +9,7 @@
 * add archedu
 * add a normal builder user(sudo nopasswd): runner
 * install some packages:
+
 ```
 git 
 sudo 
@@ -36,7 +37,7 @@ rsync
 ## 2 why
 
 * add more repo
-* update everday
+* update everday(by github actions: 0 1 * * *)
 
 ## 3 how to use
 
