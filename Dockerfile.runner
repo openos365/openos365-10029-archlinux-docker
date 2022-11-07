@@ -14,4 +14,4 @@ USER runner
 WORKDIR /home/runner
 ENV USER=runner
 ENV HOME=/home/runner
-RUN /opt/docker.install.root.sh
+RUN /opt/docker.install.runner.sh
