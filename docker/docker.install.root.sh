@@ -22,7 +22,7 @@ curl https://raw.githubusercontent.com/archlinuxcn/mirrorlist-repo/master/archli
 sed -i 's/^# Server/Server/' /etc/pacman.d/archlinuxcn-mirrorlist
 cat /etc/pacman.d/archlinuxcn-mirrorlist
 
-curl https://github.com/arch4edu/mirrorlist/blob/master/mirrorlist.arch4edu > /etc/pacman.d/arch4edu-mirrorlist
+curl https://raw.githubusercontent.com/arch4edu/mirrorlist/master/mirrorlist.arch4edu > /etc/pacman.d/arch4edu-mirrorlist
 sed -i 's/^#Server/Server/' /etc/pacman.d/arch4edu-mirrorlist
 cat /etc/pacman.d/arch4edu-mirrorlist
 
