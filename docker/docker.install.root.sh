@@ -30,8 +30,27 @@ cp -fv ./pacman.conf2 /etc/pacman.conf
 pacman -Syyu --noconfirm
 pacman -Syyu archlinuxcn-keyring --noconfirm
 
-pacman -Syyu --noconfirm git sudo python3 base-devel cmake ninja qt5-base archiso arch-install-scripts pyalpm cmake
-pacman -Syyu --noconfirm procps zsh wget git make sudo python3 base-devel cmake ninja qt5-base arch-install-scripts pyalpm squashfs-tools libisoburn dosfstools openssh rsync
+pacman -Syyu --noconfirm git 
+pacman -Syyu --noconfirm sudo 
+pacman -Syyu --noconfirm python3 
+pacman -Syyu --noconfirm base-devel 
+pacman -Syyu --noconfirm cmake 
+pacman -Syyu --noconfirm ninja 
+pacman -Syyu --noconfirm qt5-base 
+pacman -Syyu --noconfirm archiso 
+pacman -Syyu --noconfirm arch-install-scripts 
+pacman -Syyu --noconfirm pyalpm 
+pacman -Syyu --noconfirm procps 
+pacman -Syyu --noconfirm zsh 
+pacman -Syyu --noconfirm wget 
+pacman -Syyu --noconfirm git 
+pacman -Syyu --noconfirm make 
+pacman -Syyu --noconfirm sudo    
+pacman -Syyu --noconfirm squashfs-tools 
+pacman -Syyu --noconfirm libisoburn 
+pacman -Syyu --noconfirm dosfstools 
+pacman -Syyu --noconfirm openssh 
+pacman -Syyu --noconfirm rsync
 
 export HOME=/root
 export USER=root
