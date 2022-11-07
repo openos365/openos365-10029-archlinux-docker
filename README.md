@@ -1,5 +1,7 @@
 # 9318-archlinux-docker
 
+[![docker build](https://github.com/archlinux365/9318-archlinux-docker/actions/workflows/docker_build.yml/badge.svg)](https://github.com/archlinux365/9318-archlinux-docker/actions/workflows/docker_build.yml)
+
 ### 1. what
 
 * archlinux latest docker 
