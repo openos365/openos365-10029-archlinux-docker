@@ -96,3 +96,7 @@ ln -sf "/usr/share/zoneinfo/Asia/Shanghai" "/etc/localtime"
 pacman --noconfirm --noprogressbar --needed -Syyu base-devel
 
 pacman -Syyu --noconfirm
+pacman -Scc --noconfirm
+# https://hustlei.github.io/2018/11/msys2-pacman.html
+pacman -Sl > packages.list.all.txt
+pacman -Qe > packages.list.installed.txt
