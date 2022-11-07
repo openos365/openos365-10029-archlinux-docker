@@ -1,12 +1,28 @@
 # 9318-archlinux-docker
 
-[multilib]
-Include = /etc/pacman.d/mirrorlist
+### 1. what
 
-[chaotic-aur]
-Include = /etc/pacman.d/chaotic-mirrorlist 
+* archlinux latest docker 
+* add multilib
+* add chaotic-aur
+* add archlinuxcn
+* add archedu
+* add a normal builder user(sudo nopasswd): runner
 
-[archlinuxcn]
-Include = /etc/pacman.d/archlinuxcn-mirrorlist
+## 2 why
 
-add user runner
+* add more repo
+* update everday
+
+## 3 how to use
+
+* 3.1 root user
+```
+docker pull ghcr.io/archlinux365/9318-archlinux-docker/root:latest
+
+```
+* 3.2 a normal user: runner without password
+
+```
+docker pull ghcr.io/archlinux365/9318-archlinux-docker/runner:latest
+```
