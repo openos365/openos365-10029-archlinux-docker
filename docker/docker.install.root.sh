@@ -64,6 +64,7 @@ pacman -Syyu --noconfirm libisoburn
 pacman -Syyu --noconfirm dosfstools 
 pacman -Syyu --noconfirm openssh 
 pacman -Syyu --noconfirm rsync
+pacman -Syyu --noconfirm expect
 
 export HOME=/root
 export USER=root
