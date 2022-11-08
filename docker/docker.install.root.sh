@@ -44,12 +44,15 @@ pacman-key --lsign-key 7931B6D628C8D3BA
 curl https://raw.githubusercontent.com/endeavouros-team/keyring/main/endeavouros.gpg > /opt/endeavouros.gpg
 pacman-key --add /opt/endeavouros.gpg
 pacman-key --lsign-key 497AF50C92AD2384C56E1ACA003DB8B0CB23504F
+
+pacman --noconfirm -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst' 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'
+cat /etc/pacman.d/chaotic-mirrorlist
+
+
 pacman-key --populate
 pacman-key --refresh-keys
 pacman -Syy --noconfirm
 
-pacman --noconfirm -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst' 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'
-cat /etc/pacman.d/chaotic-mirrorlist
 cat /etc/pacman.conf
 cp -fv ./pacman.conf2 /etc/pacman.conf
 
