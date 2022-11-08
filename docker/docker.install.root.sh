@@ -26,6 +26,9 @@ curl https://raw.githubusercontent.com/arch4edu/mirrorlist/master/mirrorlist.arc
 sed -i 's/^#Server/Server/' /etc/pacman.d/arch4edu-mirrorlist
 cat /etc/pacman.d/arch4edu-mirrorlist
 
+curl https://gitlab.com/endeavouros-filemirror/PKGBUILDS/-/raw/master/endeavouros-mirrorlist/endeavouros-mirrorlist > /etc/pacman.d/endeavouros-mirrorlist
+
+
 pacman-key --init
 # chaotic
 pacman-key --recv-key FBA220DFC880C036 --keyserver keyserver.ubuntu.com

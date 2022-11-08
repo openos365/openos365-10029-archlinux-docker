@@ -106,6 +106,9 @@ Include = /etc/pacman.d/archlinuxcn-mirrorlist
 [arch4edu]
 Include = /etc/pacman.d/arch4edu-mirrorlist
 
+[endeavouros]
+SigLevel = PackageRequired
+Include = /etc/pacman.d/endeavouros-mirrorlist
 
 # An example of a custom package repository.  See the pacman manpage for
 # tips on creating your own repositories.
