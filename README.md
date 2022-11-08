@@ -8,7 +8,7 @@
 * add multilib
 * add chaotic-aur
 * add archlinuxcn
-* add archedu
+* add arch4edu
 * add a normal builder user(sudo nopasswd): runner
 * install some packages:
 
@@ -34,6 +34,7 @@ libisoburn
 dosfstools 
 openssh 
 rsync
+expect
 ```
 
 ## 2 why
