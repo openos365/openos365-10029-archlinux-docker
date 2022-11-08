@@ -36,6 +36,7 @@ dosfstools
 openssh 
 rsync
 expect
+minio-client
 ```
 
 ## 2 why
