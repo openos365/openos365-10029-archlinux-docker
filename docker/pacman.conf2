@@ -106,6 +106,7 @@ Include = /etc/pacman.d/archlinuxcn-mirrorlist
 [arch4edu]
 Include = /etc/pacman.d/arch4edu-mirrorlist
 
+# https://github.com/endeavouros-team/mirrors
 [endeavouros]
 SigLevel = PackageRequired
 Include = /etc/pacman.d/endeavouros-mirrorlist
