@@ -27,6 +27,7 @@ sed -i 's/^#Server/Server/' /etc/pacman.d/arch4edu-mirrorlist
 cat /etc/pacman.d/arch4edu-mirrorlist
 
 pacman-key --init
+# chaotic
 pacman-key --recv-key FBA220DFC880C036 --keyserver keyserver.ubuntu.com
 pacman-key --lsign-key FBA220DFC880C036
 
@@ -34,6 +35,14 @@ pacman-key --lsign-key FBA220DFC880C036
 pacman-key --recv-keys 7931B6D628C8D3BA
 pacman-key --finger 7931B6D628C8D3BA
 pacman-key --lsign-key 7931B6D628C8D3BA
+
+# eos
+curl https://raw.githubusercontent.com/endeavouros-team/keyring/main/endeavouros.gpg > /opt/endeavouros.gpg
+pacman-key --add /opt/endeavouros.gpg
+pacman-key --lsign-key 497AF50C92AD2384C56E1ACA003DB8B0CB23504F
+pacman-key --populate
+pacman-key --refresh-keys
+pacman -Syy --noconfirm
 
 pacman --noconfirm -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst' 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'
 cat /etc/pacman.d/chaotic-mirrorlist

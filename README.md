@@ -9,6 +9,7 @@
 * add chaotic-aur
 * add archlinuxcn
 * add arch4edu
+* add endeavouros
 * add a normal builder user(sudo nopasswd): runner
 * install some packages:
 
