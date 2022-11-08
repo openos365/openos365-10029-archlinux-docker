@@ -81,6 +81,8 @@ pacman -Syyu --noconfirm dosfstools
 pacman -Syyu --noconfirm openssh 
 pacman -Syyu --noconfirm rsync
 pacman -Syyu --noconfirm expect
+pacman -Syyu --noconfirm minio-client
+pacman -Syyu --noconfirm yay
 
 export HOME=/root
 export USER=root
