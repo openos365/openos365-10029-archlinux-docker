@@ -83,6 +83,7 @@ pacman -Syyu --noconfirm rsync
 pacman -Syyu --noconfirm expect
 pacman -Syyu --noconfirm minio-client
 pacman -Syyu --noconfirm yay
+pacman -Syyu --noconfirm pacman-contrib
 
 # build calamare-git
 pacman -Syyu --noconfirm --needed cmake extra-cmake-modules kpmcore boost python-jsonschema python-pyaml python-unidecode qt5-svg qt5-webengine yaml-cpp networkmanager upower kconfig kservice squashfs-tools rsync qt5-xmlpatterns doxygen dmidecode gptfdisk hwinfo kparts solid qt5-tools libpwquality ckbcomp qt5-quickcontrols2
