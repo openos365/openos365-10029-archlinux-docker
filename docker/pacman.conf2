@@ -127,6 +127,44 @@ Include = /etc/pacman.d/endeavouros-mirrorlist
 SigLevel = Never
 Include = /etc/pacman.d/chaotic-mirrorlist
 
+# 
+[arcolinux_repo_iso]
+SigLevel = Never
+Include = /etc/pacman.d/arcolinux-mirrorlist
+
+#[arcolinux_repo_testing]
+SigLevel = Never
+Include = /etc/pacman.d/arcolinux-mirrorlist
+
+[arcolinux_repo]
+SigLevel = Never
+Include = /etc/pacman.d/arcolinux-mirrorlist
+
+[arcolinux_repo_3party]
+SigLevel = Never
+Include = /etc/pacman.d/arcolinux-mirrorlist
+
+[arcolinux_repo_xlarge]
+SigLevel = Never
+Include = /etc/pacman.d/arcolinux-mirrorlist
+# https://github.com/xerolinux/xero_iso/blob/main/xerolinux/pacman.conf
+[iso-repo]
+SigLevel = Never
+Server = https://repos.xerolinux.xyz/$repo/$arch
+
+#XeroLinux Repository
+[xerolinux_repo]
+SigLevel = Never
+Server = https://xerolinux.github.io/$repo/$arch
+
+#XeroLinux XL Repository
+[xerolinux_repo_xl]
+SigLevel = Never
+Server = https://repos.xerolinux.xyz/$repo/$arch
+
+[alter-stable]
+SigLevel = Never
+Include = /etc/pacman.d/alterlinux-mirrorlist
 
 # An example of a custom package repository.  See the pacman manpage for
 # tips on creating your own repositories.

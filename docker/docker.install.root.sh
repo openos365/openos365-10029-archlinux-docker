@@ -11,6 +11,7 @@ cd $CMD_PATH
 env
 # 1 pacman.conf
 cp -fv ./pacman.conf1 /etc/pacman.conf
+cp -fv ./alterlinux-mirrorlist /etc/pacman.d/alterlinux-mirrorlist
 sed -i 's/^#Server/Server/' /etc/pacman.d/mirrorlist
 cat /etc/pacman.d/mirrorlist
 pacman -Syyu --noconfirm
@@ -28,6 +29,7 @@ cat /etc/pacman.d/arch4edu-mirrorlist
 
 # https://gitlab.com/endeavouros-filemirror/PKGBUILDS/-/blob/master/endeavouros-mirrorlist/endeavouros-mirrorlist
 curl https://gitlab.com/endeavouros-filemirror/PKGBUILDS/-/raw/master/endeavouros-mirrorlist/endeavouros-mirrorlist > /etc/pacman.d/endeavouros-mirrorlist
+curl https://raw.githubusercontent.com/arcolinux/arcolinuxl-iso/master/archiso/airootfs/etc/pacman.d/mirrorlist > /etc/pacman.d/arcolinux-mirrorlist
 
 
 pacman-key --init
