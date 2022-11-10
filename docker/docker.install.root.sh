@@ -49,8 +49,8 @@ pacman --noconfirm -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring
 cat /etc/pacman.d/chaotic-mirrorlist
 
 
-pacman-key --populate
-pacman-key --refresh-keys
+# pacman-key --populate
+# pacman-key --refresh-keys
 pacman -Syy --noconfirm
 
 cat /etc/pacman.conf
