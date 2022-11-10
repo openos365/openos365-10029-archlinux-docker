@@ -2,6 +2,8 @@
 
 [![docker build](https://github.com/archlinux365/9318-archlinux-docker/actions/workflows/docker_build.yml/badge.svg)](https://github.com/archlinux365/9318-archlinux-docker/actions/workflows/docker_build.yml)
 
+Contact: https://t.me/archlinux365
+
 ### 1 what
 
 archlinux-based docker: 
@@ -26,3 +28,4 @@ docker pull ghcr.io/archlinux365/9318-archlinux-docker/root:latest
 ```
 docker pull ghcr.io/archlinux365/9318-archlinux-docker/runner:latest
 ```
+
