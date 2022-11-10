@@ -12,6 +12,7 @@ archlinux-based docker:
 ## 2 why
 
 * used for ci
+* track version changes of packages
 
 ## 3 how to use
 
