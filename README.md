@@ -16,19 +16,16 @@ archlinux-based docker:
 
 ## 3 how to use
 
-* 3.1 root user
+#### root user
+
 ```
 docker pull ghcr.io/archlinux365/9318-archlinux-docker/root:latest
-
 ```
-history versions: https://github.com/orgs/archlinux365/packages/container/package/9318-archlinux-docker/root
-
-* 3.2 a normal user: runner without password
+#### a normal user: runner 
 
 ```
 docker pull ghcr.io/archlinux365/9318-archlinux-docker/runner:latest
 ```
-history versions: https://github.com/orgs/archlinux365/packages/container/package/9318-archlinux-docker/runner
 
 ## 4 used by projects
 
