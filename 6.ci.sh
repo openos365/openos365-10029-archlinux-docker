@@ -9,6 +9,15 @@ export TERM=xterm-256color
 echo $PROJECT_NAME
 cd $CMD_PATH
 
+apt update -y
+apt install -y openssh 
+
+cp -fv known_hosts /root/.ssh/known_hosts
+ssh-keygen -f "/root/.ssh/known_hosts" -R "frs.sourceforge.net"
+ssh-keyscan "frs.sourceforge.net" >> /root/.ssh/known_hosts
+ssh-keygen -f "/root/.ssh/known_hosts" -R "github.com"
+ssh-keyscan "github.com" >> /root/.ssh/known_hosts
+cat /root/.ssh/known_hosts
 
 env
 docker build . -f Dockerfile.$GITHUB_REF_NAME -t ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER -t ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:latest
