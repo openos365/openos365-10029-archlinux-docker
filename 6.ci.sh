@@ -33,6 +33,8 @@ git clone git@github.com:archlinux365/9318-archlinux-docker.git
 # docker run ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Qe > packages.list.installed.txt
 
 cd 9318-archlinux-docker
+git config --global user.email "gnuhub@gmail.com"
+git config --global user.name "gnuhub"
 git add .
 git commit -a -m "$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER"
 git push origin root 
