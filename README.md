@@ -26,11 +26,3 @@ docker pull ghcr.io/archlinux365/9318-archlinux-docker/root:latest
 ```
 docker pull ghcr.io/archlinux365/9318-archlinux-docker/runner:latest
 ```
-
-## 4 used by projects
-
-* https://github.com/archlinux365/9317-archlinux-aur
-* https://github.com/alterlinux365/9312-alterlinux-iso
-* https://github.com/uhuruos365/9313-uhuruos-iso
-* https://github.com/archlinux365/9280-endeavouros-pkgbuilds
-
