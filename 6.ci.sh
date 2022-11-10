@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+
+set -x
+
+export CMD_PATH=$(cd `dirname $0`; pwd)
+export PROJECT_NAME="${CMD_PATH##*/}"
+export TERM=xterm-256color
+
+echo $PROJECT_NAME
+cd $CMD_PATH
+
+
+env
+docker build . -f Dockerfile.$GITHUB_REF_NAME -t ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER -t ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:latest
+docker push ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER
+docker push ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:latest
+docker run ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Sl > release.$GITHUB_RUN_NUMBER.packages.list.all.txt
+docker run ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Qe > release.$GITHUB_RUN_NUMBER.packages.list.installed.txt
+
+cd ~/
+git clone git@github.com:archlinux365/9318-archlinux-docker.git
+
+docker run ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Sl > packages.list.all.txt
+docker run ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Qe > packages.list.installed.txt
+
+git add .
+git commit -a -m "$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER"
+git push origin root 
+
+git checkout runner 
+git merge root 
+git push origin runner
