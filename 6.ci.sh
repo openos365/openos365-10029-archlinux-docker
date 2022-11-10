@@ -12,19 +12,19 @@ cd $CMD_PATH
 sudo apt update -y
 sudo apt install -y openssh 
 
-cp -fv known_hosts /root/.ssh/known_hosts
-ssh-keygen -f "/root/.ssh/known_hosts" -R "frs.sourceforge.net"
-ssh-keyscan "frs.sourceforge.net" >> /root/.ssh/known_hosts
-ssh-keygen -f "/root/.ssh/known_hosts" -R "github.com"
-ssh-keyscan "github.com" >> /root/.ssh/known_hosts
-cat /root/.ssh/known_hosts
+cp -fv known_hosts /home/runner/.ssh/known_hosts
+ssh-keygen -f "/home/runner/.ssh/known_hosts" -R "frs.sourceforge.net"
+ssh-keyscan "frs.sourceforge.net" >> /home/runner/.ssh/known_hosts
+ssh-keygen -f "/home/runner/.ssh/known_hosts" -R "github.com"
+ssh-keyscan "github.com" >> /home/runner/.ssh/known_hosts
+cat /home/runner/.ssh/known_hosts
 
-env
-docker build . -f Dockerfile.$GITHUB_REF_NAME -t ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER -t ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:latest
-docker push ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER
-docker push ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:latest
-docker run ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Sl > release.$GITHUB_RUN_NUMBER.packages.list.all.txt
-docker run ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Qe > release.$GITHUB_RUN_NUMBER.packages.list.installed.txt
+# env
+# docker build . -f Dockerfile.$GITHUB_REF_NAME -t ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER -t ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:latest
+# docker push ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER
+# docker push ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:latest
+# docker run ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Sl > release.$GITHUB_RUN_NUMBER.packages.list.all.txt
+# docker run ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Qe > release.$GITHUB_RUN_NUMBER.packages.list.installed.txt
 
 cd ~/
 git clone git@github.com:archlinux365/9318-archlinux-docker.git
