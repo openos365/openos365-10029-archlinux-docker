@@ -53,7 +53,7 @@ cat /etc/pacman.d/chaotic-mirrorlist
 
 # pacman-key --populate
 # pacman-key --refresh-keys
-pacman -Syy --noconfirm
+pacman -Syyu --noconfirm
 
 cat /etc/pacman.conf
 cp -fv ./pacman.conf2 /etc/pacman.conf
