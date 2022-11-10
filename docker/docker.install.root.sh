@@ -53,12 +53,12 @@ cat /etc/pacman.d/chaotic-mirrorlist
 
 # pacman-key --populate
 # pacman-key --refresh-keys
-pacman -Syyu --noconfirm
+pacman -Syyu --noconfirm --verbose --debug
 
 cat /etc/pacman.conf
 cp -fv ./pacman.conf2 /etc/pacman.conf
 
-pacman -Syyu --noconfirm
+pacman -Syyu --noconfirm --verbose --debug
 pacman -Syyu archlinuxcn-keyring --noconfirm
 
 pacman -Syyu --noconfirm git 
