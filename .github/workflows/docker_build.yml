@@ -10,10 +10,9 @@ on:
   workflow_dispatch:
 
 jobs:
-
   build-docker:
     name: Build Docker Image
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-18.04
     steps:
       - name: Install SSH Key
         uses: shimataro/ssh-key-action@v2
