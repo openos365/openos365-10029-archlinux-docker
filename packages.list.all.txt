@@ -29,7 +29,7 @@ core dbus 1.14.4-1 [installed]
 core dbus-docs 1.14.4-1
 core debugedit 5.0-4 [installed]
 core debuginfod 0.187-2
-core device-mapper 2.03.16-2 [installed]
+core device-mapper 2.03.17-1 [installed]
 core dhcpcd 9.4.1-1
 core dialog 1:1.3_20220728-1
 core diffutils 3.8-1 [installed]
@@ -166,7 +166,7 @@ core linux-lts-docs 5.15.77-1
 core linux-lts-headers 5.15.77-1
 core logrotate 3.20.1-1
 core lto-dump 12.2.0-1
-core lvm2 2.03.16-2 [installed]
+core lvm2 2.03.17-1 [installed]
 core lz4 1:1.9.4-1 [installed]
 core lzo 2.10-3 [installed]
 core m4 1.4.19-1 [installed]
@@ -237,10 +237,10 @@ core sqlite-tcl 3.39.4-1
 core sudo 1.9.12.p1-1 [installed]
 core sysfsutils 2.1.1-1 [installed]
 core syslinux 6.04.pre2.r11.gbf6db5b4-3
-core systemd 251.7-4 [installed]
-core systemd-libs 251.7-4 [installed]
-core systemd-resolvconf 251.7-4
-core systemd-sysvcompat 251.7-4 [installed]
+core systemd 252.1-1 [installed]
+core systemd-libs 252.1-1 [installed]
+core systemd-resolvconf 252.1-1
+core systemd-sysvcompat 252.1-1 [installed]
 core tar 1.34-1 [installed]
 core texinfo 7.0-1 [installed]
 core thin-provisioning-tools 0.9.0-1 [installed]
@@ -718,7 +718,7 @@ extra ftgl 2.4.0-2
 extra fuse-common 3.12.0-1
 extra fuse2 2.9.9-4
 extra fuse3 3.12.0-1
-extra galera 26.4.12-3
+extra galera 26.4.13-1
 extra garcon 4.16.1-1
 extra gcab 1.5-1
 extra gcr 3.41.1-3
@@ -2015,9 +2015,9 @@ extra marble 22.08.3-1
 extra marble-common 22.08.3-1
 extra marble-maps 22.08.3-1
 extra marble-qt 22.08.3-1
-extra mariadb 10.9.3-3
-extra mariadb-clients 10.9.3-3
-extra mariadb-libs 10.9.3-3
+extra mariadb 10.9.4-2
+extra mariadb-clients 10.9.4-2
+extra mariadb-libs 10.9.4-2
 extra markdownpart 22.08.3-1
 extra maxima 5.46.0-5
 extra maxima-ecl 5.46.0-5
@@ -2089,7 +2089,7 @@ extra mypaint-brushes1 1.3.1-1
 extra mythes-de 20180514-3
 extra mythes-en 20060306-6
 extra mythes-es 1:2.7-1
-extra mytop 10.9.3-3
+extra mytop 10.9.4-2
 extra namcap 3.3.1-1
 extra nasm 2.15.05-1
 extra nautilus 43.0-1
@@ -13336,7 +13336,7 @@ multilib lib32-smpeg 0.4.5-4
 multilib lib32-speex 1.2.1-1
 multilib lib32-speexdsp 1.2.1-1
 multilib lib32-sqlite 3.39.4-1
-multilib lib32-systemd 251.7-1
+multilib lib32-systemd 252.1-1
 multilib lib32-taglib 1.13-1
 multilib lib32-tcl 8.6.12-3
 multilib lib32-tdb 1.4.7-1
@@ -16332,7 +16332,7 @@ chaotic-aur vkcube-git r145.8261e90-1.1
 chaotic-aur vkd3d-proton-mingw-git 2.7.r15.g2dc906ee-1
 chaotic-aur vkd3d-proton-tkg-git 1.1.r2982.g2dc906ee-1
 chaotic-aur vkd3d-tkg-git 1.5.r81.g3857ca06-1
-chaotic-aur vlang-git 0.3.2.r86.g26d643fc5d-1
+chaotic-aur vlang-git 0.3.2.r88.g993e21e85b-1
 chaotic-aur vlc-git 4.0.0.r20918.g02c95ad381-1.1
 chaotic-aur vlc-git-debug 4.0.0.r20918.g02c95ad381-1.1
 chaotic-aur vlc-luajit 3.0.17.4-12
@@ -23026,8 +23026,8 @@ archlinuxcn ppsspp-headless-git 1.13.2.r1304.16f93a268-1
 archlinuxcn ppsspp-qt-git 1.13.2.r1304.16f93a268-1
 archlinuxcn preloader-signed 20130208-2
 archlinuxcn prince-bin 14.2-1
-archlinuxcn prismlauncher-git 5.0.r239.ge6d057fe-1
-archlinuxcn prismlauncher-git-debug 5.0.r239.ge6d057fe-1
+archlinuxcn prismlauncher-git 5.0.r265.g46a8e188-1
+archlinuxcn prismlauncher-git-debug 5.0.r265.g46a8e188-1
 archlinuxcn proftpd 2:1.3.7d-1
 archlinuxcn progress-git 0.16.r5.gceb6e78-1
 archlinuxcn prometheus-postgresql-exporter 0.11.1-1
@@ -24079,7 +24079,7 @@ arch4edu oracle-instantclient-tools 21.7.0.0.0-1
 arch4edu oracle-xe 18.4.0.0.0-1
 arch4edu orocos-kdl 1.5.1-1
 arch4edu orocos-kdl-python 1.5.1-1
-arch4edu pacman-static 6.0.1-5
+arch4edu pacman-static 6.0.2-1
 arch4edu pagmo 2.18.0-2
 arch4edu panoply 5.2.2-1
 arch4edu parmetis 4.0.3.p8-1
@@ -25024,7 +25024,7 @@ arch4edu xtl 0.7.4-1
 arch4edu yay 11.3.0-1 [installed]
 arch4edu ycm-generator-git r125.7c0f570-1
 arch4edu zoom 5.12.6-1
-arch4edu zotero 6.0.15-1
+arch4edu zotero 6.0.18-1
 arch4edu zotero-bin 6.0.18-1
 endeavouros akm 2.13-1
 endeavouros arc-gtk-theme-eos 20220405-1
