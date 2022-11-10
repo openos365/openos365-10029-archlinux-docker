@@ -123,6 +123,9 @@ Include = /etc/pacman.d/arch4edu-mirrorlist
 SigLevel = Never
 Include = /etc/pacman.d/endeavouros-mirrorlist
 
+[garuda]
+SigLevel = Never
+Include = /etc/pacman.d/chaotic-mirrorlist
 
 
 # An example of a custom package repository.  See the pacman manpage for
