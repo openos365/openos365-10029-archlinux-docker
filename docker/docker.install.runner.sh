@@ -13,3 +13,4 @@ whoami
 id
 pwd
 sudo pacman -Syyu --noconfirm
+sudo rm -rf /var/cache/pacman/pkg/
