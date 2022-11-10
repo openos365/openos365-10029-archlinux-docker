@@ -59,33 +59,33 @@ cat /etc/pacman.conf
 cp -fv ./pacman.conf2 /etc/pacman.conf
 
 pacman -Syyu --noconfirm --verbose --debug
-pacman -S archlinuxcn-keyring --noconfirm
+pacman -Syyu archlinuxcn-keyring --noconfirm
 
-pacman -S --noconfirm git 
-pacman -S --noconfirm sudo 
-pacman -S --noconfirm python3 
-pacman -S --noconfirm base-devel 
-pacman -S --noconfirm cmake 
-pacman -S --noconfirm ninja 
-pacman -S --noconfirm qt5-base 
-pacman -S --noconfirm archiso 
-pacman -S --noconfirm arch-install-scripts 
-pacman -S --noconfirm pyalpm 
-pacman -S --noconfirm procps 
-pacman -S --noconfirm zsh 
-pacman -S --noconfirm wget 
-pacman -S --noconfirm git 
-pacman -S --noconfirm make 
-pacman -S --noconfirm sudo    
-pacman -S --noconfirm squashfs-tools 
-pacman -S --noconfirm libisoburn 
-pacman -S --noconfirm dosfstools 
-pacman -S --noconfirm openssh 
-pacman -S --noconfirm rsync
-pacman -S --noconfirm expect
-pacman -S --noconfirm minio-client
-pacman -S --noconfirm yay
-pacman -S --noconfirm pacman-contrib
+pacman -Syyu --noconfirm git 
+pacman -Syyu --noconfirm sudo 
+pacman -Syyu --noconfirm python3 
+pacman -Syyu --noconfirm base-devel 
+pacman -Syyu --noconfirm cmake 
+pacman -Syyu --noconfirm ninja 
+pacman -Syyu --noconfirm qt5-base 
+pacman -Syyu --noconfirm archiso 
+pacman -Syyu --noconfirm arch-install-scripts 
+pacman -Syyu --noconfirm pyalpm 
+pacman -Syyu --noconfirm procps 
+pacman -Syyu --noconfirm zsh 
+pacman -Syyu --noconfirm wget 
+pacman -Syyu --noconfirm git 
+pacman -Syyu --noconfirm make 
+pacman -Syyu --noconfirm sudo    
+pacman -Syyu --noconfirm squashfs-tools 
+pacman -Syyu --noconfirm libisoburn 
+pacman -Syyu --noconfirm dosfstools 
+pacman -Syyu --noconfirm openssh 
+pacman -Syyu --noconfirm rsync
+pacman -Syyu --noconfirm expect
+pacman -Syyu --noconfirm minio-client
+pacman -Syyu --noconfirm yay
+pacman -Syyu --noconfirm pacman-contrib
 
 
 # build calamare-git
