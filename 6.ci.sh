@@ -9,9 +9,6 @@ export TERM=xterm-256color
 echo $PROJECT_NAME
 cd $CMD_PATH
 
-sudo apt update -y
-sudo apt install -y openssh 
-
 cp -fv known_hosts /home/runner/.ssh/known_hosts
 ssh-keygen -f "/home/runner/.ssh/known_hosts" -R "frs.sourceforge.net"
 ssh-keyscan "frs.sourceforge.net" >> /home/runner/.ssh/known_hosts
