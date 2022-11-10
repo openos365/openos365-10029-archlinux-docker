@@ -17,9 +17,15 @@ ssh-keyscan "github.com" >> /home/runner/.ssh/known_hosts
 cat /home/runner/.ssh/known_hosts
 
 env
-docker build . -f Dockerfile.$GITHUB_REF_NAME -t ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER -t ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:latest
+docker build . -f Dockerfile.$GITHUB_REF_NAME \
+-t ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER -t ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:latest \
+-t registry.cn-hangzhou.aliyuncs.com/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER -t registry.cn-hangzhou.aliyuncs.com/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:latest
 docker push ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER
 docker push ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:latest
+docker push registry.cn-hangzhou.aliyuncs.com/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER
+docker push registry.cn-hangzhou.aliyuncs.com/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:latest
+
+
 docker run ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Sl > release.$GITHUB_RUN_NUMBER.packages.list.all.txt
 docker run ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Qe > release.$GITHUB_RUN_NUMBER.packages.list.installed.txt
 
