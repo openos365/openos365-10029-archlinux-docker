@@ -37,7 +37,7 @@ docker run ghcr.io/${GITHUB_REPOSITORY}/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacm
 git config --global user.email "gnuhub@gmail.com"
 git config --global user.name "gnuhub"
 git add .
-git commit -a -m "$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER"
+git commit -a -m "CI BOT:$(date +%Y.%m.%d-%H%M%S):$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER"
 git push origin root 
 
 git checkout runner 
