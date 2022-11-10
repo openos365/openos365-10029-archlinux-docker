@@ -294,7 +294,7 @@ extra alsa-plugins 1:1.2.7.1-1
 extra alsa-topology-conf 1.2.5.1-1 [installed]
 extra alsa-ucm-conf 1.2.8-1 [installed]
 extra alsa-utils 1.2.8-1
-extra amdvlk 2022.Q4.1-2
+extra amdvlk 2022.Q4.2-1
 extra amf-headers 1.4.26-1
 extra analitza 22.08.3-1
 extra ant 1.10.12-1
@@ -10294,6 +10294,7 @@ community python-pyliblo 0.10.0-9
 community python-pylibmc 1.6.1-7
 community python-pylink-square 0.14.3-1
 community python-pylint 2.15.5-1
+community python-pylint-venv 2.3.0-2
 community python-pylons-sphinx-themes 1.0.13-2
 community python-pylorcon2 2:2020.06.06-3
 community python-pyls-spyder 0.4.0-3
@@ -10474,9 +10475,9 @@ community python-qiniu 7.9.0-2
 community python-qpageview 0.6.2-1
 community python-qrcode 7.3.1-1
 community python-qrencode 1.2-11
-community python-qstylizer 0.2.1-3
+community python-qstylizer 0.2.2-1
 community python-qt.py 1.2.6-1
-community python-qtawesome 1.1.1-1
+community python-qtawesome 1.2.1-1
 community python-qtconsole 5.4.0-1
 community python-qtpy 2.2.1-1
 community python-quart 0.18.0-1
@@ -13099,7 +13100,7 @@ multilib lib32-acl 2.3.1-1
 multilib lib32-alsa-lib 1.2.8-1
 multilib lib32-alsa-oss 1.1.8-3
 multilib lib32-alsa-plugins 1.2.7.1-1
-multilib lib32-amdvlk 2022.Q4.1-2
+multilib lib32-amdvlk 2022.Q4.2-1
 multilib lib32-apitrace 10.0-1
 multilib lib32-at-spi2-core 2.46.0-2
 multilib lib32-attr 2.5.1-1
@@ -14403,7 +14404,7 @@ chaotic-aur ialauncher-git r127.b93f75d-1.1
 chaotic-aur ibus-bamboo-git 0.8.2+RC3+0+gd14fd96-1.1
 chaotic-aur icaclient 22.11.0.19-1
 chaotic-aur ice-ssb 6.0.8-1.1
-chaotic-aur icecat 102.4.0-1.1
+chaotic-aur icecat 102.4.0-2
 chaotic-aur icestorm-git r811.a545498-1.1
 chaotic-aur icoextract 0.1.4-1.1
 chaotic-aur icons-in-terminal r93.b12286d-4
@@ -14554,7 +14555,7 @@ chaotic-aur kdecoration-git 5.26.80_r311.g92ce620-1
 chaotic-aur kded-git 5.100.0_r481.g9bc9d95-1
 chaotic-aur kdegraphics-mobipocket-git 22.04.0_r275.g6cdb65d-1.1
 chaotic-aur kdelibs4support-git 5.100.0_r1125.g62639e09-1
-chaotic-aur kdenlive-stabledeps-git 23.03.70.r16976-1
+chaotic-aur kdenlive-stabledeps-git 23.03.70.r16980-1
 chaotic-aur kdeplasma-addons-git 5.26.80_r9132.g081377b65-1
 chaotic-aur kdeplasma-applets-fokus 1.5.5-1.1
 chaotic-aur kdesignerplugin-git 5.100.0_r374.g0efea07-1
@@ -16222,8 +16223,8 @@ chaotic-aur ucommon 7.0.1-1.2
 chaotic-aur ufetch-git v0.1.r26.21f22c2-1
 chaotic-aur ulauncher 5.15.0-1.1
 chaotic-aur ums 11.5.0-1.1
-chaotic-aur ungoogled-chromium 107.0.5304.87-1.1
-chaotic-aur ungoogled-chromium-debug 107.0.5304.87-1.1
+chaotic-aur ungoogled-chromium 107.0.5304.110-1
+chaotic-aur ungoogled-chromium-debug 107.0.5304.110-1
 chaotic-aur unityhub 3.3.0-2
 chaotic-aur upd72020x-fw 20200826-3
 chaotic-aur update-grub 0.0.1-7.1
@@ -16307,7 +16308,7 @@ chaotic-aur vkcube-git r145.8261e90-1.1
 chaotic-aur vkd3d-proton-mingw-git 2.7.r5.g6e463620-1
 chaotic-aur vkd3d-proton-tkg-git 1.1.r2972.g6e463620-1
 chaotic-aur vkd3d-tkg-git 1.5.r81.g3857ca06-1
-chaotic-aur vlang-git 0.3.2.r83.g46921480fc-1
+chaotic-aur vlang-git 0.3.2.r86.g26d643fc5d-1
 chaotic-aur vlc-git 4.0.0.r20918.g02c95ad381-1.1
 chaotic-aur vlc-git-debug 4.0.0.r20918.g02c95ad381-1.1
 chaotic-aur vlc-luajit 3.0.17.4-12
@@ -21617,7 +21618,7 @@ archlinuxcn emacs-llvm-mode-git 441285.1984f01acf5d-1
 archlinuxcn emacs-markdown-mode-git 2.5.r36.gc338cdf-1
 archlinuxcn emacs-native-comp-git 29.0.50.161860-1
 archlinuxcn emacs-native-comp-pgtk-git 29.0.50.161860-1
-archlinuxcn emacs-org-mode-git 1:9.5.5.r1089.g6c285af9f-1
+archlinuxcn emacs-org-mode-git 1:9.5.5.r1093.gd620c30e6-1
 archlinuxcn emacs-pkgbuild-mode-git 0.14.1.r10.g9bf1432-2
 archlinuxcn emacs-queue 0.2-3
 archlinuxcn emacs-undo-tree 0.8.1-4
@@ -22881,9 +22882,9 @@ archlinuxcn onlyoffice-bin 7.2.1-1
 archlinuxcn onnxruntime 1.13.1-2
 archlinuxcn onnxruntime-cuda 1.13.1-2
 archlinuxcn oomox 1.12.5.3-4
-archlinuxcn openblas-git 0.3.21.1dev.0.359.gaad79ab51-1
-archlinuxcn openblas-git-debug 0.3.21.1dev.0.359.gaad79ab51-1
-archlinuxcn openblas-lapack-git 0.3.21.1dev.0.359.gaad79ab51-1
+archlinuxcn openblas-git 0.3.21.1dev.0.366.g9a31faf42-1
+archlinuxcn openblas-git-debug 0.3.21.1dev.0.366.g9a31faf42-1
+archlinuxcn openblas-lapack-git 0.3.21.1dev.0.366.g9a31faf42-1
 archlinuxcn opencl-mesa-git 1:23.0.0_devel.162640.0b82281e3e3b-1
 archlinuxcn opencl-nvidia-beta 510.60.02-1
 archlinuxcn opendrop 0.13.0-4
@@ -25025,7 +25026,7 @@ endeavouros endeavouros-theming 22.09.3.2-1
 endeavouros endeavouros-xfce4-terminal-colors 4-2
 endeavouros eos-apps-info 1.3-1
 endeavouros eos-bash-shared 1.35-1
-endeavouros eos-downgrade 0.3-1
+endeavouros eos-downgrade 0.4-1
 endeavouros eos-hooks 1.8-1
 endeavouros eos-lightdm-gtk-theme 2.2-1
 endeavouros eos-lightdm-slick-theme 3.1-1
@@ -25036,7 +25037,7 @@ endeavouros eos-plasma-sddm-config 22.03.1.2-1
 endeavouros eos-qogir-icons 4-2
 endeavouros eos-quickstart 1.3-5
 endeavouros eos-rankmirrors 2.10-1
-endeavouros eos-sddm-theme 2.0-2
+endeavouros eos-sddm-theme 2.4-1
 endeavouros eos-settings-budgie 1.0-1
 endeavouros eos-settings-cinnamon 1.0-1
 endeavouros eos-settings-gnome 1.3-1
