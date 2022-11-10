@@ -29,7 +29,7 @@ cat /etc/pacman.d/arch4edu-mirrorlist
 
 # https://gitlab.com/endeavouros-filemirror/PKGBUILDS/-/blob/master/endeavouros-mirrorlist/endeavouros-mirrorlist
 curl https://gitlab.com/endeavouros-filemirror/PKGBUILDS/-/raw/master/endeavouros-mirrorlist/endeavouros-mirrorlist > /etc/pacman.d/endeavouros-mirrorlist
-curl https://raw.githubusercontent.com/arcolinux/arcolinuxl-iso/master/archiso/airootfs/etc/pacman.d/mirrorlist > /etc/pacman.d/arcolinux-mirrorlist
+curl https://raw.githubusercontent.com/arcolinux/arcolinux-mirrorlist/master/etc/pacman.d/arcolinux-mirrorlist > /etc/pacman.d/arcolinux-mirrorlist
 
 
 pacman-key --init
