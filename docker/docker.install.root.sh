@@ -129,3 +129,6 @@ chmod +x *.sh
 git init 
 git add .
 git commit -a -m "add"
+
+# clean
+rm -rf /var/cache/pacman/pkg/
