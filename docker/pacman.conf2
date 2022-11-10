@@ -73,15 +73,18 @@ LocalFileSigLevel = Optional
 #Include = /etc/pacman.d/mirrorlist
 
 [core]
+SigLevel = Never
 Include = /etc/pacman.d/mirrorlist
 
 [extra]
+SigLevel = Never
 Include = /etc/pacman.d/mirrorlist
 
 #[community-testing]
 #Include = /etc/pacman.d/mirrorlist
 
 [community]
+SigLevel = Never
 Include = /etc/pacman.d/mirrorlist
 
 
@@ -92,24 +95,35 @@ Include = /etc/pacman.d/mirrorlist
 #Include = /etc/pacman.d/mirrorlist
 
 [multilib]
+SigLevel = Never
 Include = /etc/pacman.d/mirrorlist
 
+[archcraft]
+SigLevel = Never
+Server = https://packages.archcraft.io/$arch
+
 [chaotic-aur]
+SigLevel = Never
 Include = /etc/pacman.d/chaotic-mirrorlist 
 
 [blackarch]
+SigLevel = Never
 Include = /etc/pacman.d/blackarch-mirrorlist
 
 [archlinuxcn]
+SigLevel = Never
 Include = /etc/pacman.d/archlinuxcn-mirrorlist
 
 [arch4edu]
+SigLevel = Never
 Include = /etc/pacman.d/arch4edu-mirrorlist
 
 # https://github.com/endeavouros-team/mirrors
 [endeavouros]
-SigLevel = PackageRequired
+SigLevel = Never
 Include = /etc/pacman.d/endeavouros-mirrorlist
+
+
 
 # An example of a custom package repository.  See the pacman manpage for
 # tips on creating your own repositories.
