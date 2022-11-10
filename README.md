@@ -4,45 +4,14 @@
 
 ### 1. what
 
-* archlinux latest docker 
-* add multilib
-* add chaotic-aur
-* add archlinuxcn
-* add arch4edu
-* add endeavouros
-* add a normal builder user(sudo nopasswd): runner
-* install some packages:
-
-```
-git 
-sudo 
-python3 
-base-devel 
-cmake 
-ninja 
-qt5-base 
-archiso 
-arch-install-scripts 
-pyalpm 
-procps 
-zsh 
-wget 
-git 
-make 
-sudo    
-squashfs-tools 
-libisoburn 
-dosfstools 
-openssh 
-rsync
-expect
-minio-client
-```
+archlinux-based docker: 
+* more repos
+* some packages 
+* update everyday
 
 ## 2 why
 
-* add more repo
-* update everday(by github actions: 0 1 * * *)
+* used for ci
 
 ## 3 how to use
 
