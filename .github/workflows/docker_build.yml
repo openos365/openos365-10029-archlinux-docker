@@ -35,7 +35,7 @@ jobs:
   
       - name: get docker tag
         id: dockertag
-        run: echo "::set-output name=body::$(date) \n Please check release.$GITHUB_RUN_NUMBER.packages.list.all.txt and release.$GITHUB_RUN_NUMBER.packages.list.installed.txt \n docker pull ghcr.io/archlinux365/9318-archlinux-docker/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER \n"
+        run: echo "::set-output name=body::* $(date) * Please check release.$GITHUB_RUN_NUMBER.packages.list.all.txt and release.$GITHUB_RUN_NUMBER.packages.list.installed.txt * docker pull ghcr.io/archlinux365/9318-archlinux-docker/$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER "
       - name: Create release
         uses: softprops/action-gh-release@v1
         env:
