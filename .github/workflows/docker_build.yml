@@ -33,7 +33,7 @@ jobs:
           registry: registry.cn-hangzhou.aliyuncs.com
           username: ${{ secrets.MY_ALI_USER }}
           password: ${{ secrets.MY_ALI_PASSWORD }}
-      - name: Login to Aliyun Packages
+      - name: Login to tx Packages
         uses: docker/login-action@v2
         with:
           registry: hkccr.ccs.tencentyun.com
