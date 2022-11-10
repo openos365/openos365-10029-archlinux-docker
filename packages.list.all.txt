@@ -35,7 +35,7 @@ core dialog 1:1.3_20220728-1
 core diffutils 3.8-1 [installed]
 core ding-libs 0.6.2-1
 core dmraid 1.0.0.rc16.3-14 [installed]
-core dnssec-anchors 20190629-3 [installed]
+core dnssec-anchors 20190629-3
 core dosfstools 4.2-2 [installed]
 core e2fsprogs 1.46.5-4 [installed]
 core ed 1.18-1
@@ -70,7 +70,7 @@ core gpgme 1.18.0-1 [installed]
 core gpm 1.20.7.r38.ge82d1a6-4 [installed]
 core grep 3.8-2 [installed]
 core groff 1.22.4-7 [installed]
-core grub 2:2.06.r334.g340377470-1 [installed]
+core grub 2:2.06.r334.g340377470-1
 core gssproxy 0.9.1-2
 core guile 2.2.7-3 [installed]
 core gzip 1.12-1 [installed]
@@ -91,7 +91,7 @@ core kbd 2.5.1-1 [installed]
 core keyutils 1.6.3-1 [installed]
 core kmod 30-3 [installed]
 core krb5 1.20-3 [installed]
-core ldns 1.8.3-2 [installed]
+core ldns 1.8.3-2
 core lemon 3.39.4-1
 core less 1:608-1 [installed]
 core lib32-gcc-libs 12.2.0-1
@@ -193,7 +193,7 @@ core nspr 4.35-1 [installed]
 core nss 3.84-1 [installed]
 core openldap 2.6.3-2
 core openresolv 3.12.0-1
-core openssh 9.1p1-3 [installed]
+core openssh 9.1p1-3
 core openssl 3.0.7-2 [installed]
 core openssl-1.0 1.0.2.u-1
 core openssl-1.1 1.1.1.s-2
@@ -309,11 +309,11 @@ extra appstream-glib 0.8.2-1
 extra appstream-qt 0.15.5-1
 extra apr 1.7.0-3
 extra apr-util 1.6.1-10
-extra arch-install-scripts 27-1 [installed]
+extra arch-install-scripts 27-1
 extra arch-rebuild-order 0.3.1-1
 extra arch-signoff 0.5.2-2
 extra archinstall 2.5.2-1
-extra archiso 68-1 [installed]
+extra archiso 68-1
 extra archivetools 3-3
 extra archlinux-appstream-data 20221014-1
 extra archlinux-themes-slim 1.2-6
@@ -547,7 +547,7 @@ extra eog 43.1-1
 extra eog-docs 43.1-1
 extra eog-plugins 42.2-1
 extra epiphany 43.0-1
-extra erofs-utils 1.5-2 [installed]
+extra erofs-utils 1.5-2
 extra ethtool 1:6.0-1
 extra eventviews 22.08.3-1
 extra evince 43.1-1
@@ -560,7 +560,7 @@ extra evolution-spamassassin 3.46.1-1
 extra exempi 2.6.2-1
 extra exiv2 0.27.5-3
 extra exo 4.16.4-1
-extra expect 5.45.4-4 [installed]
+extra expect 5.45.4-4
 extra extra-cmake-modules 5.99.0-1 [installed]
 extra f2fs-tools 1.15.0-2
 extra faac 1.30-3
@@ -754,7 +754,7 @@ extra ghostxps 10.0.0-2
 extra gi-docgen 2022.2-1
 extra giflib 5.2.1-2 [installed]
 extra gimp 2.10.32-2
-extra git 2.38.1-2 [installed]
+extra git 2.38.1-2
 extra gitg 2:41-1
 extra gjs 2:1.74.1-1
 extra gl2ps 1.4.2-2
@@ -1358,7 +1358,7 @@ extra libblockdev 2.28-1 [installed]
 extra libbluray 1.3.3-1 [installed]
 extra libbs2b 3.1.0-8 [installed]
 extra libbsd 0.11.7-1
-extra libburn 1.5.4-1 [installed]
+extra libburn 1.5.4-1
 extra libbytesize 2.7-1 [installed]
 extra libcaca 0.99.beta20-1
 extra libcacard 2.7.0-2
@@ -1467,8 +1467,8 @@ extra libinput 1.21.0-1 [installed]
 extra libinstpatch 1.1.6-1
 extra libirman 0.5.2-3
 extra libiscsi 1.19.0-2
-extra libisoburn 1.5.4-2 [installed]
-extra libisofs 1.5.4-1 [installed]
+extra libisoburn 1.5.4-2
+extra libisofs 1.5.4-1
 extra libixion 0.17.0-3
 extra libjpeg-turbo 2.1.4-2 [installed]
 extra libkate 0.4.1-8
@@ -2077,7 +2077,7 @@ extra mplayer 38359-1
 extra msmtp 1.8.22-2
 extra msmtp-mta 1.8.22-2
 extra mtdev 1.1.6-2 [installed]
-extra mtools 1:4.0.42-1 [installed]
+extra mtools 1:4.0.42-1
 extra mtr 0.95-3
 extra mtr-gtk 0.95-3
 extra muparser 2.3.3-1
@@ -2252,7 +2252,7 @@ extra perl-digest-nilsimsa 0.06-22
 extra perl-digest-sha1 2.13-17
 extra perl-email-date-format 1.006-1
 extra perl-encode-locale 1.05-9 [installed]
-extra perl-error 0.17029-4 [installed]
+extra perl-error 0.17029-4
 extra perl-ev 4.33-4
 extra perl-event-execflow 0.64-7
 extra perl-exporter-tiny 1.004004-2
@@ -2300,7 +2300,7 @@ extra perl-lwp-protocol-https 6.10-4
 extra perl-mail-authenticationresults 2.20210915-2
 extra perl-mail-dkim 1.20220520-1
 extra perl-mail-spf 2.9.0-9
-extra perl-mailtools 2.21-6 [installed]
+extra perl-mailtools 2.21-6
 extra perl-math-round 0.07-4
 extra perl-mime-charset 1.013.1-1
 extra perl-mime-lite 3.033-2
@@ -2492,7 +2492,7 @@ extra pulseaudio-zeroconf 16.1-3
 extra purple-plugin-pack 2.8.0-1
 extra purpose 5.99.0-1
 extra putty 0.78-1
-extra pyalpm 0.10.6-4 [installed]
+extra pyalpm 0.10.6-4
 extra pyqt-builder 1.14.0-1
 extra pyside2 5.15.7-1
 extra pyside2-tools 5.15.7-1
@@ -2915,7 +2915,7 @@ extra taglib 1.13-1
 extra tali 40.8-1
 extra talloc 2.3.4-1
 extra tbb 2021.5.0-2
-extra tcl 8.6.12-3 [installed]
+extra tcl 8.6.12-3
 extra tcpdump 4.99.1-2
 extra tdb 1.4.7-1 [installed]
 extra telepathy-accounts-signon 2.1-2
@@ -3121,7 +3121,7 @@ extra webkit2gtk-5.0 2.38.2-1
 extra webkit2gtk-5.0-docs 2.38.2-1
 extra webkit2gtk-docs 2.38.2-1
 extra webrtc-audio-processing 0.3.1-3
-extra wget 1.21.3-1 [installed]
+extra wget 1.21.3-1
 extra whois 5.5.14-1
 extra wildmidi 0.4.4-1
 extra wipe 2.3.1-5
@@ -3332,7 +3332,7 @@ extra zimg 3.0.4-1 [installed]
 extra zip 3.0-10
 extra zita-alsa-pcmi 0.5.1-1
 extra zita-resampler 1.8.0-1
-extra zsh 5.9-1 [installed]
+extra zsh 5.9-1
 extra zsh-doc 5.9-1
 extra zvbi 0.2.37-1
 extra zxing-cpp 1.4.0-1
@@ -7787,7 +7787,7 @@ community minieap 0.93-1
 community miniflux 2.0.39-1
 community minikube 1.27.1-1
 community minio 2022.10.24-1
-community minio-client 2022.10.22-1 [installed]
+community minio-client 2022.10.22-1
 community minisat 2.2.1.20201216-1
 community miniserve 0.22.0-1
 community minisign 0.10-1
@@ -8015,7 +8015,7 @@ community nicotine+ 3.2.6-1
 community nikola 8.2.3-1
 community nikto 2.1.6-3
 community nim 1.6.6-2
-community ninja 1.11.1-1 [installed]
+community ninja 1.11.1-1
 community ninjas2 0.2.0-2
 community nitrocli 0.4.1-2
 community nitroshare 0.3.4-4
@@ -8296,7 +8296,7 @@ community packer 1.8.4-1
 community packeth 2.1-2
 community pacman-bintrans 0.3.0-2
 community pacman-bintrans-tools 0.3.0-2
-community pacman-contrib 1.8.0-1 [installed]
+community pacman-contrib 1.8.0-1
 community pacmanlogviewer 1.4.3-2
 community pacmatic 20150126-3
 community pacoloco 1.2-2
@@ -13460,7 +13460,7 @@ archcraft calamares-config-xfce 1.0-1
 archcraft cava 0.8.2-5
 archcraft ckbcomp 1.210-1 [installed]
 archcraft downgrade 11.2.1-1
-archcraft grub 2.06.r261.g2f4430cc0-2 [installed: 2:2.06.r334.g340377470-1]
+archcraft grub 2.06.r261.g2f4430cc0-2
 archcraft i3lock-color 2.13.c.4-1
 archcraft ksuperkey 0.4-2
 archcraft mkinitcpio-firmware 1.3.0-2
@@ -13488,7 +13488,7 @@ archcraft wf-config 0.7.1-3
 archcraft wlogout 1.1.1-3
 archcraft wlr-randr 0.2.0-2
 archcraft xfce-polkit 0.3-1
-archcraft yay 11.3.0-1 [installed]
+archcraft yay 11.3.0-1
 chaotic-aur 1password 8.9.8-9.1
 chaotic-aur 7-zip 22.01-2
 chaotic-aur 7-zip-full 22.01-3
@@ -16515,7 +16515,7 @@ chaotic-aur yaru-sound-theme 22.10.2-1
 chaotic-aur yaru-unity-theme 22.10.2-1
 chaotic-aur yaru-xfwm4-theme 22.10.2-1
 chaotic-aur yaup-git 0.1.r4.g7ee3fdb-1.2
-chaotic-aur yay 11.3.0-1.1 [installed: 11.3.0-1]
+chaotic-aur yay 11.3.0-1.1
 chaotic-aur yay-git 11.3.0.r14.ga88fad6-1.1
 chaotic-aur yosys-git 0.23+3.r11918.553eb6ac1-1
 chaotic-aur youplay 0.38-1.1
@@ -21289,7 +21289,7 @@ blackarch yasca 2.1-3
 blackarch yasuo 121.994dcb1-8
 blackarch yate-bts 6.1.0-1
 blackarch yawast 1072.5e9e7a3-6
-blackarch yay 11.2.0-1 [installed: 11.3.0-1]
+blackarch yay 11.2.0-1
 blackarch ycrawler 0.1-6
 blackarch yersinia 0.8.2-1
 blackarch yeti 2474.9e8b76cd-1
@@ -21373,7 +21373,7 @@ archlinuxcn arch-hs-git 0.10.2.r22.gcf47a98-7
 archlinuxcn archey-git r146.b74e40br146.b74e40b-3
 archlinuxcn archlinux-artwork 1.6-6
 archlinuxcn archlinux-java-run 9-1
-archlinuxcn archlinuxcn-keyring 20220716-1 [installed]
+archlinuxcn archlinuxcn-keyring 20220716-1
 archlinuxcn archlinuxcn-mirrorlist-git 20221017-1
 archlinuxcn archrepo2-git 2:0.5.r18.gc003123-3
 archlinuxcn aria2-fast 1.36.0-3
@@ -23741,7 +23741,7 @@ archlinuxcn xwinwrap-git r5.ec32e9b-2
 archlinuxcn yacd 0.3.7-1
 archlinuxcn yandex-browser-beta 22.9.1.1110_1-3
 archlinuxcn yaourt 1.9-1
-archlinuxcn yay 11.3.0-1 [installed]
+archlinuxcn yay 11.3.0-1
 archlinuxcn yay-git 11.3.0.r14.ga88fad6-1
 archlinuxcn ydcv-rs-git 0.4.7.157-1
 archlinuxcn ydotool-git 1.0.1.r2.g1d5d227-3
@@ -24999,7 +24999,7 @@ arch4edu xerces2-java 2.12.1-1
 arch4edu xflr5 6.57.r1431-1
 arch4edu xtensor 0.24.0-2
 arch4edu xtl 0.7.4-1
-arch4edu yay 11.3.0-1 [installed]
+arch4edu yay 11.3.0-1
 arch4edu ycm-generator-git r125.7c0f570-1
 arch4edu zoom 5.12.6-1
 arch4edu zotero 6.0.15-1
@@ -25070,7 +25070,7 @@ endeavouros welcome 3.41-2
 endeavouros wgetpaste-eos 2.32-1
 endeavouros worm 0.3.1-1
 endeavouros yad-eos 12.0-1.4
-endeavouros yay 11.3.0-1 [installed]
+endeavouros yay 11.3.0-1
 endeavouros zfs-dkms 2.1.6-1
 endeavouros zfs-utils 2.1.6-2
 garuda alsa-support 1-1
@@ -25162,7 +25162,7 @@ garuda garuda-welcome-git r141.4ec237c-1
 garuda garuda-xfce-kwin-settings 1.0.3-2
 garuda garuda-xfce-settings 1.0.3-1
 garuda garuda-zsh-config 1.1.6-1
-garuda grub 2:2.06.r261.g2f4430cc0-1 [installed: 2:2.06.r334.g340377470-1]
+garuda grub 2:2.06.r261.g2f4430cc0-1
 garuda grub-garuda 2.06-1
 garuda grub-theme-garuda r18.75c8339-1
 garuda grub-theme-garuda-dr460nized r2.49d1e5e-1
@@ -26060,7 +26060,7 @@ arcolinux_repo_3party xmobar-dynamic 0.44.2-1
 arcolinux_repo_3party xmonad-log 0.1.0-3
 arcolinux_repo_3party xsnow-bin 3.5.2-1
 arcolinux_repo_3party xtitle-git 47-1
-arcolinux_repo_3party yay 11.3.0-1 [installed]
+arcolinux_repo_3party yay 11.3.0-1
 arcolinux_repo_3party yay-bin 11.3.0-1
 arcolinux_repo_3party yay-git 11.3.0.r9.g0d1e339-1
 arcolinux_repo_3party yin-yang-git 1.0.beta.r214.ge15663f-1
