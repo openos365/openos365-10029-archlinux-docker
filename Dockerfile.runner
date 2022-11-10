@@ -1,17 +1,22 @@
 FROM docker.io/library/archlinux:latest
 
 # 1
-USER root
 ENV TERM=xterm-256color
-COPY docker/ /opt
+COPY files/ /opt/9318/
+
 # 2
+USER root
 WORKDIR /root
 ENV USER=root
 ENV HOME=/root
-RUN /opt/docker.install.root.sh
+RUN /opt/9318/docker.install.root.sh
+
 # 3
 USER runner
 WORKDIR /home/runner
 ENV USER=runner
 ENV HOME=/home/runner
-RUN /opt/docker.install.runner.sh
+RUN /opt/9318/docker.install.runner.sh
+
+# 4 
+RUN sudo rm -rf /opt/9318/
