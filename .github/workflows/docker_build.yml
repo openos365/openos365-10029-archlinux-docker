@@ -31,7 +31,7 @@ jobs:
         run: ./6.ci.sh
       - name: Get build_no
         id: build_no
-        run: echo "::set-output name=build_no::$GITHUB_REF_NAME-$GITHUB_RUN_NUMBER"
+        run: echo "::set-output name=build_no::v1.$GITHUB_RUN_NUMBER"
   
       - name: get docker tag
         id: dockertag
