@@ -70,7 +70,7 @@ core gpgme 1.18.0-1 [installed]
 core gpm 1.20.7.r38.ge82d1a6-4 [installed]
 core grep 3.8-2 [installed]
 core groff 1.22.4-7 [installed]
-core grub 2:2.06.r334.g340377470-1 [installed]
+core grub 2:2.06.r334.g340377470-1
 core gssproxy 0.9.1-2
 core guile 2.2.7-3 [installed]
 core gzip 1.12-1 [installed]
@@ -313,7 +313,7 @@ extra arch-install-scripts 27-1 [installed]
 extra arch-rebuild-order 0.3.1-1
 extra arch-signoff 0.5.2-2
 extra archinstall 2.5.2-1
-extra archiso 68-1 [installed]
+extra archiso 68-1
 extra archivetools 3-3
 extra archlinux-appstream-data 20221014-1
 extra archlinux-themes-slim 1.2-6
@@ -547,7 +547,7 @@ extra eog 43.1-1
 extra eog-docs 43.1-1
 extra eog-plugins 42.2-1
 extra epiphany 43.0-1
-extra erofs-utils 1.5-2 [installed]
+extra erofs-utils 1.5-2
 extra ethtool 1:6.0-1
 extra eventviews 22.08.3-1
 extra evince 43.1-1
@@ -2076,7 +2076,7 @@ extra mplayer 38359-1
 extra msmtp 1.8.22-2
 extra msmtp-mta 1.8.22-2
 extra mtdev 1.1.6-2 [installed]
-extra mtools 1:4.0.42-1 [installed]
+extra mtools 1:4.0.42-1
 extra mtr 0.95-3
 extra mtr-gtk 0.95-3
 extra muparser 2.3.3-1
@@ -13460,7 +13460,7 @@ archcraft calamares-config-xfce 1.0-1
 archcraft cava 0.8.2-5
 archcraft ckbcomp 1.210-1 [installed]
 archcraft downgrade 11.2.1-1
-archcraft grub 2.06.r261.g2f4430cc0-2 [installed: 2:2.06.r334.g340377470-1]
+archcraft grub 2.06.r261.g2f4430cc0-2
 archcraft i3lock-color 2.13.c.4-1
 archcraft ksuperkey 0.4-2
 archcraft mkinitcpio-firmware 1.3.0-2
@@ -15791,7 +15791,7 @@ chaotic-aur pyzbar 0.1.9-1.1
 chaotic-aur q-dns-git 0.8.4.r0.g9c035b4-1
 chaotic-aur qbe-git r1290.8ecae92-1
 chaotic-aur qbittorrent-enhanced 4.4.5.10-1.1
-chaotic-aur qbittorrent-enhanced-git 4.4.5.10.r3.g26addb643-1.1
+chaotic-aur qbittorrent-enhanced-git 4.4.5.10.r4.ga910c8360-1
 chaotic-aur qbittorrent-enhanced-qt5 4.4.5.10-1.1
 chaotic-aur qbittorrent-git 1:4.5.0beta1.r105.gf9eefe866-1
 chaotic-aur qbittorrent-nox-git 1:4.5.0beta1.r105.gf9eefe866-1
@@ -16432,8 +16432,8 @@ chaotic-aur wld-git r171.6586736-1
 chaotic-aur wlogout 1.1.1-3.1
 chaotic-aur wlrobs-hg r62.39cfab32d49a-1.1
 chaotic-aur wlroots-eglstreams-git 0.16.0.r5636.6ea54173-1.1
-chaotic-aur wlroots-git 0.16.0.r5843.ea40ba4f6-1
-chaotic-aur wlroots-git-debug 0.16.0.r5843.ea40ba4f6-1
+chaotic-aur wlroots-git 0.16.0.r5844.a707b7b10-1
+chaotic-aur wlroots-git-debug 0.16.0.r5844.a707b7b10-1
 chaotic-aur wlsunset 0.2.0-2
 chaotic-aur wluma 4.1.2-1.1
 chaotic-aur wob 0.13-2
@@ -23393,7 +23393,7 @@ archlinuxcn rslsync 2.7.3-1
 archlinuxcn rssdrop 26.4614df7-1
 archlinuxcn rsshub-git r8313.92e675464-1
 archlinuxcn rstudio-desktop-bin 2022.07.2.576-1
-archlinuxcn rstudio-desktop-git 39840.dc4d4161ef-1
+archlinuxcn rstudio-desktop-git 39849.f8461c63eb-1
 archlinuxcn rtl8821cu-dkms-git 1:5.4.1.145.8c2226a-1
 archlinuxcn rua 0.19.2-1
 archlinuxcn ruby-activesupport-5 5.2.7-1
@@ -25175,10 +25175,10 @@ garuda garuda-starship-prompt 1.0.3-1
 garuda garuda-sway-settings 1.1.9-1
 garuda garuda-system-maintenance 1.6.1-1
 garuda garuda-system-maintenance-git r27.d8fc735-1
-garuda garuda-tools-base-git r180.7619fec-1
-garuda garuda-tools-iso-git r180.7619fec-1
-garuda garuda-tools-pkg-git r180.7619fec-1
-garuda garuda-tools-yaml-git r180.7619fec-1
+garuda garuda-tools-base-git r174.1555373-1
+garuda garuda-tools-iso-git r174.1555373-1
+garuda garuda-tools-pkg-git r174.1555373-1
+garuda garuda-tools-yaml-git r174.1555373-1
 garuda garuda-update 3.0.7-1
 garuda garuda-video-linux-config 1:r62.889aefa-8
 garuda garuda-virtualmachine-guest-config 1:r62.889aefa-8
@@ -25193,7 +25193,7 @@ garuda garuda-welcome-git r141.4ec237c-1
 garuda garuda-xfce-kwin-settings 1.0.3-2
 garuda garuda-xfce-settings 1.0.3-1
 garuda garuda-zsh-config 1.1.6-1
-garuda grub 2:2.06.r261.g2f4430cc0-1 [installed: 2:2.06.r334.g340377470-1]
+garuda grub 2:2.06.r261.g2f4430cc0-1
 garuda grub-garuda 2.06-1
 garuda grub-theme-garuda r18.75c8339-1
 garuda grub-theme-garuda-dr460nized r2.49d1e5e-1
