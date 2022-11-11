@@ -161,9 +161,9 @@ core linux-firmware-qcom 20221109.60310c2-1
 core linux-firmware-qlogic 20221109.60310c2-1
 core linux-firmware-whence 20221109.60310c2-1
 core linux-headers 6.0.8.arch1-1
-core linux-lts 5.15.77-1
-core linux-lts-docs 5.15.77-1
-core linux-lts-headers 5.15.77-1
+core linux-lts 5.15.78-1
+core linux-lts-docs 5.15.78-1
+core linux-lts-headers 5.15.78-1
 core logrotate 3.20.1-1
 core lto-dump 12.2.0-1
 core lvm2 2.03.17-1 [installed]
@@ -368,13 +368,13 @@ extra black-hole-solver 1.12.0-1
 extra blas 3.10.1-1
 extra blinken 22.08.3-1
 extra bluedevil 1:5.26.3-1
-extra bluez 5.65-3
-extra bluez-cups 5.65-3
-extra bluez-hid2hci 5.65-3
-extra bluez-libs 5.65-3 [installed]
-extra bluez-plugins 5.65-3
+extra bluez 5.66-1
+extra bluez-cups 5.66-1
+extra bluez-hid2hci 5.66-1
+extra bluez-libs 5.66-1 [installed]
+extra bluez-plugins 5.66-1
 extra bluez-qt 5.99.0-1
-extra bluez-utils 5.65-3
+extra bluez-utils 5.66-1
 extra bogofilter 1.2.5-4
 extra bomber 22.08.3-1
 extra boost 1.80.0-3 [installed]
@@ -1903,7 +1903,7 @@ extra libwpd 0.10.3-3
 extra libwpe 1.14.0-1
 extra libwpg 0.3.3-3
 extra libwps 0.4.12-1
-extra libx11 1.8.1-3 [installed]
+extra libx11 1.8.2-1 [installed]
 extra libxau 1.0.10-1 [installed]
 extra libxaw 1.0.14-1
 extra libxcb 1.15-1 [installed]
@@ -2130,7 +2130,7 @@ extra numactl 2.0.16-1
 extra nuspell 5.1.2-2
 extra nvidia 520.56.06-10
 extra nvidia-dkms 520.56.06-2
-extra nvidia-lts 1:520.56.06-7
+extra nvidia-lts 1:520.56.06-8
 extra nvidia-open 520.56.06-9
 extra nvidia-open-dkms 520.56.06-9
 extra nvidia-prime 1.0-4
@@ -3363,7 +3363,7 @@ community acorn 1:8.8.1-1
 community acpi 1.7-3
 community acpi_call 1.2.2-86
 community acpi_call-dkms 1.2.2-1
-community acpi_call-lts 1.2.2-84
+community acpi_call-lts 1.2.2-85
 community acpica 20220331-1
 community acpid 2.0.34-1
 community acpilight 1.2-2
@@ -11031,7 +11031,7 @@ community r 4.2.2-1
 community r10k 3.15.0-1
 community r2ghidra 5.6.2.r1.ga4ba1ddc-1
 community r8168 8.050.03-40
-community r8168-lts 8.050.03-35
+community r8168-lts 8.050.03-36
 community rabbitmq 3.10.7-1
 community rabbitmqadmin 3.10.7-1
 community racket 8.6-1
@@ -12375,7 +12375,7 @@ community towncrier 22.8.0-1
 community toxcore 1:0.2.13-1
 community toxic 0.11.3-2
 community tp_smapi 0.43-439
-community tp_smapi-lts 0.43-280
+community tp_smapi-lts 0.43-281
 community tpacpi-bat 3.1-3
 community tpm2-abrmd 2.4.1-1
 community tpm2-openssl 1.1.1-1
