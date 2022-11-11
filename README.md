@@ -11,8 +11,8 @@
 ### 1 what
 
 archlinux-based docker: 
-* more repos in pacman.conf, ()[]
-* some packages 
+* add more repos in pacman.conf
+* install some packages 
 * update everyday
 
 ## 2 why
