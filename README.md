@@ -21,11 +21,11 @@ archlinux-based docker:
 #### root user
 
 ```
-docker pull ghcr.io/archlinux365/9318-archlinux-docker/root:latest
+docker pull ghcr.io/archlinux365/9318-archlinux-docker-root:latest
 ```
-#### a normal user: runner 
+#### a normal user(sudo without password): runner 
 
 ```
-docker pull ghcr.io/archlinux365/9318-archlinux-docker/runner:latest
+docker pull ghcr.io/archlinux365/9318-archlinux-docker-runner:latest
 ```
 
