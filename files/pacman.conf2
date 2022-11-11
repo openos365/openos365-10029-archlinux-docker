@@ -166,6 +166,14 @@ Server = https://repos.xerolinux.xyz/$repo/$arch
 SigLevel = Never
 Include = /etc/pacman.d/alterlinux-mirrorlist
 
+[Redecorating-t2]
+Server = https://github.com/Redecorating/archlinux-t2-packages/releases/download/packages
+SigLevel = Never
+
+[arch-mact2]
+Server = https://mirror.funami.tech/arch-mact2/os/x86_64
+SigLevel = Never
+
 # An example of a custom package repository.  See the pacman manpage for
 # tips on creating your own repositories.
 #[custom]
