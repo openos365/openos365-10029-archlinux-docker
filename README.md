@@ -2,12 +2,16 @@
 
 [![docker build](https://github.com/archlinux365/9318-archlinux-docker/actions/workflows/docker_build.yml/badge.svg)](https://github.com/archlinux365/9318-archlinux-docker/actions/workflows/docker_build.yml)
 
-Contact: https://t.me/archlinux365
+## Support Contact:
+
+ https://t.me/archlinux365
+ 
+ <img src=https://user-images.githubusercontent.com/1329093/200988975-33a27396-74fa-44ed-9c16-e028e529d729.png width=20% />
 
 ### 1 what
 
 archlinux-based docker: 
-* more repos
+* more repos in pacman.conf, ()[]
 * some packages 
 * update everyday
 
