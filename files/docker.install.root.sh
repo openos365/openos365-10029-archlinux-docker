@@ -92,6 +92,7 @@ pacman -Syyu --noconfirm pacman-contrib
 pacman -Syyu --noconfirm --needed cmake extra-cmake-modules kpmcore boost python-jsonschema python-pyaml python-unidecode qt5-svg qt5-webengine yaml-cpp networkmanager upower kconfig kservice squashfs-tools rsync qt5-xmlpatterns doxygen dmidecode gptfdisk hwinfo kparts solid qt5-tools libpwquality ckbcomp qt5-quickcontrols2
 
 yay -S --noconfirm lure-bin
+yay -S --noconfirm aliyunpan-cli
 
 export HOME=/root
 export USER=root
