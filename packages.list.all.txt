@@ -22,7 +22,7 @@ core coreutils 9.1-3 [installed]
 core cracklib 2.9.8-1 [installed]
 core cronie 1.6.1-1
 core cryptsetup 2.5.0-4 [installed]
-core curl 7.86.0-3 [installed]
+core curl 7.86.0-4 [installed]
 core dash 0.5.11.5-1
 core db 5.3.28-5 [installed]
 core dbus 1.14.4-1 [installed]
@@ -102,8 +102,8 @@ core libassuan 2.5.5-1 [installed]
 core libbpf 1.0.1-1 [installed]
 core libcap 2.66-1 [installed]
 core libcap-ng 0.8.3-1 [installed]
-core libcurl-compat 7.86.0-3
-core libcurl-gnutls 7.86.0-3
+core libcurl-compat 7.86.0-4
+core libcurl-gnutls 7.86.0-4
 core libedit 20210910_3.1-1 [installed]
 core libelf 0.187-2 [installed]
 core libevent 2.1.12-4 [installed]
@@ -256,7 +256,7 @@ core which 2.21-5 [installed]
 core wireless-regdb 2022.08.12-1
 core wpa_supplicant 2:2.10-7 [installed]
 core xfsprogs 5.19.0-2 [installed]
-core xz 5.2.7-1 [installed]
+core xz 5.2.8-1 [installed]
 core zlib 1:1.2.13-1 [installed]
 core zstd 1.5.2-7 [installed]
 extra 389-ds-base 2.3.0-3
@@ -352,7 +352,7 @@ extra avogadro-crystals 1.0.1-1
 extra avogadro-molecules 1.0.0-1
 extra avogadrolibs 1.97.0-1
 extra avogadrolibs-qt5 1.97.0-1
-extra babl 0.1.96-1
+extra babl 0.1.98-1
 extra baloo 5.99.0-1
 extra baloo-widgets 22.08.3-1
 extra baobab 43.0-1
@@ -737,7 +737,7 @@ extra gdm 43.0-1
 extra gedit 42.2-2
 extra gedit-plugins 42.1-1
 extra geeqie 2.0.1-2
-extra gegl 0.4.38-2
+extra gegl 0.4.40-1
 extra genxrdpattern 1.1-2
 extra geoclue 2.6.0-3
 extra geocode-glib 3.26.4-2
@@ -3862,7 +3862,7 @@ community cbor-tool 0.2.2.0-6
 community ccache 4.7.3-1
 community ccd2iso 0.3-11
 community ccfits 2.6-2
-community ccid 1.5.0-1
+community ccid 1.5.1-1
 community cclive 0.9.3-28
 community ccls 0.20220729-1
 community ccze 0.2.1-12
@@ -9223,7 +9223,7 @@ community python-archinfo 9.2.14-1
 community python-aresponses 2.1.6-1
 community python-argcomplete 2.0.0-1
 community python-argh 0.26.2-10
-community python-argon2-cffi-bindings 21.2.0-2
+community python-argon2-cffi-bindings 21.2.0-3
 community python-argon2_cffi 21.3.0-2
 community python-argparse 1.4.0-12
 community python-argparse-addons 0.8.0-1
@@ -13372,7 +13372,7 @@ multilib lib32-wavpack 5.5.0-2
 multilib lib32-wayland 1.21.0-1
 multilib lib32-xcb-util 0.4.0-2
 multilib lib32-xcb-util-keysyms 0.4.1-1
-multilib lib32-xz 5.2.7-1
+multilib lib32-xz 5.2.8-1
 multilib lib32-zeromq 4.3.4-2
 multilib lib32-zlib 1.2.13-1
 multilib lib32-zstd 1.5.2-1
@@ -24593,7 +24593,7 @@ arch4edu r-jmvcore 2.3.12-1
 arch4edu r-jpeg 0.1.9-1
 arch4edu r-jquerylib 0.1.4-2
 arch4edu r-jsonlite 1.8.3-1
-arch4edu r-kappalab 0.4.8-1
+arch4edu r-kappalab 0.4.7-5
 arch4edu r-kernlab 0.9.31-1
 arch4edu r-kknn 1.3.1-4
 arch4edu r-knitr 1.40-1
@@ -24706,7 +24706,7 @@ arch4edu r-r6 2.5.1-1
 arch4edu r-ragg 1.2.4-1
 arch4edu r-randomforest 4.7.1.1-3
 arch4edu r-rappdirs 0.3.3-2
-arch4edu r-rbibutils 2.2.10-1
+arch4edu r-rbibutils 2.2.9-7
 arch4edu r-rcolorbrewer 1.1.3-1
 arch4edu r-rcpp 1.0.9-1
 arch4edu r-rcpparmadillo 0.11.4.2.1-1
@@ -25104,7 +25104,7 @@ arch4edu sphinxbase 5prealpha-13
 arch4edu sptk 4.0-1
 arch4edu stellarium 1.1.1-2
 arch4edu stepcode 0.8.1-1
-arch4edu sublime-text-dev 4.4141-2
+arch4edu sublime-text-dev 4.4141-1
 arch4edu superlu_dist 8.1.2-1
 arch4edu tango-icon-theme 0.8.90-14
 arch4edu targetcli-fb 2.1.54-1
@@ -25149,7 +25149,7 @@ arch4edu wxwidgets-gtk2-debug 3.2.1-1
 arch4edu xalan-java 2.7.2-3
 arch4edu xerces2-java 2.12.1-1
 arch4edu xflr5 6.57.r1431-1
-arch4edu yay 11.3.1-1 [installed: 11.3.0-1]
+arch4edu yay 11.3.0-1 [installed]
 arch4edu ycm-generator-git r125.7c0f570-1
 arch4edu zoom 5.12.6-1
 arch4edu zotero 6.0.18-1
