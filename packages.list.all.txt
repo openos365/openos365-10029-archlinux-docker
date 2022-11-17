@@ -286,7 +286,7 @@ extra akonadiconsole 22.08.3-1
 extra akregator 22.08.3-1
 extra alacarte 1:3.44.2-1
 extra alertmanager 0.24.0-2
-extra alsa-card-profiles 1:0.3.60-2
+extra alsa-card-profiles 1:0.3.60-3
 extra alsa-firmware 1.2.4-2
 extra alsa-lib 1.2.8-1 [installed]
 extra alsa-oss 1.1.8-4
@@ -878,7 +878,7 @@ extra gst-plugin-gtk 1.20.4-3
 extra gst-plugin-libcamera 0.0.1-3
 extra gst-plugin-msdk 1.20.4-3
 extra gst-plugin-opencv 1.20.4-3
-extra gst-plugin-pipewire 1:0.3.60-2
+extra gst-plugin-pipewire 1:0.3.60-3
 extra gst-plugin-qmlgl 1.20.4-3
 extra gst-plugin-va 1.20.4-3
 extra gst-plugin-wpe 1.20.4-3
@@ -1905,7 +1905,7 @@ extra libwps 0.4.12-2
 extra libx11 1.8.2-2 [installed]
 extra libxau 1.0.10-1 [installed]
 extra libxaw 1.0.14-1
-extra libxcb 1.15-1 [installed]
+extra libxcb 1.15-2 [installed]
 extra libxcomposite 0.4.5-4 [installed]
 extra libxcursor 1.2.1-2 [installed]
 extra libxcvt 0.1.2-1
@@ -2397,17 +2397,17 @@ extra pidgin 2.14.10-1
 extra pim-data-exporter 22.08.3-1
 extra pim-sieve-editor 22.08.3-1
 extra pimcommon 22.08.3-1
-extra pipewire 1:0.3.60-2
-extra pipewire-alsa 1:0.3.60-2
-extra pipewire-audio 1:0.3.60-2
-extra pipewire-docs 1:0.3.60-2
-extra pipewire-jack 1:0.3.60-2
+extra pipewire 1:0.3.60-3
+extra pipewire-alsa 1:0.3.60-3
+extra pipewire-audio 1:0.3.60-3
+extra pipewire-docs 1:0.3.60-3
+extra pipewire-jack 1:0.3.60-3
 extra pipewire-media-session 1:0.4.1-2
 extra pipewire-media-session-docs 1:0.4.1-2
-extra pipewire-pulse 1:0.3.60-2
-extra pipewire-v4l2 1:0.3.60-2
-extra pipewire-x11-bell 1:0.3.60-2
-extra pipewire-zeroconf 1:0.3.60-2
+extra pipewire-pulse 1:0.3.60-3
+extra pipewire-v4l2 1:0.3.60-3
+extra pipewire-x11-bell 1:0.3.60-3
+extra pipewire-zeroconf 1:0.3.60-3
 extra pixman 0.42.2-1 [installed]
 extra pkcs11-helper 1.29.0-2
 extra pkgfile 21-2
@@ -3141,7 +3141,7 @@ extra x265 3.5-3 [installed]
 extra xapian-core 1:1.4.21-1
 extra xaw3d 1.6.4-1
 extra xbitmaps 1.1.2-3
-extra xcb-proto 1.15.2-1 [installed]
+extra xcb-proto 1.15.2-2 [installed]
 extra xcb-util 0.4.0-4 [installed]
 extra xcb-util-cursor 0.1.4-1
 extra xcb-util-image 0.4.1-2 [installed]
@@ -13332,9 +13332,9 @@ multilib lib32-pam 1.5.2-1
 multilib lib32-pango 1:1.50.11-1
 multilib lib32-pcre 8.45-3
 multilib lib32-pcre2 10.40-3
-multilib lib32-pipewire 1:0.3.60-2
-multilib lib32-pipewire-jack 1:0.3.60-2
-multilib lib32-pipewire-v4l2 1:0.3.60-2
+multilib lib32-pipewire 1:0.3.60-3
+multilib lib32-pipewire-jack 1:0.3.60-3
+multilib lib32-pipewire-v4l2 1:0.3.60-3
 multilib lib32-pixman 0.42.2-1
 multilib lib32-popt 1.19-1
 multilib lib32-portaudio 1:19.7.0-1
@@ -15023,8 +15023,8 @@ chaotic-aur linux-drm-next-docs-git 6.1.r1137320.4e291f2f5853-1
 chaotic-aur linux-drm-next-git 6.1.r1137320.4e291f2f5853-1
 chaotic-aur linux-drm-next-headers-git 6.1.r1137320.4e291f2f5853-1
 chaotic-aur linux-drm-tip-docs-git 6.1.r1138675.cb7486469341-1
-chaotic-aur linux-drm-tip-git 6.1.r1138675.cb7486469341-1
-chaotic-aur linux-drm-tip-headers-git 6.1.r1138653.ceb77a7b0d10-1
+chaotic-aur linux-drm-tip-git 6.1.r1138731.3a0ae425269e-1
+chaotic-aur linux-drm-tip-headers-git 6.1.r1138731.3a0ae425269e-1
 chaotic-aur linux-firmware-bnx2x-git 20221109.60310c2-1
 chaotic-aur linux-firmware-git 20221109.60310c2-1
 chaotic-aur linux-firmware-liquidio-git 20221109.60310c2-1
@@ -15344,7 +15344,7 @@ chaotic-aur ntfsprogs-ntfs3 2022.5.17-6.1
 chaotic-aur nuclear-player-bin 1667811824421:2022117_1b7a03d0a06c794cc64af7977cd83002-2
 chaotic-aur numix-circle-icon-theme-git 22.11.05.r0.g852285d-1
 chaotic-aur numix-icon-theme-git 22.08.16.r3.g4a2b9ad15-1
-chaotic-aur nushell-git 0.71.0.r53.g8e4b85e29-1
+chaotic-aur nushell-git 0.71.0.r54.g1784b4bf5-1
 chaotic-aur nvidia-container-toolkit 1.11.0-1.1
 chaotic-aur nvidia-open-beta 525.53-1
 chaotic-aur nvidia-open-beta-dkms 525.53-1
@@ -16129,7 +16129,7 @@ chaotic-aur snapper-gui-git 0.1.r8.g1915750-1.1
 chaotic-aur snapper-tools 1.1.1-2.1
 chaotic-aur snapper-tools-git r11.3ba816c-1.1
 chaotic-aur snkrx-drmfree-git r118.6b93a64-1.1
-chaotic-aur snowflake-pt-client-git 988.e851861-1
+chaotic-aur snowflake-pt-client-git 989.115ba6a-1
 chaotic-aur sntray-plugin-common-git 0.4.13.1.r3.ga5028a3-1.1
 chaotic-aur soapysdr-git 3:0.8.1.r46.g9a7a501-1
 chaotic-aur soapysdrplay-git r69.aec4ebc-1
@@ -16410,7 +16410,7 @@ chaotic-aur vcpkg 2022.11.14-1
 chaotic-aur vdhcoapp 1.6.3-1.1
 chaotic-aur veloren-git weekly.r0.5709427e63-1
 chaotic-aur velox-git 0.0.2.r287.gfcc0412-1.1
-chaotic-aur ventoy-bin 1.0.81-1.1
+chaotic-aur ventoy-bin 1.0.82-1
 chaotic-aur via-bin 2.0.5-2.1
 chaotic-aur vibrant-cli 1.0.3-4
 chaotic-aur vibrantlinux 2.1.10-1.1
@@ -16464,10 +16464,10 @@ chaotic-aur vivaldi-snapshot 5.6.2839.3-1
 chaotic-aur vivaldi-snapshot-ffmpeg-codecs 106.0.5249.30-1
 chaotic-aur vkbasalt 0.3.2.6-2
 chaotic-aur vkcube-git r145.8261e90-1.1
-chaotic-aur vkd3d-proton-mingw-git 2.7.r23.g8c4f29e0-1
+chaotic-aur vkd3d-proton-mingw-git 2.7.r24.gfbc85903-1
 chaotic-aur vkd3d-proton-tkg-git 1.1.r2990.g8c4f29e0-1
 chaotic-aur vkd3d-tkg-git 1.5.r87.gf21693b2-1
-chaotic-aur vlang-git 0.3.2.r127.gae816b1719-1
+chaotic-aur vlang-git 0.3.2.r128.g886abcdf59-1
 chaotic-aur vlc-git 4.0.0.r20918.g02c95ad381-1.1
 chaotic-aur vlc-git-debug 4.0.0.r20918.g02c95ad381-1.1
 chaotic-aur vlc-luajit 3.0.17.4-12
