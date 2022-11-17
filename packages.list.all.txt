@@ -365,7 +365,7 @@ extra bigloo 4.4c_4-4
 extra bind 9.18.8-2
 extra bird 2.0.10-1
 extra black-hole-solver 1.12.0-1
-extra blas 3.11-1
+extra blas 3.11.0-1
 extra blinken 22.08.3-1
 extra bluedevil 1:5.26.3-1
 extra bluez 5.66-1
@@ -412,7 +412,7 @@ extra cantarell-fonts 1:0.303.1-1
 extra cantor 22.08.3-1
 extra cauchy 0.9.0-3
 extra cbindgen 0.24.3-1
-extra cblas 3.11-1
+extra cblas 3.11.0-1
 extra cdparanoia 10.2-8 [installed]
 extra cdrdao 1.2.4-2
 extra cervisia 22.08.3-1
@@ -1323,9 +1323,9 @@ extra l-smash 2.14.5-2 [installed]
 extra lablgtk2 2.18.12-2
 extra ladspa 1.17-1
 extra lame 3.100-4 [installed]
-extra lapack 3.11-1
-extra lapack-doc 3.11-1
-extra lapacke 3.11-1
+extra lapack 3.11.0-1
+extra lapack-doc 3.11.0-1
+extra lapacke 3.11.0-1
 extra lasem 0.4.4-2
 extra latex2html 2022.2-1
 extra latex2rtf 2.3.18-1
@@ -1561,7 +1561,7 @@ extra libpeas-docs 1.34.0-1
 extra libphonenumber 1:8.13.0-1
 extra libplacebo 4.208.0-1
 extra libplist 2.2.0-5 [installed]
-extra libpng 1.6.38-1 [installed]
+extra libpng 1.6.38-2 [installed]
 extra libportal 0.6-1
 extra libportal-docs 0.6-1
 extra libportal-gtk3 0.6-1
@@ -1902,12 +1902,12 @@ extra libwpd 0.10.3-4
 extra libwpe 1.14.0-1
 extra libwpg 0.3.3-4
 extra libwps 0.4.12-2
-extra libx11 1.8.2-1 [installed]
+extra libx11 1.8.2-2 [installed]
 extra libxau 1.0.10-1 [installed]
 extra libxaw 1.0.14-1
 extra libxcb 1.15-1 [installed]
 extra libxcomposite 0.4.5-4 [installed]
-extra libxcursor 1.2.1-1 [installed]
+extra libxcursor 1.2.1-2 [installed]
 extra libxcvt 0.1.2-1
 extra libxdamage 1.1.5-4 [installed]
 extra libxdmcp 1.1.3-4 [installed]
@@ -1917,7 +1917,7 @@ extra libxfce4util 4.16.0-1
 extra libxfixes 6.0.0-1 [installed]
 extra libxfont2 2.0.6-1
 extra libxft 2.3.7-1 [installed]
-extra libxi 1.8-1 [installed]
+extra libxi 1.8-2 [installed]
 extra libxinerama 1.1.5-1
 extra libxkbcommon 1.4.1-2 [installed]
 extra libxkbcommon-doc 1.4.1-2
@@ -3309,7 +3309,7 @@ extra xsane-gimp 0.999-5
 extra xscreensaver 6.05.1-2
 extra xsd 4.0.0-4
 extra xterm 375-1
-extra xtrans 1.4.0-3
+extra xtrans 1.4.0-4
 extra xvidcore 1.3.7-2 [installed]
 extra yajl 2.1.0-5
 extra yakuake 22.08.3-1
@@ -7916,7 +7916,7 @@ community nanomsg 1.2-1
 community nautilus-image-converter 0.4.0-1
 community nautilus-share 0.7.5-3
 community nautilus-terminal 3.5.0-2
-community nauty 27r4-1
+community nauty 1:2.8.6-1
 community navit 0.5.6-4
 community nawk 20220912-1
 community nbd 3.24-1
@@ -13237,7 +13237,7 @@ multilib lib32-libogg 1.3.5-1
 multilib lib32-libpcap 1.10.1-1
 multilib lib32-libpciaccess 0.17-1
 multilib lib32-libpgm 5.3.128-2
-multilib lib32-libpng 1.6.38-1
+multilib lib32-libpng 1.6.38-2
 multilib lib32-libpng12 1.2.59-2
 multilib lib32-libproxy 0.4.18-1
 multilib lib32-libpsl 0.21.1-3
@@ -13275,19 +13275,19 @@ multilib lib32-libvpx 1.12.0-1
 multilib lib32-libvpx1.3 1.3.0-3
 multilib lib32-libwebp 1.2.4-1
 multilib lib32-libwrap 7.6.31-4
-multilib lib32-libx11 1.8.2-1
+multilib lib32-libx11 1.8.2-2
 multilib lib32-libxau 1.0.10-2
 multilib lib32-libxcb 1.15-1
 multilib lib32-libxcomposite 0.4.5-2
 multilib lib32-libxcrypt 4.4.31-1
 multilib lib32-libxcrypt-compat 4.4.31-1
-multilib lib32-libxcursor 1.2.1-1
+multilib lib32-libxcursor 1.2.1-2
 multilib lib32-libxdamage 1.1.5-2
 multilib lib32-libxdmcp 1.1.3-1
 multilib lib32-libxext 1.3.5-1
 multilib lib32-libxfixes 6.0.0-1
 multilib lib32-libxft 2.3.6-1
-multilib lib32-libxi 1.8-1
+multilib lib32-libxi 1.8-2
 multilib lib32-libxinerama 1.1.5-1
 multilib lib32-libxkbcommon 1.4.1-1
 multilib lib32-libxkbcommon-x11 1.4.1-1
@@ -15023,8 +15023,8 @@ chaotic-aur linux-drm-next-docs-git 6.1.r1137320.4e291f2f5853-1
 chaotic-aur linux-drm-next-git 6.1.r1137320.4e291f2f5853-1
 chaotic-aur linux-drm-next-headers-git 6.1.r1137320.4e291f2f5853-1
 chaotic-aur linux-drm-tip-docs-git 6.1.r1138675.cb7486469341-1
-chaotic-aur linux-drm-tip-git 6.1.r1138675.cb7486469341-1
-chaotic-aur linux-drm-tip-headers-git 6.1.r1138653.ceb77a7b0d10-1
+chaotic-aur linux-drm-tip-git 6.1.r1138731.3a0ae425269e-1
+chaotic-aur linux-drm-tip-headers-git 6.1.r1138731.3a0ae425269e-1
 chaotic-aur linux-firmware-bnx2x-git 20221109.60310c2-1
 chaotic-aur linux-firmware-git 20221109.60310c2-1
 chaotic-aur linux-firmware-liquidio-git 20221109.60310c2-1
@@ -15344,7 +15344,7 @@ chaotic-aur ntfsprogs-ntfs3 2022.5.17-6.1
 chaotic-aur nuclear-player-bin 1667811824421:2022117_1b7a03d0a06c794cc64af7977cd83002-2
 chaotic-aur numix-circle-icon-theme-git 22.11.05.r0.g852285d-1
 chaotic-aur numix-icon-theme-git 22.08.16.r3.g4a2b9ad15-1
-chaotic-aur nushell-git 0.71.0.r53.g8e4b85e29-1
+chaotic-aur nushell-git 0.71.0.r54.g1784b4bf5-1
 chaotic-aur nvidia-container-toolkit 1.11.0-1.1
 chaotic-aur nvidia-open-beta 525.53-1
 chaotic-aur nvidia-open-beta-dkms 525.53-1
@@ -16129,7 +16129,7 @@ chaotic-aur snapper-gui-git 0.1.r8.g1915750-1.1
 chaotic-aur snapper-tools 1.1.1-2.1
 chaotic-aur snapper-tools-git r11.3ba816c-1.1
 chaotic-aur snkrx-drmfree-git r118.6b93a64-1.1
-chaotic-aur snowflake-pt-client-git 988.e851861-1
+chaotic-aur snowflake-pt-client-git 989.115ba6a-1
 chaotic-aur sntray-plugin-common-git 0.4.13.1.r3.ga5028a3-1.1
 chaotic-aur soapysdr-git 3:0.8.1.r46.g9a7a501-1
 chaotic-aur soapysdrplay-git r69.aec4ebc-1
@@ -16410,7 +16410,7 @@ chaotic-aur vcpkg 2022.11.14-1
 chaotic-aur vdhcoapp 1.6.3-1.1
 chaotic-aur veloren-git weekly.r0.5709427e63-1
 chaotic-aur velox-git 0.0.2.r287.gfcc0412-1.1
-chaotic-aur ventoy-bin 1.0.81-1.1
+chaotic-aur ventoy-bin 1.0.82-1
 chaotic-aur via-bin 2.0.5-2.1
 chaotic-aur vibrant-cli 1.0.3-4
 chaotic-aur vibrantlinux 2.1.10-1.1
