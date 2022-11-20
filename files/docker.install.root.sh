@@ -51,6 +51,13 @@ pacman --noconfirm -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring
 cat /etc/pacman.d/chaotic-mirrorlist
 
 
+
+sed -i 's/#\(en_US\.UTF-8\)/\1/' "/etc/locale.gen"
+sed -i 's/#\(zh_CN\.UTF-8\)/\1/' "/etc/locale.gen"
+locale-gen
+ln -sf "/usr/share/zoneinfo/Asia/Shanghai" "/etc/localtime"
+
+
 # pacman-key --populate
 # pacman-key --refresh-keys
 pacman -Syyu --noconfirm --verbose --debug
