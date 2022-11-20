@@ -6,7 +6,7 @@ jobs:
     name: push-to-github
     remoteUrl: https://github.com/archlinux365/9318-archlinux-docker.git
     userName: gnuhub
-    passwordSecret: gitlab-password
+    passwordSecret: github-token
     withLfs: false
     force: false
     condition: ALWAYS
