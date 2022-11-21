@@ -19,7 +19,7 @@ HoldPkg     = pacman glibc
 #XferCommand = /usr/bin/curl -L -C - -f -o %o %u
 #XferCommand = /usr/bin/wget --passive-ftp -c -O %o %u
 #CleanMethod = KeepInstalled
-Architecture = auto
+Architecture = x86_64
 
 # Pacman won't upgrade packages listed in IgnorePkg and members of IgnoreGroup
 #IgnorePkg   =
@@ -71,22 +71,23 @@ LocalFileSigLevel = Optional
 
 #[testing]
 #Include = /etc/pacman.d/mirrorlist
-
+# 6
 [core]
 SigLevel = Never
-Include = /etc/pacman.d/mirrorlist
+Server = https://mirrors.nju.edu.cn/archlinux/$repo/os/$arch
 
+# 7
 [extra]
 SigLevel = Never
-Include = /etc/pacman.d/mirrorlist
+Server = https://mirrors.nju.edu.cn/archlinux/$repo/os/$arch
 
 #[community-testing]
 #Include = /etc/pacman.d/mirrorlist
 
+# 8
 [community]
 SigLevel = Never
-Include = /etc/pacman.d/mirrorlist
-
+Server = https://mirrors.nju.edu.cn/archlinux/$repo/os/$arch
 
 # If you want to run 32 bit applications on your x86_64 system,
 # enable the multilib repositories as required here.
@@ -94,88 +95,27 @@ Include = /etc/pacman.d/mirrorlist
 #[multilib-testing]
 #Include = /etc/pacman.d/mirrorlist
 
+# 9
 [multilib]
 SigLevel = Never
-Include = /etc/pacman.d/mirrorlist
+Server = https://mirrors.nju.edu.cn/archlinux/$repo/os/$arch
 
-[archcraft]
+# 12
+[blackarch]
 SigLevel = Never
-Server = https://packages.archcraft.io/$arch
+Server = https://mirrors.nju.edu.cn/blackarch/$repo/os/$arch
+
+# 13
+[archlinuxcn]
+SigLevel = Never
+Server = https://mirrors.nju.edu.cn/$repo/$arch
+
+# 14
+[arch4edu]
+SigLevel = Never
+Server = https://mirrors.nju.edu.cn/$repo/$arch
+
 
 [chaotic-aur]
 SigLevel = Never
-Include = /etc/pacman.d/chaotic-mirrorlist 
-
-[blackarch]
-SigLevel = Never
-Include = /etc/pacman.d/blackarch-mirrorlist
-
-[archlinuxcn]
-SigLevel = Never
-Include = /etc/pacman.d/archlinuxcn-mirrorlist
-
-[arch4edu]
-SigLevel = Never
-Include = /etc/pacman.d/arch4edu-mirrorlist
-
-# https://github.com/endeavouros-team/mirrors
-[endeavouros]
-SigLevel = Never
-Include = /etc/pacman.d/endeavouros-mirrorlist
-
-[garuda]
-SigLevel = Never
-Include = /etc/pacman.d/chaotic-mirrorlist
-
-# 
-[arcolinux_repo_iso]
-SigLevel = Never
-Include = /etc/pacman.d/arcolinux-mirrorlist
-
-#[arcolinux_repo_testing]
-SigLevel = Never
-Include = /etc/pacman.d/arcolinux-mirrorlist
-
-[arcolinux_repo]
-SigLevel = Never
-Include = /etc/pacman.d/arcolinux-mirrorlist
-
-[arcolinux_repo_3party]
-SigLevel = Never
-Include = /etc/pacman.d/arcolinux-mirrorlist
-
-[arcolinux_repo_xlarge]
-SigLevel = Never
-Include = /etc/pacman.d/arcolinux-mirrorlist
-# https://github.com/xerolinux/xero_iso/blob/main/xerolinux/pacman.conf
-[iso-repo]
-SigLevel = Never
-Server = https://repos.xerolinux.xyz/$repo/$arch
-
-#XeroLinux Repository
-[xerolinux_repo]
-SigLevel = Never
-Server = https://xerolinux.github.io/$repo/$arch
-
-#XeroLinux XL Repository
-[xerolinux_repo_xl]
-SigLevel = Never
-Server = https://repos.xerolinux.xyz/$repo/$arch
-
-[alter-stable]
-SigLevel = Never
-Include = /etc/pacman.d/alterlinux-mirrorlist
-
-[Redecorating-t2]
-Server = https://github.com/Redecorating/archlinux-t2-packages/releases/download/packages
-SigLevel = Never
-
-[arch-mact2]
-Server = https://mirror.funami.tech/arch-mact2/os/x86_64
-SigLevel = Never
-
-# An example of a custom package repository.  See the pacman manpage for
-# tips on creating your own repositories.
-#[custom]
-#SigLevel = Optional TrustAll
-#Server = file:///home/custompkgs
+Server = https://cdn-cn-mirror.chaotic.cx/$repo/$arch
