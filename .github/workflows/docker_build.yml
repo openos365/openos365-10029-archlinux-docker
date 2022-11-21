@@ -5,6 +5,7 @@ on:
     branches:
       - 'root'
       - 'runner'
+      - 'root-cn'
   schedule:
     - cron: '0 */12 * * *'
   workflow_dispatch:
