@@ -4,13 +4,13 @@ core archlinux-keyring 20221110-1 [installed]
 core argon2 20190702-4 [installed]
 core attr 2.5.1-2 [installed]
 core audit 3.0.8-1 [installed]
-core autoconf 2.71-1
-core automake 1.16.5-1
+core autoconf 2.71-1 [installed]
+core automake 1.16.5-1 [installed]
 core b43-fwcutter 019-3
 core base 3-1 [installed]
 core bash 5.1.016-1 [installed]
-core binutils 2.39-3
-core bison 3.8.2-4
+core binutils 2.39-3 [installed]
+core bison 3.8.2-4 [installed]
 core brotli 1.0.9-8 [installed]
 core brotli-testdata 1.0.9-8
 core btrfs-progs 6.0.1-1 [installed]
@@ -27,15 +27,15 @@ core dash 0.5.11.5-1
 core db 5.3.28-5 [installed]
 core dbus 1.14.4-1 [installed]
 core dbus-docs 1.14.4-1
-core debugedit 5.0-4
+core debugedit 5.0-4 [installed]
 core debuginfod 0.187-2
 core device-mapper 2.03.17-1 [installed]
 core dhcpcd 9.4.1-1
 core dialog 1:1.3_20220728-1
-core diffutils 3.8-1
+core diffutils 3.8-1 [installed]
 core ding-libs 0.6.2-1
 core dmraid 1.0.0.rc16.3-14 [installed]
-core dnssec-anchors 20190629-3
+core dnssec-anchors 20190629-3 [installed]
 core dosfstools 4.2-2 [installed]
 core e2fsprogs 1.46.5-4 [installed]
 core ed 1.18-1
@@ -43,15 +43,15 @@ core efibootmgr 18-1
 core efivar 38-2
 core elfutils 0.187-2
 core expat 2.5.0-1 [installed]
-core fakeroot 1.30.1-1
+core fakeroot 1.30.1-1 [installed]
 core file 5.43-1 [installed]
 core filesystem 2022.10.18-1 [installed]
 core findutils 4.9.0-1 [installed]
-core flex 2.6.4-3
+core flex 2.6.4-3 [installed]
 core fuse2fs 1.46.5-4
 core gawk 5.2.0-3 [installed]
 core gc 8.2.2-1 [installed]
-core gcc 12.2.0-1
+core gcc 12.2.0-1 [installed]
 core gcc-ada 12.2.0-1
 core gcc-d 12.2.0-1
 core gcc-fortran 12.2.0-1
@@ -69,8 +69,8 @@ core gnutls 3.7.8-4 [installed]
 core gpgme 1.18.0-1 [installed]
 core gpm 1.20.7.r38.ge82d1a6-4 [installed]
 core grep 3.8-2 [installed]
-core groff 1.22.4-7
-core grub 2:2.06.r380.g151467888-1
+core groff 1.22.4-7 [installed]
+core grub 2:2.06.r380.g151467888-1 [installed]
 core gssproxy 0.9.1-2
 core guile 3.0.8-3 [installed]
 core gzip 1.12-1 [installed]
@@ -91,7 +91,7 @@ core kbd 2.5.1-1 [installed]
 core keyutils 1.6.3-1 [installed]
 core kmod 30-3 [installed]
 core krb5 1.20-3 [installed]
-core ldns 1.8.3-2
+core ldns 1.8.3-2 [installed]
 core lemon 3.40.0-1
 core less 1:608-1 [installed]
 core lib32-gcc-libs 12.2.0-1
@@ -115,12 +115,12 @@ core libgpg-error 1.46-2 [installed]
 core libgssglue 0.7-1
 core libidn2 2.3.4-3 [installed]
 core libinih 56-1 [installed]
-core libisl 0.25-1
+core libisl 0.25-1 [installed]
 core libksba 1.6.2-1 [installed]
 core libldap 2.6.3-2 [installed]
 core libmicrohttpd 0.9.75-1
 core libmnl 1.0.5-1 [installed]
-core libmpc 1.2.1-2
+core libmpc 1.2.1-2 [installed]
 core libnetfilter_conntrack 1.0.9-1 [installed]
 core libnfnetlink 1.0.2-1 [installed]
 core libnftnl 1.2.3-1 [installed]
@@ -169,7 +169,7 @@ core lto-dump 12.2.0-1
 core lvm2 2.03.17-1 [installed]
 core lz4 1:1.9.4-1 [installed]
 core lzo 2.10-3 [installed]
-core m4 1.4.19-1
+core m4 1.4.19-1 [installed]
 core make 4.3-5 [installed]
 core man-db 2.11.1-1
 core man-pages 6.01-1
@@ -193,7 +193,7 @@ core nspr 4.35-1 [installed]
 core nss 3.85-1 [installed]
 core openldap 2.6.3-2
 core openresolv 3.12.0-1
-core openssh 9.1p1-3
+core openssh 9.1p1-3 [installed]
 core openssl 3.0.7-2 [installed]
 core openssl-1.0 1.0.2.u-1
 core openssl-1.1 1.1.1.s-2
@@ -202,13 +202,13 @@ core pacman 6.0.2-5 [installed]
 core pacman-mirrorlist 20221016-1 [installed]
 core pam 1.5.2-1 [installed]
 core pambase 20221020-1 [installed]
-core patch 2.7.6-8
+core patch 2.7.6-8 [installed]
 core pciutils 3.8.0-2 [installed]
 core pcre 8.45-3 [installed]
 core pcre2 10.40-3 [installed]
 core perl 5.36.0-1 [installed]
 core pinentry 1.2.1-1 [installed]
-core pkgconf 1.8.0-1
+core pkgconf 1.8.0-1 [installed]
 core popt 1.19-1 [installed]
 core ppp 2.4.9-3
 core pptpclient 1.10.0-2
@@ -234,7 +234,7 @@ core sqlite 3.40.0-1 [installed]
 core sqlite-analyzer 3.40.0-1
 core sqlite-doc 3.40.0-1
 core sqlite-tcl 3.40.0-1
-core sudo 1.9.12.p1-1
+core sudo 1.9.12.p1-1 [installed]
 core sysfsutils 2.1.1-1 [installed]
 core syslinux 6.04.pre2.r11.gbf6db5b4-3
 core systemd 252.1-1 [installed: 252.1-2]
@@ -242,7 +242,7 @@ core systemd-libs 252.1-1 [installed: 252.1-2]
 core systemd-resolvconf 252.1-1
 core systemd-sysvcompat 252.1-1 [installed: 252.1-2]
 core tar 1.34-1 [installed]
-core texinfo 7.0-1
+core texinfo 7.0-1 [installed]
 core thin-provisioning-tools 0.9.0-1 [installed]
 core tpm2-tss 3.2.0-3 [installed]
 core traceroute 2.1.0-5
@@ -252,7 +252,7 @@ core usbutils 015-1
 core util-linux 2.38.1-1 [installed]
 core util-linux-libs 2.38.1-1 [installed]
 core vi 1:070224-6
-core which 2.21-5
+core which 2.21-5 [installed]
 core wireless-regdb 2022.08.12-1
 core wpa_supplicant 2:2.10-7 [installed]
 core xfsprogs 6.0.0-1 [installed]
@@ -313,7 +313,7 @@ extra arch-install-scripts 27-1 [installed]
 extra arch-rebuild-order 0.3.1-1
 extra arch-signoff 0.5.2-2
 extra archinstall 2.5.2-1
-extra archiso 68-1
+extra archiso 68-1 [installed]
 extra archivetools 3-3
 extra archlinux-appstream-data 20221014-1
 extra archlinux-themes-slim 1.2-6
@@ -548,7 +548,7 @@ extra eog 43.1-1
 extra eog-docs 43.1-1
 extra eog-plugins 42.2-1
 extra epiphany 43.0-1
-extra erofs-utils 1.5-2
+extra erofs-utils 1.5-2 [installed]
 extra ethtool 1:6.0-1
 extra eventviews 22.08.3-1
 extra evince 43.1-1
@@ -1358,7 +1358,7 @@ extra libblockdev 2.28-1 [installed]
 extra libbluray 1.3.3-1 [installed]
 extra libbs2b 3.1.0-8 [installed]
 extra libbsd 0.11.7-1
-extra libburn 1.5.4-1
+extra libburn 1.5.4-1 [installed]
 extra libbytesize 2.7-1 [installed]
 extra libcaca 0.99.beta20-1
 extra libcacard 2.7.0-2
@@ -1467,8 +1467,8 @@ extra libinput 1.22.0-1 [installed]
 extra libinstpatch 1.1.6-1
 extra libirman 0.5.2-3
 extra libiscsi 1.19.0-2
-extra libisoburn 1.5.4-2
-extra libisofs 1.5.4-1
+extra libisoburn 1.5.4-2 [installed]
+extra libisofs 1.5.4-1 [installed]
 extra libixion 0.17.0-3
 extra libjpeg-turbo 2.1.4-2 [installed]
 extra libkate 0.4.1-8
@@ -2076,7 +2076,7 @@ extra mplayer 38359-1
 extra msmtp 1.8.22-2
 extra msmtp-mta 1.8.22-2
 extra mtdev 1.1.6-2 [installed]
-extra mtools 1:4.0.42-1
+extra mtools 1:4.0.42-1 [installed]
 extra mtr 0.95-3
 extra mtr-gtk 0.95-3
 extra muparser 2.3.4-1
@@ -2491,7 +2491,7 @@ extra pulseaudio-zeroconf 16.1-3
 extra purple-plugin-pack 2.8.0-1
 extra purpose 5.100.0-1
 extra putty 0.78-1
-extra pyalpm 0.10.6-4
+extra pyalpm 0.10.6-4 [installed]
 extra pyqt-builder 1.14.0-1
 extra pyside2 5.15.7-1
 extra pyside2-tools 5.15.7-1
@@ -3330,7 +3330,7 @@ extra zimg 3.0.4-1 [installed]
 extra zip 3.0-10
 extra zita-alsa-pcmi 0.5.1-1
 extra zita-resampler 1.8.0-1
-extra zsh 5.9-1
+extra zsh 5.9-1 [installed]
 extra zsh-doc 5.9-1
 extra zvbi 0.2.37-1
 extra zxing-cpp 1.4.0-1
@@ -7798,7 +7798,7 @@ community minieap 0.93-1
 community miniflux 2.0.40-1
 community minikube 1.28.0-1
 community minio 2022.11.11-1
-community minio-client 2022.11.07-1
+community minio-client 2022.11.07-1 [installed]
 community minisat 2.2.1.20201216-1
 community miniserve 0.22.0-1
 community minisign 0.10-1
@@ -8026,7 +8026,7 @@ community nicotine+ 3.2.6-1
 community nikola 8.2.3-1
 community nikto 2.1.6-3
 community nim 1.6.6-2
-community ninja 1.11.1-2
+community ninja 1.11.1-2 [installed]
 community ninjas2 0.2.0-2
 community nitrocli 0.4.1-2
 community nitroshare 0.3.4-4
@@ -8309,7 +8309,7 @@ community packer 1.8.4-1
 community packeth 2.1-2
 community pacman-bintrans 0.3.0-2
 community pacman-bintrans-tools 0.3.0-2
-community pacman-contrib 1.8.0-1
+community pacman-contrib 1.8.0-1 [installed]
 community pacmanlogviewer 1.4.3-2
 community pacmatic 20150126-4
 community pacoloco 1.2-2
@@ -18236,7 +18236,7 @@ archlinuxcn arch-hs-git 0.10.2.r22.gcf47a98-9
 archlinuxcn archey-git r146.b74e40br146.b74e40b-3
 archlinuxcn archlinux-artwork 1.6-6
 archlinuxcn archlinux-java-run 9-1
-archlinuxcn archlinuxcn-keyring 20220716-1
+archlinuxcn archlinuxcn-keyring 20220716-1 [installed]
 archlinuxcn archlinuxcn-mirrorlist-git 20221017-1
 archlinuxcn archrepo2-git 2:0.5.r18.gc003123-3
 archlinuxcn aria2-fast 1.36.0-3
@@ -22624,7 +22624,7 @@ chaotic-aur gallium-nine-git 0.r388.9abd0b4-1.2
 chaotic-aur game-devices-udev 0.18-1.1
 chaotic-aur gamehub 0.16.3.2-1.1
 chaotic-aur gamerworld-bin 1.3.0-3.1
-chaotic-aur gamescope-git 3.11.49.r9.g57cba01-1
+chaotic-aur gamescope-git 3.11.49.r16.g4f422b7-1
 chaotic-aur gaphor-bin 2.12.1-1
 chaotic-aur garuda-downloader-git r36.d3eccf2-2.1
 chaotic-aur garuda-update 2.5.2-1
@@ -23906,7 +23906,7 @@ chaotic-aur parlatype-libreoffice-extension 3.1.1-2.1
 chaotic-aur parsec-bin 150_28-5.1
 chaotic-aur partitionmanager-git 23.03.70.r1682.3ba8726-1
 chaotic-aur paru 1.11.1-1.3
-chaotic-aur paru-git 1.11.2.r116.ge58a27d-1
+chaotic-aur paru-git 1.11.2.r119.gd1ebcd4-1
 chaotic-aur passbook 0.8-1.1
 chaotic-aur passbook-git 0.8.r36.g750825d-1.1
 chaotic-aur path-of-building-community-git 2.21.1.r6441.60.517-1.1
@@ -24623,8 +24623,8 @@ chaotic-aur supertuxkart-git 23130+18565-1
 chaotic-aur surf-git 2.1.r10.g665a709-1.1
 chaotic-aur surfn-icons-git 1:22.10.01.r1.g897ab61a-1
 chaotic-aur svt-av1-git 1.3.0.r35.gdc02c830-1
-chaotic-aur sway-git r6998.762329273-1
-chaotic-aur sway-git-debug r6998.762329273-1
+chaotic-aur sway-git r6998.76232927-1
+chaotic-aur sway-git-debug r6998.76232927-1
 chaotic-aur sway-launcher-desktop 1.6.0-1
 chaotic-aur swaybg-git r123.deed2ed-1
 chaotic-aur swayfx 0.1-1
@@ -24940,7 +24940,7 @@ chaotic-aur wayland-docs-git 1.21.0.r17.g86d73b2-1
 chaotic-aur wayland-git 1.21.0.r17.g86d73b2-1
 chaotic-aur wayland-protocols-git 1.29.r1.g6394f0b-1
 chaotic-aur waynergy-git r291.cc15a82-1
-chaotic-aur waypipe-git 0.8.4.r2.g669ae3da-1
+chaotic-aur waypipe-git 0.8.4.r2.g669ae3d-1
 chaotic-aur wcm 0.7.0-2
 chaotic-aur wd719x-firmware 1-7
 chaotic-aur wdisplays 1.1-1.1
@@ -24990,8 +24990,8 @@ chaotic-aur wld-git r171.6586736-1
 chaotic-aur wlogout 1.1.1-3.1
 chaotic-aur wlrobs-hg r62.39cfab32d49a-1.1
 chaotic-aur wlroots-eglstreams-git 0.16.0.r5636.6ea54173-1.1
-chaotic-aur wlroots-git 0.17.0.r5922.b97ef5939-1
-chaotic-aur wlroots-git-debug 0.17.0.r5922.b97ef5939-1
+chaotic-aur wlroots-git 0.17.0.r5922.b97ef593-1
+chaotic-aur wlroots-git-debug 0.17.0.r5922.b97ef593-1
 chaotic-aur wlsunset 0.2.0-2
 chaotic-aur wluma 4.1.2-1.1
 chaotic-aur wob 0.14.2-1
