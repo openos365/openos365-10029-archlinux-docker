@@ -4,13 +4,13 @@ core archlinux-keyring 20221110-1 [installed]
 core argon2 20190702-4 [installed]
 core attr 2.5.1-2 [installed]
 core audit 3.0.8-1 [installed]
-core autoconf 2.71-1 [installed]
-core automake 1.16.5-1 [installed]
+core autoconf 2.71-1
+core automake 1.16.5-1
 core b43-fwcutter 019-3
 core base 3-1 [installed]
 core bash 5.1.016-1 [installed]
-core binutils 2.39-3 [installed]
-core bison 3.8.2-4 [installed]
+core binutils 2.39-3
+core bison 3.8.2-4
 core brotli 1.0.9-8 [installed]
 core brotli-testdata 1.0.9-8
 core btrfs-progs 6.0.1-1 [installed]
@@ -27,12 +27,12 @@ core dash 0.5.11.5-1
 core db 5.3.28-5 [installed]
 core dbus 1.14.4-1 [installed]
 core dbus-docs 1.14.4-1
-core debugedit 5.0-4 [installed]
+core debugedit 5.0-4
 core debuginfod 0.187-2
 core device-mapper 2.03.17-1 [installed]
 core dhcpcd 9.4.1-1
 core dialog 1:1.3_20220728-1
-core diffutils 3.8-1 [installed]
+core diffutils 3.8-1
 core ding-libs 0.6.2-1
 core dmraid 1.0.0.rc16.3-14 [installed]
 core dnssec-anchors 20190629-3
@@ -43,15 +43,15 @@ core efibootmgr 18-1
 core efivar 38-2
 core elfutils 0.187-2
 core expat 2.5.0-1 [installed]
-core fakeroot 1.30.1-1 [installed]
+core fakeroot 1.30.1-1
 core file 5.43-1 [installed]
 core filesystem 2022.10.18-1 [installed]
 core findutils 4.9.0-1 [installed]
-core flex 2.6.4-3 [installed]
+core flex 2.6.4-3
 core fuse2fs 1.46.5-4
 core gawk 5.2.0-3 [installed]
 core gc 8.2.2-1 [installed]
-core gcc 12.2.0-1 [installed]
+core gcc 12.2.0-1
 core gcc-ada 12.2.0-1
 core gcc-d 12.2.0-1
 core gcc-fortran 12.2.0-1
@@ -69,7 +69,7 @@ core gnutls 3.7.8-4 [installed]
 core gpgme 1.18.0-1 [installed]
 core gpm 1.20.7.r38.ge82d1a6-4 [installed]
 core grep 3.8-2 [installed]
-core groff 1.22.4-7 [installed]
+core groff 1.22.4-7
 core grub 2:2.06.r380.g151467888-1
 core gssproxy 0.9.1-2
 core guile 3.0.8-3 [installed]
@@ -115,12 +115,12 @@ core libgpg-error 1.46-2 [installed]
 core libgssglue 0.7-1
 core libidn2 2.3.4-3 [installed]
 core libinih 56-1 [installed]
-core libisl 0.25-1 [installed]
+core libisl 0.25-1
 core libksba 1.6.2-1 [installed]
 core libldap 2.6.3-2 [installed]
 core libmicrohttpd 0.9.75-1
 core libmnl 1.0.5-1 [installed]
-core libmpc 1.2.1-2 [installed]
+core libmpc 1.2.1-2
 core libnetfilter_conntrack 1.0.9-1 [installed]
 core libnfnetlink 1.0.2-1 [installed]
 core libnftnl 1.2.3-1 [installed]
@@ -169,7 +169,7 @@ core lto-dump 12.2.0-1
 core lvm2 2.03.17-1 [installed]
 core lz4 1:1.9.4-1 [installed]
 core lzo 2.10-3 [installed]
-core m4 1.4.19-1 [installed]
+core m4 1.4.19-1
 core make 4.3-5 [installed]
 core man-db 2.11.1-1
 core man-pages 6.01-1
@@ -202,13 +202,13 @@ core pacman 6.0.2-5 [installed]
 core pacman-mirrorlist 20221016-1 [installed]
 core pam 1.5.2-1 [installed]
 core pambase 20221020-1 [installed]
-core patch 2.7.6-8 [installed]
+core patch 2.7.6-8
 core pciutils 3.8.0-2 [installed]
 core pcre 8.45-3 [installed]
 core pcre2 10.40-3 [installed]
 core perl 5.36.0-1 [installed]
 core pinentry 1.2.1-1 [installed]
-core pkgconf 1.8.0-1 [installed]
+core pkgconf 1.8.0-1
 core popt 1.19-1 [installed]
 core ppp 2.4.9-3
 core pptpclient 1.10.0-2
@@ -234,7 +234,7 @@ core sqlite 3.40.0-1 [installed]
 core sqlite-analyzer 3.40.0-1
 core sqlite-doc 3.40.0-1
 core sqlite-tcl 3.40.0-1
-core sudo 1.9.12.p1-1 [installed]
+core sudo 1.9.12.p1-1
 core sysfsutils 2.1.1-1 [installed]
 core syslinux 6.04.pre2.r11.gbf6db5b4-3
 core systemd 252.1-1 [installed: 252.1-2]
@@ -242,7 +242,7 @@ core systemd-libs 252.1-1 [installed: 252.1-2]
 core systemd-resolvconf 252.1-1
 core systemd-sysvcompat 252.1-1 [installed: 252.1-2]
 core tar 1.34-1 [installed]
-core texinfo 7.0-1 [installed]
+core texinfo 7.0-1
 core thin-provisioning-tools 0.9.0-1 [installed]
 core tpm2-tss 3.2.0-3 [installed]
 core traceroute 2.1.0-5
@@ -252,7 +252,7 @@ core usbutils 015-1
 core util-linux 2.38.1-1 [installed]
 core util-linux-libs 2.38.1-1 [installed]
 core vi 1:070224-6
-core which 2.21-5 [installed]
+core which 2.21-5
 core wireless-regdb 2022.08.12-1
 core wpa_supplicant 2:2.10-7 [installed]
 core xfsprogs 6.0.0-1 [installed]
@@ -561,7 +561,7 @@ extra evolution-spamassassin 3.46.1-1
 extra exempi 2.6.2-1
 extra exiv2 0.27.5-3
 extra exo 4.16.4-1
-extra expect 5.45.4-4
+extra expect 5.45.4-4 [installed]
 extra extra-cmake-modules 5.100.0-1 [installed]
 extra f2fs-tools 1.15.0-2
 extra faac 1.30-3
@@ -2913,7 +2913,7 @@ extra taglib 1.13-1
 extra tali 40.8-1
 extra talloc 2.3.4-1
 extra tbb 2021.5.0-2
-extra tcl 8.6.12-3
+extra tcl 8.6.12-3 [installed]
 extra tcpdump 4.99.1-2
 extra tdb 1.4.7-1 [installed]
 extra telepathy-accounts-signon 2.1-2
@@ -7798,7 +7798,7 @@ community minieap 0.93-1
 community miniflux 2.0.40-1
 community minikube 1.28.0-1
 community minio 2022.11.11-1
-community minio-client 2022.11.07-1 [installed]
+community minio-client 2022.11.07-1
 community minisat 2.2.1.20201216-1
 community miniserve 0.22.0-1
 community minisign 0.10-1
@@ -8309,7 +8309,7 @@ community packer 1.8.4-1
 community packeth 2.1-2
 community pacman-bintrans 0.3.0-2
 community pacman-bintrans-tools 0.3.0-2
-community pacman-contrib 1.8.0-1 [installed]
+community pacman-contrib 1.8.0-1
 community pacmanlogviewer 1.4.3-2
 community pacmatic 20150126-4
 community pacoloco 1.2-2
@@ -18154,7 +18154,7 @@ blackarch yasca 2.1-3
 blackarch yasuo 121.994dcb1-9
 blackarch yate-bts 6.1.0-1
 blackarch yawast 1072.5e9e7a3-7
-blackarch yay 11.3.0-1
+blackarch yay 11.3.0-1 [installed]
 blackarch ycrawler 0.1-6
 blackarch yersinia 0.8.2-1
 blackarch yeti 2481.afdac8cc-1
@@ -20610,7 +20610,7 @@ archlinuxcn xwinwrap-git r5.ec32e9b-2
 archlinuxcn yacd 0.3.8-1
 archlinuxcn yandex-browser-beta 22.9.1.1110_1-3
 archlinuxcn yaourt 1.9-1
-archlinuxcn yay 11.3.1-1
+archlinuxcn yay 11.3.1-1 [installed: 11.3.0-1]
 archlinuxcn yay-git 11.3.1.r60.g7612bb5-1
 archlinuxcn ydcv-rs-git 0.4.7.157-1
 archlinuxcn ydotool-git 1.0.1.r2.g1d5d227-3
@@ -21875,7 +21875,7 @@ arch4edu wxwidgets-gtk2-debug 3.2.1-1
 arch4edu xalan-java 2.7.2-3
 arch4edu xerces2-java 2.12.1-1
 arch4edu xflr5 6.57.r1431-1
-arch4edu yay 11.3.1-1
+arch4edu yay 11.3.1-1 [installed: 11.3.0-1]
 arch4edu ycm-generator-git r125.7c0f570-1
 arch4edu zoom 5.12.6-1
 arch4edu zotero 6.0.18-1
@@ -25113,7 +25113,7 @@ chaotic-aur yaru-sound-theme 22.10.2-1
 chaotic-aur yaru-unity-theme 22.10.2-1
 chaotic-aur yaru-xfwm4-theme 22.10.2-1
 chaotic-aur yaup-git 0.1.r4.g7ee3fdb-1.2
-chaotic-aur yay 11.3.1-1
+chaotic-aur yay 11.3.1-1 [installed: 11.3.0-1]
 chaotic-aur yay-git 11.3.1.r60.g7612bb5-1
 chaotic-aur yosys-git 0.23+21.r11936.e56c68996-1
 chaotic-aur youplay 0.38-1.1
