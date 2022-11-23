@@ -70,7 +70,7 @@ core gpgme 1.18.0-1 [installed]
 core gpm 1.20.7.r38.ge82d1a6-4 [installed]
 core grep 3.8-2 [installed]
 core groff 1.22.4-7 [installed]
-core grub 2:2.06.r380.g151467888-1
+core grub 2:2.06.r380.g151467888-1 [installed]
 core gssproxy 0.9.1-2
 core guile 3.0.8-3 [installed]
 core gzip 1.12-1 [installed]
@@ -313,7 +313,7 @@ extra arch-install-scripts 27-1 [installed]
 extra arch-rebuild-order 0.3.1-1
 extra arch-signoff 0.5.2-2
 extra archinstall 2.5.2-1
-extra archiso 68-1
+extra archiso 68-1 [installed]
 extra archivetools 3-3
 extra archlinux-appstream-data 20221014-1
 extra archlinux-themes-slim 1.2-6
@@ -548,7 +548,7 @@ extra eog 43.1-1
 extra eog-docs 43.1-1
 extra eog-plugins 42.2-1
 extra epiphany 43.0-1
-extra erofs-utils 1.5-2
+extra erofs-utils 1.5-2 [installed]
 extra ethtool 1:6.0-1
 extra eventviews 22.08.3-1
 extra evince 43.1-1
@@ -2075,7 +2075,7 @@ extra mplayer 38359-1
 extra msmtp 1.8.22-2
 extra msmtp-mta 1.8.22-2
 extra mtdev 1.1.6-2 [installed]
-extra mtools 1:4.0.42-1
+extra mtools 1:4.0.42-1 [installed]
 extra mtr 0.95-3
 extra mtr-gtk 0.95-3
 extra muparser 2.3.4-1
@@ -22709,7 +22709,7 @@ chaotic-aur google-cloud-sdk 404.0.0-1.1
 chaotic-aur google-earth-pro 7.3.6.9285-1
 chaotic-aur google-meet-desktop 1.2.0-1.2
 chaotic-aur google-messages 1.3.0-1.1
-chaotic-aur googlemaps 20210323-1.1
+chaotic-aur googlemaps 20220503-1
 chaotic-aur gotop 4.2.0-1
 chaotic-aur goverlay-git 0.9.r12.g1ab728d-1.1
 chaotic-aur goxlr-utility 0.7.1-2
@@ -23690,7 +23690,7 @@ chaotic-aur neofetch-git 7.1.0.r166.gccd5d9f5-1
 chaotic-aur neofrog-git 7.1.0.r166.gccd5d9f5-1.1
 chaotic-aur neovide-git 0.10.3.r4.g12b3cee-1
 chaotic-aur neovim-drop-in 1-1.1
-chaotic-aur neovim-git 0.8.0.r662.gcd386b2c72-1
+chaotic-aur neovim-git 0.8.0.r664.gd41e93d5a8-1
 chaotic-aur neovim-plug 0.11.0-3.1
 chaotic-aur neovim-plug-git 0.11.0.r10.ddce935-1.1
 chaotic-aur neovim-remote 2.5.0-1.1
@@ -24595,7 +24595,7 @@ chaotic-aur stacer-git 1.1.0.r108.g0f24534-1.1
 chaotic-aur standardnotes-bin 3.23.292-1
 chaotic-aur startgame 1.2.3-1.1
 chaotic-aur steam-boilr-gui 1.7.6-1.1
-chaotic-aur steam-metadata-editor-git 1.0.0.r39.557f318-1
+chaotic-aur steam-metadata-editor-git 1.0.0.r40.5155086-1
 chaotic-aur steamtinkerlaunch 11.11-2.1
 chaotic-aur stellarium 1.1.1-2
 chaotic-aur sticky-git master.lmde5.r0.ga2dff0d-1.1
@@ -24613,7 +24613,7 @@ chaotic-aur sublime-text-3 3.3211-2
 chaotic-aur sublime-text-4 4.4143-2
 chaotic-aur subnetcalc 2.4.19-1
 chaotic-aur subsurface 5.0.9-1.1
-chaotic-aur subsurface-git 20221119.f27ff6597-1
+chaotic-aur subsurface-git 20221119.f27ff6597-2
 chaotic-aur subsurface-libdc 5.0.9-1
 chaotic-aur subsurface-libdc-git 20221102.28c27e2-1.1
 chaotic-aur subtitlecomposer 0.7.1-4
