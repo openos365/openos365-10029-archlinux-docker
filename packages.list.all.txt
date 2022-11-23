@@ -35,7 +35,7 @@ core dialog 1:1.3_20220728-1
 core diffutils 3.8-1 [installed]
 core ding-libs 0.6.2-1
 core dmraid 1.0.0.rc16.3-14 [installed]
-core dnssec-anchors 20190629-3
+core dnssec-anchors 20190629-3 [installed]
 core dosfstools 4.2-2 [installed]
 core e2fsprogs 1.46.5-4 [installed]
 core ed 1.18-1
@@ -91,7 +91,7 @@ core kbd 2.5.1-1 [installed]
 core keyutils 1.6.3-1 [installed]
 core kmod 30-3 [installed]
 core krb5 1.20-3 [installed]
-core ldns 1.8.3-2
+core ldns 1.8.3-2 [installed]
 core lemon 3.40.0-1
 core less 1:608-1 [installed]
 core lib32-gcc-libs 12.2.0-1
@@ -193,7 +193,7 @@ core nspr 4.35-1 [installed]
 core nss 3.85-1 [installed]
 core openldap 2.6.3-2
 core openresolv 3.12.0-1
-core openssh 9.1p1-3
+core openssh 9.1p1-3 [installed]
 core openssl 3.0.7-2 [installed]
 core openssl-1.0 1.0.2.u-1
 core openssl-1.1 1.1.1.s-2
@@ -2490,7 +2490,7 @@ extra pulseaudio-zeroconf 16.1-3
 extra purple-plugin-pack 2.8.0-1
 extra purpose 5.100.0-1
 extra putty 0.78-1
-extra pyalpm 0.10.6-4 [installed]
+extra pyalpm 0.10.6-4
 extra pyqt-builder 1.14.0-1
 extra pyside2 5.15.7-1
 extra pyside2-tools 5.15.7-1
@@ -3118,7 +3118,7 @@ extra webkit2gtk-5.0 2.38.2-1
 extra webkit2gtk-5.0-docs 2.38.2-1
 extra webkit2gtk-docs 2.38.2-1
 extra webrtc-audio-processing 0.3.1-3
-extra wget 1.21.3-1
+extra wget 1.21.3-1 [installed]
 extra whois 5.5.14-1
 extra wildmidi 0.4.4-1
 extra wipe 2.3.1-5
@@ -3329,7 +3329,7 @@ extra zimg 3.0.4-1 [installed]
 extra zip 3.0-10
 extra zita-alsa-pcmi 0.5.1-1
 extra zita-resampler 1.8.0-1
-extra zsh 5.9-1
+extra zsh 5.9-1 [installed]
 extra zsh-doc 5.9-1
 extra zvbi 0.2.37-1
 extra zxing-cpp 1.4.0-1
@@ -8310,7 +8310,7 @@ community packer 1.8.4-1
 community packeth 2.1-2
 community pacman-bintrans 0.4.0-1
 community pacman-bintrans-tools 0.4.0-1
-community pacman-contrib 1.8.0-1
+community pacman-contrib 1.8.0-1 [installed]
 community pacmanlogviewer 1.4.3-2
 community pacmatic 20150126-4
 community pacoloco 1.2-2
@@ -22365,7 +22365,7 @@ chaotic-aur electron-nightly-npm 23.0.0.nightly.20221104-1
 chaotic-aur electron15-bin 15.5.7-1.1
 chaotic-aur electron16-bin 16.2.8-1
 chaotic-aur electronmail-bin 5.1.2-1
-chaotic-aur element-desktop-nightly-bin 2022112202-1
+chaotic-aur element-desktop-nightly-bin 2022112301-1
 chaotic-aur elementary-icon-theme-git 7.1.0.r7.g605f6cd5-1
 chaotic-aur elfx86exts 0.4.3-1
 chaotic-aur elisa-git 22.04.0.r165.g62c8ad3b-1
@@ -23295,7 +23295,7 @@ chaotic-aur lib32-primus-vk-git r150.2486f2a-1.1
 chaotic-aur lib32-raptor 2.0.15-11.1
 chaotic-aur lib32-rtmpdump 1:2.4.r99.f1b83c1-1.1
 chaotic-aur lib32-sbc 2.0-1
-chaotic-aur lib32-sdl2_compat12-git r741.8bc4b0e-1
+chaotic-aur lib32-sdl2_compat12-git r742.484c6a8-1
 chaotic-aur lib32-serd 0.30.16-1
 chaotic-aur lib32-shaderc 2022.1-1
 chaotic-aur lib32-sord 0.16.14-1
@@ -24660,13 +24660,13 @@ chaotic-aur system-monitoring-center 2.0.1-1
 chaotic-aur system76-power 1.1.24-1
 chaotic-aur systemd-boot-pacman-hook 3-1.1
 chaotic-aur systemd-cron-next-git v1.0.2.r16.ga4c2de7-1.1
-chaotic-aur systemd-git 252.r61116.d91a5f6481-1
+chaotic-aur systemd-git 252.r61117.ca4249847b-1
 chaotic-aur systemd-guest-user 33.2-1.1
 chaotic-aur systemd-kcm 1.2.1-5.1
-chaotic-aur systemd-libs-git 252.r61116.d91a5f6481-1
+chaotic-aur systemd-libs-git 252.r61117.ca4249847b-1
 chaotic-aur systemd-oomd-defaults 251.5-1.1
-chaotic-aur systemd-resolvconf-git 252.r61116.d91a5f6481-1
-chaotic-aur systemd-sysvcompat-git 252.r61116.d91a5f6481-1
+chaotic-aur systemd-resolvconf-git 252.r61117.ca4249847b-1
+chaotic-aur systemd-sysvcompat-git 252.r61117.ca4249847b-1
 chaotic-aur systemsettings-git 5.26.80_r2774.g0f01b7e6-1
 chaotic-aur systray-x-git 0.9.2.r12.g2488b58-1.1
 chaotic-aur ta-lib 0.4.0-5
