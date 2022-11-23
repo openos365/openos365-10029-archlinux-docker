@@ -35,7 +35,7 @@ core dialog 1:1.3_20220728-1
 core diffutils 3.8-1 [installed]
 core ding-libs 0.6.2-1
 core dmraid 1.0.0.rc16.3-14 [installed]
-core dnssec-anchors 20190629-3
+core dnssec-anchors 20190629-3 [installed]
 core dosfstools 4.2-2 [installed]
 core e2fsprogs 1.46.5-4 [installed]
 core ed 1.18-1
@@ -91,7 +91,7 @@ core kbd 2.5.1-1 [installed]
 core keyutils 1.6.3-1 [installed]
 core kmod 30-3 [installed]
 core krb5 1.20-3 [installed]
-core ldns 1.8.3-2
+core ldns 1.8.3-2 [installed]
 core lemon 3.40.0-1
 core less 1:608-1 [installed]
 core lib32-gcc-libs 12.2.0-1
@@ -193,7 +193,7 @@ core nspr 4.35-1 [installed]
 core nss 3.85-1 [installed]
 core openldap 2.6.3-2
 core openresolv 3.12.0-1
-core openssh 9.1p1-3
+core openssh 9.1p1-3 [installed]
 core openssl 3.0.7-2 [installed]
 core openssl-1.0 1.0.2.u-1
 core openssl-1.1 1.1.1.s-2
@@ -3118,7 +3118,7 @@ extra webkit2gtk-5.0 2.38.2-1
 extra webkit2gtk-5.0-docs 2.38.2-1
 extra webkit2gtk-docs 2.38.2-1
 extra webrtc-audio-processing 0.3.1-3
-extra wget 1.21.3-1
+extra wget 1.21.3-1 [installed]
 extra whois 5.5.14-1
 extra wildmidi 0.4.4-1
 extra wipe 2.3.1-5
@@ -3329,7 +3329,7 @@ extra zimg 3.0.4-1 [installed]
 extra zip 3.0-10
 extra zita-alsa-pcmi 0.5.1-1
 extra zita-resampler 1.8.0-1
-extra zsh 5.9-1
+extra zsh 5.9-1 [installed]
 extra zsh-doc 5.9-1
 extra zvbi 0.2.37-1
 extra zxing-cpp 1.4.0-1
@@ -20864,6 +20864,7 @@ arch4edu mavproxy 1.8.59-1
 arch4edu mendeleydesktop 1.19.8-1
 arch4edu mendeleydesktop-bundled 1.19.8-1
 arch4edu meteoinfo 2.4.2-1
+arch4edu metis 5.1.0.p10-2
 arch4edu microsoft-edge-stable-bin 107.0.1418.56-1
 arch4edu migraphx 5.3.0-2
 arch4edu miktex 22.10-2
@@ -20945,11 +20946,11 @@ arch4edu pnpm 7.17.0-1
 arch4edu pocketsphinx 5prealpha-13
 arch4edu popsift 1.0.0-4
 arch4edu popsift-libs 1.0.0-4
-arch4edu praat 6.3-1
+arch4edu praat 6.3.01-1
 arch4edu pyglossary 4.5.0-1
 arch4edu pypy3-pip 20.0.2-1
 arch4edu pypy3-setuptools 1:32.3.1-1
-arch4edu python-apex-git 22.03.r134.gc2161755-1
+arch4edu python-apex-git 22.03.r135.gabeca582-1
 arch4edu python-arch 5.3.1-1
 arch4edu python-astropy-helpers 4.0.1-6
 arch4edu python-astropy-sphinx-theme 1.1-1
@@ -20966,7 +20967,7 @@ arch4edu python-colcon-argcomplete 0.3.3-1
 arch4edu python-colcon-bash 0.4.2-1
 arch4edu python-colcon-cmake 0.2.27-1
 arch4edu python-colcon-common-extensions 0.3.0-1
-arch4edu python-colcon-core 0.10.0-1
+arch4edu python-colcon-core 0.11.0-1
 arch4edu python-colcon-defaults 0.2.6-1
 arch4edu python-colcon-devtools 0.2.3-1
 arch4edu python-colcon-library-path 0.2.1-1
@@ -21009,7 +21010,7 @@ arch4edu python-glog 0.3.1-3
 arch4edu python-gpustat 1.0.0-2
 arch4edu python-grip 4.6.1-1
 arch4edu python-ibm-cloud-sdk-core 3.16.0-1
-arch4edu python-ibm-platform-services 0.28.1-1
+arch4edu python-ibm-platform-services 0.28.4-1
 arch4edu python-imagecodecs 2022.9.26-2
 arch4edu python-imageio 2.22.4-1
 arch4edu python-imread 0.7.4-2
@@ -21137,7 +21138,7 @@ arch4edu r-base64enc 0.1.3-1
 arch4edu r-bayesfactor 0.9.12.4.4-1
 arch4edu r-bayesplay 0.9.2-4
 arch4edu r-bayesplot 1.10.0-1
-arch4edu r-bayesrel 0.7.4.4-1
+arch4edu r-bayesrel 0.7.4.4-2
 arch4edu r-bayestools 0.2.13-1
 arch4edu r-bh 1.78.0.0-1
 arch4edu r-bitops 1.0.7-1
@@ -21214,7 +21215,7 @@ arch4edu r-fastmap 1.1.0-2
 arch4edu r-fdrtool 1.2.17-4
 arch4edu r-fitdistrplus 1.1.8-3
 arch4edu r-flexmix 2.3.18-1
-arch4edu r-flexplot 0.17.2-1
+arch4edu r-flexplot 0.18.1.1-1
 arch4edu r-fontawesome 0.4.0-1
 arch4edu r-forcats 0.5.2-3
 arch4edu r-foreach 1.5.2-1
@@ -21329,7 +21330,7 @@ arch4edu r-lisreltor 0.1.5-7
 arch4edu r-lme4 1.1.31-1
 arch4edu r-lmertest 3.1.3-3
 arch4edu r-lmtest 0.9.40-6
-arch4edu r-logspline 2.1.17-1
+arch4edu r-logspline 2.1.19-1
 arch4edu r-loo 2.5.1-6
 arch4edu r-lpsolve 5.6.17-1
 arch4edu r-lubridate 1.9.0-1
@@ -21550,9 +21551,9 @@ arch4edu rocm-hip-sdk 5.3.0-1
 arch4edu rocm-language-runtime 5.2.3-1
 arch4edu rocm-llvm 5.3.3-1
 arch4edu rocm-llvm-mlir 5.3.0-3
-arch4edu rocm-opencl-runtime 5.3.0-1
+arch4edu rocm-opencl-runtime 5.3.3-1
 arch4edu rocm-opencl-sdk 5.2.3-1
-arch4edu rocm-smi-lib 5.3.0-1
+arch4edu rocm-smi-lib 5.3.3-1
 arch4edu rocminfo 5.3.3-1
 arch4edu rocprim 5.3.0-1
 arch4edu rocprofiler 5.3.0-1
@@ -21839,7 +21840,7 @@ arch4edu tensorflow-amd 2.9.2-3
 arch4edu tensorflow-opt-amd 2.9.2-3
 arch4edu tensorflow-rocm 2.4.0-4
 arch4edu termcap 1.3.1-6
-arch4edu timeshift 22.06.5+12+g92ad80c-2
+arch4edu timeshift 22.11.1-1
 arch4edu tix 8.4.3-5
 arch4edu torque 6.1.3.h5-2
 arch4edu triangle 1.6-8
@@ -22208,7 +22209,7 @@ chaotic-aur clipit 1.4.5-3.2
 chaotic-aur clipman 1.6.1-1
 chaotic-aur cloaker-bin 2.1-1
 chaotic-aur cmake-extras-git r290-1
-chaotic-aur cmake-git 3.25.0.549.g7c39301ebf-1
+chaotic-aur cmake-git 3.25.0.565.g9b9a421668-1
 chaotic-aur cobang 0.9.8-1.1
 chaotic-aur cockroachdb-bin 22.1.0-1
 chaotic-aur code-marketplace 1.73.0-1.1
@@ -24619,7 +24620,7 @@ chaotic-aur subsurface-git 20221119.f27ff6597-2
 chaotic-aur subsurface-libdc 5.0.9-1
 chaotic-aur subsurface-libdc-git 20221102.28c27e2-1.1
 chaotic-aur subtitlecomposer 0.7.1-4
-chaotic-aur subtitlecomposer-git 0.7.1+git175.067921b6-1
+chaotic-aur subtitlecomposer-git 0.7.1+git182.7067e4b4-1
 chaotic-aur sudo-git 1.9.12p1.r11969.g46d286947-1
 chaotic-aur sunshine 0.15.0-1.2
 chaotic-aur superproductivity-bin 7.12.0-1.1
