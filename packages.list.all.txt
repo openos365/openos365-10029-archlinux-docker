@@ -11,10 +11,10 @@ core base 3-1 [installed]
 core bash 5.1.016-1 [installed]
 core binutils 2.39-3 [installed]
 core bison 3.8.2-4 [installed]
-core brotli 1.0.9-8 [installed: 1.0.9-9]
-core brotli-testdata 1.0.9-8
+core brotli 1.0.9-9 [installed]
+core brotli-testdata 1.0.9-9
 core btrfs-progs 6.0.1-1 [installed]
-core bzip2 1.0.8-4 [installed: 1.0.8-5]
+core bzip2 1.0.8-5 [installed]
 core ca-certificates 20220905-1 [installed]
 core ca-certificates-mozilla 3.85-1 [installed]
 core ca-certificates-utils 20220905-1 [installed]
@@ -77,7 +77,7 @@ core gzip 1.12-1 [installed]
 core hdparm 9.65-1
 core hwdata 0.364-1 [installed]
 core iana-etc 20221107-1 [installed]
-core icu 72.1-1 [installed: 72.1-2]
+core icu 72.1-2 [installed]
 core inetutils 2.3-1
 core iproute2 6.0.0-1 [installed]
 core iptables 1:1.8.8-2 [installed]
@@ -104,7 +104,7 @@ core libcap 2.66-1 [installed]
 core libcap-ng 0.8.3-1 [installed]
 core libcurl-compat 7.86.0-4
 core libcurl-gnutls 7.86.0-4
-core libedit 20210910_3.1-1 [installed]
+core libedit 20210910_3.1-2 [installed]
 core libelf 0.187-2 [installed]
 core libevent 2.1.12-4 [installed]
 core libevent-docs 2.1.12-4
@@ -168,13 +168,13 @@ core logrotate 3.20.1-1
 core lto-dump 12.2.0-1
 core lvm2 2.03.17-1 [installed]
 core lz4 1:1.9.4-1 [installed]
-core lzo 2.10-3 [installed]
+core lzo 2.10-4 [installed]
 core m4 1.4.19-1 [installed]
 core make 4.3-5 [installed]
 core man-db 2.11.1-1
 core man-pages 6.01-1
 core mdadm 4.2-2 [installed]
-core minizip 1:1.2.13-1 [installed]
+core minizip 1:1.2.13-2 [installed]
 core mkinitcpio 32-2
 core mkinitcpio-busybox 1.35.0-1
 core mkinitcpio-nfs-utils 0.3-7
@@ -203,7 +203,7 @@ core pacman-mirrorlist 20221016-1 [installed]
 core pam 1.5.2-1 [installed]
 core pambase 20221020-1 [installed]
 core patch 2.7.6-8 [installed]
-core pciutils 3.8.0-2 [installed: 3.9.0-1]
+core pciutils 3.9.0-1 [installed]
 core pcre 8.45-3 [installed]
 core pcre2 10.40-3 [installed]
 core perl 5.36.0-1 [installed]
@@ -216,7 +216,7 @@ core procps-ng 3.3.17-1 [installed]
 core psmisc 23.5-1 [installed]
 core python 3.10.8-3 [installed]
 core python-audit 3.0.8-1
-core python-brotli 1.0.9-8
+core python-brotli 1.0.9-9
 core python-capng 0.8.3-1
 core python-gpgme 1.18.0-1
 core python-libseccomp 2.5.4-1
@@ -257,7 +257,7 @@ core wireless-regdb 2022.08.12-1
 core wpa_supplicant 2:2.10-7 [installed]
 core xfsprogs 6.0.0-1 [installed]
 core xz 5.2.8-1 [installed]
-core zlib 1:1.2.13-1 [installed: 1:1.2.13-2]
+core zlib 1:1.2.13-2 [installed]
 core zstd 1.5.2-7 [installed]
 extra 389-ds-base 2.3.1-1
 extra a2ps 4.14-12
@@ -870,8 +870,8 @@ extra gsl 2.7.1-1
 extra gsm 1.0.22-1 [installed]
 extra gsound 1.0.3-2
 extra gspell 1.12.0-2
-extra gssdp 1.6.1-1
-extra gssdp-docs 1.6.1-1
+extra gssdp 1.6.2-1
+extra gssdp-docs 1.6.2-1
 extra gst-editing-services 1.20.4-3
 extra gst-libav 1.20.4-3
 extra gst-plugin-gtk 1.20.4-3
@@ -924,10 +924,10 @@ extra gucharmap 15.0.1-1
 extra guile-bytestructures 1.0.10-1
 extra guile1.8 1.8.8-10
 extra gumbo-parser 0.10.1-2
-extra gupnp 1:1.6.1-1
+extra gupnp 1:1.6.2-1
 extra gupnp-av 0.14.1-2
 extra gupnp-dlna 0.12.0-2
-extra gupnp-docs 1:1.6.1-1
+extra gupnp-docs 1:1.6.2-1
 extra gupnp-igd 1.2.0-3
 extra gutenprint 5.3.4-2
 extra gv 3.7.4-5
@@ -1837,7 +1837,7 @@ extra libshout 1:2.4.6-2
 extra libshumate 1.0.2-1
 extra libshumate-docs 1.0.2-1
 extra libsidplay 1.36.59-10
-extra libsidplayfp 2.4.0-1
+extra libsidplayfp 2.4.1-1
 extra libsigc++ 2.10.8-1
 extra libsigc++-3.0 3.2.0-1
 extra libsigc++-3.0-docs 3.2.0-1
@@ -1902,7 +1902,7 @@ extra libwnck3 43.0-3
 extra libwpd 0.10.3-4
 extra libwpe 1.14.0-1
 extra libwpg 0.3.3-4
-extra libwps 0.4.12-2
+extra libwps 0.4.13-1
 extra libx11 1.8.2-2 [installed]
 extra libxau 1.0.10-2 [installed]
 extra libxaw 1.0.14-1
@@ -2034,14 +2034,14 @@ extra memtest86+ 6.00-2
 extra memtest86+-efi 6.00-2
 extra memtest86+-iso 6.00-2
 extra mencoder 38359-1
-extra mercurial 6.3.0-1
+extra mercurial 6.3.1-1
 extra mesa 22.2.3-1 [installed]
 extra mesa-amber 21.3.9-2
 extra mesa-demos 8.5.0-2
 extra mesa-utils 8.5.0-2
 extra mesa-vdpau 22.2.3-1
 extra mescc-tools 1.3-1
-extra meson 0.64.0-1
+extra meson 0.64.1-1
 extra messagelib 22.08.3-1
 extra metalog 20200113-2
 extra milou 5.26.3-1
@@ -2352,26 +2352,26 @@ extra pgbouncer 1.17.0-2
 extra phonon-qt5 4.11.1-3
 extra phonon-qt5-gstreamer 4.10.0-3
 extra phonon-qt5-vlc 0.11.3-2
-extra php 8.1.12-2
-extra php-apache 8.1.12-2
+extra php 8.1.13-1
+extra php-apache 8.1.13-1
 extra php-apcu 5.1.22-1
-extra php-cgi 8.1.12-2
-extra php-dblib 8.1.12-2
-extra php-embed 8.1.12-2
-extra php-enchant 8.1.12-2
-extra php-fpm 8.1.12-2
-extra php-gd 8.1.12-2
-extra php-imap 8.1.12-2
-extra php-intl 8.1.12-2
-extra php-odbc 8.1.12-2
-extra php-pgsql 8.1.12-2
-extra php-phpdbg 8.1.12-2
-extra php-pspell 8.1.12-2
-extra php-snmp 8.1.12-2
-extra php-sodium 8.1.12-2
-extra php-sqlite 8.1.12-2
-extra php-tidy 8.1.12-2
-extra php-xsl 8.1.12-2
+extra php-cgi 8.1.13-1
+extra php-dblib 8.1.13-1
+extra php-embed 8.1.13-1
+extra php-enchant 8.1.13-1
+extra php-fpm 8.1.13-1
+extra php-gd 8.1.13-1
+extra php-imap 8.1.13-1
+extra php-intl 8.1.13-1
+extra php-odbc 8.1.13-1
+extra php-pgsql 8.1.13-1
+extra php-phpdbg 8.1.13-1
+extra php-pspell 8.1.13-1
+extra php-snmp 8.1.13-1
+extra php-sodium 8.1.13-1
+extra php-sqlite 8.1.13-1
+extra php-tidy 8.1.13-1
+extra php-xsl 8.1.13-1
 extra php7 7.4.33-2
 extra php7-apache 7.4.33-2
 extra php7-apcu 5.1.22-1
@@ -2504,7 +2504,7 @@ extra python-atspi 2.46.0-1
 extra python-attrs 22.1.0-1 [installed]
 extra python-automat 22.10.0-1
 extra python-beaker 1.11.0-8
-extra python-cairo 1.21.0-1
+extra python-cairo 1.22.0-1
 extra python-cffi 1.15.1-1
 extra python-chardet 5.0.0-1
 extra python-constantly 15.1.0-11
@@ -2530,7 +2530,7 @@ extra python-lxml 4.9.1-1
 extra python-lxml-docs 4.9.1-1
 extra python-mako 1.2.4-1
 extra python-markupsafe 2.1.1-1
-extra python-merge3 0.0.10-1
+extra python-merge3 0.0.12-1
 extra python-nose 1.3.7-14
 extra python-notify2 0.3.1-7
 extra python-nspektr 0.4.0-2
@@ -2540,7 +2540,7 @@ extra python-opencv 4.6.0-6
 extra python-opengl 3.1.6-1
 extra python-ordered-set 4.1.0-1
 extra python-packaging 21.3-1
-extra python-patiencediff 0.2.6-1
+extra python-patiencediff 0.2.8-1
 extra python-pep517 0.13.0-1
 extra python-pip 22.3.1-1
 extra python-platformdirs 2.5.4-1
@@ -2689,8 +2689,8 @@ extra qemu-user-static-binfmt 7.1.0-10
 extra qemu-vhost-user-gpu 7.1.0-10
 extra qemu-virtiofsd 7.1.0-10
 extra qhull 2020.2-4
-extra qpdf 11.1.1-2
-extra qpdf-docs 11.1.1-2
+extra qpdf 11.2.0-1
+extra qpdf-docs 11.2.0-1
 extra qqc2-desktop-style 5.100.0-1
 extra qqwing 1.3.4-5
 extra qrencode 4.1.1-1
@@ -2729,7 +2729,7 @@ extra qt5-svg 5.15.7+kde+r9-1 [installed]
 extra qt5-tools 5.15.7+kde+r1-2 [installed]
 extra qt5-translations 5.15.7-1 [installed]
 extra qt5-virtualkeyboard 5.15.7-1
-extra qt5-wayland 5.15.7+kde+r53-1 [installed]
+extra qt5-wayland 5.15.7+kde+r55-1 [installed]
 extra qt5-webchannel 5.15.7+kde+r3-1 [installed]
 extra qt5-webengine 5.15.11-2 [installed]
 extra qt5-webglplugin 5.15.7-1
@@ -2912,7 +2912,7 @@ extra taglib 1.13-1
 extra tali 40.8-1
 extra talloc 2.3.4-1
 extra tbb 2021.5.0-2
-extra tcl 8.6.12-3 [installed]
+extra tcl 8.6.13-1 [installed]
 extra tcpdump 4.99.1-2
 extra tdb 1.4.7-1 [installed]
 extra telepathy-accounts-signon 2.1-2
@@ -3035,7 +3035,7 @@ extra thunderbird-i18n-zh-cn 102.5.0-1
 extra thunderbird-i18n-zh-tw 102.5.0-1
 extra tidy 5.8.0-2
 extra tinycdb 0.78-5
-extra tk 8.6.12-1
+extra tk 8.6.13-1
 extra tomcat-native 2.0.2-1
 extra tomcat10 10.1.2-1
 extra tomcat8 8.5.84-1
@@ -3432,7 +3432,7 @@ community ammonite 2.5.5-1
 community ams 2.2.0-1
 community ams-lv2 1.2.2-4
 community amsynth 1.13.0-1
-community amtk 5.6.0-1
+community amtk 5.6.1-1
 community amule 1:2.3.3-5
 community android-file-transfer 4.2-3
 community android-tools 33.0.3-2
@@ -3440,7 +3440,7 @@ community android-udev 20220903-2
 community anewer 0.1.6-1
 community angband 4.2.4-1
 community angle-grinder 0.18.0-2
-community ansible 6.6.0-1
+community ansible 7.0.0-1
 community ansible-bender 0.9.0-4
 community ansible-core 2.14.0-2
 community ansible-lint 6.8.7-1
@@ -3501,7 +3501,7 @@ community arp-scan 1.9.8-1
 community arpack 3.8.0-3
 community arpwatch 3.3-2
 community arrayfire 3.8.2-5
-community arrow 9.0.0-4
+community arrow 10.0.0-1
 community arti 1.0.1-2
 community artyfx 1.3.1-1
 community asar 3.2.2-1
@@ -3813,7 +3813,7 @@ community cardinal-vst3 22.10-1
 community cargo-asm 0.1.16-1
 community cargo-audit 0.17.4-1
 community cargo-auditable 0.5.4-1
-community cargo-binstall 0.16.0-1
+community cargo-binstall 0.17.0-1
 community cargo-bloat 0.11.1-1
 community cargo-c 0.9.14-1
 community cargo-crev 0.23.3-3
@@ -3842,7 +3842,7 @@ community cargo-watch 8.1.2-1
 community cargo-zigbuild 0.14.1-1
 community caribou 0.4.21+75+g8ad9883-3
 community carla 2.5.2-1
-community cartridge-cli 2.12.2-1
+community cartridge-cli 2.12.3-1
 community castget 2.0.1-1
 community casync 2.r267.g0efa7ab-2
 community cataclysm-dda 0.F.3-2
@@ -3861,6 +3861,7 @@ community ccfits 2.6-2
 community ccid 1.5.1-1
 community cclive 0.9.3-28
 community ccls 0.20220729-1
+community cctag 1.0.3-3
 community ccze 0.2.1-12
 community cddlib 1:0.94m-1
 community cdemu-client 3.2.5-1
@@ -3871,24 +3872,24 @@ community cerbere 2.5.1-2
 community cereal 1.3.2-1
 community ceres-solver 2.1.0-3
 community cern-vdt 0.4.4-1
-community certbot 1.32.0-1
-community certbot-apache 1.32.0-1
-community certbot-dns-cloudflare 1.32.0-1
-community certbot-dns-digitalocean 1.32.0-1
-community certbot-dns-dnsimple 1.32.0-1
-community certbot-dns-dnsmadeeasy 1.32.0-1
-community certbot-dns-gehirn 1.32.0-1
-community certbot-dns-google 1.32.0-1
+community certbot 2.0.0-1
+community certbot-apache 2.0.0-1
+community certbot-dns-cloudflare 2.0.0-1
+community certbot-dns-digitalocean 2.0.0-1
+community certbot-dns-dnsimple 2.0.0-1
+community certbot-dns-dnsmadeeasy 2.0.0-1
+community certbot-dns-gehirn 2.0.0-1
+community certbot-dns-google 2.0.0-1
 community certbot-dns-hetzner 1.0.5-5
 community certbot-dns-inwx 2.2.0-2
-community certbot-dns-linode 1.32.0-1
-community certbot-dns-luadns 1.32.0-1
-community certbot-dns-nsone 1.32.0-1
-community certbot-dns-ovh 1.32.0-1
-community certbot-dns-rfc2136 1.32.0-1
-community certbot-dns-route53 1.32.0-1
-community certbot-dns-sakuracloud 1.32.0-1
-community certbot-nginx 1.32.0-1
+community certbot-dns-linode 2.0.0-1
+community certbot-dns-luadns 2.0.0-1
+community certbot-dns-nsone 2.0.0-1
+community certbot-dns-ovh 2.0.0-1
+community certbot-dns-rfc2136 2.0.0-1
+community certbot-dns-route53 2.0.0-1
+community certbot-dns-sakuracloud 2.0.0-1
+community certbot-nginx 2.0.0-1
 community cfssl 1.6.3-1
 community cgal 5.5.1-1
 community cgasm 1.0.0-4
@@ -3975,7 +3976,7 @@ community cloud-guest-utils 0.33-1
 community cloud-image-utils 0.33-1
 community cloud-init 22.4.1-1
 community cloud-utils 0.33-1
-community cloudflared 2022.10.3-1
+community cloudflared 2022.11.0-1
 community clpeak 1.1.2-1
 community clthreads 2.4.2-5
 community clusterssh 4.16-1
@@ -4011,6 +4012,7 @@ community coin-or-clp 1.17.7-3
 community coin-or-coinutils 2.11.6-1
 community coin-or-csdp 6.2.0-3
 community coin-or-data-sample 1.2.12-1
+community coin-or-lemon 1.3.1-3
 community coin-or-mp 1.8.4-5
 community coin-or-osi 0.108.7-1
 community colordiff 1.0.20-1
@@ -4295,18 +4297,18 @@ community dns-lexicon 3.11.7-1
 community dns-over-https 2.3.2-1
 community dnscrypt-proxy 2.1.2-1
 community dnscrypt-wrapper 0.4.2-3
-community dnsperf 2.9.0-3
+community dnsperf 2.10.0-1
 community dnssec-tools 2.2.3-10
 community docbook2x 0.8.8-18
 community docker 1:20.10.21-1
 community docker-buildx 0.9.1-1
-community docker-compose 2.12.2-1
+community docker-compose 2.13.0-1
 community docker-machine 0.16.2-5
 community docker-scan 0.22.0-1
 community docopt 0.6.3-2
 community docparser 1.0.1-1
 community doctest 2.4.9-1
-community doctl 1.87.0-1
+community doctl 1.88.0-1
 community docx2txt 1.4-5
 community dog 0.1.0-4
 community doge 3.6.0-1
@@ -4330,7 +4332,7 @@ community doublecmd-qt5 1.0.8-2
 community dovecot 2.3.19.1-3
 community dovecot-fts-elastic 1.1.0-3
 community dovecot-fts-xapian 1.5.5-4
-community dpdk 22.07-2
+community dpdk 22.07-3
 community dpf-plugins 1.6-1
 community dpf-plugins-clap 1.6-1
 community dpf-plugins-dssi 1.6-1
@@ -4380,12 +4382,12 @@ community dtkwidget 5.6.0.2-3
 community dtkwm 2.0.12-16
 community dtools 2.101.0-1
 community dua-cli 2.18.0-1
-community dub 1.30.0-1
+community dub 1.30.0-2
 community duf 0.8.1-2
 community duktape 2.7.0-4 [installed]
 community dumb 2.0.3-3
 community dummyhttp 1.0.2-1
-community dune 3.4.1-2
+community dune 3.6.0-1
 community dunesh 0.1.7-2
 community dunst 1.9.0-1
 community duperemove 0.11.3-2
@@ -4478,13 +4480,13 @@ community eslint 8.28.0-1
 community eslint_d 12.1.0-2
 community espeak-ng 1.51.1-2
 community espeakup 0.90-1
-community esptool 4.3-2
+community esptool 4.4-1
 community etc-update 2.3.99-2
 community etckeeper 1.18.18-1
 community eteroj.lv2 0.10.0-1
 community etherape 0.9.20-1
 community etherwall 3.0.4-1
-community etl 1.4.2-1
+community etl 1.4.3-1
 community ettercap 0.8.3.1-2
 community ettercap-gtk 0.8.3.1-2
 community eva 0.3.1-1
@@ -4582,7 +4584,7 @@ community feeluown-local 0.3-1
 community feeluown-netease 0.9.2-1
 community feeluown-qqmusic 0.4.1-1
 community fennel 1.2.1-1
-community ferm 2.5.1-2
+community ferm 2.7-1
 community festival-english 2.5-2
 community festival-us 2.5-2
 community fetchmail 6.4.34-2
@@ -4606,103 +4608,103 @@ community firecracker-docs 1.1.2-1
 community firefox-adblock-plus 3.14.2-1
 community firefox-dark-reader 4.9.60-1
 community firefox-decentraleyes 2.0.17-2
-community firefox-developer-edition 108.0b4-1
-community firefox-developer-edition-i18n-ach 108.0b4-1
-community firefox-developer-edition-i18n-af 108.0b4-1
-community firefox-developer-edition-i18n-an 108.0b4-1
-community firefox-developer-edition-i18n-ar 108.0b4-1
-community firefox-developer-edition-i18n-ast 108.0b4-1
-community firefox-developer-edition-i18n-az 108.0b4-1
-community firefox-developer-edition-i18n-be 108.0b4-1
-community firefox-developer-edition-i18n-bg 108.0b4-1
-community firefox-developer-edition-i18n-bn 108.0b4-1
-community firefox-developer-edition-i18n-br 108.0b4-1
-community firefox-developer-edition-i18n-bs 108.0b4-1
-community firefox-developer-edition-i18n-ca 108.0b4-1
-community firefox-developer-edition-i18n-ca-valencia 108.0b4-1
-community firefox-developer-edition-i18n-cak 108.0b4-1
-community firefox-developer-edition-i18n-cs 108.0b4-1
-community firefox-developer-edition-i18n-cy 108.0b4-1
-community firefox-developer-edition-i18n-da 108.0b4-1
-community firefox-developer-edition-i18n-de 108.0b4-1
-community firefox-developer-edition-i18n-dsb 108.0b4-1
-community firefox-developer-edition-i18n-el 108.0b4-1
-community firefox-developer-edition-i18n-en-ca 108.0b4-1
-community firefox-developer-edition-i18n-en-gb 108.0b4-1
-community firefox-developer-edition-i18n-en-us 108.0b4-1
-community firefox-developer-edition-i18n-eo 108.0b4-1
-community firefox-developer-edition-i18n-es-ar 108.0b4-1
-community firefox-developer-edition-i18n-es-cl 108.0b4-1
-community firefox-developer-edition-i18n-es-es 108.0b4-1
-community firefox-developer-edition-i18n-es-mx 108.0b4-1
-community firefox-developer-edition-i18n-et 108.0b4-1
-community firefox-developer-edition-i18n-eu 108.0b4-1
-community firefox-developer-edition-i18n-fa 108.0b4-1
-community firefox-developer-edition-i18n-ff 108.0b4-1
-community firefox-developer-edition-i18n-fi 108.0b4-1
-community firefox-developer-edition-i18n-fr 108.0b4-1
-community firefox-developer-edition-i18n-fy-nl 108.0b4-1
-community firefox-developer-edition-i18n-ga-ie 108.0b4-1
-community firefox-developer-edition-i18n-gd 108.0b4-1
-community firefox-developer-edition-i18n-gl 108.0b4-1
-community firefox-developer-edition-i18n-gn 108.0b4-1
-community firefox-developer-edition-i18n-gu-in 108.0b4-1
-community firefox-developer-edition-i18n-he 108.0b4-1
-community firefox-developer-edition-i18n-hi-in 108.0b4-1
-community firefox-developer-edition-i18n-hr 108.0b4-1
-community firefox-developer-edition-i18n-hsb 108.0b4-1
-community firefox-developer-edition-i18n-hu 108.0b4-1
-community firefox-developer-edition-i18n-hy-am 108.0b4-1
-community firefox-developer-edition-i18n-ia 108.0b4-1
-community firefox-developer-edition-i18n-id 108.0b4-1
-community firefox-developer-edition-i18n-is 108.0b4-1
-community firefox-developer-edition-i18n-it 108.0b4-1
-community firefox-developer-edition-i18n-ja 108.0b4-1
-community firefox-developer-edition-i18n-ka 108.0b4-1
-community firefox-developer-edition-i18n-kab 108.0b4-1
-community firefox-developer-edition-i18n-kk 108.0b4-1
-community firefox-developer-edition-i18n-km 108.0b4-1
-community firefox-developer-edition-i18n-kn 108.0b4-1
-community firefox-developer-edition-i18n-ko 108.0b4-1
-community firefox-developer-edition-i18n-lij 108.0b4-1
-community firefox-developer-edition-i18n-lt 108.0b4-1
-community firefox-developer-edition-i18n-lv 108.0b4-1
-community firefox-developer-edition-i18n-mk 108.0b4-1
-community firefox-developer-edition-i18n-mr 108.0b4-1
-community firefox-developer-edition-i18n-ms 108.0b4-1
-community firefox-developer-edition-i18n-my 108.0b4-1
-community firefox-developer-edition-i18n-nb-no 108.0b4-1
-community firefox-developer-edition-i18n-ne-np 108.0b4-1
-community firefox-developer-edition-i18n-nl 108.0b4-1
-community firefox-developer-edition-i18n-nn-no 108.0b4-1
-community firefox-developer-edition-i18n-oc 108.0b4-1
-community firefox-developer-edition-i18n-pa-in 108.0b4-1
-community firefox-developer-edition-i18n-pl 108.0b4-1
-community firefox-developer-edition-i18n-pt-br 108.0b4-1
-community firefox-developer-edition-i18n-pt-pt 108.0b4-1
-community firefox-developer-edition-i18n-rm 108.0b4-1
-community firefox-developer-edition-i18n-ro 108.0b4-1
-community firefox-developer-edition-i18n-ru 108.0b4-1
-community firefox-developer-edition-i18n-si 108.0b4-1
-community firefox-developer-edition-i18n-sk 108.0b4-1
-community firefox-developer-edition-i18n-sl 108.0b4-1
-community firefox-developer-edition-i18n-son 108.0b4-1
-community firefox-developer-edition-i18n-sq 108.0b4-1
-community firefox-developer-edition-i18n-sr 108.0b4-1
-community firefox-developer-edition-i18n-sv-se 108.0b4-1
-community firefox-developer-edition-i18n-ta 108.0b4-1
-community firefox-developer-edition-i18n-te 108.0b4-1
-community firefox-developer-edition-i18n-th 108.0b4-1
-community firefox-developer-edition-i18n-tl 108.0b4-1
-community firefox-developer-edition-i18n-tr 108.0b4-1
-community firefox-developer-edition-i18n-trs 108.0b4-1
-community firefox-developer-edition-i18n-uk 108.0b4-1
-community firefox-developer-edition-i18n-ur 108.0b4-1
-community firefox-developer-edition-i18n-uz 108.0b4-1
-community firefox-developer-edition-i18n-vi 108.0b4-1
-community firefox-developer-edition-i18n-xh 108.0b4-1
-community firefox-developer-edition-i18n-zh-cn 108.0b4-1
-community firefox-developer-edition-i18n-zh-tw 108.0b4-1
+community firefox-developer-edition 108.0b5-1
+community firefox-developer-edition-i18n-ach 108.0b5-1
+community firefox-developer-edition-i18n-af 108.0b5-1
+community firefox-developer-edition-i18n-an 108.0b5-1
+community firefox-developer-edition-i18n-ar 108.0b5-1
+community firefox-developer-edition-i18n-ast 108.0b5-1
+community firefox-developer-edition-i18n-az 108.0b5-1
+community firefox-developer-edition-i18n-be 108.0b5-1
+community firefox-developer-edition-i18n-bg 108.0b5-1
+community firefox-developer-edition-i18n-bn 108.0b5-1
+community firefox-developer-edition-i18n-br 108.0b5-1
+community firefox-developer-edition-i18n-bs 108.0b5-1
+community firefox-developer-edition-i18n-ca 108.0b5-1
+community firefox-developer-edition-i18n-ca-valencia 108.0b5-1
+community firefox-developer-edition-i18n-cak 108.0b5-1
+community firefox-developer-edition-i18n-cs 108.0b5-1
+community firefox-developer-edition-i18n-cy 108.0b5-1
+community firefox-developer-edition-i18n-da 108.0b5-1
+community firefox-developer-edition-i18n-de 108.0b5-1
+community firefox-developer-edition-i18n-dsb 108.0b5-1
+community firefox-developer-edition-i18n-el 108.0b5-1
+community firefox-developer-edition-i18n-en-ca 108.0b5-1
+community firefox-developer-edition-i18n-en-gb 108.0b5-1
+community firefox-developer-edition-i18n-en-us 108.0b5-1
+community firefox-developer-edition-i18n-eo 108.0b5-1
+community firefox-developer-edition-i18n-es-ar 108.0b5-1
+community firefox-developer-edition-i18n-es-cl 108.0b5-1
+community firefox-developer-edition-i18n-es-es 108.0b5-1
+community firefox-developer-edition-i18n-es-mx 108.0b5-1
+community firefox-developer-edition-i18n-et 108.0b5-1
+community firefox-developer-edition-i18n-eu 108.0b5-1
+community firefox-developer-edition-i18n-fa 108.0b5-1
+community firefox-developer-edition-i18n-ff 108.0b5-1
+community firefox-developer-edition-i18n-fi 108.0b5-1
+community firefox-developer-edition-i18n-fr 108.0b5-1
+community firefox-developer-edition-i18n-fy-nl 108.0b5-1
+community firefox-developer-edition-i18n-ga-ie 108.0b5-1
+community firefox-developer-edition-i18n-gd 108.0b5-1
+community firefox-developer-edition-i18n-gl 108.0b5-1
+community firefox-developer-edition-i18n-gn 108.0b5-1
+community firefox-developer-edition-i18n-gu-in 108.0b5-1
+community firefox-developer-edition-i18n-he 108.0b5-1
+community firefox-developer-edition-i18n-hi-in 108.0b5-1
+community firefox-developer-edition-i18n-hr 108.0b5-1
+community firefox-developer-edition-i18n-hsb 108.0b5-1
+community firefox-developer-edition-i18n-hu 108.0b5-1
+community firefox-developer-edition-i18n-hy-am 108.0b5-1
+community firefox-developer-edition-i18n-ia 108.0b5-1
+community firefox-developer-edition-i18n-id 108.0b5-1
+community firefox-developer-edition-i18n-is 108.0b5-1
+community firefox-developer-edition-i18n-it 108.0b5-1
+community firefox-developer-edition-i18n-ja 108.0b5-1
+community firefox-developer-edition-i18n-ka 108.0b5-1
+community firefox-developer-edition-i18n-kab 108.0b5-1
+community firefox-developer-edition-i18n-kk 108.0b5-1
+community firefox-developer-edition-i18n-km 108.0b5-1
+community firefox-developer-edition-i18n-kn 108.0b5-1
+community firefox-developer-edition-i18n-ko 108.0b5-1
+community firefox-developer-edition-i18n-lij 108.0b5-1
+community firefox-developer-edition-i18n-lt 108.0b5-1
+community firefox-developer-edition-i18n-lv 108.0b5-1
+community firefox-developer-edition-i18n-mk 108.0b5-1
+community firefox-developer-edition-i18n-mr 108.0b5-1
+community firefox-developer-edition-i18n-ms 108.0b5-1
+community firefox-developer-edition-i18n-my 108.0b5-1
+community firefox-developer-edition-i18n-nb-no 108.0b5-1
+community firefox-developer-edition-i18n-ne-np 108.0b5-1
+community firefox-developer-edition-i18n-nl 108.0b5-1
+community firefox-developer-edition-i18n-nn-no 108.0b5-1
+community firefox-developer-edition-i18n-oc 108.0b5-1
+community firefox-developer-edition-i18n-pa-in 108.0b5-1
+community firefox-developer-edition-i18n-pl 108.0b5-1
+community firefox-developer-edition-i18n-pt-br 108.0b5-1
+community firefox-developer-edition-i18n-pt-pt 108.0b5-1
+community firefox-developer-edition-i18n-rm 108.0b5-1
+community firefox-developer-edition-i18n-ro 108.0b5-1
+community firefox-developer-edition-i18n-ru 108.0b5-1
+community firefox-developer-edition-i18n-si 108.0b5-1
+community firefox-developer-edition-i18n-sk 108.0b5-1
+community firefox-developer-edition-i18n-sl 108.0b5-1
+community firefox-developer-edition-i18n-son 108.0b5-1
+community firefox-developer-edition-i18n-sq 108.0b5-1
+community firefox-developer-edition-i18n-sr 108.0b5-1
+community firefox-developer-edition-i18n-sv-se 108.0b5-1
+community firefox-developer-edition-i18n-ta 108.0b5-1
+community firefox-developer-edition-i18n-te 108.0b5-1
+community firefox-developer-edition-i18n-th 108.0b5-1
+community firefox-developer-edition-i18n-tl 108.0b5-1
+community firefox-developer-edition-i18n-tr 108.0b5-1
+community firefox-developer-edition-i18n-trs 108.0b5-1
+community firefox-developer-edition-i18n-uk 108.0b5-1
+community firefox-developer-edition-i18n-ur 108.0b5-1
+community firefox-developer-edition-i18n-uz 108.0b5-1
+community firefox-developer-edition-i18n-vi 108.0b5-1
+community firefox-developer-edition-i18n-xh 108.0b5-1
+community firefox-developer-edition-i18n-zh-cn 108.0b5-1
+community firefox-developer-edition-i18n-zh-tw 108.0b5-1
 community firefox-extension-mailvelope 4.7.1-1
 community firefox-extension-passff 1.14.0-1
 community firefox-noscript 11.4.11-1
@@ -4722,7 +4724,7 @@ community flameshot 12.1.0-1
 community flann 1.9.2-1
 community flashgbx 3.19-1
 community flashrom 1.2-4
-community flatbuffers 22.10.26-1
+community flatbuffers 22.11.22-1
 community flatpak-xdg-utils 1.0.5-1
 community flawfinder 2.0.19-1
 community flickcurl 1.26-12
@@ -4933,7 +4935,7 @@ community geany-plugins 1.38-4
 community gearmand 1.1.20-2
 community geary 1:43.0-1
 community geckodriver 0.30.0-1
-community gedit 43.2-1
+community gedit 43.2-2
 community gedit-plugins 43.1-1
 community gef 2022.06-2
 community gen2shp 0.3.1-12
@@ -4943,6 +4945,7 @@ community gengetopt 2.23-2
 community gensio 2.6.1-1
 community gentium-plus-font 6.101-1
 community geogebra 6.0.745.0-1
+community geogram 1.8.2-2
 community geoipupdate 4.10.0-2
 community geonkick 2.9.1-1
 community geos 3.11.0-1
@@ -5017,7 +5020,7 @@ community github-cli 2.20.2-1
 community gitlab 15.5.2-1
 community gitlab-exporter 0.3.0-2
 community gitlab-gitaly 15.5.1-2
-community gitlab-runner 15.5.1-1
+community gitlab-runner 15.6.0-1
 community gitlab-shell 3:14.13.0-1
 community gitlab-workhorse 8.65.0-1
 community gitolite 3.6.12-2
@@ -5078,7 +5081,7 @@ community gnome-flashback 3.46.0-1
 community gnome-games 40.0-3
 community gnome-icon-theme-extras 3.12.0-5
 community gnome-initial-setup 43.1-1
-community gnome-latex 3.42.0-1
+community gnome-latex 3.42.0-2
 community gnome-mplayer 1.0.9-8
 community gnome-multi-writer 3.32.1-2
 community gnome-packagekit 43.0-1
@@ -5093,7 +5096,7 @@ community gnome-subtitles 1.7.2-1
 community gnome-tour 43.0-1
 community gnomon 1.5.0-3
 community gnu-apl 1.8-3
-community gnubg 1.06.002-7
+community gnubg 1.07.001-1
 community gnubiff 2.2.17-11
 community gnucash 4.12-3
 community gnucash-docs 4.12-1
@@ -5118,7 +5121,7 @@ community go-swagger 0.30.3-2
 community go-tools 4:0.3.0-1
 community go-yq 4.30.4-1
 community goaccess 1.6.5-1
-community goattracker 2.76-2
+community goattracker 2.76-3
 community goaurrpc 1.2.0-1
 community gobby 1:0.6.0-1
 community gocr 0.52-2
@@ -6450,7 +6453,7 @@ community hledger-web 1.27.1-12
 community hlint 3.3.6-62
 community hm 16.24-3
 community hoel 1.4.26-1
-community home-assistant 1:2022.11.3-1
+community home-assistant 1:2022.11.4-1
 community homebank 5.5.8-1
 community hoogle 5.0.18.3-96
 community hopenpgp-tools 0.23.7-57
@@ -6647,11 +6650,11 @@ community java-commons-io 2.11.0-1
 community java-commons-lang 3.12.0-1
 community java-commons-logging 1.2-3
 community java-rxtx 2.2pre2-9
-community java-xmlgraphics-commons 2.7-1
+community java-xmlgraphics-commons 2.8-1
 community jbigkit 2.1-6
 community jc 1.22.2-1
 community jconvolver 1.1.0-2
-community jedi-language-server 0.38.0-1
+community jedi-language-server 0.39.0-1
 community jenkins 2.378-1
 community jenv 0.5.5-1
 community jetring 0.30-1
@@ -6660,7 +6663,7 @@ community jhead 3.06.0.1-1
 community jitterentropy 3.4.1-1
 community jlatexmath 1.0.7-2
 community jless 0.8.0-1
-community jmol 14.32.80-1
+community jmol 14.32.81-1
 community jnettop 0.13.0-7
 community jnoisemeter 0.2.2-2
 community jo 1.9-1
@@ -6677,7 +6680,7 @@ community jruby 9.3.9.0-1
 community js78 78.15.0-4
 community jsampler 0.9-9
 community jshon 20131105-5
-community jsmol 14.32.80-1
+community jsmol 14.32.81-1
 community juce 7.0.2-1
 community juce-docs 7.0.2-1
 community judy 1.0.5-7
@@ -6845,7 +6848,7 @@ community kubeone 1.5.1-1
 community kubernetes-control-plane-common 1.25.4-1
 community kubeseal 0.19.1-1
 community kubie 0.19.1-1
-community kubo 0.16.0-1
+community kubo 0.17.0-1
 community kuickshow 0.10.2-1
 community kup 0.9.1-5
 community kupfer 321-2
@@ -7004,7 +7007,7 @@ community libgovirt 2:0.3.9-1
 community libgpiod 1.6.3-2
 community libgringotts 1.2.1-14
 community libgsystem 2015.2+4+gd606bec-3
-community libguestfs 1.48.4-2
+community libguestfs 1.48.5-1
 community libharu 2.4.3-1
 community libhomfly 1.02r6-2
 community libhubbub 0.3.7-2
@@ -7074,7 +7077,7 @@ community libmusicxml 3.22-1
 community libmysofa 1.3.1-1
 community libnatpmp 20150609-3
 community libnest2d 0.4-2
-community libnewt 0.52.21-8 [installed]
+community libnewt 0.52.22-1 [installed]
 community libnfc 1.8.0-2
 community libnfs 5.0.2-1
 community libnids 1.26-3
@@ -7139,7 +7142,7 @@ community libretro-bsnes 1:3073-1
 community libretro-bsnes-hd 51-1
 community libretro-bsnes2014 1:577-2
 community libretro-citra 9294-2
-community libretro-core-info 1.12.0-1
+community libretro-core-info 1.13.0-1
 community libretro-desmume 6349-1
 community libretro-dolphin 33034-1
 community libretro-duckstation 2105-2
@@ -7530,7 +7533,7 @@ community lua53-vstruct 2.1.1-4
 community lua53-yaml 1.1.2-7
 community lua53-zlib 1:1.2-3
 community luacheck 1.0.0-1
-community luajit 2.1.0.beta3.r449.gdad04f17-1
+community luajit 2.1.0.beta3.r455.g46aa45dc-1
 community luakit 2.3.3-1
 community luarocks 3.9.1-1
 community lucene++ 3.0.8-5
@@ -7760,7 +7763,7 @@ community merkaartor 0.19.0-3
 community meshbird 2.3-6
 community meson-python 0.11.0-1
 community metacity 3.46.0-1
-community metasploit 6.2.21-2
+community metasploit 6.2.27-1
 community meterbridge 0.9.3-3
 community mfoc 0.10.7+38+gba072f1-1
 community mg 20220614-1
@@ -7810,7 +7813,7 @@ community minizip-ng 3.0.7-2
 community minted 2.6-3
 community misfortune 0.1.2.1-17
 community mitmproxy 9.0.1-1
-community mitmproxy2swagger 0.7.0-2
+community mitmproxy2swagger 0.7.1-1
 community mixxx 2.3.3-3
 community mk-configure 0.37.0-3
 community mkcert 1.4.4-1
@@ -7867,7 +7870,7 @@ community mpv 1:0.35.0-2
 community mpv-mpris 0.9-1
 community mruby 3.1.0-1
 community msgpack-c 4.0.0-1
-community msgpack-cxx 4.1.2-1
+community msgpack-cxx 4.1.3-1
 community msitools 0.101-6
 community msr-tools 1.3-4
 community mtd-utils 2.1.5-1
@@ -7892,7 +7895,7 @@ community musescore 3.6.2-7
 community musl 1.2.3-1
 community mustache 4.1-3
 community mustache-d 0.1.5-7
-community mvt 2.2-1
+community mvt 2.2.1-1
 community mxml 3.3.1-1
 community mxml-docs 3.3.1-1
 community mygui 3.4.1-1
@@ -8055,7 +8058,7 @@ community nodm 0.13-3
 community noise-repellent 0.2.3-1
 community noise-suppression-for-voice 1.03-1
 community nomacs 1:3.17.2206-8
-community nomad 1.4.2-1
+community nomad 1.4.3-1
 community nomad-driver-containerd 0.9.3-2
 community nomad-driver-lxc 0.3.0-3
 community nomad-driver-nspawn 0.9.1-1
@@ -8107,7 +8110,7 @@ community obs-studio 28.1.2-1
 community obsidian 1.0.3-1
 community obsidian-icon-theme 4.15-2
 community ocaml-base 0.15.0-2
-community ocaml-cairo 0.6.3-2
+community ocaml-cairo 0.6.4-1
 community ocaml-csexp 1.5.1-5
 community ocaml-findlib 1.9.6-1
 community ocaml-hashcons 1.3-5
@@ -8167,6 +8170,7 @@ community openethereum 3.3.5-2
 community openfire 4.7.3-1
 community openfortivpn 1.19.0-2
 community openfpgaloader 0.9.1-1
+community opengv 1.0.git1-1
 community openh264 2.3.1-1
 community openimagedenoise 1.4.3-1
 community openimageio 2.4.5.0-1
@@ -8295,7 +8299,7 @@ community otf-latin-modern 2.004-4
 community otf-latinmodern-math 1.959-4
 community otf-overpass 3.0.5-1
 community otter-browser 1.0.03-2
-community ovenmediaengine 0.14.15-4
+community ovenmediaengine 0.14.16-1
 community owl-lisp 0.2-1
 community owncloud-client 2.11.1.8946-1
 community oxipng 6.0.1-1
@@ -8352,8 +8356,8 @@ community paperkey 1.6-3
 community paperwork 2.1.1-3
 community papirus-icon-theme 20221101-1
 community par2cmdline 0.8.1-2
-community parallel 20221022-1
-community parallel-docs 20221022-1
+community parallel 20221122-1
+community parallel-docs 20221122-1
 community paraview 5.10.1-9
 community parcellite 1.2.1-4
 community pari 2.15.1-1
@@ -8977,7 +8981,7 @@ community physlock 13-3
 community pianobar 2022.04.01-1
 community picard 2.8.3-1
 community picocom 3.1-3
-community picom 10-1
+community picom 10.1-1
 community pidgin-hotkeys 0.2.4-5
 community pidgin-kwallet 1.1.0-6
 community pidgin-libnotify 0.14-14
@@ -9022,7 +9026,7 @@ community plowshare 2.1.7-6
 community pluma 1.26.0-2
 community plumber 1.8.0-1
 community pm2 5.2.2-1
-community pmbootstrap 1.49.0-1
+community pmbootstrap 1.50.0-1
 community pnetcdf-openmpi 1.12.3-3
 community png++ 0.2.10-2
 community pngcrush 1.8.13-3
@@ -9050,6 +9054,7 @@ community pop-gtk-theme 5.5.1.r2.e09de355-1
 community pop-icon-theme 3.3.0.r8.ab3e9b1497-1
 community popeye 0.10.1-2
 community poppler-sharp 0.0.3-5
+community popsift 1.0.0.git1-1
 community pork 0.99.8.1-21
 community posix 2017-3
 community posix-c-development 2017-3
@@ -9163,7 +9168,7 @@ community pypiserver 1.5.1-1
 community pyprof2calltree 1.4.5-7
 community pypy 7.3.9-2
 community pypy3 7.3.9-3
-community pyright 1.1.280-1
+community pyright 1.1.281-1
 community pysolfc 2.16.0-1
 community pysolfc-cardsets 2.1-1
 community pystatgrab 0.7.1-2
@@ -9173,7 +9178,7 @@ community python-aaf2 1.6.0-1
 community python-aafigure 0.6-3
 community python-absl 1.3.0-1
 community python-abydos 0.5.0-4
-community python-acme 1.32.0-1
+community python-acme 2.0.0-1
 community python-adal 1.2.7-3
 community python-adb-shell 0.4.3-1
 community python-adblock 0.6.0-1
@@ -9259,7 +9264,8 @@ community python-autobahn 22.7.1-1
 community python-autocommand 2.2.2-1
 community python-autopage 0.5.1-1
 community python-awesomeversion 22.9.0-2
-community python-awkward 1.10.1-1
+community python-awkward 1.10.2-1
+community python-awkward-docs 1.10.2-1
 community python-aws-sam-translator 1.53.0-1
 community python-aws-xray-sdk 2.11.0-2
 community python-awscrt 0.15.3-1
@@ -9294,7 +9300,7 @@ community python-bitstring 3.1.9-3
 community python-bitvector 3.5.0-3
 community python-black 22.10.0-1
 community python-bleach 5.0.1-2
-community python-bleak 0.19.4-1
+community python-bleak 0.19.5-1
 community python-blessed 1.19.1-2
 community python-blessings 1.7-9
 community python-blinker 1.5-1
@@ -9489,7 +9495,7 @@ community python-django-classy-tags 3.0.1-1
 community python-django-compressor 4.1-2
 community python-django-crispy-forms 1.14.0-1
 community python-django-csp 3.7-2
-community python-django-debug-toolbar 3.5-1
+community python-django-debug-toolbar 3.7-1
 community python-django-environ 0.9.0-1
 community python-django-extensions 3.2.1-1
 community python-django-fake-model 0.1.4-5
@@ -9583,7 +9589,7 @@ community python-fire 0.4.0-3
 community python-first 2.0.2-5
 community python-fissix 21.11.13-1
 community python-fixtures 4.0.1-2
-community python-flake8-black 0.3.4-1
+community python-flake8-black 0.3.5-1
 community python-flake8-docstrings 1.6.0-3
 community python-flake8-isort 5.0.3-1
 community python-flaky 3.7.0-7
@@ -9596,7 +9602,7 @@ community python-flask-bootstrap 3.3.7.1-4
 community python-flask-caching 2.0.1-2
 community python-flask-compress 1.13-1
 community python-flask-cors 3.0.10-3
-community python-flask-dance 6.1.0-2
+community python-flask-dance 6.2.0-1
 community python-flask-debug 0.4.3-6
 community python-flask-gravatar 0.5.0-7
 community python-flask-htmlmin 2.2.1-1
@@ -9617,7 +9623,7 @@ community python-flask-sphinx-themes 1.0.2-6
 community python-flask-sqlalchemy 2.5.1-3
 community python-flask-talisman 0.7.0-4
 community python-flask-wtf 1.0.1-1
-community python-flatbuffers 22.10.26-1
+community python-flatbuffers 22.11.22-1
 community python-flex 6.14.1-7
 community python-flexmock 0.11.3-1
 community python-flickrapi 2.4.0-6
@@ -9684,7 +9690,7 @@ community python-google-api-python-client 2.66.0-1
 community python-google-auth 2.10.0-1
 community python-google-auth-httplib2 0.1.0-3
 community python-google-auth-oauthlib 0.7.1-2
-community python-googleapis-common-protos 1.56.4-1
+community python-googleapis-common-protos 1.57.0-1
 community python-gphoto2 2.3.3-1
 community python-graphene 3.1.1-1
 community python-graphql-core 3.2.3-1
@@ -9785,7 +9791,7 @@ community python-into-dbus 0.08-3
 community python-invoke 1.7.3-1
 community python-iocapture 0.1.2-10
 community python-ioflo 2.0.2-5
-community python-iosbackup 0.9.923-2
+community python-iosbackup 0.9.925-1
 community python-ipdb 0.13.9-3
 community python-ipip-ipdb 1.6.0-2
 community python-ipy 1.01-3
@@ -9806,7 +9812,7 @@ community python-itemadapter 0.7.0-1
 community python-itemloaders 1.0.6-1
 community python-itsdangerous 2.1.2-2
 community python-iwlib 1.7.0-4
-community python-j2cli 0.3.12b-5
+community python-j2cli 0.3.12b-6
 community python-jack-client 0.5.4-1
 community python-jaeger-client 4.8.0-3
 community python-janus 1.0.0-1
@@ -9839,7 +9845,7 @@ community python-jsbeautifier 1.14.7-1
 community python-jschema-to-python 1.2.3-3
 community python-json-config 2.0.1-5
 community python-json-logger 2.0.4-1
-community python-json-stream 1.4.0-1
+community python-json-stream 2.1.0-1
 community python-json5 0.9.10-1
 community python-jsondiff 2.0.0-1
 community python-jsonlines 3.1.0-1
@@ -9849,7 +9855,7 @@ community python-jsonpickle 2.2.0-1
 community python-jsonpointer 2.3-1
 community python-jsonrpc-server 0.4.0-5
 community python-jsonrpclib-pelix 0.4.3.2-1
-community python-jsonschema 4.17.0-1 [installed]
+community python-jsonschema 4.17.1-1 [installed]
 community python-jsonschema-objects 0.4.1-1
 community python-jsonschema-spec 0.1.2-1
 community python-junit-xml 1.9-6
@@ -9867,7 +9873,7 @@ community python-kaitaistruct 0.10-1
 community python-kajiki 0.9.1-1
 community python-kaptan 0.5.12-7
 community python-kazoo 2.9.0-1
-community python-keras 2.10.0-1
+community python-keras 2.11.0-1
 community python-keras-applications 1.0.8-8
 community python-keras-preprocessing 1.1.2-6
 community python-keycloak 1.8.0-1
@@ -9975,7 +9981,7 @@ community python-mediafile 0.10.1-1
 community python-meilisearch 0.19.1-1
 community python-memcached 1.59-10
 community python-memory-allocator 0.1.3-1
-community python-memory-profiler 0.60-1
+community python-memory-profiler 0.61-1
 community python-mergedict 1.0.0-6
 community python-micawber 0.5.4-3
 community python-migen 0.9.2-5
@@ -10028,7 +10034,7 @@ community python-myst-parser 0.18.1-1
 community python-nampa 1.0-2
 community python-natsort 8.2.0-2
 community python-nautilus 4.0-1
-community python-nbsphinx 0.8.9-1
+community python-nbsphinx 0.8.10-1
 community python-nbval 0.9.6-4
 community python-nbxmpp 3.2.5-1
 community python-ndg-httpsclient 0.5.1-11
@@ -10141,7 +10147,7 @@ community python-pdfrw 0.4-7
 community python-pdftotext 2.2.2-3
 community python-pdm 2.2.1-1
 community python-pdm-pep517 1:1.0.5-1
-community python-pdoc 12.2.1-1
+community python-pdoc 12.3.0-1
 community python-pecan 1.4.2-2
 community python-peewee 3.15.4-1
 community python-pefile 2022.5.30-1
@@ -10213,13 +10219,13 @@ community python-profilestats 2.0-11
 community python-progress 1.6-5
 community python-progressbar 4.2.0-1
 community python-promise 2.3.0-5
-community python-prompt_toolkit 3.0.32-1
+community python-prompt_toolkit 3.0.33-1
 community python-protego 0.2.1-1
 community python-proxmoxer 1.3.1-1
 community python-proxy.py 2.4.3-1
 community python-psutil 5.9.4-1
 community python-psycopg 3.1.4-1
-community python-psycopg-pool 3.1.3-1
+community python-psycopg-pool 3.1.4-1
 community python-psycopg2 2.9.3-2
 community python-ptrace 0.9.8-3
 community python-ptyprocess 0.7.0-4
@@ -10241,7 +10247,7 @@ community python-pyadi-iio 0.0.13-1
 community python-pyaes 1.6.1-9
 community python-pyalsa 1.2.7-1
 community python-pyaml 21.10.1-1 [installed]
-community python-pyarrow 9.0.0-1
+community python-pyarrow 10.0.0-1
 community python-pyaudio 0.2.12-1
 community python-pyaxmlparser 0.3.27-1
 community python-pybars3 0.9.7-7
@@ -10277,7 +10283,7 @@ community python-pydyf 0.5.0-1
 community python-pyee 9.0.4-2
 community python-pyenchant 3.2.2-1
 community python-pyerfa 2.0.0.1-4
-community python-pyface 7.4.2-1
+community python-pyface 7.4.3-1
 community python-pyfakefs 5.0.0-1
 community python-pyfiglet 0.8.post1-6
 community python-pyflakes 2.5.0-1
@@ -10290,7 +10296,7 @@ community python-pygeos 0.12.0-2
 community python-pygit2 1.11.0-1
 community python-pygithub 1.57-1
 community python-pyglet 2.0.0-2
-community python-pygls 0.12.1-1
+community python-pygls 0.13.0-1
 community python-pygments 2.13.0-1
 community python-pygpgme 0.3-10
 community python-pyhamcrest 2.0.4-1
@@ -10317,7 +10323,7 @@ community python-pyls-spyder 0.4.0-3
 community python-pymad 0.10-5
 community python-pymediainfo 5.1.0-3
 community python-pymeta3 0.5.1-5
-community python-pymongo 4.3.2-1
+community python-pymongo 4.3.3-1
 community python-pymupdf 1.21.0-1
 community python-pymysql 1.0.2-3
 community python-pynacl 1.4.0-5
@@ -10543,7 +10549,7 @@ community python-requests-toolbelt 0.10.1-1
 community python-requests-unixsocket 0.3.0-2
 community python-requests-wsgi-adapter 0.4.1-1
 community python-requestsexceptions 1.4.0-9
-community python-requirementslib 2.1.0-1
+community python-requirementslib 2.2.0-1
 community python-responses 0.22.0-1
 community python-resumable-urlretrieve 0.1.6-5
 community python-rfc3339-validator 0.1.4-3
@@ -10575,7 +10581,7 @@ community python-schedutils 0.6-11
 community python-schema 0.7.5-1
 community python-schemdraw 0.15-1
 community python-scikit-build 0.16.2-1
-community python-scikit-hep-testdata 0.4.21-1
+community python-scikit-hep-testdata 0.4.23-2
 community python-scikit-learn 1.1.3-1
 community python-scipy 1.9.3-1
 community python-scramp 1.4.4-1
@@ -10591,7 +10597,7 @@ community python-semver 2.13.0-5
 community python-send2trash 1.8.0-3
 community python-senf 1.5.0-4
 community python-sentinels 1.0.0-8
-community python-sepaxml 2.5.0-1
+community python-sepaxml 2.6.0-1
 community python-sequoia 1.6.0-3
 community python-serpent 1.41-2
 community python-setproctitle 1.3.1-1
@@ -10661,7 +10667,7 @@ community python-sphinx-reredirects 0.1.1-1
 community python-sphinx-testing 1.0.1-7
 community python-sphinx-theme-builder 0.2.0b1-1
 community python-sphinx-typlog-theme 0.8.0-5
-community python-sphinx_rtd_theme 1.0.0-5
+community python-sphinx_rtd_theme 1.1.1-1
 community python-sphinxcontrib-applehelp 1.0.2-9
 community python-sphinxcontrib-autoprogram 0.1.7-3
 community python-sphinxcontrib-bibtex 2.5.0-1
@@ -10678,7 +10684,7 @@ community python-sphinxcontrib-serializinghtml 1.1.5-4
 community python-sphinxcontrib-spelling 7.7.0-1
 community python-sphinxcontrib-towncrier 0.3.1a3-1
 community python-sphinxcontrib-trio 1.1.2-3
-community python-sphinxext-opengraph 0.7.2-1
+community python-sphinxext-opengraph 0.7.3-1
 community python-sphobjinv 2.3-1
 community python-spinners 0.0.24-3
 community python-split 0.4-7
@@ -10805,12 +10811,12 @@ community python-typing_inspect 0.8.0-1
 community python-typogrify 2.0.7-13
 community python-tzdata 2022.6-1
 community python-tzlocal 1:4.2-1
-community python-u-msgpack 2.7.1-5
+community python-u-msgpack 2.7.2-1
 community python-ubjson 0.16.1-5
 community python-uc-micro-py 1.0.1-3
 community python-ufolib2 0.14.0-1
 community python-uhashring 2.2-1
-community python-uhi 0.3.1-2
+community python-uhi 0.3.2-1
 community python-ujson 5.5.0-1
 community python-ukkonen 1.0.1-1
 community python-ukpostcodeparser 1.1.2-10
@@ -10909,7 +10915,7 @@ community python-xmltodict 0.13.0-2
 community python-xpybutil 0.0.6-4
 community python-xtarfile 0.1.0-3
 community python-xvfbwrapper 0.2.9-9
-community python-xxhash 3.0.0-1
+community python-xxhash 3.1.0-2
 community python-yaml 6.0-1 [installed]
 community python-yapsy 1.12.2-7
 community python-yara 4.2.3-1
@@ -10987,7 +10993,7 @@ community qnapi 0.2.3-5
 community qoauth 2.0.0-3
 community qopenvpn 2.0.0-6
 community qperf 0.4.11-3
-community qpid-proton 0.37.0-3
+community qpid-proton 0.38.0-1
 community qpress 1.1-4
 community qprint 1.1-2
 community qpwgraph 0.3.6-1
@@ -11118,7 +11124,7 @@ community restic 0.14.0-1
 community restinio 0.6.17-1
 community retext 8.0.0-1
 community retro-gtk 1.0.2-1
-community retroarch 1.12.0-2
+community retroarch 1.13.0-2
 community retroarch-assets-glui 1:439-1
 community retroarch-assets-ozone 1:439-1
 community retroarch-assets-xmb 1:439-1
@@ -11232,8 +11238,8 @@ community rofi-emoji 3.1.0-2
 community rofi-pass 2.0.2-2
 community rofimoji 6.0.0-1
 community rogue 5.4.4-7
-community root 6.26.06-7
-community root-cuda 6.26.06-7
+community root 6.26.10-1
+community root-cuda 6.26.10-1
 community rootlesskit 1.1.0-1
 community ropgadget 7.1-1
 community ropper 1.13.8-2
@@ -12070,7 +12076,7 @@ community svgcleaner 0.9.5-3
 community svt-hevc 1.5.1-2
 community svt-vp9 0.3.0-2
 community swaks 20201014.0-1
-community swappy 1.5.0-1
+community swappy 1.5.1-1
 community sway 1:1.7-10
 community swaybg 1.1.1-1
 community swayidle 1.7.1-3
@@ -12119,8 +12125,8 @@ community syncplay 1.6.9-5
 community syncthing 1.22.1-1
 community syncthing-relaysrv 1.22.1-1
 community synergy 1.11.1-1
-community synfig 1.4.2-2
-community synfigstudio 1.4.2-1
+community synfig 1.4.3-1
+community synfigstudio 1.4.3-1
 community synthv1 0.9.27-1
 community sysbench 1.0.20-1
 community sysdig 0.30.2-2
@@ -12174,12 +12180,12 @@ community telepathy-morse 0.1.0-3
 community tellico 3.4.4-1
 community tembro 0.6.0-1
 community tenshi 0.17-2
-community tensorboard 2.10.1-1
+community tensorboard 2.11.0-1
 community tensorflow 2.11.0-1
 community tensorflow-cuda 2.11.0-1
 community tensorflow-opt 2.11.0-1
 community tensorflow-opt-cuda 2.11.0-1
-community tepl 1:6.2.0-2
+community tepl 1:6.2.0-3
 community tere 1.3.0-3
 community termdown 1.18.0-3
 community terminator 2.1.2-2
@@ -12319,7 +12325,7 @@ community tesseract-data-yor 2:4.1.0-3
 community testssl.sh 3.0.8-2
 community testu01 1.2.3-4
 community tetrinet 0.11-9
-community texlab 4.2.2-1
+community texlab 4.3.2-1
 community texmaker 5.1.3-1
 community texstudio 4.4.0-1
 community texworks 0.6.7-1
@@ -12511,7 +12517,7 @@ community txt2tags 3.7-7
 community typescript 4.9.3-1
 community typescript-language-server 2.1.0-1
 community typespeed 0.6.5-9
-community typos 1.12.14-1
+community typos 1.13.0-1
 community uasm 2.56.2-1
 community ublock-origin 1.45.2-1
 community uboot-tools 2022.10-3
@@ -12559,6 +12565,7 @@ community unace 2.5-11
 community unarchiver 1.10.7-7
 community unarj 2.65-1
 community unbound 1.17.0-3
+community uncertainty-framework 1.2.0-5
 community unclutter 1:1.6-2
 community uncrustify 0.75.1-1
 community unhide 20220611-2
@@ -12583,7 +12590,7 @@ community up 0.4-3
 community updlockfiles 0.1.0-1
 community upterm 0.9.0-1
 community uptimed 0.4.6-2
-community upx 4.0.0-1
+community upx 4.0.1-1
 community uqm 0.8.0-2
 community urh 2.9.3-4
 community uriparser 0.9.7-1
@@ -12604,7 +12611,7 @@ community uucp 1.07-7
 community uudeview 0.5.20-17
 community uusi 0.4.2.0-108
 community uutils-coreutils 0.0.16-1
-community uvicorn 0.19.0-1
+community uvicorn 0.20.0-1
 community uwsgi 2.0.21-2
 community uwsgi-plugin-cgi 2.0.21-2
 community uwsgi-plugin-lua51 2.0.21-2
@@ -12631,7 +12638,7 @@ community vals 0.19.0-1
 community vamp-aubio-plugins 0.5.1-5
 community vamp-plugin-sdk 2.10.0-1
 community vamps 0.99.2-14
-community vapoursynth R60-1
+community vapoursynth R61-1
 community vapoursynth-plugin-deblock 6.1-2
 community vapoursynth-plugin-fluxsmooth 2-3
 community vapoursynth-plugin-lsmashsource 1:A.5a-2
@@ -12656,6 +12663,7 @@ community veracrypt 1.25.9-3
 community verilator 5.002-1
 community vhba-module 20211218-82
 community vhba-module-dkms 20211218-82
+community vhs 0.2.0-1
 community vice 3.6.1-2
 community vicious 2.5.1-1
 community vico 1.2.2-2
@@ -12803,7 +12811,7 @@ community waf 2.0.24-2
 community wah-plugins 0.1.0-6
 community waifu2x-ncnn-vulkan 20220728-1
 community wails 2.2.0-1
-community wakatime 1:1.55.1-1
+community wakatime 1:1.57.0-1
 community wake 0.21.0-1
 community wallabag 2.5.2-1
 community wallutils 5.12.4-1
@@ -12892,7 +12900,7 @@ community woob 3.0-6
 community woodpecker-agent 0.15.5-1
 community woodpecker-cli 0.15.5-1
 community woodpecker-server 0.15.5-1
-community wordpress 6.1-1
+community wordpress 6.1.1-1
 community words 2.1-6
 community workrave 1.10.50-1
 community wpscan 1:3.8.22-3
@@ -12953,7 +12961,7 @@ community xdo 0.5.7-2
 community xdot 1.2-1
 community xdotool 3.20211022.1-1
 community xdp-tools 1.2.8-2
-community xed 3.2.7-1
+community xed 3.2.8-1
 community xf86-video-qxl 0.1.5.r23.g52e9752-2
 community xfce4-whiskermenu-plugin 2.7.1-1
 community xfmpc 0.3.0-4
@@ -12994,7 +13002,7 @@ community xplr 0.20.0-1
 community xpra 4.3.3-1
 community xprintidle 0.2.5-1
 community xreader 3.6.0-1
-community xrootd 5.5.0-3
+community xrootd 5.5.1-1
 community xsecurelock 1.8.0-1
 community xsel 1.2.0.20200527-2
 community xsensors 0.80-3
@@ -13009,7 +13017,7 @@ community xtrabackup 8.0.30_23-1
 community xtrlock 2.15-1
 community xwallpaper 0.7.4-1
 community xwax 1.8-1
-community xxhash 0.8.1-2 [installed]
+community xxhash 0.8.1-3 [installed]
 community xxkb 1.11.1-3
 community yabause-gtk 0.9.15-3
 community yabause-qt 0.9.15-3
@@ -13128,8 +13136,8 @@ multilib lib32-at-spi2-core 2.46.0-2
 multilib lib32-attr 2.5.1-1
 multilib lib32-boost 1.80.0-2
 multilib lib32-boost-libs 1.80.0-2
-multilib lib32-brotli 1.0.9-4
-multilib lib32-bzip2 1.0.8-2
+multilib lib32-brotli 1.0.9-5
+multilib lib32-bzip2 1.0.8-3
 multilib lib32-cairo 1.17.6-2
 multilib lib32-cdparanoia 10.2-4
 multilib lib32-clang 14.0.6-2
@@ -13172,7 +13180,7 @@ multilib lib32-gtk2 2.24.33-2
 multilib lib32-gtk3 3.24.34+r156+g812b3930d0-1
 multilib lib32-harfbuzz 5.3.1-3
 multilib lib32-harfbuzz-icu 5.3.1-3
-multilib lib32-icu 72.1-1
+multilib lib32-icu 72.1-2
 multilib lib32-imlib2 1.9.1-1
 multilib lib32-jack2 1.9.21-1
 multilib lib32-jansson 2.14-1
@@ -13278,7 +13286,7 @@ multilib lib32-libwebp 1.2.4-1
 multilib lib32-libwrap 7.6.31-4
 multilib lib32-libx11 1.8.2-2
 multilib lib32-libxau 1.0.10-3
-multilib lib32-libxcb 1.15-1
+multilib lib32-libxcb 1.15-2
 multilib lib32-libxcomposite 0.4.5-2
 multilib lib32-libxcrypt 4.4.33-1
 multilib lib32-libxcrypt-compat 4.4.33-1
@@ -13380,7 +13388,7 @@ multilib lib32-xcb-util 0.4.0-2
 multilib lib32-xcb-util-keysyms 0.4.1-1
 multilib lib32-xz 5.2.8-2
 multilib lib32-zeromq 4.3.4-2
-multilib lib32-zlib 1.2.13-1
+multilib lib32-zlib 1.2.13-2
 multilib lib32-zstd 1.5.2-1
 multilib nspluginwrapper 1.4.4-6
 multilib steam 1.0.0.75-1
@@ -22856,8 +22864,8 @@ chaotic-aur ignition-tools 1.5.0-1.1
 chaotic-aur ignition-transport-8 8.2.0-2.1
 chaotic-aur iir1 1.9.3-1
 chaotic-aur image-roll-bin 2.1.0-1.1
-chaotic-aur imagemagick-full-doc-git 7.1.0.52.r43.g07de0dadb-1
-chaotic-aur imagemagick-full-git 7.1.0.52.r43.g07de0dadb-1
+chaotic-aur imagemagick-full-doc-git 7.1.0.52.r44.g9f96fe801-1
+chaotic-aur imagemagick-full-git 7.1.0.52.r44.g9f96fe801-1
 chaotic-aur imagewriter 1.10.1432200249.1d253d9.2.14-1.1
 chaotic-aur imaginary-teleprompter-bin 2.4.0-7.1
 chaotic-aur imagine-git 0.7.1.r0.g278e380-1.1
@@ -23247,7 +23255,7 @@ chaotic-aur lib32-serd 0.30.16-1
 chaotic-aur lib32-shaderc 2022.1-1
 chaotic-aur lib32-sord 0.16.14-1
 chaotic-aur lib32-spandsp 0.0.6-4
-chaotic-aur lib32-spirv-tools-tkg-git 2022.4.r22.g46ca66e69-1
+chaotic-aur lib32-spirv-tools-tkg-git 2022.4.r23.g81ec2aaa0-1
 chaotic-aur lib32-sratom 0.6.14-1.1
 chaotic-aur lib32-srt 1.5.1-1
 chaotic-aur lib32-unixodbc 2.3.11-1
@@ -24141,7 +24149,7 @@ chaotic-aur python-fonttools-git 4.38.0.r63.g5a0dc4b-1
 chaotic-aur python-freetype-py 2.3.0-1.1
 chaotic-aur python-gbinder 1.1.1-1
 chaotic-aur python-gevent-eventemitter 2.1-3.1
-chaotic-aur python-git 3.12.0a0.r115339.81f7359f67a-1
+chaotic-aur python-git 3.12.0a0.r115340.55bad199cf8-1
 chaotic-aur python-googletrans-git r116.d15c94f-1.1
 chaotic-aur python-gpiozero 1.6.2-2
 chaotic-aur python-gtts 2.2.4-1.1
@@ -24526,7 +24534,7 @@ chaotic-aur spice-guest-tools-windows 0.141-1
 chaotic-aur spicetify-cli 2.14.2-1
 chaotic-aur spicetify-cli-git 2.14.3.r0.g424093d-1
 chaotic-aur spirv-cross 2022.05.27-1
-chaotic-aur spirv-tools-tkg-git 2022.4.r22.g46ca66e69-1
+chaotic-aur spirv-tools-tkg-git 2022.4.r23.g81ec2aaa0-1
 chaotic-aur split2flac 20200508-1
 chaotic-aur spot-client 0.3.2-1.2
 chaotic-aur spot-client-git 0.3.3.r0.g8fe75ea-1.2
