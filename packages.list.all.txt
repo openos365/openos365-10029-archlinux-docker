@@ -2253,7 +2253,7 @@ extra perl-encode-locale 1.05-9 [installed]
 extra perl-error 0.17029-4 [installed]
 extra perl-ev 4.33-4
 extra perl-event-execflow 0.64-7
-extra perl-exporter-tiny 1.004004-2
+extra perl-exporter-tiny 1.006000-1
 extra perl-extutils-depends 0.8001-3
 extra perl-extutils-libbuilder 0.08-9
 extra perl-extutils-pkgconfig 1.16-9
@@ -3465,7 +3465,7 @@ community apptainer 1.1.3-1
 community aqbanking 6.5.3-1
 community arandr 0.1.10-7
 community arb 2.23.0-1
-community arbtt 0.12.0.1-26
+community arbtt 0.12.0.1-27
 community arc-gtk-theme 20220405-1
 community arc-icon-theme 20161122-3
 community arc-solid-gtk-theme 20220405-1
@@ -4252,12 +4252,12 @@ community dfu-util 0.11-2
 community dg 1.1.0.20160916-6
 community dgedit 0.10.0-2
 community dgen-sdl 1.33-4
-community dhall 1.41.2-23
-community dhall-bash 1.0.40-123
-community dhall-docs 1.0.10-53
-community dhall-json 1.7.11-26
-community dhall-lsp-server 1.1.2-29
-community dhall-yaml 1.2.11-26
+community dhall 1.41.2-24
+community dhall-bash 1.0.40-124
+community dhall-docs 1.0.10-54
+community dhall-json 1.7.11-27
+community dhall-lsp-server 1.1.2-30
+community dhall-yaml 1.2.11-27
 community dhcp-helper 1.2-2
 community dhcping 1.2-3
 community dhex 0.69-3
@@ -5864,7 +5864,7 @@ community haskell-linear 1.21.10-27
 community haskell-linear-base 0.3.0-3
 community haskell-linear-generics 0.2-15
 community haskell-list-t 1.0.5.3-27
-community haskell-listlike 4.7.7-17
+community haskell-listlike 4.7.8-1
 community haskell-loch-th 0.2.2-19
 community haskell-logging-facade 0.3.1-108
 community haskell-logict 0.7.1.0-183
@@ -6032,7 +6032,7 @@ community haskell-primitive-addr 0.1.0.2-73
 community haskell-primitive-extras 0.10.1.5-5
 community haskell-primitive-unaligned 0.1.1.2-10
 community haskell-primitive-unlifted 0.1.3.1-3
-community haskell-process-extras 0.7.4-272
+community haskell-process-extras 0.7.4-273
 community haskell-profunctors 5.6.2-113
 community haskell-project-template 0.2.1.0-258
 community haskell-protolude 0.3.2-16
@@ -6224,7 +6224,7 @@ community haskell-tasty-kat 0.0.3-137
 community haskell-tasty-lua 1.0.2-33
 community haskell-tasty-quickcheck 0.10.2-221
 community haskell-tasty-rerun 1.1.18-138
-community haskell-tasty-silver 3.3.1.1-46
+community haskell-tasty-silver 3.3.1.1-47
 community haskell-tasty-smallcheck 0.8.2-368
 community haskell-tasty-sugar 2.0.0.1-1
 community haskell-tasty-th 0.1.7-285
@@ -6310,7 +6310,7 @@ community haskell-universe-base 1.1.3-61
 community haskell-universe-reverse-instances 1.1.1-117
 community haskell-unix-compat 0.6-38
 community haskell-unix-time 0.4.8-10
-community haskell-unixutils 1.54.2-106
+community haskell-unixutils 1.54.2-107
 community haskell-unliftio 0.2.23.0-3
 community haskell-unliftio-core 0.2.0.1-9
 community haskell-unordered-containers 0.2.19.1-45
@@ -6459,7 +6459,7 @@ community hm 16.24-3
 community hoel 1.4.26-1
 community home-assistant 1:2022.11.4-1
 community homebank 5.5.8-1
-community hoogle 5.0.18.3-98
+community hoogle 5.0.18.3-99
 community hopenpgp-tools 0.23.7-59
 community horst 5.1-2
 community hostapd 2.10-2
@@ -7783,7 +7783,7 @@ community microsoft-gsl 4.0.0-1
 community midi_matrix.lv2 0.28.0-1
 community midimsg-lv2 0.0.5-1
 community midori 9.0-4
-community mighttpd2 4.0.2-59
+community mighttpd2 4.0.2-60
 community milkytracker 1.03.00-3
 community mill 0.10.9-1
 community miller 6.5.0-1
@@ -14352,7 +14352,7 @@ chaotic-aur gnome-shell-performance 1:43.1+4+ga2cd818c8-2
 chaotic-aur gnome-shell-pomodoro 0.22.0-1.1
 chaotic-aur gnome-terminal-transparency 3.46.4-2
 chaotic-aur gnome-terminal-transparency-debug 3.46.4-2
-chaotic-aur godot-git 4.0.r49184.gef090ee6ea-1
+chaotic-aur godot-git 4.0.r49184.gef090ee6eac4-1
 chaotic-aur godot-mono 3.5-1.1
 chaotic-aur goland 2022.2.5-1
 chaotic-aur goland-jre 2022.2.5-1
@@ -15116,9 +15116,9 @@ chaotic-aur linux-firmware-nfp-git 20221123.cdf9499-1
 chaotic-aur linux-firmware-qcom-git 20221123.cdf9499-1
 chaotic-aur linux-firmware-qlogic-git 20221123.cdf9499-1
 chaotic-aur linux-firmware-whence-git 20221123.cdf9499-1
-chaotic-aur linux-git 6.1rc6.r15.gc3eb11fbb826-1
-chaotic-aur linux-git-docs 6.1rc6.r0.geb7081409f94-1
-chaotic-aur linux-git-headers 6.1rc6.r15.gc3eb11fbb826-1
+chaotic-aur linux-git 6.1rc7.r0.gb7b275e60bcd-1
+chaotic-aur linux-git-docs 6.1rc7.r0.gb7b275e60bcd-1
+chaotic-aur linux-git-headers 6.1rc7.r0.gb7b275e60bcd-1
 chaotic-aur linux-lqx 6.0.10.lqx1-1
 chaotic-aur linux-lqx-docs 6.0.10.lqx1-1
 chaotic-aur linux-lqx-headers 6.0.10.lqx1-1
