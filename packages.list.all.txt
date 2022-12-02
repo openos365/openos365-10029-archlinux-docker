@@ -256,7 +256,7 @@ core which 2.21-5 [installed]
 core wireless-regdb 2022.08.12-1
 core wpa_supplicant 2:2.10-7 [installed]
 core xfsprogs 6.0.0-1 [installed]
-core xz 5.2.8-1 [installed]
+core xz 5.2.9-1 [installed]
 core zlib 1:1.2.13-2 [installed]
 core zstd 1.5.2-7 [installed]
 extra 389-ds-base 2.3.1-1
@@ -5312,7 +5312,7 @@ community handbrake 1.5.1-2
 community handbrake-cli 1.5.1-2
 community handlr 0.6.4-2
 community happy 1.20.0-9
-community haproxy 2.6.6-2
+community haproxy 2.7.0-1
 community haruna 0.9.3-2
 community harvid 0.9.0-1
 community hashcat 1:6.2.6-1
@@ -7113,7 +7113,7 @@ community liborigin 3.0.1-1
 community libosinfo 1.10.0-2
 community libosmosdr 0.1.r10.gba4fd96-2
 community libp11 0.4.12-2
-community libpackagekit-glib 1.2.5-2
+community libpackagekit-glib 1.2.6-1
 community libpam-google-authenticator 1.09-1
 community libpano13 2.9.21-2
 community libparserutils 0.2.4-5
@@ -8161,7 +8161,7 @@ community onionshare 2.5-2
 community opam 2.1.3-1
 community open-iscsi 2.1.8-2
 community open-isns 0.102-2
-community open-vm-tools 6:12.1.0-1
+community open-vm-tools 6:12.1.5-1
 community openapi-diff 2.0.1-1
 community openapi-generator 6.2.1-1
 community openblas 0.3.21-1
@@ -8321,7 +8321,7 @@ community p0f 3.09b-3
 community p2pool 2.6-1
 community p8-platform 2.1.0.1-4
 community pacgraph 20110629-6
-community packagekit 1.2.5-2
+community packagekit 1.2.6-1
 community packagekit-qt5 1.1.0-1
 community packagekit-qt6 1.1.0-1
 community packer 1.8.4-1
@@ -11092,7 +11092,7 @@ community rapydscript-ng 0.7.21-2
 community rathole 0.4.7-1
 community ratpoison 1.4.9-4
 community rauc 1.8-5
-community rawtherapee 1:5.8-3
+community rawtherapee 1:5.9-1
 community raylib 4.2.0-2
 community razercfg 0.42-5
 community rbutil 1.5.1-1
@@ -13405,7 +13405,7 @@ multilib lib32-wavpack 5.5.0-2
 multilib lib32-wayland 1.21.0-1
 multilib lib32-xcb-util 0.4.0-2
 multilib lib32-xcb-util-keysyms 0.4.1-1
-multilib lib32-xz 5.2.8-2
+multilib lib32-xz 5.2.9-1
 multilib lib32-zeromq 4.3.4-2
 multilib lib32-zlib 1.2.13-2
 multilib lib32-zstd 1.5.2-1
@@ -14952,7 +14952,7 @@ chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangoapp 0.6.8-1.1
 chaotic-aur lib32-mangohud 0.6.8-1.1
 chaotic-aur lib32-mangohud-git 0.6.8.r32.gddbb4f5-1
-chaotic-aur lib32-mesa-tkg-git 23.0.0_devel.163690.b67fdcdfbc0-1
+chaotic-aur lib32-mesa-tkg-git 23.0.0_devel.163796.09caa570b18-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.1
 chaotic-aur lib32-neon 0.32.4-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15277,7 +15277,7 @@ chaotic-aur mendeleydesktop 1.19.8-1.1
 chaotic-aur mendeleydesktop-bundled 1.19.8-1.1
 chaotic-aur menulibre 2.2.3-1.1
 chaotic-aur mergerfs 2.33.5-1
-chaotic-aur mesa-tkg-git 23.0.0_devel.163690.b67fdcdfbc0-1
+chaotic-aur mesa-tkg-git 23.0.0_devel.163796.09caa570b18-1
 chaotic-aur mesen-x-git 1.0.1.r148.ga6c9741c-1.1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -15373,7 +15373,7 @@ chaotic-aur neofetch-git 7.1.0.r166.gccd5d9f5-1
 chaotic-aur neofrog-git 7.1.0.r166.gccd5d9f5-1.1
 chaotic-aur neovide-git 0.10.3.r7.g225a5f5-1
 chaotic-aur neovim-drop-in 1-1.1
-chaotic-aur neovim-git 0.8.0.r749.g86f9e29c86-1
+chaotic-aur neovim-git 0.8.0.r753.ga3f01d32cb-1
 chaotic-aur neovim-plug 0.11.0-3.1
 chaotic-aur neovim-plug-git 0.11.0.r10.ddce935-1.1
 chaotic-aur neovim-remote 2.5.0-1.1
@@ -22106,7 +22106,7 @@ archlinuxcn fritzing 0.9.10-2
 archlinuxcn frpc 0.45.0-1
 archlinuxcn frps 0.45.0-1
 archlinuxcn fstrcmp 0.7.D001-3
-archlinuxcn gammaray-qt6-git 2.11.3.r438.g997c99007-1
+archlinuxcn gammaray-qt6-git 2.11.3.r441.g02190e44f-1
 archlinuxcn gatus 4.4.0-1
 archlinuxcn gcc10 10.4.0-1
 archlinuxcn gcc10-fortran 10.4.0-1
@@ -22882,7 +22882,7 @@ archlinuxcn libpthread-stubs 0.4-1
 archlinuxcn libqtxdg-git 3.10.0-7
 archlinuxcn libreoffice-extension-languagetool 5.8-1
 archlinuxcn librewolf 107.0-1
-archlinuxcn librime-sbxlm-git 1:1.4.0.r372.g2b6055ca-1
+archlinuxcn librime-sbxlm-git 1:1.4.0.r373.geae81c98-1
 archlinuxcn libsearpc 2:3.2.0-9
 archlinuxcn libstdc++-doc 20140403-1
 archlinuxcn libsysstat-git 0.4.6-3
@@ -25547,7 +25547,7 @@ arcolinux_repo_iso arcob-calamares-config-deepin-git 22.11-40
 arcolinux_repo_iso arcob-calamares-config-dusk-git 22.11-40
 arcolinux_repo_iso arcob-calamares-config-dwm-git 22.11-40
 arcolinux_repo_iso arcob-calamares-config-enlightenment-git 22.11-40
-arcolinux_repo_iso arcob-calamares-config-everyway-git 22.12-01
+arcolinux_repo_iso arcob-calamares-config-everyway-git 22.12-02
 arcolinux_repo_iso arcob-calamares-config-fvwm3-git 22.11-40
 arcolinux_repo_iso arcob-calamares-config-gnome-git 22.11-40
 arcolinux_repo_iso arcob-calamares-config-herbstluftwm-git 22.11-40
