@@ -16,40 +16,16 @@ ssh-keygen -f "/home/runner/.ssh/known_hosts" -R "github.com"
 ssh-keyscan "github.com" >> /home/runner/.ssh/known_hosts
 cat /home/runner/.ssh/known_hosts
 
-env
-docker build . -f Dockerfile.$GITHUB_REF_NAME \
--t ghcr.io/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER -t ghcr.io/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:latest \
--t gnuhub/$PROJECT_NAME-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER -t gnuhub/$PROJECT_NAME-$GITHUB_REF_NAME:latest \
--t hkccr.ccs.tencentyun.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER -t hkccr.ccs.tencentyun.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:latest \
--t registry.cn-hangzhou.aliyuncs.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER -t registry.cn-hangzhou.aliyuncs.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:latest
 
 
-docker push ghcr.io/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER
-docker push ghcr.io/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:latest
-docker push registry.cn-hangzhou.aliyuncs.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER
-docker push registry.cn-hangzhou.aliyuncs.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:latest
-docker push hkccr.ccs.tencentyun.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER 
-docker push hkccr.ccs.tencentyun.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:latest 
-docker push gnuhub/$PROJECT_NAME-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER
-docker push gnuhub/$PROJECT_NAME-$GITHUB_REF_NAME:latest
+cd ~
+git clone git@github.com:opendde/10018-opendde-aur-database.git
+cd 10018-opendde-aur-database
 
-docker run ghcr.io/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Sl > release.$GITHUB_RUN_NUMBER.packages.list.all.txt
-docker run ghcr.io/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Qe > release.$GITHUB_RUN_NUMBER.packages.list.installed.txt
+./101.aur.all.list.gen.sh
 
-cd ~/
-git clone git@github.com:archlinux365/9318-archlinux-docker.git
-
-cd 9318-archlinux-docker
-
-docker run ghcr.io/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Sl > packages.list.all.txt
-docker run ghcr.io/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Qe > packages.list.installed.txt
-
-git config --global user.email "gnuhub@gmail.com"
-git config --global user.name "gnuhub"
 git add .
-git commit -a -m "CI-BOT:$(date +%Y.%m.%d-%H%M%S)-$GITHUB_REF_NAME-$GITHUB_RUN_NUMBER"
-git push origin root 
+git commit -a -m "CI $(date)"
+git push origin HEAD
 
-git checkout runner 
-git merge root 
-git push origin runner
+
