@@ -92,7 +92,7 @@ core keyutils 1.6.3-1 [installed]
 core kmod 30-3 [installed]
 core krb5 1.20-3 [installed]
 core ldns 1.8.3-2 [installed]
-core lemon 3.40.0-1
+core lemon 3.40.0-2
 core less 1:608-1 [installed]
 core lib32-gcc-libs 12.2.0-1
 core lib32-glibc 2.36-6
@@ -230,10 +230,10 @@ core s-nail 14.9.24-2
 core sdparm 1.12-1
 core sed 4.9-1 [installed]
 core shadow 4.12.3-2 [installed]
-core sqlite 3.40.0-1 [installed]
-core sqlite-analyzer 3.40.0-1
-core sqlite-doc 3.40.0-1
-core sqlite-tcl 3.40.0-1
+core sqlite 3.40.0-2 [installed]
+core sqlite-analyzer 3.40.0-2
+core sqlite-doc 3.40.0-2
+core sqlite-tcl 3.40.0-2
 core sudo 1.9.12.p1-1 [installed]
 core sysfsutils 2.1.1-1 [installed]
 core syslinux 6.04.pre2.r11.gbf6db5b4-3
@@ -6641,7 +6641,7 @@ community jack_mixer 17-2
 community jack_utils 0.0.1-1
 community jackmeter 0.4-2
 community jackminimix 0.2.1-2
-community jacktrip 1:1.6.6-1
+community jacktrip 1:1.6.7-1
 community jad 1.5.8e-10
 community jadx 1.4.4-1
 community jake 10.8.5-1
@@ -14728,7 +14728,7 @@ chaotic-aur kdenlive-git 23.03.70.r17117-1
 chaotic-aur kdenlive-stabledeps-git 23.03.70.r17125-1
 chaotic-aur kdepim-addons-git 5.22.40_r4944.g6909b8b99-1
 chaotic-aur kdepim-runtime-git 23.03.40_r15655.g219738e81-1
-chaotic-aur kdeplasma-addons-git 5.26.80_r9190.g10bf1c59b-1
+chaotic-aur kdeplasma-addons-git 5.26.80_r9193.ge28bee051-1
 chaotic-aur kdeplasma-applets-fokus 1.5.5-1.1
 chaotic-aur kdesignerplugin-git 5.101.0_r379.gf6e7e95-1
 chaotic-aur kdesu-git 5.101.0_r534.g3463f37-1
@@ -14749,13 +14749,13 @@ chaotic-aur keyboard-visualizer-git release_4.00.r26.gb50cc50-1.1
 chaotic-aur keymapper-git r215.a8e8e61-1
 chaotic-aur kfilemetadata-git 5.101.0_r902.gc49b152-1
 chaotic-aur kfiredragonhelper 5.0.6-1.1
-chaotic-aur kgamma5-git 5.26.80_r498.gf413c2c-1
+chaotic-aur kgamma5-git 5.26.80_r499.g40ac727-1
 chaotic-aur kget-git 23.03.70_r3263.g12e84ba7-1
 chaotic-aur kglobalaccel-git 5.101.0_r606.gb2f7d86-1
 chaotic-aur kguiaddons-git 5.101.0_r517.g1588ce0-1
 chaotic-aur khelpcenter-git 23.03.70_r2831.g062ca3f0-1
 chaotic-aur kholidays-git 1:5.101.0_r1085.ge5902ff-1
-chaotic-aur khotkeys-git 5.26.80_r2182.g10ca616-1
+chaotic-aur khotkeys-git 5.26.80_r2183.gbb898f9-1
 chaotic-aur khtml-git 5.101.0_r622.g363fb6e-1
 chaotic-aur ki18n-git 5.101.0_r601.gd21057f-1
 chaotic-aur kicad-git 6.99.0.r4702.g497b368006-1
@@ -14767,7 +14767,7 @@ chaotic-aur kimageannotator-git r1140.2d27e7d-1
 chaotic-aur kimageformats-git 5.101.0_r470.g7af4eea-1
 chaotic-aur kimap-git 5.22.40_r1228.gec136c8-1
 chaotic-aur kimap2-git 0.4.0_r826.g366193b-1.1
-chaotic-aur kinfocenter-git 5.26.80_r2234.g227f1b6c-1
+chaotic-aur kinfocenter-git 5.26.80_r2236.g4de1770d-1
 chaotic-aur kinit-git 5.101.0_r465.g5aa7ca2-1
 chaotic-aur kio-extras-git 23.03.70_r7420.gc5cadaebf-1
 chaotic-aur kio-git 5.101.0_r5937.g8b1cf149f-1
@@ -14789,7 +14789,7 @@ chaotic-aur kmail-account-wizard-git 23.03.40_r918.g8683978-1
 chaotic-aur kmail-git 23.03.40_r26639.gf331aa239-1
 chaotic-aur kmailtransport-git 5.22.40_r1826.g039a2f7-1
 chaotic-aur kmbox-git 5.22.40_r619.ge40298f-1
-chaotic-aur kmenuedit-git 5.26.80_r1111.g774ccd6-1
+chaotic-aur kmenuedit-git 5.26.80_r1112.g871f202-1
 chaotic-aur kmime-git 5.22.40_r1562.ge4466dd-1
 chaotic-aur knewstuff-git 5.101.0_r1433.gf64baa30-1
 chaotic-aur knotes-git 23.03.40_r3746.g9e0f99e1-1
@@ -14827,15 +14827,15 @@ chaotic-aur kquickchatcomponents-git r15.f184bbc-1.1
 chaotic-aur kross-git 5.101.0_r382.gbdb0fcb-1
 chaotic-aur krunner-git 5.101.0_r800.gb11d2f7-1
 chaotic-aur kscreen-git 5.26.80_r1611.g7bc9e4f-1
-chaotic-aur kscreenlocker-git 5.26.80_r1022.g449ed05-1
+chaotic-aur kscreenlocker-git 5.26.80_r1023.g21df920-1
 chaotic-aur kservice-git 5.101.0_r1055.gff4e834-1
 chaotic-aur ksmoothdock 6.3-2.1
 chaotic-aur ksmtp-git 5.22.40_r477.g0928530-1
 chaotic-aur ksnip-git 1.10.1_r2676.g820fea3c-1
-chaotic-aur ksshaskpass-git 5.26.80_r226.g7423b6e-1
+chaotic-aur ksshaskpass-git 5.26.80_r227.g91ebc05-1
 chaotic-aur ksysguard-git 5.22.80_r3563.ga456f225-1
 chaotic-aur ksystemlog-git 23.03.70_r782.ge2d6723-1
-chaotic-aur ksystemstats-git 5.26.80_r257.ged19f25-1
+chaotic-aur ksystemstats-git 5.26.80_r258.gd651d8f-1
 chaotic-aur ktexteditor-git 5.101.0_r3654.gfbbb3e65-1
 chaotic-aur ktextwidgets-git 5.101.0_r480.gc0eddfb-1
 chaotic-aur ktlint 0.47.1-1.1
@@ -15177,10 +15177,10 @@ chaotic-aur linux-tkg-pds 6.0.11-272
 chaotic-aur linux-tkg-pds-generic_v3 6.0.11-272
 chaotic-aur linux-tkg-pds-generic_v3-headers 6.0.11-272
 chaotic-aur linux-tkg-pds-headers 6.0.11-272
-chaotic-aur linux-tkg-tt 6.0.10-272
+chaotic-aur linux-tkg-tt 6.0.11-272
 chaotic-aur linux-tkg-tt-generic_v3 6.0.10-272
 chaotic-aur linux-tkg-tt-generic_v3-headers 6.0.11-272
-chaotic-aur linux-tkg-tt-headers 6.0.10-272
+chaotic-aur linux-tkg-tt-headers 6.0.11-272
 chaotic-aur linux-tt 6.0.10-1
 chaotic-aur linux-tt-headers 6.0.10-1
 chaotic-aur linux-vfio 6.0.10.arch2-1
@@ -16009,7 +16009,7 @@ chaotic-aur python311 3.11.0-1.2
 chaotic-aur python38 3.8.15-3
 chaotic-aur python39 3.9.15-2
 chaotic-aur pyzbar 0.1.9-1.1
-chaotic-aur q-dns-git 0.8.4.r0.g9c035b4-1
+chaotic-aur q-dns-git 0.8.4.r0.g9c035b4-2
 chaotic-aur qbe-git r1303.9126afa-1
 chaotic-aur qbittorrent-enhanced 4.4.5.10-1.1
 chaotic-aur qbittorrent-enhanced-git 4.5.0.10.r1.ga2a93ff25-1
@@ -16317,7 +16317,7 @@ chaotic-aur subsurface-libdc 5.0.9-1
 chaotic-aur subsurface-libdc-git 20221102.28c27e2-1.1
 chaotic-aur subtitlecomposer 0.7.1-4
 chaotic-aur subtitlecomposer-git 0.7.1+git183.78553af0-1
-chaotic-aur sudo-git 1.9.12p1.r11979.g31152ba4d-1
+chaotic-aur sudo-git 1.9.12p1.r11980.gee6420ad5-1
 chaotic-aur sunshine 0.15.0-1.2
 chaotic-aur superbfetch-git r106.396a1d9-1
 chaotic-aur superproductivity-bin 7.12.0-1.1
@@ -21793,7 +21793,7 @@ archlinuxcn cemu 1.26.2-6
 archlinuxcn cemu-git 2.0.19.r3.gb361b15-1
 archlinuxcn cgproxy-git v0.19.r3.gaaa628a-4
 archlinuxcn charls 2.3.4-1
-archlinuxcn chatterino2-git r3773.6ee7ef8ca-1
+archlinuxcn chatterino2-git r3776.4fa214a38-1
 archlinuxcn chez-scheme 9.5.6-1
 archlinuxcn china-ip-list-git 0.82.28e7ddb-2
 archlinuxcn chnroutes-alike-git 0.128.d7405ea-1
@@ -21926,8 +21926,8 @@ archlinuxcn emacs-go-mode-git 1.6.0.r4.g08aa90d5-2
 archlinuxcn emacs-julia-mode-git 1:0.357.gadf4029-2
 archlinuxcn emacs-llvm-mode-git 442710.5cfc22cafe3f-1
 archlinuxcn emacs-markdown-mode-git 2.5.r37.ge3937a7-1
-archlinuxcn emacs-native-comp-git 30.0.50.162733-1
-archlinuxcn emacs-native-comp-pgtk-git 30.0.50.162733-1
+archlinuxcn emacs-native-comp-git 30.0.50.162734-1
+archlinuxcn emacs-native-comp-pgtk-git 30.0.50.162734-1
 archlinuxcn emacs-org-mode-git 1:9.6.r14.g53814a806-1
 archlinuxcn emacs-pkgbuild-mode-git 0.14.1.r10.g9bf1432-2
 archlinuxcn emacs-queue 0.2-3
@@ -22092,7 +22092,7 @@ archlinuxcn firefox-nightly-en-us 109.0a1.20221202.23-1
 archlinuxcn firefox-nightly-ja 109.0a1.20221202.23-1
 archlinuxcn firefox-nightly-zh-cn 109.0a1.20221202.23-1
 archlinuxcn firefox-nightly-zh-tw 109.0a1.20221202.23-1
-archlinuxcn firefox-pwa 2.1.2-2
+archlinuxcn firefox-pwa 2.2.0-1
 archlinuxcn firewalld-git 1:r3592.6fcbf890-1
 archlinuxcn fish-git 2:3.5.1.r668.g4159b2a33-1
 archlinuxcn flacon 9.0.0-1
@@ -23061,7 +23061,7 @@ archlinuxcn needrestart-git 3.6.r4.ge9f7e3b-1
 archlinuxcn neovide-git 0.10.3.r7.g225a5f5-1
 archlinuxcn neovim-coc 0.0.82-1
 archlinuxcn neovim-coc-clangd-git r523.864382e-2
-archlinuxcn neovim-coc-git 1:0.0.82.r141.gbf5e568b-1
+archlinuxcn neovim-coc-git 1:0.0.82.r141.gbf5e568b-2
 archlinuxcn neovim-git 0.8.0.r766.g10c50d9f30-1
 archlinuxcn neovim-plug 0.11.0-3
 archlinuxcn neovim-remote 2.5.0-1
@@ -23580,7 +23580,7 @@ archlinuxcn qemu-guest-agent-git 17:7.2.0.rc3.r0.gc4ffd91aba-2
 archlinuxcn qemu-headless-arch-extra-git 17:7.2.0.rc3.r0.gc4ffd91aba-2
 archlinuxcn qemu-headless-git 17:7.2.0.rc3.r0.gc4ffd91aba-2
 archlinuxcn qogir-icon-theme-git 2022.11.05.5.g3ae29267-1
-archlinuxcn qownnotes 22.11.9-1
+archlinuxcn qownnotes 22.12.0-1
 archlinuxcn qps-git 2.6.0.2.ged77765-1
 archlinuxcn qspec 0.2-2
 archlinuxcn qt-installer-framework 4.2.0-1
@@ -23834,7 +23834,7 @@ archlinuxcn tela-circle-icon-theme-yellow-git 365.1aac9cf5-1
 archlinuxcn tela-icon-theme-git 384.bf114db0-1
 archlinuxcn telegraf 1.24.4-1
 archlinuxcn telegram-desktop-git 4.2.4.r10.g7b5781b84-1
-archlinuxcn telegram-desktop-megumifox 4.3.1-2
+archlinuxcn telegram-desktop-megumifox 4.3.4-1
 archlinuxcn teleport-bin 10.3.1-1
 archlinuxcn terminus-font-ttf 4.47.0-2
 archlinuxcn terminusmod 1.9.9-4
