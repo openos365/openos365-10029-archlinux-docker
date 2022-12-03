@@ -24,8 +24,6 @@ cd 10018-opendde-aur-database
 
 ./101.aur.all.list.gen.sh
 
-git add .
-git commit -a -m "CI $(date)"
-git push origin HEAD
+
 
 
