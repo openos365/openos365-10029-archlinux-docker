@@ -5,6 +5,7 @@ on:
     branches:
       - 'root'
       - 'runner'
+      - '10018-opendde-aur-database'
   schedule:
     - cron: '0 */12 * * *'
   workflow_dispatch:
