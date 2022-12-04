@@ -60,8 +60,8 @@ core gcc-libs 12.2.0-1 [installed]
 core gcc-objc 12.2.0-1
 core gdbm 1.23-1 [installed]
 core gettext 0.21.1-2 [installed]
-core glib2 2.74.2-2 [installed]
-core glib2-docs 2.74.2-2
+core glib2 2.74.3-1 [installed]
+core glib2-docs 2.74.3-1
 core glibc 2.36-6 [installed]
 core gmp 6.2.1-2 [installed]
 core gnupg 2.2.40-1 [installed]
@@ -148,9 +148,9 @@ core libxml2 2.10.3-2 [installed]
 core libxml2-docs 2.10.3-2
 core licenses 20220125-1 [installed]
 core links 2.28-2
-core linux 6.0.10.arch2-1
+core linux 6.0.11.arch1-1
 core linux-api-headers 5.18.15-1 [installed]
-core linux-docs 6.0.10.arch2-1
+core linux-docs 6.0.11.arch1-1
 core linux-firmware 20221109.60310c2-2
 core linux-firmware-bnx2x 20221109.60310c2-2
 core linux-firmware-liquidio 20221109.60310c2-2
@@ -160,7 +160,7 @@ core linux-firmware-nfp 20221109.60310c2-2
 core linux-firmware-qcom 20221109.60310c2-2
 core linux-firmware-qlogic 20221109.60310c2-2
 core linux-firmware-whence 20221109.60310c2-2
-core linux-headers 6.0.10.arch2-1
+core linux-headers 6.0.11.arch1-1
 core linux-lts 5.15.81-1
 core linux-lts-docs 5.15.81-1
 core linux-lts-headers 5.15.81-1
@@ -813,7 +813,7 @@ extra gnome-notes 40.1-3
 extra gnome-online-accounts 3.46.0-1
 extra gnome-photos 1:43.0-2
 extra gnome-power-manager 43.0-1
-extra gnome-remote-desktop 43.1-1
+extra gnome-remote-desktop 43.2-1
 extra gnome-robots 40.0-1
 extra gnome-screenshot 41.0+r25+g45f08f0-1
 extra gnome-session 43.0-1
@@ -826,7 +826,7 @@ extra gnome-sound-recorder 42.0-1
 extra gnome-sudoku 43.0-1
 extra gnome-system-monitor 42.0-1
 extra gnome-taquin 3.38.1-1
-extra gnome-terminal 3.46.6-1
+extra gnome-terminal 3.46.7-1
 extra gnome-tetravex 3.38.2-1
 extra gnome-text-editor 43.1-1
 extra gnome-themes-extra 3.28+r6+g45b1d457-1
@@ -995,7 +995,7 @@ extra hyphen-es 1:2.7-1
 extra hyphen-nl 20050617-5
 extra iagno 3.38.1-1
 extra ibus 1.5.27-1
-extra ibus-typing-booster 2.19.8-1
+extra ibus-typing-booster 2.19.10-1
 extra icedtea-web 1.8.8-1
 extra icedtea-web-doc 1.8.8-1
 extra icon-naming-utils 0.8.90-5
@@ -1972,9 +1972,9 @@ extra linux-rt-headers 6.0.5.14.realtime1-2
 extra linux-rt-lts 5.15.79.54.realtime1-1
 extra linux-rt-lts-docs 5.15.79.54.realtime1-1
 extra linux-rt-lts-headers 5.15.79.54.realtime1-1
-extra linux-zen 6.0.10.zen2-1
-extra linux-zen-docs 6.0.10.zen2-1
-extra linux-zen-headers 6.0.10.zen2-1
+extra linux-zen 6.0.11.zen1-1
+extra linux-zen-docs 6.0.11.zen1-1
+extra linux-zen-headers 6.0.11.zen1-1
 extra lirc 1:0.10.2-1
 extra litehtml 0.6-2
 extra live-media 2022.10.01-1
@@ -2133,11 +2133,11 @@ extra ntp 4.2.8.p15-2
 extra nuget 5.10.0-1
 extra numactl 2.0.16-1
 extra nuspell 5.1.2-2
-extra nvidia 525.60.11-1
+extra nvidia 525.60.11-2
 extra nvidia-dkms 525.60.11-1
 extra nvidia-lts 1:525.60.11-2
-extra nvidia-open 525.60.11-1
-extra nvidia-open-dkms 525.60.11-1
+extra nvidia-open 525.60.11-2
+extra nvidia-open-dkms 525.60.11-2
 extra nvidia-prime 1.0-4
 extra nvidia-settings 525.60.11-2
 extra nvidia-utils 525.60.11-1
@@ -3365,7 +3365,7 @@ community acme-user 1.0.1-1
 community acme.sh 3.0.5-1
 community acorn 1:8.8.1-1
 community acpi 1.7-3
-community acpi_call 1.2.2-88
+community acpi_call 1.2.2-89
 community acpi_call-dkms 1.2.2-1
 community acpi_call-lts 1.2.2-88
 community acpica 20220331-1
@@ -3638,8 +3638,8 @@ community batctl 2022.3-1
 community bazel 5.3.2-1
 community bbe 0.2.2-3
 community bbpager 0.4.7-9
-community bbswitch 0.8-554
-community bbswitch-dkms 0.8-554
+community bbswitch 0.8-555
+community bbswitch-dkms 0.8-555
 community bcc 0.25.0-2
 community bcc-tools 0.25.0-2
 community bcg729 1.1.1-1
@@ -3726,7 +3726,7 @@ community bpython 0.23-1
 community bpytop 1.0.68-1
 community brial 1.2.11-1
 community brightnessctl 0.5.1-2
-community broadcom-wl 6.30.223.271-432
+community broadcom-wl 6.30.223.271-433
 community broadcom-wl-dkms 6.30.223.271-35
 community brook 20220707-1
 community broot 1.16.2-1
@@ -4169,7 +4169,7 @@ community debootstrap 1.0.128-1
 community deepin-account-faces 1.0.12.1-1
 community deepin-album 5.10.8-1
 community deepin-anything 5.0.18-1
-community deepin-anything-arch 5.0.18-20
+community deepin-anything-arch 5.0.18-21
 community deepin-anything-dkms 5.0.18-1
 community deepin-api 5.5.31-1
 community deepin-app-services 0.0.20-1
@@ -7984,7 +7984,7 @@ community netcdf-fortran-openmpi 4.6.0-1
 community netcdf-openmpi 4.9.0-3
 community netcf 0.2.8-8
 community netdata 1.37.0-1
-community netfilter-fullconenat r73.0cf3b48-253
+community netfilter-fullconenat r73.0cf3b48-254
 community nethack 3.6.6-4
 community nethogs 0.8.7-1
 community netperf 2.7.0-6
@@ -11068,7 +11068,7 @@ community r 4.2.2-1
 community r10k 3.15.2-1
 community r128-dri 7.11.2-13
 community r2ghidra 5.7.8-1
-community r8168 8.051.02-1
+community r8168 8.051.02-2
 community r8168-lts 8.051.02-2
 community rabbitmq 3.10.7-1
 community rabbitmqadmin 3.10.7-1
@@ -12415,7 +12415,7 @@ community torsocks 2.3.0-2
 community towncrier 22.8.0-1
 community toxcore 1:0.2.13-1
 community toxic 0.11.3-2
-community tp_smapi 0.43-441
+community tp_smapi 0.43-442
 community tp_smapi-lts 0.43-284
 community tpacpi-bat 3.1-3
 community tpm2-abrmd 2.4.1-1
@@ -12683,8 +12683,8 @@ community vector 0.25.2-1
 community vegeta 12.8.4-3
 community veracrypt 1.25.9-4
 community verilator 5.002-1
-community vhba-module 20211218-83
-community vhba-module-dkms 20211218-83
+community vhba-module 20211218-84
+community vhba-module-dkms 20211218-84
 community vhs 0.2.0-1
 community vice 3.6.1-2
 community vicious 2.5.1-1
@@ -12791,7 +12791,7 @@ community virtualbox-guest-iso 7.0.4-1
 community virtualbox-guest-utils 7.0.4-1
 community virtualbox-guest-utils-nox 7.0.4-1
 community virtualbox-host-dkms 7.0.4-1
-community virtualbox-host-modules-arch 7.0.4-3
+community virtualbox-host-modules-arch 7.0.4-4
 community virtualbox-sdk 7.0.4-1
 community virtualgl 3.0.2-1
 community vis 0.8-1
@@ -13189,7 +13189,7 @@ multilib lib32-giflib 5.2.1-1
 multilib lib32-glew 2.2.0-4
 multilib lib32-glew1.10 1.10.0-5
 multilib lib32-glib-networking 2.74.0-1
-multilib lib32-glib2 2.74.2-2
+multilib lib32-glib2 2.74.3-1
 multilib lib32-glu 9.0.2-3
 multilib lib32-gmp 6.2.1-1
 multilib lib32-gnutls 3.7.8-1
@@ -14564,7 +14564,7 @@ chaotic-aur hunspell-pt-br 3.2.15-1
 chaotic-aur hw-probe 1.6.5-1.1
 chaotic-aur hyperspace-bin 1:1.1.4-1.1
 chaotic-aur hypnotix 2.9-1.1
-chaotic-aur hyprland-git r2135.6aa2658-1
+chaotic-aur hyprland-git r2136.409ac12-1
 chaotic-aur i3lock-color 2.13.c.4-1.1
 chaotic-aur i3lock-fancy-git r191.4cfcd47-1.1
 chaotic-aur i3status-rust-git 0.30.0.r2969.ga8e41aa3-1
@@ -14757,7 +14757,7 @@ chaotic-aur kgamma5-git 5.26.80_r499.g40ac727-1
 chaotic-aur kget-git 23.03.70_r3264.g7dad7da3-1
 chaotic-aur kglobalaccel-git 5.101.0_r606.gb2f7d86-1
 chaotic-aur kguiaddons-git 5.101.0_r517.g1588ce0-1
-chaotic-aur khelpcenter-git 23.03.70_r2831.g062ca3f0-1
+chaotic-aur khelpcenter-git 23.03.70_r2833.gab3106b6-1
 chaotic-aur kholidays-git 1:5.101.0_r1085.ge5902ff-1
 chaotic-aur khotkeys-git 5.26.80_r2183.gbb898f9-1
 chaotic-aur khtml-git 5.101.0_r624.g173f783-1
@@ -14765,7 +14765,7 @@ chaotic-aur ki18n-git 5.101.0_r601.gd21057f-1
 chaotic-aur kicad-git 6.99.0.r4702.g497b368006-1
 chaotic-aur kiconthemes-git 5.101.0_r655.g9450e0f-1
 chaotic-aur kid3-cli 3.9.1-1.1
-chaotic-aur kidentitymanagement-git 5.22.40_r3929.ga641faf0-1
+chaotic-aur kidentitymanagement-git 5.22.40_r3930.g9b44b2e7-1
 chaotic-aur kidletime-git 5.101.0_r385.g24f7b32-1
 chaotic-aur kimageannotator-git r1140.2d27e7d-1
 chaotic-aur kimageformats-git 5.101.0_r470.g7af4eea-1
@@ -14788,15 +14788,15 @@ chaotic-aur kjs-git 5.101.0_r382.g3c89acf-1
 chaotic-aur kjsembed-git 5.101.0_r350.g71331f1-1
 chaotic-aur klassy-git 4.0.breeze5.25.80.r3.g15bcf1f2-1.1
 chaotic-aur kldap-git 5.22.40_r996.g6d4b9f7-1
-chaotic-aur kleopatra-git 23.03._r6966.gea93f299-1
-chaotic-aur kmail-account-wizard-git 23.03.40_r918.g8683978-1
-chaotic-aur kmail-git 23.03.40_r26639.gf331aa239-1
-chaotic-aur kmailtransport-git 5.22.40_r1826.g039a2f7-1
+chaotic-aur kleopatra-git 23.03._r6976.gae8984db-1
+chaotic-aur kmail-account-wizard-git 23.03.40_r919.gd9bffc6-1
+chaotic-aur kmail-git 23.03.40_r26643.gc14882228-1
+chaotic-aur kmailtransport-git 5.22.40_r1827.g7568ad2-1
 chaotic-aur kmbox-git 5.22.40_r619.ge40298f-1
 chaotic-aur kmenuedit-git 5.26.80_r1112.g871f202-1
 chaotic-aur kmime-git 5.22.40_r1563.g44cc391-1
 chaotic-aur knewstuff-git 5.101.0_r1433.gf64baa30-1
-chaotic-aur knotes-git 23.03.40_r3746.g9e0f99e1-1
+chaotic-aur knotes-git 23.03.40_r3749.g5e265a68-1
 chaotic-aur knotifications-git 5.101.0_r786.gbb4b97c-1
 chaotic-aur knotifyconfig-git 5.101.0_r411.g93db1db-1
 chaotic-aur kodi-git r61700.95c4549b30f-1
@@ -14804,13 +14804,13 @@ chaotic-aur kodi-git-dev r61700.95c4549b30f-1
 chaotic-aur kodi-git-eventclients r61700.95c4549b30f-1
 chaotic-aur kodi-git-tools-texturepacker r61700.95c4549b30f-1
 chaotic-aur koka-bin 2.3.8-1.1
-chaotic-aur kolourpaint-git r2466.7b1eca14-1
+chaotic-aur kolourpaint-git r2467.cb82406b-1
 chaotic-aur komorebi 2.2.1-1.1
-chaotic-aur kompare-git 23.03.70_r1206.g1739ad7-1
+chaotic-aur kompare-git 23.03.70_r1207.g002651e-1
 chaotic-aur konsole-dracula-git r17.030486c-1
 chaotic-aur konsole-git 23.03.70_r8767.g905218de1-1
-chaotic-aur kontact-git 23.03.40_r5608.g9981a4ce-1
-chaotic-aur kontactinterface-git 5.22.40_r723.g547d217-1
+chaotic-aur kontact-git 23.03.40_r5611.gdde8fcfa-1
+chaotic-aur kontactinterface-git 5.22.40_r726.gbb797c6-1
 chaotic-aur konversation-git 1.9.230370.r9207.209275a7-1
 chaotic-aur koodo-reader-bin 1.5.0-1
 chaotic-aur korganizer-git 23.03.40_r11890.g3c0bc5dc3-1
@@ -15605,7 +15605,7 @@ chaotic-aur parlatype-libreoffice-extension 3.1.1-2.1
 chaotic-aur parsec-bin 150_28-5.1
 chaotic-aur partitionmanager-git 23.03.70.r1686.f2515ba-1
 chaotic-aur paru 1.11.1-1.3
-chaotic-aur paru-git 1.11.2.r134.g321862d-1
+chaotic-aur paru-git 1.11.2.r138.g00bac37-1
 chaotic-aur passbook 0.8-1.1
 chaotic-aur passbook-git 0.8.r36.g750825d-1.1
 chaotic-aur path-of-building-community-git 2.21.1.r6444.60.517-1
