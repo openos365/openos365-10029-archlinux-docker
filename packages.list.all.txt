@@ -1459,7 +1459,7 @@ extra libhangul 0.1.0-4
 extra libheif 1.14.0-1
 extra libibus 1.5.27-1
 extra libical 3.0.16-2
-extra libice 1.0.10-4 [installed]
+extra libice 1.1.0-1 [installed]
 extra libid3tag 0.15.1b-11
 extra libidl2 0.8.14-6
 extra libidn 1.41-1
@@ -3269,16 +3269,16 @@ extra xorg-xclipboard 1.1.4-1
 extra xorg-xclock 1.1.1-1
 extra xorg-xcmsdb 1.0.6-1
 extra xorg-xconsole 1.0.8-1
-extra xorg-xcursorgen 1.0.7-3
-extra xorg-xdm 1.1.13-1
+extra xorg-xcursorgen 1.0.8-1
+extra xorg-xdm 1.1.14-1
 extra xorg-xdpyinfo 1.3.3-4
 extra xorg-xdriinfo 1.0.6-3
 extra xorg-xedit 1.2.3-1
 extra xorg-xev 1.2.5-1
 extra xorg-xeyes 1.2.0-1
-extra xorg-xfd 1.1.3-3
+extra xorg-xfd 1.1.4-1
 extra xorg-xfontsel 1.1.0-1
-extra xorg-xgamma 1.0.6-4
+extra xorg-xgamma 1.0.7-1
 extra xorg-xhost 1.0.8-3
 extra xorg-xinit 1.4.1-3
 extra xorg-xinput 1.6.3-3
@@ -3298,13 +3298,13 @@ extra xorg-xmessage 1.0.6-1
 extra xorg-xmodmap 1.0.11-1
 extra xorg-xpr 1.1.0-1
 extra xorg-xprop 1.2.5-1 [installed]
-extra xorg-xrandr 1.5.1-2
+extra xorg-xrandr 1.5.2-1
 extra xorg-xrdb 1.2.1-1
 extra xorg-xrefresh 1.0.7-1
-extra xorg-xset 1.2.4-3 [installed]
+extra xorg-xset 1.2.5-1 [installed]
 extra xorg-xsetroot 1.1.3-1
 extra xorg-xvidtune 1.0.3-5
-extra xorg-xvinfo 1.1.4-3
+extra xorg-xvinfo 1.1.5-1
 extra xorg-xwayland 22.1.5-1
 extra xorg-xwd 1.0.8-1
 extra xorg-xwininfo 1.1.5-3
@@ -13794,7 +13794,7 @@ chaotic-aur ca-certificates-icp_br 20221024-1.1
 chaotic-aur cabbage-bin 2.8.0-1.1
 chaotic-aur caffeine 2.9.12-1.1
 chaotic-aur calcmysky 0.2.1-1
-chaotic-aur calendarsupport-git 5.22.40_r757.gb555ea7-1
+chaotic-aur calendarsupport-git 5.22.40_r758.g2719e74-1
 chaotic-aur callaudiod 0.1.4-1.1
 chaotic-aur callaudiod-debug 0.1.4-1.1
 chaotic-aur candy-icons-git r946.1123a5a-1
@@ -13948,7 +13948,7 @@ chaotic-aur davinci-resolve-studio 18.1.1-1
 chaotic-aur davs2 1.7-1
 chaotic-aur dcamprof 1.0.6-1
 chaotic-aur ddcui-git v0.3.0.r0.g6a4e0b9-1
-chaotic-aur ddcutil-git 1.3.0.r0.g207f6c75-1
+chaotic-aur ddcutil-git 1.3.0.r203.g37378572-1
 chaotic-aur deadbeef 1.9.3-2
 chaotic-aur deadbeef-git r11136.fcaaea535-1
 chaotic-aur debtap 3.5.1-1.1
@@ -14062,7 +14062,7 @@ chaotic-aur esbuild 0.15.17-1
 chaotic-aur esy 0.6.12-1
 chaotic-aur evdev-right-click-emulation 20190313.350939-1.1
 chaotic-aur evdi-git 1.12.0.r6.gbdc258b-1.1
-chaotic-aur eventviews-git 5.22.40_r911.g202267f-1
+chaotic-aur eventviews-git 5.22.40_r912.gd5cc086-1
 chaotic-aur everforest-gtk-theme-git r24.cf24ad98-1
 chaotic-aur evopop-gtk-theme-git 2.9.99.r12.g6dce1c5-1.1
 chaotic-aur exaile 4.1.2-1.1
@@ -14370,7 +14370,7 @@ chaotic-aur gnome-shell-extension-pop-shell-git r927.30bf682-1.1
 chaotic-aur gnome-shell-extension-tiling-assistant-git 39.r0.g462c0e3-1
 chaotic-aur gnome-shell-extension-ubuntu-dock-git 74ubuntu1.r4.g7c68cae-1
 chaotic-aur gnome-shell-extension-x11gestures 14-1.1
-chaotic-aur gnome-shell-performance 1:43.1+28+g9956f5ea5-1
+chaotic-aur gnome-shell-performance 1:43.1+28+g9956f5ea5-2
 chaotic-aur gnome-shell-pomodoro 0.22.0-1.1
 chaotic-aur gnome-terminal-transparency 3.46.7-1
 chaotic-aur gnome-terminal-transparency-debug 3.46.7-1
@@ -14400,7 +14400,7 @@ chaotic-aur gr-limesdr-git r85.57fc840-1.1
 chaotic-aur gradience 0.3.2-2
 chaotic-aur gradience-git 0.3.3.r3.gc147979-1
 chaotic-aur grantlee-git v5.3.1.0.g20d415b-1
-chaotic-aur grantleetheme-git 5.22.40_r443.g9f9e3f2-1
+chaotic-aur grantleetheme-git 5.22.40_r444.gda48269-1
 chaotic-aur grapejuice 7.2.0-1
 chaotic-aur graphite-cursor-theme-git 2021.11.26.r9.g8773e95-1.1
 chaotic-aur graphite-gtk-theme-black-compact-git 2022.09.02.r37.ga65fbec-1
@@ -14894,7 +14894,7 @@ chaotic-aur layer-shell-qt-git 5.26.80_r68.g70dc87f-1.1
 chaotic-aur lazydocker 0.20.0-1
 chaotic-aur lbry-desktop-bin 0.53.8-1
 chaotic-aur leagueoflegends-git 12.16.r16.gbe70be2-1
-chaotic-aur ledger-udev 1-7.1
+chaotic-aur ledger-udev 1-8
 chaotic-aur leftwm 0.4.0-4
 chaotic-aur leftwm-git 0.4.0.r37.gde88c4a-1
 chaotic-aur leftwm-theme-git r89.bbb57d0-1.2
@@ -15232,8 +15232,8 @@ chaotic-aur lyx 2.3.6.1-6.1
 chaotic-aur m4b-tool-bin 0.4.2~20210604-1.1
 chaotic-aur m64py 0.2.5-2.1
 chaotic-aur macfanctld 0.6-2
-chaotic-aur mailcommon-git 5.22.40_r1342.g9e584b5-1
-chaotic-aur mailimporter-git 5.22.40_r563.gcaf8517-1
+chaotic-aur mailcommon-git 5.22.40_r1344.g4d8eaef-1
+chaotic-aur mailimporter-git 5.22.40_r564.g4ed3864-1
 chaotic-aur mailspring 1.10.7-1
 chaotic-aur make-git 4.4.r16.g61646089-1
 chaotic-aur makehuman 1.2.0-6.1
@@ -15290,7 +15290,7 @@ chaotic-aur mesa-tkg-git 23.0.0_devel.163838.eb9f17b309c-1
 chaotic-aur mesen-x-git 1.0.1.r148.ga6c9741c-1.1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
-chaotic-aur messagelib-git 5.22.41_r6801.ga25f94bc3-1
+chaotic-aur messagelib-git 5.22.41_r6802.g687046353-1
 chaotic-aur metadata-cleaner 2.2.7-1
 chaotic-aur metals 0.11.9-2.1
 chaotic-aur meteo-gtk 0.9.9.1-1.1
@@ -16332,8 +16332,8 @@ chaotic-aur supertuxkart-git 23135+18565-1
 chaotic-aur surf-git 2.1.r10.g665a709-1.1
 chaotic-aur surfn-icons-git 1:22.10.01.r1.g897ab61a-1
 chaotic-aur svt-av1-git 1.4.0.r1.g5cca0f01-1
-chaotic-aur sway-git r7030.6b3245ac7-1
-chaotic-aur sway-git-debug r7030.6b3245ac7-1
+chaotic-aur sway-git r7030.6b3245ac-1
+chaotic-aur sway-git-debug r7030.6b3245ac-1
 chaotic-aur sway-launcher-desktop 1.6.0-1
 chaotic-aur swaybg-git r128.a67361e-1
 chaotic-aur swayfx 0.1-1
@@ -16559,7 +16559,7 @@ chaotic-aur vibrantlinux 2.1.10-1.1
 chaotic-aur viddy 0.3.6-2
 chaotic-aur video-downloader 0.9.10-1.1
 chaotic-aur video-trimmer 0.8.0-2
-chaotic-aur vim-coc-clangd-git r523.864382e-1
+chaotic-aur vim-coc-clangd-git r524.a6c6be7-1
 chaotic-aur vim-coc-css-git 2.0.0.r0.gfca6b25-1.1
 chaotic-aur vim-coc-deno-git r267.4048762-1
 chaotic-aur vim-coc-eslint-git 1.5.8.r0.g0344fd0-1.1
@@ -21927,7 +21927,7 @@ archlinuxcn electron8-bin 1:8.5.5-4
 archlinuxcn elementary-planner 3.0.7-1
 archlinuxcn emacs-evil 1.14.0-1
 archlinuxcn emacs-gcc-wayland-devel-bin 28.2.50.152026-1
-archlinuxcn emacs-git 30.0.50.162752-1
+archlinuxcn emacs-git 30.0.50.162754-1
 archlinuxcn emacs-go-mode-git 1.6.0.r4.g08aa90d5-2
 archlinuxcn emacs-julia-mode-git 1:0.357.gadf4029-2
 archlinuxcn emacs-llvm-mode-git 442710.5cfc22cafe3f-1
