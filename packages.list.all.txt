@@ -237,10 +237,10 @@ core sqlite-tcl 3.40.0-2
 core sudo 1.9.12.p1-1 [installed]
 core sysfsutils 2.1.1-1 [installed]
 core syslinux 6.04.pre2.r11.gbf6db5b4-3
-core systemd 252.2-2 [installed]
-core systemd-libs 252.2-2 [installed]
-core systemd-resolvconf 252.2-2
-core systemd-sysvcompat 252.2-2 [installed]
+core systemd 252.2-3 [installed]
+core systemd-libs 252.2-3 [installed]
+core systemd-resolvconf 252.2-3
+core systemd-sysvcompat 252.2-3 [installed]
 core tar 1.34-1 [installed]
 core texinfo 7.0-1 [installed]
 core thin-provisioning-tools 0.9.0-1 [installed]
@@ -21646,7 +21646,7 @@ archlinuxcn 3dslicer-bin 5.2.1-1
 archlinuxcn 3dslicer-git 5.1.0.r28174.3a8deba0d3-1
 archlinuxcn 3dslicer-nightly-bin 20221117.173336-1
 archlinuxcn 64gram-desktop 1:1.0.57-1
-archlinuxcn 86box-git 3.11.r11.g910265d67-1
+archlinuxcn 86box-git 3.11.r23.g94039ff77-1
 archlinuxcn 86box-roms-git r487.9b29ab4-1
 archlinuxcn acme.sh-git 0.5042.16dc21aff-1
 archlinuxcn across 0.1.3-12
@@ -23250,7 +23250,7 @@ archlinuxcn pavucontrol-qt-git 1.2.0.3.ga4f0ef3-1
 archlinuxcn pavumeter 0.9.3-7
 archlinuxcn pcem 17-5
 archlinuxcn pcmanfm-qt-git 1.2.0.5.g30a2df2-2
-archlinuxcn pcsx2-git 1.7.3519.r269.g20193eae36-1
+archlinuxcn pcsx2-git 1.7.3519.r274.g2584835176-1
 archlinuxcn pcsxr-git 1.9.94.r1697.6484236c-2
 archlinuxcn pencil 3.1.0-7
 archlinuxcn perl-file-rename 1.31-1
@@ -23635,7 +23635,7 @@ archlinuxcn resp-app 2022.5-1
 archlinuxcn restbase-git v1.1.4.r157.gc1d391c7-2
 archlinuxcn resvg 0.23.0-1
 archlinuxcn retext-git 7.2.1.r40.g36cb918-1
-archlinuxcn retroarch-git 1.13.0.r100.32bea11cc3-1
+archlinuxcn retroarch-git 1.13.0.r103.91b77cf14a-1
 archlinuxcn revda-git 5.1.1.r0.ge16105f-2
 archlinuxcn rime-cloverpinyin 1.1.4-2
 archlinuxcn rime-sbxlm 221026-1
@@ -25359,7 +25359,7 @@ endeavouros downgrade 11.2.1-1
 endeavouros dracut-hook 0.5.3-1
 endeavouros endeavouros-keyring 20220614-1
 endeavouros endeavouros-mirrorlist 4.10-1
-endeavouros endeavouros-skel-default 1.7-1
+endeavouros endeavouros-skel-default 1.8-1
 endeavouros endeavouros-skel-i3wm 4.0-1
 endeavouros endeavouros-skel-xfce4 2.20-1
 endeavouros endeavouros-theming 22.09.3.2-1
@@ -25367,6 +25367,7 @@ endeavouros endeavouros-xfce4-terminal-colors 4-2
 endeavouros eos-apps-info 1.4-2
 endeavouros eos-bash-shared 1.35-1
 endeavouros eos-downgrade 0.4-1
+endeavouros eos-dracut 1.0-1
 endeavouros eos-hooks 1.8-1
 endeavouros eos-lightdm-gtk-theme 2.2-1
 endeavouros eos-lightdm-slick-theme 3.1-1
