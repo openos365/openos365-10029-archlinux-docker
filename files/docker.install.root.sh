@@ -93,6 +93,7 @@ pacman -Syyu --noconfirm expect
 pacman -Syyu --noconfirm minio-client
 pacman -Syyu --noconfirm yay
 pacman -Syyu --noconfirm pacman-contrib
+pacman -Syyu --noconfirm github-cli
 
 
 # build calamare-git
