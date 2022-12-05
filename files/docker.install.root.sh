@@ -94,6 +94,7 @@ pacman -Syyu --noconfirm minio-client
 pacman -Syyu --noconfirm yay
 pacman -Syyu --noconfirm pacman-contrib
 pacman -Syyu --noconfirm github-cli
+pacman -Syyu --noconfirm rclone
 
 
 # build calamare-git
