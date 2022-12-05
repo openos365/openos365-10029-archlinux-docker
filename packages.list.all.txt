@@ -70,7 +70,7 @@ core gpgme 1.18.0-1 [installed]
 core gpm 1.20.7.r38.ge82d1a6-4 [installed]
 core grep 3.8-2 [installed]
 core groff 1.22.4-7 [installed]
-core grub 2:2.06.r380.g151467888-1 [installed]
+core grub 2:2.06.r380.g151467888-1
 core gssproxy 0.9.1-2
 core guile 3.0.8-3 [installed]
 core gzip 1.12-1 [installed]
@@ -310,11 +310,11 @@ extra appstream-glib 0.8.2-1
 extra appstream-qt 0.15.5-1
 extra apr 1.7.0-3
 extra apr-util 1.6.1-10
-extra arch-install-scripts 28-1 [installed]
+extra arch-install-scripts 28-1
 extra arch-rebuild-order 0.3.1-1
 extra arch-signoff 0.5.2-2
 extra archinstall 2.5.2-1
-extra archiso 68-1 [installed]
+extra archiso 68-1
 extra archivetools 3-3
 extra archlinux-appstream-data 20221014-1
 extra archlinux-themes-slim 1.2-6
@@ -552,7 +552,7 @@ extra eog 43.1-1
 extra eog-docs 43.1-1
 extra eog-plugins 42.2-1
 extra epiphany 43.0-1
-extra erofs-utils 1.5-2 [installed]
+extra erofs-utils 1.5-2
 extra ethtool 1:6.0-1
 extra eventviews 22.08.3-1
 extra evince 43.1-1
@@ -1362,7 +1362,7 @@ extra libblockdev 2.28-1 [installed]
 extra libbluray 1.3.4-1 [installed]
 extra libbs2b 3.1.0-8 [installed]
 extra libbsd 0.11.7-1
-extra libburn 1.5.4-1 [installed]
+extra libburn 1.5.4-1
 extra libbytesize 2.7-1 [installed]
 extra libcaca 0.99.beta20-1
 extra libcacard 2.7.0-2
@@ -1471,8 +1471,8 @@ extra libinput 1.22.0-1 [installed]
 extra libinstpatch 1.1.6-1
 extra libirman 0.5.2-3
 extra libiscsi 1.19.0-2
-extra libisoburn 1.5.4-2 [installed]
-extra libisofs 1.5.4-1 [installed]
+extra libisoburn 1.5.4-2
+extra libisofs 1.5.4-1
 extra libixion 0.17.0-3
 extra libjpeg-turbo 2.1.4-2 [installed]
 extra libkate 0.4.1-8
@@ -2081,7 +2081,7 @@ extra mplayer 38407-1
 extra msmtp 1.8.22-2
 extra msmtp-mta 1.8.22-2
 extra mtdev 1.1.6-2 [installed]
-extra mtools 1:4.0.42-1 [installed]
+extra mtools 1:4.0.42-1
 extra mtr 0.95-3
 extra mtr-gtk 0.95-3
 extra muparser 2.3.4-1
@@ -2496,7 +2496,7 @@ extra pulseaudio-zeroconf 16.1-3
 extra purple-plugin-pack 2.8.0-1
 extra purpose 5.100.0-1
 extra putty 0.78-1
-extra pyalpm 0.10.6-4 [installed]
+extra pyalpm 0.10.6-4
 extra pyqt-builder 1.14.0-1
 extra pyside2 5.15.7-1
 extra pyside2-tools 5.15.7-1
@@ -3125,7 +3125,7 @@ extra webkit2gtk-5.0 2.38.2-2
 extra webkit2gtk-5.0-docs 2.38.2-2
 extra webkit2gtk-docs 2.38.2-2
 extra webrtc-audio-processing 0.3.1-3
-extra wget 1.21.3-1 [installed]
+extra wget 1.21.3-1
 extra whois 5.5.14-1
 extra wildmidi 0.4.4-1
 extra wipe 2.3.1-5
@@ -3336,7 +3336,7 @@ extra zimg 3.0.4-1 [installed]
 extra zip 3.0-10
 extra zita-alsa-pcmi 0.5.1-1
 extra zita-resampler 1.8.0-1
-extra zsh 5.9-1 [installed]
+extra zsh 5.9-1
 extra zsh-doc 5.9-1
 extra zvbi 0.2.37-1
 extra zxing-cpp 1.4.0-1
@@ -8043,7 +8043,7 @@ community nicotine+ 3.2.7-1
 community nikola 8.2.3-1
 community nikto 2.1.6-3
 community nim 1.6.6-2
-community ninja 1.11.1-2 [installed]
+community ninja 1.11.1-2
 community ninjas2 0.2.0-2
 community nitrocli 0.4.1-2
 community nitroshare 0.3.4-4
@@ -9046,7 +9046,7 @@ community png++ 0.2.10-2
 community pngcrush 1.8.13-3
 community pngquant 2.17.0-2
 community po4a 0.68-1
-community pocl 3.0-2
+community pocl 3.1-1
 community poco 1.12.4-1
 community podman 4.3.1-2
 community podman-compose 1.0.3-2
@@ -13514,7 +13514,7 @@ archcraft calamares-config-xfce 1.0-1
 archcraft cava 0.8.2-5
 archcraft ckbcomp 1.210-1 [installed]
 archcraft downgrade 11.2.1-1
-archcraft grub 2.06.r261.g2f4430cc0-2 [installed: 2:2.06.r380.g151467888-1]
+archcraft grub 2.06.r261.g2f4430cc0-2
 archcraft i3lock-color 2.13.c.4-1
 archcraft ksuperkey 0.4-2
 archcraft mkinitcpio-firmware 1.3.0-2
@@ -15142,9 +15142,9 @@ chaotic-aur linux-firmware-nfp-git 20221130.80ed874-1
 chaotic-aur linux-firmware-qcom-git 20221130.80ed874-1
 chaotic-aur linux-firmware-qlogic-git 20221130.80ed874-1
 chaotic-aur linux-firmware-whence-git 20221130.80ed874-1
-chaotic-aur linux-git 6.1rc7.r200.gc2bf05db6c78-1
-chaotic-aur linux-git-docs 6.1rc7.r200.gc2bf05db6c78-1
-chaotic-aur linux-git-headers 6.1rc7.r200.gc2bf05db6c78-1
+chaotic-aur linux-git 6.1rc8.r0.g76dcd734eca2-1
+chaotic-aur linux-git-docs 6.1rc8.r0.g76dcd734eca2-1
+chaotic-aur linux-git-headers 6.1rc8.r0.g76dcd734eca2-1
 chaotic-aur linux-lqx 6.0.11.lqx2-1
 chaotic-aur linux-lqx-docs 6.0.11.lqx2-1
 chaotic-aur linux-lqx-headers 6.0.11.lqx2-1
@@ -16239,7 +16239,7 @@ chaotic-aur simplenote-electron-bin 2.21.0-1.1
 chaotic-aur simutrans-extended-git r21510.3d5d4570e-1
 chaotic-aur sioyek 1.5.0-1
 chaotic-aur siril 1.0.6-1.1
-chaotic-aur siril-git 1.0.0.5249.2615e1c7-1
+chaotic-aur siril-git 1.0.0.5252.746e58e2-1
 chaotic-aur sirula-git r67.70b5ce1-1.1
 chaotic-aur skeuos-gtk 20220629-1
 chaotic-aur skippy-xd-git v2016.10.20.34.gb2cf2e2-1.1
@@ -21692,7 +21692,7 @@ archlinuxcn arch-hs-git 0.10.2.r23.g5091cf3-1
 archlinuxcn archey-git r146.b74e40br146.b74e40b-3
 archlinuxcn archlinux-artwork 1.6-6
 archlinuxcn archlinux-java-run 9-1
-archlinuxcn archlinuxcn-keyring 20220716-1 [installed]
+archlinuxcn archlinuxcn-keyring 20220716-1
 archlinuxcn archlinuxcn-mirrorlist-git 20221017-1
 archlinuxcn archrepo2-git 2:0.5.r18.gc003123-3
 archlinuxcn aria2-fast 1.36.0-3
@@ -23322,7 +23322,7 @@ archlinuxcn progress-git 0.16.r5.gceb6e78-1
 archlinuxcn prometheus-postgresql-exporter 0.11.1-1
 archlinuxcn proot-git r1255.a0dc181-1
 archlinuxcn properties-cpp 0.0.2-1
-archlinuxcn proton 1:7.0.5-7
+archlinuxcn proton 1:7.0.5-8
 archlinuxcn proton-ge-custom-opt 2:GE.Proton7.41-2
 archlinuxcn protondb-tags 1.1.1-1
 archlinuxcn protontricks 1.10.0-1
@@ -25508,7 +25508,7 @@ garuda garuda-welcome-git r141.4ec237c-1
 garuda garuda-xfce-kwin-settings 1.0.3-2
 garuda garuda-xfce-settings 1.0.3-1
 garuda garuda-zsh-config 1.1.6-1
-garuda grub 2:2.06.r261.g2f4430cc0-1 [installed: 2:2.06.r380.g151467888-1]
+garuda grub 2:2.06.r261.g2f4430cc0-1
 garuda grub-garuda 2.06-1
 garuda grub-theme-garuda r18.75c8339-1
 garuda grub-theme-garuda-dr460nized r2.49d1e5e-1
@@ -26970,7 +26970,7 @@ xerolinux_repo_xl nerd-fonts-gabmus 2.2.2-1
 xerolinux_repo_xl nerd-fonts-noto 2.2.2-1
 xerolinux_repo_xl nerd-fonts-sarasa-mono 2.2.1-1
 xerolinux_repo_xl plex-media-server 1.29.2.6364-1
-xerolinux_repo_xl proton-ge-custom-bin 1:GE_Proton7_41-1
+xerolinux_repo_xl proton-ge-custom-bin 1:GE_Proton7_42-1
 xerolinux_repo_xl spotify 1:1.1.84.716-2
 xerolinux_repo_xl tabby-bin 1.0.183-1
 xerolinux_repo_xl teamviewer 15.36.8-1
