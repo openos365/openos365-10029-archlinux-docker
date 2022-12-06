@@ -9104,8 +9104,8 @@ community premake3 3.7-5
 community presage 0.9.1-1
 community prettier 2.7.1-1
 community prettyping 1:1.0.1-3
-community primecount 7.4-1
-community primesieve 8.0-1
+community primecount 7.5-1
+community primesieve 11.0-1
 community primus 20151110-9
 community primus_vk 1.6.2-1
 community privoxy 3.0.33-1
@@ -13190,7 +13190,7 @@ multilib lib32-glib2 2.74.3-1
 multilib lib32-glu 9.0.2-3
 multilib lib32-gmp 6.2.1-1
 multilib lib32-gnutls 3.7.8-1
-multilib lib32-gpm 1.20.7-2
+multilib lib32-gpm 1.20.7.r38.ge82d1a6-1
 multilib lib32-gst-plugins-base 1.20.4-1
 multilib lib32-gst-plugins-base-libs 1.20.4-1
 multilib lib32-gst-plugins-good 1.20.4-1
@@ -13275,7 +13275,7 @@ multilib lib32-librsvg 2:2.55.1-1
 multilib lib32-librtmp0 2.4-4
 multilib lib32-libsamplerate 0.2.2-1
 multilib lib32-libshout 2.4.6-3
-multilib lib32-libsm 1.2.3-1
+multilib lib32-libsm 1.2.3-2
 multilib lib32-libsndfile 1.1.0-2
 multilib lib32-libsodium 1.0.18-2
 multilib lib32-libsoup 2.74.3-1
@@ -13295,9 +13295,9 @@ multilib lib32-libusb 1.0.26-1
 multilib lib32-libva 2.16.0-1
 multilib lib32-libva-intel-driver 2.4.1-1
 multilib lib32-libva-mesa-driver 22.2.3-1
-multilib lib32-libva-vdpau-driver 0.7.4-6
+multilib lib32-libva-vdpau-driver 0.7.4-7
 multilib lib32-libvdpau 1.5-1
-multilib lib32-libvisual 0.4.0-6
+multilib lib32-libvisual 0.4.0-7
 multilib lib32-libvorbis 1.3.7-1
 multilib lib32-libvpx 1.12.0-2
 multilib lib32-libvpx1.3 1.3.0-3
@@ -13311,7 +13311,7 @@ multilib lib32-libxcrypt 4.4.33-1
 multilib lib32-libxcrypt-compat 4.4.33-1
 multilib lib32-libxcursor 1.2.1-2
 multilib lib32-libxdamage 1.1.5-3
-multilib lib32-libxdmcp 1.1.3-2
+multilib lib32-libxdmcp 1.1.4-1
 multilib lib32-libxext 1.3.5-1
 multilib lib32-libxfixes 6.0.0-2
 multilib lib32-libxft 2.3.6-1
@@ -13367,7 +13367,7 @@ multilib lib32-pixman 0.42.2-1
 multilib lib32-polkit 122-1
 multilib lib32-popt 1.19-1
 multilib lib32-portaudio 1:19.7.0-1
-multilib lib32-primus 20151110-4
+multilib lib32-primus 20151110-5
 multilib lib32-primus_vk 1.6.2-1
 multilib lib32-procps-ng 3.3.17-1
 multilib lib32-readline 8.2.001-2
@@ -14044,8 +14044,8 @@ chaotic-aur elm-bin 0.19.1-1
 chaotic-aur elm-format-bin 0.8.5-1
 chaotic-aur elm-language-server 2.5.2-1
 chaotic-aur elm-platform-bin 0.19.1-2
-chaotic-aur emacs-git 30.0.50.162769-1
-chaotic-aur emacs-pgtk-native-comp-git 30.0.50.162769-1
+chaotic-aur emacs-git 30.0.50.162779-1
+chaotic-aur emacs-pgtk-native-comp-git 30.0.50.162779-1
 chaotic-aur emerald-gtk3 0.8.18-2.1
 chaotic-aur emote 3.0.3-4.1
 chaotic-aur emulationstation 2.11.0-1.1
@@ -14371,7 +14371,7 @@ chaotic-aur gnome-shell-performance 1:43.1+30+gaaf7b9e4b-1
 chaotic-aur gnome-shell-pomodoro 0.22.0-1.1
 chaotic-aur gnome-terminal-transparency 3.46.7-1
 chaotic-aur gnome-terminal-transparency-debug 3.46.7-1
-chaotic-aur godot-git 4.0.r49471.gc241f1c5238-1
+chaotic-aur godot-git 4.0.r49471.gc241f1c52386-1
 chaotic-aur godot-mono 3.5-1.1
 chaotic-aur goland 2022.3-1
 chaotic-aur goland-jre 2022.3-1
@@ -14610,7 +14610,7 @@ chaotic-aur insync-nemo 3.7.9.50368-1.1
 chaotic-aur insync-thunar 3.7.9.50368-1
 chaotic-aur intel-gmmlib-git 22.3.1.r4.gdae0b5a-1
 chaotic-aur intel-hybrid-codec-driver 2.0.0.r170.7961945-1.1
-chaotic-aur intel-media-driver-git 2022.6.4.r35.g33b5939ca-1
+chaotic-aur intel-media-driver-git 2022.6.4.r39.g7cef45fcc-1
 chaotic-aur intel-ucode-clear 36610-1
 chaotic-aur intelbacklight-git r4.39eaf40-1
 chaotic-aur intellij-idea-ultimate-edition 2022.3-1
@@ -14752,7 +14752,7 @@ chaotic-aur kfilemetadata-git 5.101.0_r904.g4cbdf20-1
 chaotic-aur kfiredragonhelper 5.0.6-1.1
 chaotic-aur kgamma5-git 5.26.80_r499.g40ac727-1
 chaotic-aur kget-git 23.03.70_r3265.g062ed176-1
-chaotic-aur kglobalaccel-git 5.101.0_r608.gd740d0c-1
+chaotic-aur kglobalaccel-git 5.101.0_r609.g2918577-1
 chaotic-aur kguiaddons-git 5.101.0_r517.g1588ce0-1
 chaotic-aur khelpcenter-git 23.03.70_r2833.gab3106b6-1
 chaotic-aur kholidays-git 1:5.101.0_r1085.ge5902ff-1
@@ -14771,9 +14771,9 @@ chaotic-aur kimap2-git 0.4.0_r826.g366193b-1.1
 chaotic-aur kinfocenter-git 5.26.80_r2237.g0c5113ad-1
 chaotic-aur kinit-git 5.101.0_r466.g0213f73-1
 chaotic-aur kio-extras-git 23.03.70_r7426.g3825d0c72-1
-chaotic-aur kio-git 5.101.0_r5940.gc7505ba63-1
+chaotic-aur kio-git 5.101.0_r5943.gf9fc1b869-1
 chaotic-aur kirigami-addons-git 0.6.1.r1.g2316c1c-1
-chaotic-aur kirigami2-git 5.101.0_r3505.g5e7b0caa-1
+chaotic-aur kirigami2-git 5.101.0_r3509.g37c090bc-1
 chaotic-aur kitemmodels-git 5.101.0_r634.g117764e-1
 chaotic-aur kitemviews-git 5.101.0_r403.gf755ad1-1
 chaotic-aur kitinerary-git 5.22.40_r2558.g4ecc075f-1
@@ -15607,7 +15607,7 @@ chaotic-aur paru 1.11.1-1.3
 chaotic-aur paru-git 1.11.2.r138.g00bac37-1
 chaotic-aur passbook 0.8-1.1
 chaotic-aur passbook-git 0.8.r36.g750825d-1.1
-chaotic-aur path-of-building-community-git 2.21.1.r6457.60.517-1
+chaotic-aur path-of-building-community-git 2.21.1.r6458.60.517-1
 chaotic-aur patool 1.12-5.1
 chaotic-aur pcloudcc-git r1471.4b42e3c-1
 chaotic-aur pcsx2-git 1.7.3519.r280.gbdb1fd517-1
@@ -16354,7 +16354,7 @@ chaotic-aur switcheroo-control 2.6-3
 chaotic-aur sylpheed 3.7.0-6.1
 chaotic-aur syncterm 1.1-4
 chaotic-aur syncthing-gtk-python3 1:0.9.4.5-2
-chaotic-aur syncthingtray 1.3.0-5
+chaotic-aur syncthingtray 1.3.1-1
 chaotic-aur syndication-git 5.101.0_r892.g37b2cec-1
 chaotic-aur synkron 1.6.2-4.1
 chaotic-aur synology-drive 3.2.0_13258-1
@@ -16612,7 +16612,7 @@ chaotic-aur vkcube-git r145.8261e90-1.1
 chaotic-aur vkd3d-proton-mingw-git 2.7.r75.g60e1b9f1-1
 chaotic-aur vkd3d-proton-tkg-git 1.1.r3042.g60e1b9f1-1
 chaotic-aur vkd3d-tkg-git 1.5.r93.g1b11b576-1
-chaotic-aur vlang-git 0.3.2.r212.gada8643ac5-1
+chaotic-aur vlang-git 0.3.2.r214.g921416d821-1
 chaotic-aur vlc-git 4.0.0.r20918.g02c95ad381-1.1
 chaotic-aur vlc-git-debug 4.0.0.r20918.g02c95ad381-1.1
 chaotic-aur vlc-luajit 3.0.18-2
