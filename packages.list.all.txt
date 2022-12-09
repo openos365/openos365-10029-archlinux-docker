@@ -70,7 +70,7 @@ core gpgme 1.18.0-1 [installed]
 core gpm 1.20.7.r38.ge82d1a6-4 [installed]
 core grep 3.8-2 [installed]
 core groff 1.22.4-7 [installed]
-core grub 2:2.06.r380.g151467888-1 [installed]
+core grub 2:2.06.r403.g7259d55ff-1 [installed]
 core gssproxy 0.9.1-2
 core guile 3.0.8-3 [installed]
 core gzip 1.12-1 [installed]
@@ -175,7 +175,7 @@ core man-db 2.11.1-1
 core man-pages 6.01-1
 core mdadm 4.2-2 [installed]
 core minizip 1:1.2.13-2 [installed]
-core mkinitcpio 33-1
+core mkinitcpio 34-2
 core mkinitcpio-busybox 1.35.0-1
 core mkinitcpio-nfs-utils 0.3-7
 core mlocate 0.26.git.20170220-7
@@ -237,10 +237,10 @@ core sqlite-tcl 3.40.0-2
 core sudo 1.9.12.p1-1 [installed]
 core sysfsutils 2.1.1-1 [installed]
 core syslinux 6.04.pre2.r11.gbf6db5b4-3
-core systemd 252.2-4 [installed]
-core systemd-libs 252.2-4 [installed]
-core systemd-resolvconf 252.2-4
-core systemd-sysvcompat 252.2-4 [installed]
+core systemd 252.3-1 [installed]
+core systemd-libs 252.3-1 [installed]
+core systemd-resolvconf 252.3-1
+core systemd-sysvcompat 252.3-1 [installed]
 core tar 1.34-1 [installed]
 core texinfo 7.0.1-1 [installed]
 core thin-provisioning-tools 0.9.0-1 [installed]
@@ -2517,7 +2517,7 @@ extra python-cssselect 1.2.0-1
 extra python-csv23 0.3.4-1
 extra python-dbusmock 0.28.6-2
 extra python-defusedxml 0.7.1-4
-extra python-django 4.1.3-1
+extra python-django 4.1.4-1
 extra python-editdistance 0.6.1-1
 extra python-evdev 1.6.0-1
 extra python-fastbencode 0.1-2
@@ -13392,7 +13392,7 @@ multilib lib32-smpeg 2.0.0-1
 multilib lib32-speex 1.2.1-1
 multilib lib32-speexdsp 1.2.1-1
 multilib lib32-sqlite 3.40.0-1
-multilib lib32-systemd 252.2-1
+multilib lib32-systemd 252.3-1
 multilib lib32-taglib 1.13-2
 multilib lib32-tcl 8.6.12-3
 multilib lib32-tdb 1.4.7-1
@@ -13516,7 +13516,7 @@ archcraft calamares-config-xfce 1.0-1
 archcraft cava 0.8.2-5
 archcraft ckbcomp 1.210-1 [installed]
 archcraft downgrade 11.2.1-1
-archcraft grub 2.06.r261.g2f4430cc0-2 [installed: 2:2.06.r380.g151467888-1]
+archcraft grub 2.06.r261.g2f4430cc0-2 [installed: 2:2.06.r403.g7259d55ff-1]
 archcraft i3lock-color 2.13.c.4-1
 archcraft ksuperkey 0.4-2
 archcraft mkinitcpio-firmware 1.3.0-2
@@ -15170,8 +15170,8 @@ chaotic-aur linux-mainline-docs 6.1rc8-1
 chaotic-aur linux-mainline-headers 6.1rc8-1
 chaotic-aur linux-next-git 20221207.r0.g591cd61541b9-1
 chaotic-aur linux-next-git-headers 20221207.r0.g591cd61541b9-1
-chaotic-aur linux-nitrous 6.0.11-2
-chaotic-aur linux-nitrous-headers 6.0.11-2
+chaotic-aur linux-nitrous 6.0.12-1
+chaotic-aur linux-nitrous-headers 6.0.12-1
 chaotic-aur linux-steam-integration 0.7.3-4.1
 chaotic-aur linux-tkg-bmq 6.0.12-272
 chaotic-aur linux-tkg-bmq-generic_v3 6.0.12-272
@@ -16247,7 +16247,7 @@ chaotic-aur simplenote-electron-bin 2.21.0-1.1
 chaotic-aur simutrans-extended-git r21510.3d5d4570e-1
 chaotic-aur sioyek 1.5.0-1
 chaotic-aur siril 1.0.6-1.1
-chaotic-aur siril-git 1.0.0.5270.dc4b917f-1
+chaotic-aur siril-git 1.0.0.5271.216b0c3b-1
 chaotic-aur sirula-git r67.70b5ce1-1.1
 chaotic-aur skeuos-gtk 20220629-1
 chaotic-aur skippy-xd-git v2016.10.20.34.gb2cf2e2-1.1
@@ -16704,7 +16704,7 @@ chaotic-aur winbox64 3.37-1
 chaotic-aur wine-ge-custom 1:GE.Proton7.34-1
 chaotic-aur wine-installer 5.0.3-2.1
 chaotic-aur wine-lol 1:7.0_5-1.1
-chaotic-aur wine-tkg-fsync-git 7.22.r436.g7acd3aa429f-327
+chaotic-aur wine-tkg-fsync-git 7.22.r483.gbd0ca5103a0-327
 chaotic-aur wine-tkg-staging-fsync-git 7.22.r8.g85817750-327
 chaotic-aur wine-wl-git 7.22.g9969b8b8f9a-1
 chaotic-aur wine-x64 7.22-1
@@ -25533,7 +25533,7 @@ garuda garuda-welcome-git r141.4ec237c-1
 garuda garuda-xfce-kwin-settings 1.0.3-2
 garuda garuda-xfce-settings 1.0.3-1
 garuda garuda-zsh-config 1.1.6-1
-garuda grub 2:2.06.r261.g2f4430cc0-1 [installed: 2:2.06.r380.g151467888-1]
+garuda grub 2:2.06.r261.g2f4430cc0-1 [installed: 2:2.06.r403.g7259d55ff-1]
 garuda grub-garuda 2.06-1
 garuda grub-theme-garuda r18.75c8339-1
 garuda grub-theme-garuda-dr460nized r2.49d1e5e-1
