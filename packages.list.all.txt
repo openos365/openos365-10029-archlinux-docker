@@ -447,7 +447,7 @@ extra colord-kde 22.12.0-1
 extra colord-sane 1.4.6-1
 extra compface 1.5.2-11
 extra compiler-rt 14.0.6-1
-extra composer 2.4.4-1
+extra composer 2.4.4-2
 extra compsize 1.5-1
 extra conky 1.15.0-1
 extra conntrack-tools 1.4.7-1
@@ -2415,7 +2415,7 @@ extra pipewire-zeroconf 1:0.3.61-1
 extra pixman 0.42.2-1 [installed]
 extra pkcs11-helper 1.29.0-2
 extra pkgfile 21-2
-extra pkgstats 3.2.6-1
+extra pkgstats 3.2.7-1
 extra plank-player 5.26.4-1
 extra plasma-bigscreen 5.26.4-1
 extra plasma-browser-integration 5.26.4-1
@@ -14521,7 +14521,7 @@ chaotic-aur gruvbox-material-gtk-theme-git r18.f56ba878e-1
 chaotic-aur gruvbox-material-icon-theme-git r18.f56ba878e-1
 chaotic-aur grype-bin 0.54.0-1
 chaotic-aur gsettings-desktop-schemas-git 43.0.r12.ged50670-1
-chaotic-aur gst-plugin-pipewire-common-git 0.3.62.r22.ge5ac60b2-1
+chaotic-aur gst-plugin-pipewire-common-git 0.3.62.r25.gda327389-1
 chaotic-aur gstreamer0.10 0.10.36-20
 chaotic-aur gstreamer0.10-base 0.10.36-13
 chaotic-aur gstreamer0.10-base-plugins 0.10.36-13
@@ -15201,8 +15201,8 @@ chaotic-aur linux-nitrous 6.0.12-1
 chaotic-aur linux-nitrous-headers 6.0.12-1
 chaotic-aur linux-steam-integration 0.7.3-4.1
 chaotic-aur linux-tkg-bmq 6.0.12-272
-chaotic-aur linux-tkg-bmq-generic_v3 6.0.12-272
-chaotic-aur linux-tkg-bmq-generic_v3-headers 6.0.12-272
+chaotic-aur linux-tkg-bmq-generic_v3 6.0.13-272
+chaotic-aur linux-tkg-bmq-generic_v3-headers 6.0.13-272
 chaotic-aur linux-tkg-bmq-headers 6.0.12-272
 chaotic-aur linux-tkg-cfs 6.0.12-272
 chaotic-aur linux-tkg-cfs-generic_v3 6.0.12-272
@@ -15755,14 +15755,14 @@ chaotic-aur pimcommon-git 5.22.49_r1817.gfce3806e-1
 chaotic-aur pingu 0.0.3-1
 chaotic-aur pip-tools 6.12.0-1
 chaotic-aur pipe-viewer-git 0.4.4.r2.g25c176b-1
-chaotic-aur pipewire-common-alsa-git 0.3.62.r22.ge5ac60b2-1
-chaotic-aur pipewire-common-docs-git 0.3.62.r22.ge5ac60b2-1
-chaotic-aur pipewire-common-git 0.3.62.r22.ge5ac60b2-1
-chaotic-aur pipewire-common-jack-git 0.3.62.r22.ge5ac60b2-1
-chaotic-aur pipewire-common-pulse-git 0.3.62.r22.ge5ac60b2-1
-chaotic-aur pipewire-common-v4l2-git 0.3.62.r22.ge5ac60b2-1
-chaotic-aur pipewire-common-x11-bell-git 0.3.62.r22.ge5ac60b2-1
-chaotic-aur pipewire-common-zeroconf-git 0.3.62.r22.ge5ac60b2-1
+chaotic-aur pipewire-common-alsa-git 0.3.62.r25.gda327389-1
+chaotic-aur pipewire-common-docs-git 0.3.62.r25.gda327389-1
+chaotic-aur pipewire-common-git 0.3.62.r25.gda327389-1
+chaotic-aur pipewire-common-jack-git 0.3.62.r25.gda327389-1
+chaotic-aur pipewire-common-pulse-git 0.3.62.r25.gda327389-1
+chaotic-aur pipewire-common-v4l2-git 0.3.62.r25.gda327389-1
+chaotic-aur pipewire-common-x11-bell-git 0.3.62.r25.gda327389-1
+chaotic-aur pipewire-common-zeroconf-git 0.3.62.r25.gda327389-1
 chaotic-aur pix 2.8.8-1
 chaotic-aur pixelorama 0.10.3-1.1
 chaotic-aur pixelorama-git 2152.61487910-1
@@ -16766,7 +16766,7 @@ chaotic-aur waterfox-g3-bin 2.6-1.1
 chaotic-aur waterfox-g4-bin 1.5-0.1
 chaotic-aur wattman-gtk-git r203.54d2482-1.1
 chaotic-aur wavebox-beta 10.108.16_3-1
-chaotic-aur waybar-experimental-git 0.9.16.r40.gb5c686c0-1
+chaotic-aur waybar-experimental-git 0.9.16.r43.gc1ea7626-1
 chaotic-aur waybar-hyprland-git 0.9.16.r40.gb5c686c0-1
 chaotic-aur waydroid 1.3.3-1.1
 chaotic-aur waydroid-git 1.3.4.r0.g2fa63fd-1
@@ -26460,6 +26460,7 @@ arcolinux_repo_3party refind-btrfs 0.5.6-1
 arcolinux_repo_3party replay-sorcery 0.6.0-1
 arcolinux_repo_3party retroarch-autoconfig-udev-git r2115.dc625d5-1
 arcolinux_repo_3party river 0.1.3-4
+arcolinux_repo_3party rofi-lbonn-wayland-only-git 1.7.5.wayland1.r41.g61f96e4c-1
 arcolinux_repo_3party rofi-theme-fonts 1.6.1-2
 arcolinux_repo_3party rollback-git r14.43dc1d9-2
 arcolinux_repo_3party rplay 3.3.2-2
