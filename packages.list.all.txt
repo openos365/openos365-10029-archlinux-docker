@@ -15418,6 +15418,7 @@ chaotic-aur mystiq 20.03.23-1.1
 chaotic-aur naiveproxy 108.0.5359.94_1-1
 chaotic-aur nasc 0.8.0-2.1
 chaotic-aur natron-bin 2.5.0-1
+chaotic-aur natron-compositor 2.5.0-1
 chaotic-aur nats-server 2.9.9-1
 chaotic-aur navi 2.20.1-1
 chaotic-aur nchat-git 2.86.r36.gcb09559-1
@@ -16999,7 +17000,7 @@ chaotic-aur yt-dlg-git 1.2.0.r285.gd504012-1
 chaotic-aur yt-dlp-git 2022.11.11.r71.gc73355510-1
 chaotic-aur ytfzf-git r1807.82df2b8-1
 chaotic-aur yuzu-early-access 3224-1
-chaotic-aur yuzu-mainline-bin 0.1272-1
+chaotic-aur yuzu-mainline-bin 0.1273-1
 chaotic-aur yuzu-mainline-git r22767.3dbf55406-1
 chaotic-aur zafiro-icon-theme 1.3-3
 chaotic-aur zandronum 3.1-2
@@ -24317,7 +24318,7 @@ arch4edu code_saturne 7.0.2-1
 arch4edu coin-or-coinmumps 1.6.3-1
 arch4edu coin-or-ipopt 3.14.10-1
 arch4edu combblas 2.0.0-1
-arch4edu comgr 5.4.0-1
+arch4edu comgr 5.4.1-1
 arch4edu conftest 0.35.0-1
 arch4edu console-bridge 1.0.2-1
 arch4edu cp2k-bin 2022.1-1
@@ -24394,7 +24395,7 @@ arch4edu hdf4 4.2.15-1
 arch4edu hdf5110 1.10.7-1
 arch4edu hdfview 3.2.0-1
 arch4edu heasoft 6.31-1
-arch4edu hip-runtime-amd 5.4.0-2
+arch4edu hip-runtime-amd 5.4.1-1
 arch4edu hip-runtime-nvidia 5.3.0-3
 arch4edu hipblas 5.3.0-1
 arch4edu hipcub 5.4.0-1
@@ -24406,8 +24407,8 @@ arch4edu hipsolver 5.3.0-1
 arch4edu hipsparse 5.4.0-1
 arch4edu hopscotch-map 2.3.0-1
 arch4edu hsa-amd-aqlprofile-bin 5.4.0-1
-arch4edu hsa-rocr 5.4.0-1
-arch4edu hsakmt-roct 5.4.0-2
+arch4edu hsa-rocr 5.4.1-1
+arch4edu hsakmt-roct 5.4.1-1
 arch4edu hts-engine 1.10-3
 arch4edu hypre 2.26.0-1
 arch4edu icu58 58.3-1
@@ -24441,7 +24442,6 @@ arch4edu intel-oneapi-mpi-static 2021.6.0_602-1
 arch4edu intel-oneapi-onevpl 2022.1.0_154-1
 arch4edu intel-oneapi-vtune 2022.2.0_172-2
 arch4edu intel-oneapi-vtune-static 2022.2.0_172-2
-arch4edu inxi 3.3.24.1-1
 arch4edu jabref 5.7-1
 arch4edu jags 4.3.1-1
 arch4edu jasp-desktop 0.16.4-5
@@ -24514,8 +24514,8 @@ arch4edu mysql-clients 8.0.31-1
 arch4edu ncl 6.6.2-4
 arch4edu ncurses5-compat-libs 6.3-1
 arch4edu ncview 2.1.8-1
-arch4edu netron 6.2.6-1
-arch4edu netron-cli 6.2.6-1
+arch4edu netron 6.2.7-1
+arch4edu netron-cli 6.2.7-1
 arch4edu nkf 2.1.5-2
 arch4edu nni 2.10-1
 arch4edu nomachine 8.2.3-1
@@ -24586,7 +24586,6 @@ arch4edu python-arch 5.3.1-1
 arch4edu python-astropy-helpers 4.0.1-6
 arch4edu python-astropy-sphinx-theme 1.1-1
 arch4edu python-astroquery 0.4.6-2
-arch4edu python-attrdict 2.0.1-5
 arch4edu python-audioread 3.0.0-1
 arch4edu python-av 10.0.0-1
 arch4edu python-bcolz 1.2.1-2
@@ -24690,7 +24689,6 @@ arch4edu python-pytest-arraydiff 0.5.0-1
 arch4edu python-pytest-astropy 0.10.0-1
 arch4edu python-pytest-astropy-header 0.2.2-1
 arch4edu python-pytest-doctestplus 0.12.1-1
-arch4edu python-pytest-filter-subpackage 0.1.1-1
 arch4edu python-pytest-openfiles 0.5.0-1
 arch4edu python-pytest-remotedata 0.4.0-1
 arch4edu python-pytorch-opt-rocm 1.12.1-5
@@ -25176,12 +25174,12 @@ arch4edu rocfft 5.4.0-1
 arch4edu rocm-clang-ocl 5.4.0-1
 arch4edu rocm-cmake 5.4.1-1
 arch4edu rocm-core 5.4.0-1
-arch4edu rocm-dbgapi 5.3.0-1
+arch4edu rocm-dbgapi 5.4.1-1
 arch4edu rocm-debug-agent 5.3.0-1
 arch4edu rocm-dev 4.3.1-1
 arch4edu rocm-developer-tools 5.4.0-1
-arch4edu rocm-device-libs 5.4.0-1
-arch4edu rocm-gdb 5.3.0-1
+arch4edu rocm-device-libs 5.4.1-1
+arch4edu rocm-gdb 5.4.1-1
 arch4edu rocm-hip-libraries 5.4.0-1
 arch4edu rocm-hip-runtime 5.4.0-1
 arch4edu rocm-hip-sdk 5.4.0-1
@@ -25194,13 +25192,13 @@ arch4edu rocm-opencl-runtime 5.4.0-2
 arch4edu rocm-opencl-sdk 5.2.3-2
 arch4edu rocm-openmp-sdk 5.4.0-1
 arch4edu rocm-smi-lib 5.4.0-2
-arch4edu rocminfo 5.4.0-1
-arch4edu rocprim 5.4.0-1
+arch4edu rocminfo 5.4.1-1
+arch4edu rocprim 5.4.1-1
 arch4edu rocprofiler 5.3.0-1
-arch4edu rocrand 5.4.0-1
+arch4edu rocrand 5.4.1-1
 arch4edu rocsolver 5.3.0-1
 arch4edu rocsparse 5.4.0-1
-arch4edu rocthrust 5.4.0-1
+arch4edu rocthrust 5.4.1-1
 arch4edu roctracer 5.3.0-1
 arch4edu ros-build-tools 0.3.2-2
 arch4edu ros-noetic-actionlib 1.13.2-2
