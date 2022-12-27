@@ -2222,14 +2222,14 @@ extra perl-business-ismn 1.202-1
 extra perl-business-issn 1.005-1
 extra perl-bytes-random-secure 0.29-10
 extra perl-capture-tiny 0.48-6
-extra perl-carp-clan 6.08-5
+extra perl-carp-clan 6.08-6
 extra perl-class-inspector 1.36-5
 extra perl-clone 0.45-4 [installed]
 extra perl-common-sense 3.75-4
 extra perl-compress-bzip2 2.28-3
 extra perl-config-autoconf 0.320-1
-extra perl-config-simple 4.59-14
-extra perl-convert-binhex 1.125-10
+extra perl-config-simple 4.59-15
+extra perl-convert-binhex 1.125-11
 extra perl-cpan-meta 2.150010-11
 extra perl-crypt-openssl-bignum 0.09-8
 extra perl-crypt-openssl-guess 0.15-2
@@ -2238,10 +2238,10 @@ extra perl-crypt-openssl-rsa 0.33-2
 extra perl-crypt-passwdmd5 1.42-1
 extra perl-crypt-random-seed 0.03-7
 extra perl-crypt-random-tesha2 0.01-8
-extra perl-crypt-ssleay 0.73_06-2
+extra perl-crypt-ssleay 0.73_06-3
 extra perl-data-compare 1.27-2
 extra perl-data-uniqid 0.12-10
-extra perl-date-calc 6.4-9
+extra perl-date-calc 6.4-10
 extra perl-date-manip 6.90-1
 extra perl-date-simple 3.03-11
 extra perl-dbd-mariadb 1.22-2
@@ -2249,23 +2249,23 @@ extra perl-dbd-mysql 4.050-8
 extra perl-dbd-sqlite 1.72-1
 extra perl-dbi 1.643-4
 extra perl-digest-hmac 1.04-3
-extra perl-digest-nilsimsa 0.06-22
-extra perl-digest-sha1 2.13-17
+extra perl-digest-nilsimsa 0.06-23
+extra perl-digest-sha1 2.13-18
 extra perl-email-date-format 1.006-1
-extra perl-encode-locale 1.05-9 [installed]
+extra perl-encode-locale 1.05-10 [installed]
 extra perl-error 0.17029-4 [installed]
 extra perl-ev 4.33-4
-extra perl-event-execflow 0.64-7
+extra perl-event-execflow 0.64-8
 extra perl-exporter-tiny 1.006000-1
 extra perl-extutils-depends 0.8001-3
-extra perl-extutils-libbuilder 0.08-9
-extra perl-extutils-pkgconfig 1.16-9
+extra perl-extutils-libbuilder 0.08-10
+extra perl-extutils-pkgconfig 1.16-10
 extra perl-fcgi 0.82-2
 extra perl-fcgi-client 0.09-2
 extra perl-ffi-checklib 0.31-2
 extra perl-file-basedir 0.09-2
 extra perl-file-copy-recursive 0.45-5
-extra perl-file-desktopentry 0.22-9
+extra perl-file-desktopentry 0.22-10
 extra perl-file-find-rule 0.34-9
 extra perl-file-listing 6.15-2 [installed]
 extra perl-file-mimeinfo 0.33-1
@@ -2273,16 +2273,16 @@ extra perl-file-readbackwards 1.06-3
 extra perl-file-sharedir 1.118-2
 extra perl-file-slurper 0.013-1
 extra perl-file-which 1.27-2
-extra perl-guard 1.023-13
+extra perl-guard 1.023-14
 extra perl-html-parser 3.80-1 [installed]
-extra perl-html-tagset 3.20-12 [installed]
+extra perl-html-tagset 3.20-13 [installed]
 extra perl-html-template 2.97-8
 extra perl-http-cookies 6.10-3 [installed]
 extra perl-http-daemon 6.14-2 [installed]
-extra perl-http-date 6.05-5 [installed]
+extra perl-http-date 6.05-6 [installed]
 extra perl-http-message 6.44-1 [installed]
-extra perl-http-negotiate 6.01-10 [installed]
-extra perl-image-exiftool 12.50-1
+extra perl-http-negotiate 6.01-11 [installed]
+extra perl-image-exiftool 12.50-2
 extra perl-inc-latest 0.500-9
 extra perl-io-html 1.004-3 [installed]
 extra perl-io-socket-inet6 2.73-2
@@ -2294,7 +2294,7 @@ extra perl-libwww 6.67-1 [installed]
 extra perl-lingua-translit 0.28-7
 extra perl-list-moreutils 0.430-3
 extra perl-list-moreutils-xs 0.430-3
-extra perl-locale-gettext 1.07-12
+extra perl-locale-gettext 1.07-13
 extra perl-log-log4perl 1.57-1
 extra perl-lwp-mediatypes 6.04-2 [installed]
 extra perl-lwp-protocol-https 6.10-4
@@ -5645,33 +5645,33 @@ community haskell-ghc-typelits-extra 0.4.3-78
 community haskell-ghc-typelits-knownnat 0.7.6-77
 community haskell-ghc-typelits-natnormalise 0.7.7-2
 community haskell-ghcide 1.5.0.1-25
-community haskell-gi 0.26.2-7
-community haskell-gi-atk 2.0.25-16
-community haskell-gi-base 0.26.1-1
-community haskell-gi-cairo 1.0.27-14
-community haskell-gi-cairo-connector 0.1.1-28
-community haskell-gi-cairo-render 0.1.2-5
-community haskell-gi-dbusmenu 0.4.11-11
-community haskell-gi-dbusmenugtk3 0.4.12-5
-community haskell-gi-freetype2 2.0.2-9
-community haskell-gi-gdk 4.0.5-11
-community haskell-gi-gdk3 3.0.25-34
-community haskell-gi-gdk3x11 3.0.12-35
-community haskell-gi-gdkpixbuf 2.0.29-9
-community haskell-gi-gdkx11 4.0.5-18
-community haskell-gi-gio 2.0.30-12
-community haskell-gi-glib 2.0.27-11
-community haskell-gi-gmodule 2.0.3-10
-community haskell-gi-gobject 2.0.28-10
-community haskell-gi-graphene 1.0.5-8
-community haskell-gi-gsk 4.0.5-22
-community haskell-gi-gtk 4.0.6-14
-community haskell-gi-gtk-hs 0.3.13-8
-community haskell-gi-gtk3 3.0.38-35
-community haskell-gi-harfbuzz 0.0.7-6
+community haskell-gi 0.26.2-8
+community haskell-gi-atk 2.0.25-17
+community haskell-gi-base 0.26.2-1
+community haskell-gi-cairo 1.0.27-15
+community haskell-gi-cairo-connector 0.1.1-29
+community haskell-gi-cairo-render 0.1.2-6
+community haskell-gi-dbusmenu 0.4.11-12
+community haskell-gi-dbusmenugtk3 0.4.12-6
+community haskell-gi-freetype2 2.0.2-10
+community haskell-gi-gdk 4.0.5-12
+community haskell-gi-gdk3 3.0.25-35
+community haskell-gi-gdk3x11 3.0.12-36
+community haskell-gi-gdkpixbuf 2.0.29-10
+community haskell-gi-gdkx11 4.0.5-19
+community haskell-gi-gio 2.0.30-13
+community haskell-gi-glib 2.0.27-12
+community haskell-gi-gmodule 2.0.3-11
+community haskell-gi-gobject 2.0.28-11
+community haskell-gi-graphene 1.0.5-9
+community haskell-gi-gsk 4.0.5-23
+community haskell-gi-gtk 4.0.6-15
+community haskell-gi-gtk-hs 0.3.13-9
+community haskell-gi-gtk3 3.0.38-36
+community haskell-gi-harfbuzz 0.0.7-7
 community haskell-gi-overloading 1.0-1
-community haskell-gi-pango 1.0.27-10
-community haskell-gi-xlib 2.0.12-5
+community haskell-gi-pango 1.0.27-11
+community haskell-gi-xlib 2.0.12-6
 community haskell-gio 0.13.8.2-17
 community haskell-git-lfs 1.2.0-43
 community haskell-githash 0.1.6.3-12
@@ -5686,8 +5686,8 @@ community haskell-graphviz 2999.20.1.0-165
 community haskell-gridtables 0.1.0.0-8
 community haskell-groups 0.5.3-1
 community haskell-gsasl 0.3.7-11
-community haskell-gtk-sni-tray 0.1.8.1-42
-community haskell-gtk-strut 0.1.3.2-34
+community haskell-gtk-sni-tray 0.1.8.1-43
+community haskell-gtk-strut 0.1.3.2-35
 community haskell-gtk2hs-buildtools 0.13.8.3-24
 community haskell-gtk3 0.15.7-36
 community haskell-hackage-db 2.1.2-121
@@ -12182,7 +12182,7 @@ community sz 2.1.12.5-1
 community t-prot 3.4-6
 community t1utils 1.42-1
 community tachyon 0.99.5-1
-community taffybar 4.0.0-38
+community taffybar 4.0.0-39
 community tailscale 1.34.1-1
 community talkfilters 2.3.8-7
 community tamarin-prover 1.6.1-264
@@ -13453,6 +13453,7 @@ archcraft archcraft-backgrounds-extra 1.0-4
 archcraft archcraft-backgrounds-gradient 1.0-4
 archcraft archcraft-backgrounds-minimal 1.0-4
 archcraft archcraft-backgrounds-nature 1.0-4
+archcraft archcraft-bspwm 3.0-0
 archcraft archcraft-config-geany 1.0-0
 archcraft archcraft-config-music 1.0-0
 archcraft archcraft-config-qt 1.0-0
@@ -13522,6 +13523,7 @@ archcraft archcraft-mirrorlist 2.0-1
 archcraft archcraft-music 1.0-4
 archcraft archcraft-neofetch 1.0-2
 archcraft archcraft-omz 1.0-6
+archcraft archcraft-openbox 3.0-0
 archcraft archcraft-plymouth-theme 1.0-4
 archcraft archcraft-ranger 1.0-2
 archcraft archcraft-sddm-theme 1.0-4
@@ -16790,7 +16792,7 @@ chaotic-aur vkcube-git r145.8261e90-1.1
 chaotic-aur vkd3d-proton-mingw-git 2.8.r4.ge8d00f70-1
 chaotic-aur vkd3d-proton-tkg-git 1.1.r3094.ge8d00f70-1
 chaotic-aur vkd3d-tkg-git 1.6.r0.g1eaf7314-1
-chaotic-aur vlang-git 0.3.2.r329.g6b3f8f519d-1
+chaotic-aur vlang-git 0.3.2.r330.g508bfbf892-1
 chaotic-aur vlc-git 4.0.0.r21791.gb92dbdc4d3-1
 chaotic-aur vlc-git-debug 4.0.0.r21791.gb92dbdc4d3-1
 chaotic-aur vlc-luajit 3.0.18-2
@@ -22104,7 +22106,7 @@ archlinuxcn dtkcommon-git 5.5.23.r18.gb7830a3-7
 archlinuxcn dtkcore-git 5.6.2.r4.g8ce7d3e-51
 archlinuxcn dtkgui-git 5.6.0.2.r14.g5204f57-1
 archlinuxcn dtkwidget-git 5.5.46.r9.gf0e1eced-1
-archlinuxcn duckstation-git 1:5929.928dd0e6-1
+archlinuxcn duckstation-git 1:5931.af73d8ac-1
 archlinuxcn duperemove-git 696.767db5b-1
 archlinuxcn dxvk-bin 2.0-1
 archlinuxcn dxvk-win32-bin 1.1.1-2
@@ -22114,7 +22116,7 @@ archlinuxcn ebtables 2.0.10_4-8
 archlinuxcn eclipse-emf 2.19-2
 archlinuxcn eclipse-platform 4.26-1
 archlinuxcn edex-ui-git 1:2.2.8.pre-4
-archlinuxcn eka2l1-git 5639.1e00819c0-1
+archlinuxcn eka2l1-git 5640.e6babffe6-1
 archlinuxcn ekho 8.6-2
 archlinuxcn elan-lean 1.4.1-1
 archlinuxcn electron-netease-cloud-music 0.9.36-1
@@ -23876,7 +23878,7 @@ archlinuxcn rpcs3-git 0.0.25.14504.4def7f143c-1
 archlinuxcn rr-git 5.6.0.r55.g2c3e5350-1
 archlinuxcn rslsync 2.7.3-1
 archlinuxcn rssdrop 26.4614df7-1
-archlinuxcn rsshub-git r8456.509f37590-1
+archlinuxcn rsshub-git r8457.0cdbb26dd-1
 archlinuxcn rstudio-desktop-bin 2022.12.0.353-1
 archlinuxcn rstudio-desktop-git 39962.c62c55a487-1
 archlinuxcn rtl8821cu-dkms-git 1:5.4.1.145.8c2226a-1
@@ -24133,7 +24135,7 @@ archlinuxcn uxplay-git r893.d2969af-1
 archlinuxcn v2ray-china-list 20221227002734-1
 archlinuxcn v2ray-dctxmei 4.45.2-1
 archlinuxcn v2ray-desktop 2.3.1-1
-archlinuxcn v2ray-git 5.2.0.r0.gb18f592fb-1
+archlinuxcn v2ray-git 5.2.0.r2.g51bbbc06d-1
 archlinuxcn v2raya 2.0.1-1
 archlinuxcn v2raya-git 20221217.r1276.84abb87-1
 archlinuxcn v2raya-tray-git r5.14ff75f-1
@@ -24262,7 +24264,7 @@ archlinuxcn xorg-xwayland-lily 22.1.7-1
 archlinuxcn xorg-xwayland-lily-debug 22.1.7-1
 archlinuxcn xorgproto-git 2022.2.4.r2726.g9740bd9-1
 archlinuxcn xray 1.7.0-1
-archlinuxcn xray-domain-list-community 20221226075817-1
+archlinuxcn xray-domain-list-community 20221227080615-1
 archlinuxcn xray-geoip 202212220043-1
 archlinuxcn xrestop 0.5-1
 archlinuxcn xrock-git 1.0.4.r5.gbb62b28-1
@@ -24284,7 +24286,7 @@ archlinuxcn youtube-dl-git 2021.12.17.r152.195f22f679-1
 archlinuxcn yubico-piv-tool 2.3.0-5
 archlinuxcn yubikey-full-disk-encryption-git r155.dcaac00-1
 archlinuxcn yuzu-early-access 3256-1
-archlinuxcn yuzu-git r22847.2d7f9fb21b-1
+archlinuxcn yuzu-git r22853.c5de54d509-1
 archlinuxcn yuzu-mainline-git 1284.r0.g0493ab811-1
 archlinuxcn zafiro-icon-theme 1.3-3
 archlinuxcn zarchive-git 0.1.2.r0.gd2c7177-2
@@ -24297,7 +24299,7 @@ archlinuxcn zorin-desktop-themes 3.4.5-1
 archlinuxcn zorin-desktop-themes-git 3.4.5.r0.g6708d51-1
 archlinuxcn zotero-bin 6.0.18-1
 archlinuxcn zpaq 7.15-2
-archlinuxcn zsh-completions-git 0.34.0.r186.g0682649-1
+archlinuxcn zsh-completions-git 0.34.0.r188.gb46602d-1
 archlinuxcn zsh-syntax-highlighting-git 0.8.0.alpha1.pre.redrawhook.r71.gb2c910a-1
 arch4edu abinit 9.6.2-1
 arch4edu act 0.2.34-1
