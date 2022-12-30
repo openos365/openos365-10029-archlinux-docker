@@ -1,5 +1,4 @@
-archiso 69-1
-archlinuxcn-keyring 20220716-1
+arch-install-scripts 28-1
 autoconf 2.71-1
 automake 1.16.5-1
 base 3-1
@@ -14,6 +13,7 @@ ckbcomp 1.210-1
 cmake 3.25.1-1
 debugedit 5.0-4
 dmidecode 3.4-1
+dosfstools 4.2-2
 doxygen 1.9.5-1
 expect 5.45.4-4
 extra-cmake-modules 5.101.0-1
@@ -29,11 +29,11 @@ kconfig 5.101.0-1
 kparts 5.101.0-1
 kpmcore 22.12.0-1
 kservice 5.101.0-1
+libisoburn 1.5.4-2
 libpwquality 1.4.5-1
 libtool 2.4.7-5
 m4 1.4.19-1
 make 4.3-5
-minio-client 2022.11.07-1
 networkmanager 1.40.8-2
 ninja 1.11.1-2
 openssh 9.1p1-3
@@ -54,6 +54,7 @@ qt5-xmlpatterns 5.15.7-1
 rclone 1.61.1-1
 rsync 3.2.7-3
 solid 5.101.0-1
+squashfs-tools 4.5.1-2
 sudo 1.9.12.p1-1
 texinfo 7.0.1-1
 upower 1.90.0-1
