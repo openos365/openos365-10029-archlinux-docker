@@ -1923,9 +1923,9 @@ extra libxfont2 2.0.6-1
 extra libxft 2.3.7-1 [installed]
 extra libxi 1.8-2 [installed]
 extra libxinerama 1.1.5-1
-extra libxkbcommon 1.4.1-2 [installed]
-extra libxkbcommon-doc 1.4.1-2
-extra libxkbcommon-x11 1.4.1-2 [installed]
+extra libxkbcommon 1.5.0-1 [installed]
+extra libxkbcommon-doc 1.5.0-1
+extra libxkbcommon-x11 1.5.0-1 [installed]
 extra libxkbfile 1.1.2-1 [installed]
 extra libxklavier 5.4-3
 extra libxml++ 3.2.4-1
@@ -1966,9 +1966,9 @@ extra linux-hardened-headers 6.0.16.hardened1-1
 extra linux-rt 6.0.5.14.realtime1-2
 extra linux-rt-docs 6.0.5.14.realtime1-2
 extra linux-rt-headers 6.0.5.14.realtime1-2
-extra linux-rt-lts 5.15.79.54.realtime1-1
-extra linux-rt-lts-docs 5.15.79.54.realtime1-1
-extra linux-rt-lts-headers 5.15.79.54.realtime1-1
+extra linux-rt-lts 5.15.85.55.realtime1-1
+extra linux-rt-lts-docs 5.15.85.55.realtime1-1
+extra linux-rt-lts-headers 5.15.85.55.realtime1-1
 extra linux-zen 6.1.2.zen1-1
 extra linux-zen-docs 6.1.2.zen1-1
 extra linux-zen-headers 6.1.2.zen1-1
@@ -13368,8 +13368,8 @@ multilib lib32-libxfixes 6.0.0-2
 multilib lib32-libxft 2.3.6-1
 multilib lib32-libxi 1.8-2
 multilib lib32-libxinerama 1.1.5-1
-multilib lib32-libxkbcommon 1.4.1-1
-multilib lib32-libxkbcommon-x11 1.4.1-1
+multilib lib32-libxkbcommon 1.5.0-1
+multilib lib32-libxkbcommon-x11 1.5.0-1
 multilib lib32-libxml2 2.10.3-2
 multilib lib32-libxmu 1.1.4-1
 multilib lib32-libxrandr 1.5.2-3
@@ -14176,7 +14176,7 @@ chaotic-aur ferdium-nightly-bin 6.2.4.nightly.3-1
 chaotic-aur ff2mpv-native-messaging-host-git r67.1f6cfc4-1.1
 chaotic-aur ffmpeg-compat-57 3.4.11-1.1
 chaotic-aur ffmpeg-full 5.1.2-1.1
-chaotic-aur ffmpeg-git 5.2.r109473.gf0d2ed135c-1
+chaotic-aur ffmpeg-git 5.2.r109474.gc94988a781-1
 chaotic-aur ffmpeg-obs 5.1.2-1.1
 chaotic-aur ffmpeg-obs-debug 5.1.2-1.1
 chaotic-aur ffmpeg21 2.1-2
@@ -15063,7 +15063,7 @@ chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangoapp 0.6.8-1.1
 chaotic-aur lib32-mangohud 0.6.8-1.1
 chaotic-aur lib32-mangohud-git 0.6.8.r37.g1a3fa6e-1
-chaotic-aur lib32-mesa-tkg-git 23.0.0_devel.164695.53d9b696e43-1
+chaotic-aur lib32-mesa-tkg-git 23.0.0_devel.164696.97f2b608330-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.1
 chaotic-aur lib32-neon 0.32.4-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15249,9 +15249,9 @@ chaotic-aur linux-firmware-nfp-git 20221216.52261d0-1
 chaotic-aur linux-firmware-qcom-git 20221216.52261d0-1
 chaotic-aur linux-firmware-qlogic-git 20221216.52261d0-1
 chaotic-aur linux-firmware-whence-git 20221216.52261d0-1
-chaotic-aur linux-git 6.2rc2.r0.g88603b6dc419-1
-chaotic-aur linux-git-docs 6.2rc2.r0.g88603b6dc419-1
-chaotic-aur linux-git-headers 6.2rc2.r0.g88603b6dc419-1
+chaotic-aur linux-git 6.2rc2.r10.g69b41ac87e4a-1
+chaotic-aur linux-git-docs 6.2rc2.r10.g69b41ac87e4a-1
+chaotic-aur linux-git-headers 6.2rc2.r10.g69b41ac87e4a-1
 chaotic-aur linux-lqx 6.1.2.lqx1-1
 chaotic-aur linux-lqx-docs 6.1.2.lqx1-1
 chaotic-aur linux-lqx-headers 6.1.2.lqx1-1
@@ -15406,7 +15406,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.1
 chaotic-aur menulibre 2.2.3-1.1
 chaotic-aur meowsql 0.4.17-1
 chaotic-aur mergerfs 2.34.1-1
-chaotic-aur mesa-tkg-git 23.0.0_devel.164695.53d9b696e43-1
+chaotic-aur mesa-tkg-git 23.0.0_devel.164696.97f2b608330-1
 chaotic-aur mesen-x-git 1.0.1.r163.g61e52135-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -15691,7 +15691,7 @@ chaotic-aur optimus-manager-git 1.4.r12.g29d737f-1.1
 chaotic-aur optimus-manager-qt 1.6.9-1.1
 chaotic-aur optimus-manager-qt-git 1.6.9.r2.g587fbbc-1
 chaotic-aur orage 4.16.0-1.1
-chaotic-aur orchis-theme-git 2022.10.19.r58.g0b3e0b2-1
+chaotic-aur orchis-theme-git 2022.10.19.r61.g7230ab2-1
 chaotic-aur organize 2.2.0-1.1
 chaotic-aur orjail 1.1-2.1
 chaotic-aur os-prober-btrfs 1.79-5
@@ -16488,8 +16488,8 @@ chaotic-aur supertuxkart-git 23148+18575-1
 chaotic-aur surf-git 2.1.r10.g665a709-1.1
 chaotic-aur surfn-icons-git 1:22.10.01.r5.ge6bcca86-1
 chaotic-aur svt-av1-git 1.4.1.r7.gc9a0745a-1
-chaotic-aur sway-git r7040.bd7466e1b-1
-chaotic-aur sway-git-debug r7040.bd7466e1b-1
+chaotic-aur sway-git r7040.bd7466e1-1
+chaotic-aur sway-git-debug r7040.bd7466e1-1
 chaotic-aur sway-launcher-desktop 1.6.0-1
 chaotic-aur swaybg-git r128.a67361e-1
 chaotic-aur swayfx 0.1.1-1
@@ -16843,7 +16843,7 @@ chaotic-aur vkcube-git r145.8261e90-1.1
 chaotic-aur vkd3d-proton-mingw-git 2.8.r4.ge8d00f70-1
 chaotic-aur vkd3d-proton-tkg-git 1.1.r3094.ge8d00f70-1
 chaotic-aur vkd3d-tkg-git 1.6.r0.g1eaf7314-1
-chaotic-aur vlang-git 0.3.2.r375.g09766c44b6-1
+chaotic-aur vlang-git 0.3.2.r376.g2378b71f22-1
 chaotic-aur vlc-git 4.0.0.r21833.gcd5a9c3d35-1
 chaotic-aur vlc-git-debug 4.0.0.r21833.gcd5a9c3d35-1
 chaotic-aur vlc-luajit 3.0.18-2
