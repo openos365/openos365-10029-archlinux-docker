@@ -71,7 +71,7 @@ core gpgme 1.18.0-1 [installed]
 core gpm 1.20.7.r38.ge82d1a6-4 [installed]
 core grep 3.8-2 [installed]
 core groff 1.22.4-7 [installed]
-core grub 2:2.06.r403.g7259d55ff-1
+core grub 2:2.06.r403.g7259d55ff-1 [installed]
 core gssproxy 0.9.1-2
 core guile 3.0.8-3 [installed]
 core gzip 1.12-1 [installed]
@@ -314,7 +314,7 @@ extra arch-install-scripts 28-1 [installed]
 extra arch-rebuild-order 0.3.1-1
 extra arch-signoff 0.5.2-2
 extra archinstall 2.5.2-1
-extra archiso 69-1
+extra archiso 69-1 [installed]
 extra archivetools 3-3
 extra archlinux-appstream-data 20221210-1
 extra archlinux-themes-slim 1.2-6
@@ -551,7 +551,7 @@ extra eog 43.1-1
 extra eog-docs 43.1-1
 extra eog-plugins 42.2-1
 extra epiphany 43.0-1
-extra erofs-utils 1.5-3
+extra erofs-utils 1.5-3 [installed]
 extra ethtool 1:6.0-2
 extra eventviews 22.12.0-1
 extra evince 43.1-1
@@ -2078,7 +2078,7 @@ extra mplayer 38407-1
 extra msmtp 1.8.22-2
 extra msmtp-mta 1.8.22-2
 extra mtdev 1.1.6-2 [installed]
-extra mtools 1:4.0.42-1
+extra mtools 1:4.0.42-1 [installed]
 extra mtr 0.95-3
 extra mtr-gtk 0.95-3
 extra muparser 2.3.4-1
@@ -13569,7 +13569,7 @@ archcraft calamares-config-xfce 1.0-1
 archcraft cava 0.8.3-1
 archcraft ckbcomp 1.210-1 [installed]
 archcraft downgrade 11.2.1-1
-archcraft grub 2.06.r261.g2f4430cc0-3
+archcraft grub 2.06.r261.g2f4430cc0-3 [installed: 2:2.06.r403.g7259d55ff-1]
 archcraft gtk3-nocsd-git r82.512c2bd-1
 archcraft i3lock-color 2.13.c.4-1
 archcraft ksuperkey 0.4-2
@@ -14387,7 +14387,7 @@ chaotic-aur gallium-nine-git 0.r388.9abd0b4-1.2
 chaotic-aur game-devices-udev 0.18-1.1
 chaotic-aur gamehub 0.16.3.2-1.1
 chaotic-aur gamerworld-bin 1.3.0-3.1
-chaotic-aur gamescope-git 3.11.51.r65.gae02e05-1
+chaotic-aur gamescope-git 3.11.51.r67.gd2cc74c-1
 chaotic-aur gaphor-bin 2.12.1-1
 chaotic-aur garuda-downloader-git r36.d3eccf2-2.1
 chaotic-aur garuda-update 2.5.2-1
@@ -15354,7 +15354,7 @@ chaotic-aur m64py 0.2.5-2.1
 chaotic-aur macfanctld 0.6-2
 chaotic-aur mailcommon-git 5.22.40_r1357.g09f664a-1
 chaotic-aur mailimporter-git 5.22.40_r572.gcae9d4d-1
-chaotic-aur mailspring 1.10.7-1
+chaotic-aur mailspring 1.10.8-1
 chaotic-aur make-git 4.4.r38.gccbaf386-1
 chaotic-aur makehuman 1.2.0-6.1
 chaotic-aur makehuman-git r2692.d9d4db70-1.1
@@ -16489,8 +16489,8 @@ chaotic-aur supertuxkart-git 23148+18575-1
 chaotic-aur surf-git 2.1.r10.g665a709-1.1
 chaotic-aur surfn-icons-git 1:22.10.01.r5.ge6bcca86-1
 chaotic-aur svt-av1-git 1.4.1.r7.gc9a0745a-1
-chaotic-aur sway-git r7040.bd7466e1b-1
-chaotic-aur sway-git-debug r7040.bd7466e1b-1
+chaotic-aur sway-git r7040.bd7466e1-1
+chaotic-aur sway-git-debug r7040.bd7466e1-1
 chaotic-aur sway-launcher-desktop 1.6.0-1
 chaotic-aur swaybg-git r128.a67361e-1
 chaotic-aur swayfx 0.1.1-1
@@ -16891,7 +16891,7 @@ chaotic-aur wayland-docs-git 1.21.0.r20.g7f1c51a-1
 chaotic-aur wayland-git 1.21.0.r20.g7f1c51a-1
 chaotic-aur wayland-protocols-git 1.31.r1.g37a7b9d-1
 chaotic-aur waynergy-git r298.f8ff650-1
-chaotic-aur waypipe-git 0.8.4.r2.g669ae3da-1
+chaotic-aur waypipe-git 0.8.4.r2.g669ae3d-1
 chaotic-aur wcm 0.7.0-2
 chaotic-aur wd719x-firmware 1-7
 chaotic-aur wdisplays 1.1-1.1
@@ -17117,7 +17117,7 @@ chaotic-aur zramswap 5-1
 chaotic-aur zrythm 1.0.0.beta.3.5.1-3
 chaotic-aur zrythm-debug 1.0.0.beta.3.5.1-3
 chaotic-aur zrythm-git 1:1.0.0.beta.4.5.1.r19.g3d4e5ecb6-1
-chaotic-aur zsh-theme-powerlevel10k-git r4096.33916e9-1
+chaotic-aur zsh-theme-powerlevel10k-git r4096.33916e91-1
 chaotic-aur zsync2-git 2.0.0r210.1bb5c9b-1.1
 chaotic-aur zulucrypt 6.2.0-1.1
 blackarch 0d1n 1:260.c3023e9-1
@@ -21940,7 +21940,7 @@ archlinuxcn arch-wiki-docs-zh-tw 20221209-1
 archlinuxcn archey-git r146.b74e40br146.b74e40b-3
 archlinuxcn archlinux-artwork 1.6-6
 archlinuxcn archlinux-java-run 9-1
-archlinuxcn archlinuxcn-keyring 20220716-1
+archlinuxcn archlinuxcn-keyring 20220716-1 [installed]
 archlinuxcn archlinuxcn-mirrorlist-git 20221017-1
 archlinuxcn archrepo2-git 2:0.5.r18.gc003123-3
 archlinuxcn aria2-fast 1.36.0-3
@@ -22144,8 +22144,8 @@ archlinuxcn dive 0.10.0-1
 archlinuxcn dnsmasq-china-list-git 0.150490.9b0ea964fb-1
 archlinuxcn docker-rootless-extras 20.10.22-1
 archlinuxcn dog-dns-git 0.1.0.r100.g721440b-1
-archlinuxcn dolphin-emu-git 5.0.r18145.6d95aa5c129-1
-archlinuxcn dolphin-emu-nogui-git 5.0.r18145.6d95aa5c129-1
+archlinuxcn dolphin-emu-git 5.0.r18151.d949aa60bbe-1
+archlinuxcn dolphin-emu-nogui-git 5.0.r18151.d949aa60bbe-1
 archlinuxcn dosbox-staging 0.79.1-1
 archlinuxcn dosbox-staging-debug 0.79.1-1
 archlinuxcn dosbox-x-git 17489.8e1ca3089-1
@@ -22224,7 +22224,7 @@ archlinuxcn fcitx5-anthy-git 5.0.13.r2.g9a2e592-1
 archlinuxcn fcitx5-chewing-git 5.0.13.r1.g62be34d-1
 archlinuxcn fcitx5-chinese-addons-git 5.0.16.r0.gba0ad5b-1
 archlinuxcn fcitx5-configtool-git 5.0.16.r3.g232d3f5-1
-archlinuxcn fcitx5-git 5.0.21.r16.g22454ff-1
+archlinuxcn fcitx5-git 5.0.21.r17.gfe927ae-1
 archlinuxcn fcitx5-gtk-git 5.0.21.r7.g57e72e0-1
 archlinuxcn fcitx5-lua-git 5.0.10.r0.gd8a1319-1
 archlinuxcn fcitx5-mozc-git 2.28.BUILD_OSS.102.r2128.fccaf92a-1
@@ -22995,14 +22995,14 @@ archlinuxcn keynav-git 0.20220824-1
 archlinuxcn kicad-git 6.99.0.r5252.gfdc8f9c59d-1
 archlinuxcn kicad-library-3d-git 6.0.8.r13.g0ea524bd-1
 archlinuxcn kicad-library-digikey-git r231.d4bd68f-1
-archlinuxcn kicad-library-git 6.0.8.r119.g9e0879721-1
+archlinuxcn kicad-library-git 6.0.8.r119.g9e0879721-2
 archlinuxcn kindlegen 2.9-5
 archlinuxcn kjieba 20170519-2
 archlinuxcn klassy 4.0.breeze5.25.80-2
 archlinuxcn klassy-git 4.0.breeze5.25.80.r3.g15bcf1f2-1
 archlinuxcn kmozillahelper 1:5.0.6-1
 archlinuxcn kodi-standalone-service 1.136-1
-archlinuxcn konsole-git 21.11.90.r805.gc063e139d-1
+archlinuxcn konsole-git 21.11.90.r807.g0a8f5a032-1
 archlinuxcn konsole-nord-git r13.1c86e23-1
 archlinuxcn konsole-snazzy-git r3.113050d-2
 archlinuxcn konsole-tomorrow-theme-git r1.6f43a05-2
@@ -23305,8 +23305,8 @@ archlinuxcn moonplayer-plugins 27.5d1471f-6
 archlinuxcn mosh-git 1:1.4.0.r2.gc516fb4-1
 archlinuxcn motrix 1.6.11-4
 archlinuxcn mpdscribble 0.24-2
-archlinuxcn mpv-git 0.35.0_69_g2e9c43f931-1
-archlinuxcn mpv-git-debug 0.35.0_69_g2e9c43f931-1
+archlinuxcn mpv-git 0.35.0_71_gd1d2370d07-1
+archlinuxcn mpv-git-debug 0.35.0_71_gd1d2370d07-1
 archlinuxcn mspdebug 0.25-3
 archlinuxcn mspds 3.15.1.001-10
 archlinuxcn mtxclient 0.8.2-4
@@ -23423,7 +23423,7 @@ archlinuxcn nsync 1.25.0-3
 archlinuxcn ntfs3-dkms 1:5.17-1
 archlinuxcn numix-circle-icon-theme-git 23.01.02.r0.g648e8a7-1
 archlinuxcn numix-icon-theme 22.11.17.r0.g3f55c3027-1
-archlinuxcn nushell-git 0.73.1.r6485.g614bc2a94-1
+archlinuxcn nushell-git 0.73.1.r6487.gd1a78a58c-1
 archlinuxcn nutstore 5.1.7-1
 archlinuxcn nvchecker-git 1:2.11dev.r11-1
 archlinuxcn nvidia-beta-dkms 510.60.02-1
@@ -23873,8 +23873,8 @@ archlinuxcn qt6-base-24h 6.4.1-20
 archlinuxcn qt6-base-24h-debug 6.4.1-20
 archlinuxcn qt6-base-24hms 6.4.1-20
 archlinuxcn qt6-base-24hms-debug 6.4.1-20
-archlinuxcn qtcurve-git 1.9.0.rc1.107.gba86a569-1
-archlinuxcn qtcurve-git-debug 1.9.0.rc1.107.gba86a569-1
+archlinuxcn qtcurve-git 1.9.0.rc1.108.ge2873cb0-1
+archlinuxcn qtcurve-git-debug 1.9.0.rc1.108.ge2873cb0-1
 archlinuxcn qterminal-git 1.2.0.6.g694df0b-1
 archlinuxcn qtermwidget-git 1.2.0.1.gd39d3be-1
 archlinuxcn qtxdg-tools-git 0.0.0.r28.8bf7a47-1
@@ -24039,7 +24039,7 @@ archlinuxcn slack-desktop 4.29.149-1
 archlinuxcn sleef-git 3.5.1.62.g85440a5-1
 archlinuxcn sleef-git-debug 3.5.1.62.g85440a5-1
 archlinuxcn smartdns-china-list-git 0.150490.9b0ea964fb-1
-archlinuxcn smartgit 21.2.4-1
+archlinuxcn smartgit 22.1.2-1
 archlinuxcn smug 0.3.3-1
 archlinuxcn snapper-gui-git 0.1.r8.g1915750-1
 archlinuxcn snes9x-git 1.61.r43.gc23ba00a-1
@@ -24074,7 +24074,7 @@ archlinuxcn swaybg-git r128.a67361e-1
 archlinuxcn swaylock-effects 1.6.10-1
 archlinuxcn sworkstyle 1.3.0-1
 archlinuxcn symbiyosys-git r533.4c44a10-1
-archlinuxcn syncthing-discosrv 1:1.22.2-1
+archlinuxcn syncthing-discosrv 1:1.23.0-1
 archlinuxcn syncthing-gtk-python3 1:0.9.4.5-2
 archlinuxcn synergy-git 1:1.14.6.12.snapshot.r0.gdcd18eebd-1
 archlinuxcn synergy-git-debug 1:1.14.6.12.snapshot.r0.gdcd18eebd-1
