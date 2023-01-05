@@ -149,9 +149,9 @@ core libxml2 2.10.3-2 [installed]
 core libxml2-docs 2.10.3-2
 core licenses 20220125-1 [installed]
 core links 2.28-5
-core linux 6.1.2.arch1-1
+core linux 6.1.3.arch1-1
 core linux-api-headers 5.18.15-1 [installed]
-core linux-docs 6.1.2.arch1-1
+core linux-docs 6.1.3.arch1-1
 core linux-firmware 20221214.f3c283e-1
 core linux-firmware-bnx2x 20221214.f3c283e-1
 core linux-firmware-liquidio 20221214.f3c283e-1
@@ -161,7 +161,7 @@ core linux-firmware-nfp 20221214.f3c283e-1
 core linux-firmware-qcom 20221214.f3c283e-1
 core linux-firmware-qlogic 20221214.f3c283e-1
 core linux-firmware-whence 20221214.f3c283e-1
-core linux-headers 6.1.2.arch1-1
+core linux-headers 6.1.3.arch1-1
 core linux-lts 5.15.86-1
 core linux-lts-docs 5.15.86-1
 core linux-lts-headers 5.15.86-1
@@ -1970,9 +1970,9 @@ extra linux-rt-headers 6.0.5.14.realtime1-2
 extra linux-rt-lts 5.15.85.55.realtime1-1
 extra linux-rt-lts-docs 5.15.85.55.realtime1-1
 extra linux-rt-lts-headers 5.15.85.55.realtime1-1
-extra linux-zen 6.1.2.zen1-1
-extra linux-zen-docs 6.1.2.zen1-1
-extra linux-zen-headers 6.1.2.zen1-1
+extra linux-zen 6.1.3.zen1-1
+extra linux-zen-docs 6.1.3.zen1-1
+extra linux-zen-headers 6.1.3.zen1-1
 extra lirc 1:0.10.2-2
 extra litehtml 0.6-2
 extra live-media 2022.12.01-1
@@ -2131,11 +2131,11 @@ extra ntp 4.2.8.p15-3
 extra nuget 5.10.0-1
 extra numactl 2.0.16-1
 extra nuspell 5.1.2-2
-extra nvidia 525.60.11-6
+extra nvidia 525.60.11-7
 extra nvidia-dkms 525.60.11-1
 extra nvidia-lts 1:525.60.11-7
-extra nvidia-open 525.60.11-6
-extra nvidia-open-dkms 525.60.11-6
+extra nvidia-open 525.60.11-7
+extra nvidia-open-dkms 525.60.11-7
 extra nvidia-prime 1.0-4
 extra nvidia-settings 525.60.11-2
 extra nvidia-utils 525.60.11-1
@@ -3445,7 +3445,7 @@ community amtk 5.6.1-1
 community amule 1:2.3.3-5
 community android-file-transfer 4.2-3
 community android-tools 33.0.3-3
-community android-udev 20220903-2
+community android-udev 20230104-1
 community anewer 0.1.6-1
 community angband 4.2.4-1
 community angle-grinder 0.18.0-2
@@ -3969,7 +3969,7 @@ community cl-trivial-garbage 0.21.r8.gb3af9c0-2
 community cl-trivial-gray-streams 2.0.0.r47.g2b3823e-1
 community cl-unicode 0.1.6.r11.g2790a6b-1
 community clamtk 6.14-1
-community clanlib 4.1.0-1
+community clanlib 4.1.0-2
 community clap 1.1.6-1
 community clash 1.12.0-1
 community clash-ghc 1.6.4-32
@@ -12086,7 +12086,7 @@ community stochas 1.3.5-2
 community stow 2.3.1-3
 community stp 2.3.3-7
 community stratis-cli 3.4.0-1
-community stratisd 3.3.0-1
+community stratisd 3.4.1-1
 community strawberry 1.0.12-1
 community streamlink 5.1.2-1
 community stress 1.0.5-1
