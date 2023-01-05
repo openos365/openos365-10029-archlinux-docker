@@ -4,13 +4,13 @@ core archlinux-keyring 20221220-1 [installed]
 core argon2 20190702-4 [installed]
 core attr 2.5.1-2 [installed]
 core audit 3.0.8-1 [installed]
-core autoconf 2.71-1 [installed]
-core automake 1.16.5-1 [installed]
+core autoconf 2.71-1
+core automake 1.16.5-1
 core b43-fwcutter 019-3
 core base 3-1 [installed]
 core bash 5.1.016-1 [installed]
-core binutils 2.39-4 [installed]
-core bison 3.8.2-4 [installed]
+core binutils 2.39-4
+core bison 3.8.2-4
 core brotli 1.0.9-9 [installed]
 core brotli-testdata 1.0.9-9
 core btrfs-progs 6.1-2
@@ -25,15 +25,15 @@ core cryptsetup 2.6.0-1 [installed]
 core curl 7.87.0-2 [installed]
 core dash 0.5.11.5-1
 core db 6.2.32-1
-core db5.3 5.3.28-2 [installed]
+core db5.3 5.3.28-2
 core dbus 1.14.4-1 [installed]
 core dbus-docs 1.14.4-1
-core debugedit 5.0-4 [installed]
+core debugedit 5.0-4
 core debuginfod 0.188-1
 core device-mapper 2.03.18-1 [installed]
 core dhcpcd 9.4.1-1
 core dialog 1:1.3_20220728-1
-core diffutils 3.8-1 [installed]
+core diffutils 3.8-1
 core ding-libs 0.6.2-1
 core dmraid 1.0.0.rc16.3-14
 core dnssec-anchors 20190629-3
@@ -44,15 +44,15 @@ core efibootmgr 18-1
 core efivar 38-2
 core elfutils 0.188-1
 core expat 2.5.0-1 [installed]
-core fakeroot 1.30.1-1 [installed]
+core fakeroot 1.30.1-1
 core file 5.44-1 [installed]
 core filesystem 2022.10.18-1 [installed]
 core findutils 4.9.0-1 [installed]
-core flex 2.6.4-3 [installed]
+core flex 2.6.4-3
 core fuse2fs 1.46.5-4
 core gawk 5.2.1-1 [installed]
-core gc 8.2.2-1 [installed]
-core gcc 12.2.0-1 [installed]
+core gc 8.2.2-1
+core gcc 12.2.0-1
 core gcc-ada 12.2.0-1
 core gcc-d 12.2.0-1
 core gcc-fortran 12.2.0-1
@@ -70,10 +70,10 @@ core gnutls 3.7.8-4 [installed]
 core gpgme 1.18.0-1 [installed]
 core gpm 1.20.7.r38.ge82d1a6-4
 core grep 3.8-2 [installed]
-core groff 1.22.4-7 [installed]
+core groff 1.22.4-7
 core grub 2:2.06.r403.g7259d55ff-1
 core gssproxy 0.9.1-2
-core guile 3.0.8-3 [installed]
+core guile 3.0.8-3
 core gzip 1.12-1 [installed]
 core hdparm 9.65-1
 core hwdata 0.365-1 [installed]
@@ -85,7 +85,7 @@ core iptables 1:1.8.8-2 [installed]
 core iptables-nft 1:1.8.8-2
 core iputils 20221126-1 [installed]
 core iw 5.19-1
-core jansson 2.14-2 [installed]
+core jansson 2.14-2
 core jfsutils 1.1.15-8
 core json-c 0.16-1 [installed]
 core kbd 2.5.1-1 [installed]
@@ -116,18 +116,18 @@ core libgpg-error 1.46-2 [installed]
 core libgssglue 0.7-1
 core libidn2 2.3.4-3 [installed]
 core libinih 56-1
-core libisl 0.25-1 [installed]
+core libisl 0.25-1
 core libksba 1.6.3-1 [installed]
 core libldap 2.6.3-2 [installed]
 core libmicrohttpd 0.9.75-1
 core libmnl 1.0.5-1 [installed]
-core libmpc 1.3.1-1 [installed]
+core libmpc 1.3.1-1
 core libnetfilter_conntrack 1.0.9-1 [installed]
 core libnfnetlink 1.0.2-1 [installed]
 core libnftnl 1.2.4-1 [installed]
 core libnghttp2 1.51.0-1 [installed]
 core libnl 3.7.0-1 [installed]
-core libnsl 2.0.0-2 [installed]
+core libnsl 2.0.0-2
 core libp11-kit 0.24.1-1 [installed]
 core libpcap 1.10.2-1 [installed]
 core libpipeline 1.5.7-1
@@ -139,7 +139,7 @@ core libsecret-docs 0.20.5-2
 core libssh2 1.10.0-3 [installed]
 core libtasn1 4.19.0-1 [installed]
 core libtirpc 1.3.3-2 [installed]
-core libtool 2.4.7-5 [installed]
+core libtool 2.4.7-5
 core libunistring 1.1-2 [installed]
 core libusb 1.0.26-1
 core libverto 0.3.2-4 [installed]
@@ -170,8 +170,8 @@ core lto-dump 12.2.0-1
 core lvm2 2.03.18-1
 core lz4 1:1.9.4-1 [installed]
 core lzo 2.10-4
-core m4 1.4.19-1 [installed]
-core make 4.4-1 [installed]
+core m4 1.4.19-1
+core make 4.4-1
 core man-db 2.11.1-1
 core man-pages 6.02-1
 core mdadm 4.2-2
@@ -202,19 +202,19 @@ core pacman 6.0.2-5 [installed]
 core pacman-mirrorlist 20221204-1 [installed]
 core pam 1.5.2-1 [installed]
 core pambase 20221020-1 [installed]
-core patch 2.7.6-8 [installed]
+core patch 2.7.6-8
 core pciutils 3.9.0-2 [installed]
 core pcre 8.45-3
 core pcre2 10.40-3 [installed]
-core perl 5.36.0-3 [installed]
+core perl 5.36.0-3
 core pinentry 1.2.1-1 [installed]
-core pkgconf 1.8.0-1 [installed]
+core pkgconf 1.8.0-1
 core popt 1.19-1 [installed]
 core ppp 2.4.9-3
 core pptpclient 1.10.0-2
 core procps-ng 3.3.17-1 [installed]
 core psmisc 23.6-1 [installed]
-core python 3.10.9-1 [installed]
+core python 3.10.9-1
 core python-audit 3.0.8-1
 core python-brotli 1.0.9-9
 core python-capng 0.8.3-1
@@ -234,7 +234,7 @@ core sqlite 3.40.1-1 [installed]
 core sqlite-analyzer 3.40.1-1
 core sqlite-doc 3.40.1-1
 core sqlite-tcl 3.40.1-1
-core sudo 1.9.12.p1-1 [installed]
+core sudo 1.9.12.p1-1
 core sysfsutils 2.1.1-1
 core syslinux 6.04.pre2.r11.gbf6db5b4-3
 core systemd 252.4-2 [installed]
@@ -242,7 +242,7 @@ core systemd-libs 252.4-2 [installed]
 core systemd-resolvconf 252.4-2
 core systemd-sysvcompat 252.4-2 [installed]
 core tar 1.34-1 [installed]
-core texinfo 7.0.1-1 [installed]
+core texinfo 7.0.1-1
 core thin-provisioning-tools 0.9.0-1
 core tpm2-tss 3.2.0-3 [installed]
 core traceroute 2.1.0-5
@@ -252,7 +252,7 @@ core usbutils 015-2
 core util-linux 2.38.1-1 [installed]
 core util-linux-libs 2.38.1-1 [installed]
 core vi 1:070224-6
-core which 2.21-5 [installed]
+core which 2.21-5
 core wireless-regdb 2022.08.12-1
 core wpa_supplicant 2:2.10-8
 core xfsprogs 6.1.0-1
@@ -436,7 +436,7 @@ extra clucene 2.3.3.4-12
 extra clutter 1.26.4-2
 extra clutter-gst 3.0.27-4
 extra clutter-gtk 1.8.4-3
-extra cmake 3.25.1-1 [installed]
+extra cmake 3.25.1-1
 extra cmark 0.30.2-1
 extra cogl 1.22.8-2
 extra colord 1.4.6-1
@@ -756,7 +756,7 @@ extra ghostxps 10.0.0-4
 extra gi-docgen 2022.2-1
 extra giflib 5.2.1-2
 extra gimp 2.10.32-3
-extra git 2.39.0-1 [installed]
+extra git 2.39.0-1
 extra gitg 2:41-1
 extra gjs 2:1.74.1-1
 extra gl2ps 1.4.2-2
@@ -950,7 +950,7 @@ extra haveged 1.9.18-1
 extra hddtemp 0.3.beta15.53-3
 extra hefur 1.0-7
 extra help2man 1.49.3-1
-extra hicolor-icon-theme 0.17-2 [installed]
+extra hicolor-icon-theme 0.17-2
 extra hitori 3.38.4-1
 extra hplip 1:3.22.10-1
 extra hspell 1.4-4
@@ -1062,7 +1062,7 @@ extra js102 102.4.0-1
 extra js91 91.13.0-1
 extra json-glib 1.6.6-2
 extra json-glib-docs 1.6.6-2
-extra jsoncpp 1.9.5-2 [installed]
+extra jsoncpp 1.9.5-2
 extra jsoncpp-doc 1.9.5-2
 extra jsonrpc-glib 3.42.0-1
 extra jsonrpc-glib-docs 3.42.0-1
@@ -1884,7 +1884,7 @@ extra libusb-compat 0.1.8-1
 extra libusbmuxd 2.0.2-1
 extra libutempter 1.2.1-3
 extra libutp r99.fda9f4b-1
-extra libuv 1.44.2-1 [installed]
+extra libuv 1.44.2-1
 extra libva 2.17.0-1
 extra libva-intel-driver 2.4.1-2
 extra libva-mesa-driver 22.3.2-3
@@ -2254,7 +2254,7 @@ extra perl-digest-nilsimsa 0.06-23
 extra perl-digest-sha1 2.13-18
 extra perl-email-date-format 1.007-1
 extra perl-encode-locale 1.05-10
-extra perl-error 0.17029-4 [installed]
+extra perl-error 0.17029-4
 extra perl-ev 4.33-4
 extra perl-event-execflow 0.64-8
 extra perl-exporter-tiny 1.006000-1
@@ -2302,7 +2302,7 @@ extra perl-lwp-protocol-https 6.10-4
 extra perl-mail-authenticationresults 2.20210915-2
 extra perl-mail-dkim 1.20220520-1
 extra perl-mail-spf 2.9.0-10
-extra perl-mailtools 2.21-6 [installed]
+extra perl-mailtools 2.21-6
 extra perl-math-round 0.07-5
 extra perl-mime-charset 1.013.1-1
 extra perl-mime-lite 3.033-2
@@ -2337,7 +2337,7 @@ extra perl-text-patch 1.8-11
 extra perl-text-roman 3.5-9
 extra perl-tie-cycle 1.225-7
 extra perl-tie-simple 1.04-10
-extra perl-timedate 2.33-4 [installed]
+extra perl-timedate 2.33-4
 extra perl-tk 804.036-4
 extra perl-try-tiny 0.31-2
 extra perl-unicode-linebreak 2019.001-5
@@ -2808,7 +2808,7 @@ extra redland-storage-virtuoso 1:1.0.17-8
 extra refind 0.13.3.1-1
 extra refind-docs 0.13.3.1-1
 extra rest 0.8.1+r4+ge5ee6ef-1
-extra rhash 1.4.3-1 [installed]
+extra rhash 1.4.3-1
 extra rhino 1.7.14-1
 extra rhino-javadoc 1.7.14-1
 extra rhythmbox 3.4.6-1
@@ -13692,7 +13692,7 @@ chaotic-aur android-sdk-build-tools r33.0.1-2
 chaotic-aur android-sdk-cmdline-tools-latest 8.0-1
 chaotic-aur android-sdk-platform-tools 33.0.3-1
 chaotic-aur android-studio 2021.3.1.17-1
-chaotic-aur android-studio-canary 2022.2.1.10-1
+chaotic-aur android-studio-canary 2022.2.1.11-1
 chaotic-aur android-studio-launcher 1:1.0.3-1
 chaotic-aur angrysearch 1.0.4-1.1
 chaotic-aur anime4k 4.0.1-3
@@ -17400,7 +17400,7 @@ blackarch blackarch-config-zsh 12.1ee1abb-2
 blackarch blackarch-devtools 1:1.5-1
 blackarch blackarch-devtools-toolkit 53.e393678-2
 blackarch blackarch-installer 1.2.22-1
-blackarch blackarch-keyring 20180925-5 [installed]
+blackarch blackarch-keyring 20180925-5 [installed: 20140118-3]
 blackarch blackarch-menus 10.5244eea-3
 blackarch blackarch-mirrorlist 20220531-1
 blackarch blackarch-wallpaper 1:3.0-2
@@ -21993,7 +21993,7 @@ archlinuxcn arch-wiki-docs-zh-tw 20221209-1
 archlinuxcn archey-git r146.b74e40br146.b74e40b-3
 archlinuxcn archlinux-artwork 1.6-6
 archlinuxcn archlinux-java-run 9-1
-archlinuxcn archlinuxcn-keyring 20220716-1 [installed]
+archlinuxcn archlinuxcn-keyring 20220716-1
 archlinuxcn archlinuxcn-mirrorlist-git 20221017-1
 archlinuxcn archrepo2-git 2:0.5.r18.gc003123-3
 archlinuxcn aria2-fast 1.36.0-3
@@ -26938,7 +26938,7 @@ xerolinux_repo beautyline 1:20221215-1
 xerolinux_repo betterdiscord-git 1.8.2.r5.gd2a1a29d-1
 xerolinux_repo bibata-cursor-theme-bin 2.0.3-1
 xerolinux_repo blender-benchmark 3.1.0-1
-xerolinux_repo brother-dcp-t710w-lpr-bin 1.0.0-1 [installed]
+xerolinux_repo brother-dcp-t710w-lpr-bin 1.0.0-1
 xerolinux_repo btrbk 0.32.4-1
 xerolinux_repo btrfs-assistant 1.6.3-1
 xerolinux_repo btrfs-du 0.0.7-2
@@ -27361,16 +27361,3 @@ Redecorating-t2 gpu-switch static.test.r9.gffe82d6-1
 Redecorating-t2 linux-t2 6.1.1-1
 Redecorating-t2 linux-t2-docs 6.1.1-1
 Redecorating-t2 linux-t2-headers 6.1.1-1
-arch-mact2 apple-bcm-firmware 13.0-1
-arch-mact2 apple-bcm-wifi-firmware 12.0-1
-arch-mact2 calamares-eos-t2 22.12.1.8-1
-arch-mact2 calamares_config_ce_t2 22.09.2.3-4
-arch-mact2 calamares_config_t2 22.09.2.3-4
-arch-mact2 calamares_current_t2 22.04.1.4-1
-arch-mact2 linux-t2-test 6.0.6-1
-arch-mact2 linux-t2-test-docs 6.0.6-1
-arch-mact2 linux-t2-test-headers 6.0.6-1
-arch-mact2 linux-xanmod-edge-t2 6.1.2-1
-arch-mact2 linux-xanmod-edge-t2-headers 6.1.2-1
-arch-mact2 t2strap 1.2.0-1
-arch-mact2 welcome-t2 3.17.31-2
