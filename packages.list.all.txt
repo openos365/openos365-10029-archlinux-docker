@@ -229,7 +229,7 @@ core run-parts 5.5-1
 core s-nail 14.9.24-2
 core sdparm 1.12-1
 core sed 4.9-1 [installed]
-core shadow 4.12.3-2 [installed]
+core shadow 4.13-1 [installed]
 core sqlite 3.40.1-1 [installed]
 core sqlite-analyzer 3.40.1-1
 core sqlite-doc 3.40.1-1
@@ -6534,7 +6534,7 @@ community hyena 0.5-6
 community hypercorn 0.14.3-1
 community hyperfine 1.15.0-1
 community hyperion 1.03.2-29
-community hyperkitty 1.3.6-1
+community hyperkitty 1.3.7-1
 community hyperscan 5.4.0-3
 community hyperv 6.1-1
 community hyphen-fr 3.0-5
@@ -7652,8 +7652,8 @@ community magnum 2020.06-3
 community magnum-plugins 2020.06-3
 community mailgraph 1.14-6
 community mailman-web 0.0.6-1
-community mailman3 3.3.7-1
-community mailman3-hyperkitty 1.2.0-2
+community mailman3 3.3.8-1
+community mailman3-hyperkitty 1.2.1-1
 community mailnag 2.2.0-5
 community mailnag-gnome-shell 40.0-2
 community mailnag-goa-plugin 2.0.0-3
@@ -9115,7 +9115,7 @@ community postgis 3.3.2-1
 community postgresql-ip4r 2.4.1-3
 community postgrest 10.0.0-43
 community postgrey 1.37-5
-community postorius 1.3.7-1
+community postorius 1.3.8-1
 community pound 3.0.2-3
 community povray 2:3.7.0.10-5
 community powerdns 4.7.3-1
@@ -9558,7 +9558,7 @@ community python-django-filter 22.1-2
 community python-django-gravatar 1.4.4-5
 community python-django-guardian 2.4.0-3
 community python-django-haystack 3.2.1-2
-community python-django-mailman3 1.3.8-1
+community python-django-mailman3 1.3.9-1
 community python-django-modeltranslation 0.18.7-1
 community python-django-picklefield 3.1.0-1
 community python-django-q 1.3.9-6
@@ -10012,7 +10012,7 @@ community python-magic 1:0.4.27-1
 community python-magic-wormhole-mailbox-server 0.4.1-6
 community python-magic-wormhole-transit-relay 0.2.1-5
 community python-magnumclient 4.0.0-1
-community python-mailmanclient 3.3.4-1
+community python-mailmanclient 3.3.5-1
 community python-mamba 0.11.2-4
 community python-manhole 1.8.0-3
 community python-manuel 1.12.4-1
@@ -10511,7 +10511,7 @@ community python-pytest-twisted 1.14.0-1
 community python-pytest-vcr 1.0.2-6
 community python-pytest-virtualenv 1.7.0-8
 community python-pytest-xdist 3.1.0-1
-community python-pytest-xprocess 0.21.0-1
+community python-pytest-xprocess 0.22.2-1
 community python-pytest-xvfb 2.0.0-5
 community python-pythia8 8.3.07-4
 community python-python-multipart 0.0.5-5
@@ -10785,7 +10785,7 @@ community python-subprocess-tee 0.4.1-1
 community python-subunit 1.4.1-1
 community python-suds 1.4.2.0-1
 community python-sure 2.0.0-5
-community python-svglib 1.4.1-1
+community python-svglib 1.5.0-1
 community python-svgwrite 1.4.3-1
 community python-swiftclient 4.1.0-2
 community python-sword 1.9.0-7
@@ -14503,7 +14503,7 @@ chaotic-aur gnome-shell-performance 1:43.2+3+g5db40c1ea-1
 chaotic-aur gnome-shell-pomodoro 0.22.0-1.1
 chaotic-aur gnome-terminal-transparency 3.46.7-1
 chaotic-aur gnome-terminal-transparency-debug 3.46.7-1
-chaotic-aur godot-git 4.0.r50257.gb14f7aa9f92ff-1
+chaotic-aur godot-git 4.0.r50257.gb14f7aa9f92-1
 chaotic-aur godot-mono 3.5-1.1
 chaotic-aur goland 2022.3.1-1
 chaotic-aur goland-jre 2022.3.1-1
@@ -14741,7 +14741,7 @@ chaotic-aur input-leap-headless-git 2.4.0+313+g61689b56-1
 chaotic-aur input-remapper-git 1.5.0.r15.gbc68fa7f-1
 chaotic-aur insight-toolkit4 4.13.3-3.1
 chaotic-aur insomnia 2022.7.0-2
-chaotic-aur insync 3.8.4.50481-1
+chaotic-aur insync 3.8.4.50481-2
 chaotic-aur insync-caja 3.7.9.50368-1
 chaotic-aur insync-dolphin 3.7.9.50368-1.1
 chaotic-aur insync-emblem-icons 3.4.2.40983-2
@@ -15469,7 +15469,7 @@ chaotic-aur metronome 1.0.0-1.1
 chaotic-aur micro-git v2.0.11.r21.g443ede47-1
 chaotic-aur micropad 4.2.0-1.1
 chaotic-aur microsoft-edge-beta-bin 109.0.1518.23-1
-chaotic-aur microsoft-edge-dev-bin 110.0.1556.0-1
+chaotic-aur microsoft-edge-dev-bin 110.0.1587.1-1
 chaotic-aur microsoft-edge-stable-bin 108.0.1462.76-1
 chaotic-aur miktex 22.10-1
 chaotic-aur milou-git 5.26.80_r800.gf2b42a6-1
@@ -16898,10 +16898,10 @@ chaotic-aur vivaldi-snapshot-ffmpeg-codecs 108.0.5327.0-1
 chaotic-aur vkbasalt 0.3.2.8-1
 chaotic-aur vkbasalt-cli 3.1.1-1
 chaotic-aur vkcube-git r145.8261e90-1.1
-chaotic-aur vkd3d-proton-mingw-git 2.8.r7.g5d6dcae4-1
+chaotic-aur vkd3d-proton-mingw-git 2.8.r8.gd2c87621-1
 chaotic-aur vkd3d-proton-tkg-git 1.1.r3098.gd2c87621-1
 chaotic-aur vkd3d-tkg-git 1.6.r0.g1eaf7314-1
-chaotic-aur vlang-git 0.3.2.r390.g3b594d6cd8-1
+chaotic-aur vlang-git 0.3.2.r393.gde2ed7497a-1
 chaotic-aur vlc-git 4.0.0.r21833.gcd5a9c3d35-1
 chaotic-aur vlc-git-debug 4.0.0.r21833.gcd5a9c3d35-1
 chaotic-aur vlc-luajit 3.0.18-3
@@ -23052,7 +23052,7 @@ archlinuxcn keeweb 1.18.7-1
 archlinuxcn kega-fusion 3.63-17
 archlinuxcn kernel-modules-hook-reflink 0.1.11-1
 archlinuxcn keynav-git 0.20220824-1
-archlinuxcn kicad-git 6.99.0.r5303.g3b021d98be-1
+archlinuxcn kicad-git 6.99.0.r5338.g2cbb66d70d-1
 archlinuxcn kicad-library-3d-git 6.0.8.r21.gbe644f5b-1
 archlinuxcn kicad-library-digikey-git r231.d4bd68f-1
 archlinuxcn kicad-library-git 6.0.8.r124.gd200b478d-1
@@ -23488,7 +23488,7 @@ archlinuxcn nutstore 5.1.7-1
 archlinuxcn nvchecker-git 1:2.11dev.r11-1
 archlinuxcn nvidia-beta-dkms 510.60.02-1
 archlinuxcn nvidia-container-toolkit 1.9.0-1
-archlinuxcn nvidia-lily 525.60.11-1
+archlinuxcn nvidia-lily 525.78.01-1
 archlinuxcn nvidia-settings-beta 510.60.02-1
 archlinuxcn nvidia-utils-beta 510.60.02-1
 archlinuxcn nvidia-vaapi-driver-git 0.0.8.r27.g681f12f-1
