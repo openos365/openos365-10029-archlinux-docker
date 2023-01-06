@@ -556,15 +556,15 @@ extra ethtool 1:6.0-2
 extra eventviews 22.12.1-1
 extra evince 43.1-2
 extra evince-lib-docs 43.1-2
-extra evolution 3.46.2-2
-extra evolution-bogofilter 3.46.2-2
-extra evolution-data-server 3.46.2-3
-extra evolution-ews 3.46.2-2
-extra evolution-spamassassin 3.46.2-2
+extra evolution 3.46.3-1
+extra evolution-bogofilter 3.46.3-1
+extra evolution-data-server 3.46.3-1
+extra evolution-ews 3.46.3-1
+extra evolution-spamassassin 3.46.3-1
 extra exempi 2.6.3-1
 extra exiv2 0.27.5-3
 extra exo 4.18.0-1
-extra expect 5.45.4-4 [installed]
+extra expect 5.45.4-4
 extra extra-cmake-modules 5.101.0-1 [installed]
 extra f2fs-tools 1.15.0-2
 extra faac 1.30-3
@@ -933,14 +933,14 @@ extra gupnp-docs 1:1.6.3-1
 extra gupnp-igd 1.2.0-3
 extra gutenprint 5.3.4-2
 extra gv 3.7.4-5
-extra gvfs 1.50.2-1
-extra gvfs-afc 1.50.2-1
-extra gvfs-goa 1.50.2-1
-extra gvfs-google 1.50.2-1
-extra gvfs-gphoto2 1.50.2-1
-extra gvfs-mtp 1.50.2-1
-extra gvfs-nfs 1.50.2-1
-extra gvfs-smb 1.50.2-1
+extra gvfs 1.50.3-1
+extra gvfs-afc 1.50.3-1
+extra gvfs-goa 1.50.3-1
+extra gvfs-google 1.50.3-1
+extra gvfs-gphoto2 1.50.3-1
+extra gvfs-mtp 1.50.3-1
+extra gvfs-nfs 1.50.3-1
+extra gvfs-smb 1.50.3-1
 extra gvim 9.0.1046-1
 extra gwenview 22.12.1-1
 extra gyp 20220404.9ecf45e3-1
@@ -1341,9 +1341,9 @@ extra lib32-rust-libs 1:1.66.0-1
 extra libabw 0.1.3-3
 extra libaccounts-glib 1.26-1
 extra libaccounts-qt 1.16-3
-extra libadwaita 1:1.2.0-1
-extra libadwaita-demos 1:1.2.0-1
-extra libadwaita-docs 1:1.2.0-1
+extra libadwaita 1:1.2.1-1
+extra libadwaita-demos 1:1.2.1-1
+extra libadwaita-docs 1:1.2.1-1
 extra libakonadi 22.12.1-1
 extra libao 1.2.2-5
 extra libappimage 1.0.4.5-3
@@ -2009,7 +2009,7 @@ extra lzop 1.04-3
 extra m17n-db 1.8.0-3
 extra m17n-lib 1.8.0-13
 extra maeparser 1.3.0-2
-extra mailcap 2.1.53-1 [installed]
+extra mailcap 2.1.53-1
 extra mailcommon 22.12.1-1
 extra mailimporter 22.12.1-1
 extra malcontent 0.11.0-1
@@ -2917,7 +2917,7 @@ extra taglib 1.13-1
 extra tali 40.8-1
 extra talloc 2.3.4-1
 extra tbb 2021.5.0-2
-extra tcl 8.6.13-1 [installed]
+extra tcl 8.6.13-1
 extra tcpdump 4.99.2-1
 extra tdb 1.4.7-1 [installed]
 extra telepathy-accounts-signon 2.1-2
@@ -5036,7 +5036,7 @@ community git-sizer 1.5.0-2
 community git-smash 0.1.0-1
 community git-warp-time 0.4.8-1
 community gitea 1.18.0-1
-community github-cli 2.21.2-1 [installed]
+community github-cli 2.21.2-1
 community gitlab 15.7.0-1
 community gitlab-exporter 0.3.0-2
 community gitlab-gitaly 15.7.0-1
@@ -7846,7 +7846,7 @@ community minieap 0.93-1
 community miniflux 2.0.41-1
 community minikube 1.28.0-1
 community minio 2022.11.11-1
-community minio-client 2022.11.07-1 [installed]
+community minio-client 2022.11.07-1
 community minisat 2.2.1.20201216-1
 community miniserve 0.22.0-1
 community minisign 0.10-1
@@ -8363,7 +8363,7 @@ community packer 1.8.5-1
 community packeth 2.1-2
 community pacman-bintrans 0.4.0-1
 community pacman-bintrans-tools 0.4.0-1
-community pacman-contrib 1.8.2-1 [installed]
+community pacman-contrib 1.8.2-1
 community pacmanlogviewer 1.4.3-2
 community pacmatic 20150126-4
 community pacoloco 1.2-2
@@ -11147,7 +11147,7 @@ community raylib 4.2.0-2
 community razercfg 0.42-5
 community rbutil 1.5.1-1
 community rbw 1.4.3-1
-community rclone 1.61.1-1 [installed]
+community rclone 1.61.1-1
 community rdesktop 1.9.0-2
 community rdiff-backup 2.0.5-3
 community rdma-core 42.1-1
@@ -13611,7 +13611,7 @@ archcraft wf-config 0.7.1-3
 archcraft wlogout 1.1.1-3
 archcraft wlr-randr 0.2.0-2
 archcraft xfce-polkit 0.3-1
-archcraft yay 11.3.1-1 [installed]
+archcraft yay 11.3.1-1
 chaotic-aur 1password 8.9.10-43
 chaotic-aur 7-zip 22.01-2
 chaotic-aur 7-zip-full 22.01-3
@@ -14029,7 +14029,7 @@ chaotic-aur cpod-appimage 1.28.0-3.1
 chaotic-aur cpp-taskflow 3.4.0-1
 chaotic-aur cpu-x 4.5.2-1
 chaotic-aur cpu-x-git 4.5.2.r11.g5a84f42-1
-chaotic-aur cpufetch-git 1.03.r2.g874f890-1
+chaotic-aur cpufetch-git 1.03.r4.g2fc4896-1
 chaotic-aur cpupower-gui 1.0.0-5.1
 chaotic-aur crazydiskinfo 1.1.0-2.2
 chaotic-aur croc-git 9.6.2.r3.g9e280d7-1
@@ -14209,7 +14209,7 @@ chaotic-aur fast 0.0.4-1
 chaotic-aur fastfetch 1.8.2-1
 chaotic-aur fastfetch-git 1.8.2.r21.gf3db4e4-1
 chaotic-aur fastgame-git 0.2.0.r5.g1cf767b-1
-chaotic-aur faudio-tkg-git 23.01.r0.g11ba6b3-1
+chaotic-aur faudio-tkg-git 23.01.r1.g16f86bf-1
 chaotic-aur feedbackd 0.0.1-1
 chaotic-aur feem 4.4.2-1
 chaotic-aur ferdi 5.8.1-1.1
@@ -15062,7 +15062,7 @@ chaotic-aur lib32-chromaprint 1.5.1-1.1
 chaotic-aur lib32-dav1d 1.0.0-1
 chaotic-aur lib32-faac 1.30-3
 chaotic-aur lib32-faad2 2.10.0-1
-chaotic-aur lib32-faudio-tkg-git 23.01.r0.g11ba6b3-1
+chaotic-aur lib32-faudio-tkg-git 23.01.r1.g16f86bf-1
 chaotic-aur lib32-ffmpeg 2:5.1.2-1.1
 chaotic-aur lib32-ffmpeg-debug 2:5.1.2-1.1
 chaotic-aur lib32-fftw 3.3.10-3.1
@@ -15138,7 +15138,7 @@ chaotic-aur lib32-sratom 0.6.14-1.1
 chaotic-aur lib32-srt 1.5.1-1
 chaotic-aur lib32-unixodbc 2.3.11-1
 chaotic-aur lib32-vkbasalt 0.3.2.8-1
-chaotic-aur lib32-vkd3d-proton-tkg-git 1.1.r3098.gd2c87621-1
+chaotic-aur lib32-vkd3d-proton-tkg-git 1.1.r3099.gf09e31af-1
 chaotic-aur lib32-vkd3d-tkg-git 1.6.r0.g1eaf7314-1
 chaotic-aur lib32-vmaf 2.3.1-1
 chaotic-aur lib32-vulkan-icd-loader-git 1.3.235.r4.g3c25bbc5f-1
@@ -16089,7 +16089,7 @@ chaotic-aur python-fonttools-git 4.38.0.r82.g3c4cc71-1
 chaotic-aur python-freetype-py 2.3.0-1.1
 chaotic-aur python-gbinder 1.1.1-1
 chaotic-aur python-gevent-eventemitter 2.1-3.1
-chaotic-aur python-git 3.12.0a0.r115702.659c2607f5b-1
+chaotic-aur python-git 3.12.0a0.r115706.9ffbc58f5cb-1
 chaotic-aur python-googletrans-git r116.d15c94f-1.1
 chaotic-aur python-gpiozero 1.6.2-2
 chaotic-aur python-gtts 2.2.4-1.1
@@ -16900,7 +16900,7 @@ chaotic-aur vkbasalt 0.3.2.8-1
 chaotic-aur vkbasalt-cli 3.1.1-1
 chaotic-aur vkcube-git r145.8261e90-1.1
 chaotic-aur vkd3d-proton-mingw-git 2.8.r8.gd2c87621-1
-chaotic-aur vkd3d-proton-tkg-git 1.1.r3098.gd2c87621-1
+chaotic-aur vkd3d-proton-tkg-git 1.1.r3099.gf09e31af-1
 chaotic-aur vkd3d-tkg-git 1.6.r0.g1eaf7314-1
 chaotic-aur vlang-git 0.3.2.r393.gde2ed7497a-1
 chaotic-aur vlc-git 4.0.0.r21833.gcd5a9c3d35-1
@@ -17134,7 +17134,7 @@ chaotic-aur yaru-sound-theme 22.10.2-1
 chaotic-aur yaru-unity-theme 22.10.2-1
 chaotic-aur yaru-xfwm4-theme 22.10.2-1
 chaotic-aur yaup-git 0.1.r4.g7ee3fdb-1.2
-chaotic-aur yay 11.3.2-1 [installed: 11.3.1-1]
+chaotic-aur yay 11.3.2-1
 chaotic-aur yay-git 11.3.1.r91.gb8debd1-1
 chaotic-aur yosys-git 0.25+3.r12007.f2c689403-1
 chaotic-aur youplay 0.40-1
@@ -21917,7 +21917,7 @@ blackarch yasca 2.1-3
 blackarch yasuo 121.994dcb1-8
 blackarch yate-bts 6.1.0-1
 blackarch yawast 1072.5e9e7a3-6
-blackarch yay 11.2.0-1 [installed: 11.3.1-1]
+blackarch yay 11.2.0-1
 blackarch ycrawler 0.1-6
 blackarch yersinia 0.8.2-1
 blackarch yeti 2474.9e8b76cd-1
@@ -24402,7 +24402,7 @@ archlinuxcn xwinwrap-git r5.ec32e9b-2
 archlinuxcn yacd 0.3.8-1
 archlinuxcn yandex-browser-beta 22.9.1.1110_1-3
 archlinuxcn yaourt 1.9-1
-archlinuxcn yay 11.3.2-1 [installed: 11.3.1-1]
+archlinuxcn yay 11.3.2-1
 archlinuxcn yay-git 11.3.1.r92.gc40e949-1
 archlinuxcn ydcv-rs-git 0.4.7.157-1
 archlinuxcn ydotool-git 1.0.1.r2.g1d5d227-6
@@ -25683,7 +25683,7 @@ arch4edu wxwidgets-gtk2-debug 3.2.1-1
 arch4edu xalan-java 2.7.2-3
 arch4edu xerces2-java 2.12.1-1
 arch4edu xflr5 6.57.r1431-1
-arch4edu yay 11.3.2-1 [installed: 11.3.1-1]
+arch4edu yay 11.3.2-1
 arch4edu ycm-generator-git r125.7c0f570-1
 arch4edu zoom 5.13.3-1
 arch4edu zotero 6.0.18-1
@@ -25753,7 +25753,7 @@ endeavouros wgetpaste-eos 2.33-1
 endeavouros worm 0.3.1-1
 endeavouros yad 12.3-1.1
 endeavouros yad-eos 12.3-1
-endeavouros yay 11.3.2-1 [installed: 11.3.1-1]
+endeavouros yay 11.3.2-1
 endeavouros zfs-dkms 2.1.7-1
 endeavouros zfs-utils 2.1.7-1
 garuda alsa-support 1-1
@@ -26828,7 +26828,7 @@ arcolinux_repo_3party xmonad-log 0.1.0-3
 arcolinux_repo_3party xsnow-bin 3.5.2-1
 arcolinux_repo_3party xstarter 0.8.1-1
 arcolinux_repo_3party xtitle-git 47-1
-arcolinux_repo_3party yay 11.3.2-1 [installed: 11.3.1-1]
+arcolinux_repo_3party yay 11.3.2-1
 arcolinux_repo_3party yay-bin 11.3.2-1
 arcolinux_repo_3party yay-git 11.3.1.r92.gc40e949-1
 arcolinux_repo_3party yin-yang-git 1.0.beta.r214.ge15663f-1
@@ -26906,7 +26906,7 @@ arcolinux_repo_xlarge zoom 5.13.3-1
 iso-repo calamares-config 22.12-3
 iso-repo calamares-config-dev 22.12-2
 iso-repo calamares-g-config 22.12-1
-iso-repo calamares-g-config-dev 22.12-2
+iso-repo calamares-g-config-dev 23.01-1
 iso-repo xero-calamares 3.2.61-11
 iso-repo xero-g-config-dev 23.01-2
 iso-repo xero-kde-config-dev 22.12-2
