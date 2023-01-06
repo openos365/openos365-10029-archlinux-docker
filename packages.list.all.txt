@@ -3830,7 +3830,7 @@ community cargo-c 0.9.15-2
 community cargo-crev 0.23.3-3
 community cargo-deny 0.13.5-1
 community cargo-depgraph 1.4.0-1
-community cargo-edit 0.11.7-1
+community cargo-edit 0.11.7-2
 community cargo-espflash 1.7.0-3
 community cargo-expand 1.0.37-1
 community cargo-feature 0.7.0-1
@@ -7743,7 +7743,7 @@ community mathomatic 16.0.5-8
 community matrix-appservice-irc 0.36.0-1
 community matrix-synapse 1.73.0-1
 community matterbridge 1.25.2-2
-community mattermost 7.5.2-2
+community mattermost 7.5.2-3
 community mattermost-desktop 5.1.1-3
 community maturin 0.14.8-1
 community maude 3.2.2-1
@@ -10247,7 +10247,7 @@ community python-pluggy 1.0.0-1
 community python-plumbum 1.8.1-1
 community python-plyvel 1.5.0-1
 community python-podcastparser 0.6.8-1
-community python-poetry 1.3.1-1
+community python-poetry 1.3.1-2
 community python-poetry-core 1.4.0-1
 community python-poetry-plugin-export 1.2.0-1
 community python-pony 0.7.16-2
@@ -11130,7 +11130,7 @@ community raft 0.16.0-1
 community rage 0.4.0-1
 community ragel 6.10-3
 community range-v3 0.12.0-1
-community ranger 1.9.3-4
+community ranger 1.9.3-6
 community rankwidth 0.9-2
 community rapid-photo-downloader 0.9.34-1
 community rapidfuzz-cpp 1.10.4-1
@@ -11996,7 +11996,7 @@ community sord 0.16.14-1
 community sord-docs 0.16.14-1
 community sound-gambit 0.7-1
 community sound-theme-elementary 1.1.0-2
-community soundconverter 4.0.3-1
+community soundconverter 4.0.3-2
 community soundfont-fluid 3.1-3
 community soundkonverter 3.0.1-5
 community sowing 1.1.26-2
@@ -12068,7 +12068,7 @@ community sstp-client 1:1.0.18-1
 community stack 2.7.5-218
 community stalonetray 0.8.4-2
 community stardict 3.0.6.2-1
-community starship 1.12.0-2
+community starship 1.12.0-3
 community startdde 5.10.1-1
 community staticcheck 2022.1.3-1
 community stb r2129.8b5f1f3-1
@@ -13165,7 +13165,7 @@ community zettlr 2.3.0-1
 community zfp 1.0.0-1
 community zh-autoconvert 0.3.16-5
 community zig 0.9.1-2
-community zigbee2mqtt 1.29.0-1
+community zigbee2mqtt 1.29.1-1
 community zile 2.6.2-2
 community zim 0.75.1-1
 community zim-tools 3.1.3-1
@@ -14502,7 +14502,7 @@ chaotic-aur gnome-shell-performance 1:43.2+3+g5db40c1ea-1
 chaotic-aur gnome-shell-pomodoro 0.22.0-1.1
 chaotic-aur gnome-terminal-transparency 3.46.7-1
 chaotic-aur gnome-terminal-transparency-debug 3.46.7-1
-chaotic-aur godot-git 4.0.r50208.gdc3175e4cdb-1
+chaotic-aur godot-git 4.0.r50257.gb14f7aa9f92ff-1
 chaotic-aur godot-mono 3.5-1.1
 chaotic-aur goland 2022.3.1-1
 chaotic-aur goland-jre 2022.3.1-1
@@ -14660,6 +14660,8 @@ chaotic-aur gzdoom 4.10.0-1
 chaotic-aur haguichi 1.4.5-1.1
 chaotic-aur hakuneko-desktop 6.1.7-2.1
 chaotic-aur hamradio-menus 1.0-2
+chaotic-aur handbrake-nvenc 1.6.0-2
+chaotic-aur handbrake-nvenc-cli 1.6.0-2
 chaotic-aur hardcode-tray 4.3-3.1
 chaotic-aur hardinfo 0.5.1.816.g877ea2b-2.1
 chaotic-aur hardinfo-git 0.6.alpha.1400.ga798cba-1.1
@@ -14802,7 +14804,7 @@ chaotic-aur jitsi-meet-desktop 2022.11.0-1
 chaotic-aur jlatexmath-fop 1.0.7-1.1
 chaotic-aur jmencode 0.64-6.1
 chaotic-aur jogl 2.3.2-2.1
-chaotic-aur joplin-beta-appimage 2.10.3-1
+chaotic-aur joplin-beta-appimage 2.10.4-1
 chaotic-aur joshuto-git r1166.269cf09-1
 chaotic-aur joystickwake 0.3-1.1
 chaotic-aur jpeg2png-ipep-git 1.01.r5.g7ae6e42-1
@@ -15108,7 +15110,7 @@ chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangoapp 0.6.8-1.1
 chaotic-aur lib32-mangohud 0.6.8-1.1
 chaotic-aur lib32-mangohud-git 0.6.8.r40.ge3995ff-1
-chaotic-aur lib32-mesa-tkg-git 23.0.0_devel.164869.988c871ca98-1
+chaotic-aur lib32-mesa-tkg-git 23.0.0_devel.164872.808a25c30a4-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.1
 chaotic-aur lib32-neon 0.32.4-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15454,7 +15456,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.1
 chaotic-aur menulibre 2.2.3-1.1
 chaotic-aur meowsql 0.4.17-1
 chaotic-aur mergerfs 2.34.1-1
-chaotic-aur mesa-tkg-git 23.0.0_devel.164869.988c871ca98-1
+chaotic-aur mesa-tkg-git 23.0.0_devel.164872.808a25c30a4-1
 chaotic-aur mesen-x-git 1.0.1.r163.g61e52135-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -16224,13 +16226,13 @@ chaotic-aur qca-qt5-git 2.3.5_r2472.gaa691107-1.1
 chaotic-aur qca-qt6-git 2.3.5_r2472.gaa691107-1.1
 chaotic-aur qdigidoc4 4.2.14.4431-2
 chaotic-aur qdirstat 1.8.1-1.1
-chaotic-aur qemu-arch-extra-git 18:7.2.0.r358.gd1852caab1-1
-chaotic-aur qemu-block-gluster-git 18:7.2.0.r358.gd1852caab1-1
-chaotic-aur qemu-block-iscsi-git 18:7.2.0.r358.gd1852caab1-1
-chaotic-aur qemu-git 18:7.2.0.r358.gd1852caab1-1
-chaotic-aur qemu-guest-agent-git 18:7.2.0.r358.gd1852caab1-1
-chaotic-aur qemu-headless-arch-extra-git 18:7.2.0.r358.gd1852caab1-1
-chaotic-aur qemu-headless-git 18:7.2.0.r358.gd1852caab1-1
+chaotic-aur qemu-arch-extra-git 18:7.2.0.r393.gd365cb0b9d-1
+chaotic-aur qemu-block-gluster-git 18:7.2.0.r393.gd365cb0b9d-1
+chaotic-aur qemu-block-iscsi-git 18:7.2.0.r393.gd365cb0b9d-1
+chaotic-aur qemu-git 18:7.2.0.r393.gd365cb0b9d-1
+chaotic-aur qemu-guest-agent-git 18:7.2.0.r393.gd365cb0b9d-1
+chaotic-aur qemu-headless-arch-extra-git 18:7.2.0.r393.gd365cb0b9d-1
+chaotic-aur qemu-headless-git 18:7.2.0.r393.gd365cb0b9d-1
 chaotic-aur qimgv-git v1.0.3.alpha.r78.g8ad0a11-1
 chaotic-aur qmplay2-git 22.10.23.r15.g572e82c1-1
 chaotic-aur qnapi-git 0.2.3snapshot.r5.gd4e0378-1.1
@@ -16936,7 +16938,7 @@ chaotic-aur wavesurfer 1.8.8p5-4
 chaotic-aur waybar-experimental-git 0.9.16.r62.g1d6cfe7c-1
 chaotic-aur waybar-hyprland-git 0.9.16.r62.g1d6cfe7c-1
 chaotic-aur waydroid 1.3.4-1
-chaotic-aur waydroid-git 1.3.4.r10.g1780c94-1
+chaotic-aur waydroid-git 1.3.4.r11.g094a4d9-1
 chaotic-aur waydroid-image 18.1_20221231-1
 chaotic-aur waydroid-image-gapps 18.1_20221207-2
 chaotic-aur wayfire 0.7.4-1.1
@@ -23314,10 +23316,10 @@ archlinuxcn makemkv 1.17.2-4
 archlinuxcn mangoapp 0.6.8-3
 archlinuxcn mangohud 0.6.8-3
 archlinuxcn mangohud-common 0.6.8-3
-archlinuxcn mariadb-clients-git 10.9.4.r275.g5bb2cc8dbcf-3
+archlinuxcn mariadb-clients-git 10.9.4.r275.g5bb2cc8dbcf-4
 archlinuxcn mariadb-connector-cpp 1.1.2-1
-archlinuxcn mariadb-git 10.9.4.r275.g5bb2cc8dbcf-3
-archlinuxcn mariadb-libs-git 10.9.4.r275.g5bb2cc8dbcf-3
+archlinuxcn mariadb-git 10.9.4.r275.g5bb2cc8dbcf-4
+archlinuxcn mariadb-libs-git 10.9.4.r275.g5bb2cc8dbcf-4
 archlinuxcn marktext-git 0.17.0.r16.gaed36db-1
 archlinuxcn mars-mips 4.5-6
 archlinuxcn masterpdfeditor 5.9.20-1
@@ -23378,7 +23380,7 @@ archlinuxcn music-dl 3.0.0-3
 archlinuxcn mycli 1.25.0-1
 archlinuxcn mysql 8.0.31-2
 archlinuxcn mysql-clients 8.0.31-2
-archlinuxcn mytop-git 10.9.4.r275.g5bb2cc8dbcf-3
+archlinuxcn mytop-git 10.9.4.r275.g5bb2cc8dbcf-4
 archlinuxcn naiveproxy 108.0.5359.94_1-1
 archlinuxcn nali-cli 2.1.4-2
 archlinuxcn nali-go 0.7.0-1
@@ -23394,7 +23396,7 @@ archlinuxcn neovide-git 0.10.3.r15.gacdf723-1
 archlinuxcn neovim-coc 0.0.82-1
 archlinuxcn neovim-coc-clangd-git r530.78f11dd-1
 archlinuxcn neovim-coc-git 1:0.0.82.r158.g95b43f67-3
-archlinuxcn neovim-git 0.8.0.r1042.gae64772a88-1
+archlinuxcn neovim-git 0.8.0.r1058.g0996430392-1
 archlinuxcn neovim-plug 0.11.0-4
 archlinuxcn neovim-remote 2.5.0-1
 archlinuxcn neovim-symlinks 5-1
