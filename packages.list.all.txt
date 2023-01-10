@@ -287,7 +287,7 @@ extra akonadiconsole 22.12.1-1
 extra akregator 22.12.1-1
 extra alacarte 1:3.44.2-1
 extra alertmanager 0.25.0-1
-extra alsa-card-profiles 1:0.3.63-4
+extra alsa-card-profiles 1:0.3.63-5
 extra alsa-firmware 1.2.4-2
 extra alsa-lib 1.2.8-1 [installed]
 extra alsa-oss 1.1.8-4
@@ -881,7 +881,7 @@ extra gst-plugin-gtk 1.20.5-5
 extra gst-plugin-libcamera 0.0.3-3
 extra gst-plugin-msdk 1.20.5-5
 extra gst-plugin-opencv 1.20.5-5
-extra gst-plugin-pipewire 1:0.3.63-4
+extra gst-plugin-pipewire 1:0.3.63-5
 extra gst-plugin-qmlgl 1.20.5-5
 extra gst-plugin-va 1.20.5-5
 extra gst-plugin-wpe 1.20.5-5
@@ -2401,17 +2401,17 @@ extra pidgin 2.14.12-1
 extra pim-data-exporter 22.12.1-1
 extra pim-sieve-editor 22.12.1-1
 extra pimcommon 22.12.1-1
-extra pipewire 1:0.3.63-4
-extra pipewire-alsa 1:0.3.63-4
-extra pipewire-audio 1:0.3.63-4
-extra pipewire-docs 1:0.3.63-4
-extra pipewire-jack 1:0.3.63-4
+extra pipewire 1:0.3.63-5
+extra pipewire-alsa 1:0.3.63-5
+extra pipewire-audio 1:0.3.63-5
+extra pipewire-docs 1:0.3.63-5
+extra pipewire-jack 1:0.3.63-5
 extra pipewire-media-session 1:0.4.1-2
 extra pipewire-media-session-docs 1:0.4.1-2
-extra pipewire-pulse 1:0.3.63-4
-extra pipewire-v4l2 1:0.3.63-4
-extra pipewire-x11-bell 1:0.3.63-4
-extra pipewire-zeroconf 1:0.3.63-4
+extra pipewire-pulse 1:0.3.63-5
+extra pipewire-v4l2 1:0.3.63-5
+extra pipewire-x11-bell 1:0.3.63-5
+extra pipewire-zeroconf 1:0.3.63-5
 extra pixman 0.42.2-1 [installed]
 extra pkcs11-helper 1.29.0-2
 extra pkgfile 21-2
@@ -4444,7 +4444,7 @@ community eksctl 0.124.0-1
 community electron 22.0.1-1
 community electron17 17.4.11-4
 community electron19 19.1.9-3
-community electron20 20.3.9-1
+community electron20 20.3.9-2
 community electron21 21.3.4-2
 community electrum 4.3.2-1
 community element 0.46.6-1
@@ -10787,7 +10787,7 @@ community python-straight.plugin 1.5.0-3
 community python-strict-rfc3339 0.7-9
 community python-structlog 22.3.0-1
 community python-subprocess-tee 0.4.1-1
-community python-subunit 1.4.1-1
+community python-subunit 1.4.2-1
 community python-suds 1.4.2.0-1
 community python-sure 2.0.0-5
 community python-svglib 1.5.1-1
@@ -13430,9 +13430,9 @@ multilib lib32-pam 1.5.2-1
 multilib lib32-pango 1:1.50.12-1
 multilib lib32-pcre 8.45-3
 multilib lib32-pcre2 10.40-3
-multilib lib32-pipewire 1:0.3.63-3
-multilib lib32-pipewire-jack 1:0.3.63-3
-multilib lib32-pipewire-v4l2 1:0.3.63-3
+multilib lib32-pipewire 1:0.3.63-5
+multilib lib32-pipewire-jack 1:0.3.63-5
+multilib lib32-pipewire-v4l2 1:0.3.63-5
 multilib lib32-pixman 0.42.2-1
 multilib lib32-polkit 122-1
 multilib lib32-popt 1.19-1
@@ -15218,8 +15218,8 @@ chaotic-aur libnm-iwd 1.40.8-1
 chaotic-aur libnvidia-container 1.11.0-1.1
 chaotic-aur libnvidia-container-tools 1.11.0-1.1
 chaotic-aur libopenglrecorder 0.1.0-1.1
-chaotic-aur libopenmpt-doc-svn 0.7.r18446-1
-chaotic-aur libopenmpt-svn 0.7.r18446-1
+chaotic-aur libopenmpt-doc-svn 0.7.r18489-1
+chaotic-aur libopenmpt-svn 0.7.r18489-1
 chaotic-aur libpamac-aur 11.4.1-1
 chaotic-aur libpamac-nosnap 1:11.4.1-2
 chaotic-aur libplacebo-git 5.229.1.66.gd0f2e68b-1
@@ -15536,7 +15536,7 @@ chaotic-aur muparserx 4.0.11-1
 chaotic-aur museeks-bin 0.13.1-1.1
 chaotic-aur musikcube 0.99.4-1
 chaotic-aur mutter-dynamic-buffering 43.2-1
-chaotic-aur mutter-git 43.1+r246+ga09b5ecd7-1
+chaotic-aur mutter-git 43.1+r246+ga09b5ecd7a-1
 chaotic-aur mutter-performance 43.2+r3+g97dd7fb10-2
 chaotic-aur mutter-performance-docs 43.2+r3+g97dd7fb10-2
 chaotic-aur mutter-rounded 42.3-1.1
@@ -16770,7 +16770,7 @@ chaotic-aur ttf-djb-zora-prints-fonts 20141016-1
 chaotic-aur ttf-font-awesome-4 4.7.0-5
 chaotic-aur ttf-freebanglafont 20130212-5
 chaotic-aur ttf-geosans-light 1.0-3
-chaotic-aur ttf-google-fonts-git 1:r4580.814345fe1-1
+chaotic-aur ttf-google-fonts-git 1:r4581.9aba8ae2d-1
 chaotic-aur ttf-iosevka 17.0.2-1
 chaotic-aur ttf-iosevka-git 1672151828-1
 chaotic-aur ttf-juliamono 0.047-1
