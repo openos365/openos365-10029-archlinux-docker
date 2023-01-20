@@ -71,7 +71,7 @@ core gpgme 1.18.0-2 [installed]
 core gpm 1.20.7.r38.ge82d1a6-4 [installed]
 core grep 3.8-2 [installed]
 core groff 1.22.4-7 [installed]
-core grub 2:2.06.r415.g1a241e050-1 [installed]
+core grub 2:2.06.r440.g4de39a2af-1 [installed]
 core gssproxy 0.9.1-2
 core guile 3.0.8-3 [installed]
 core gzip 1.12-1 [installed]
@@ -13640,7 +13640,7 @@ archcraft calamares-config-xfce 1.0-2
 archcraft cava 0.8.3-1
 archcraft ckbcomp 1.210-1 [installed]
 archcraft downgrade 11.2.1-1
-archcraft grub 2.06.r261.g2f4430cc0-3 [installed: 2:2.06.r415.g1a241e050-1]
+archcraft grub 2.06.r261.g2f4430cc0-3 [installed: 2:2.06.r440.g4de39a2af-1]
 archcraft gtk3-nocsd-git r82.512c2bd-1
 archcraft i3lock-color 2.13.c.4-1
 archcraft ksuperkey 0.4-2
@@ -16750,13 +16750,13 @@ chaotic-aur system-monitoring-center 2.4.1-1
 chaotic-aur system76-power 1.1.24-1
 chaotic-aur systemd-boot-pacman-hook 3-1.1
 chaotic-aur systemd-cron-next-git v1.0.2.r16.ga4c2de7-1.1
-chaotic-aur systemd-git 252.r62045.a6a9ee4b36-1
+chaotic-aur systemd-git 252.r62048.24a3b37f12-1
 chaotic-aur systemd-guest-user 33.2-1.1
 chaotic-aur systemd-kcm 1.2.1-5.1
-chaotic-aur systemd-libs-git 252.r62045.a6a9ee4b36-1
+chaotic-aur systemd-libs-git 252.r62048.24a3b37f12-1
 chaotic-aur systemd-oomd-defaults 251.5-1.1
-chaotic-aur systemd-resolvconf-git 252.r62045.a6a9ee4b36-1
-chaotic-aur systemd-sysvcompat-git 252.r62045.a6a9ee4b36-1
+chaotic-aur systemd-resolvconf-git 252.r62048.24a3b37f12-1
+chaotic-aur systemd-sysvcompat-git 252.r62048.24a3b37f12-1
 chaotic-aur systemsettings-git 5.28.80_r2826.gcb81a877-1
 chaotic-aur systray-x-git 0.9.2.r12.g2488b58-1.1
 chaotic-aur ta-lib 0.4.0-5
@@ -22792,8 +22792,8 @@ archlinuxcn gxemul 0.7.0-2
 archlinuxcn hath 1.6.1-1
 archlinuxcn haxm-dkms-git 1:416.b73a231-1
 archlinuxcn haxm-git 1:416.b73a231-1
-archlinuxcn herdtools7-git 7.52.r1810.g574c59e1-1
-archlinuxcn herdtools7-git-debug 7.52.r1810.g574c59e1-1
+archlinuxcn herdtools7-git 7.52.r1814.gf5706422-1
+archlinuxcn herdtools7-git-debug 7.52.r1814.gf5706422-1
 archlinuxcn heroic-games-launcher-bin 2:2.5.2-1
 archlinuxcn heroku-cli 7.62.0-1
 archlinuxcn hid-asus-rog-dkms-git 1.0.2.r5.g3d923d1-1
@@ -23605,8 +23605,8 @@ archlinuxcn mosh-git 1:1.4.0.r3.gc16108f-1
 archlinuxcn mosh-git-debug 1:1.4.0.r3.gc16108f-1
 archlinuxcn motrix 1.6.11-4
 archlinuxcn mpdscribble 0.24-2
-archlinuxcn mpv-git 0.35.0_126_g67dbe2a8f4-1
-archlinuxcn mpv-git-debug 0.35.0_126_g67dbe2a8f4-1
+archlinuxcn mpv-git 0.35.0_126_g67dbe2a8f4-2
+archlinuxcn mpv-git-debug 0.35.0_126_g67dbe2a8f4-2
 archlinuxcn mspdebug 0.25-3
 archlinuxcn mspds 3.15.1.001-10
 archlinuxcn mtxclient 0.9.1-1
@@ -23727,8 +23727,8 @@ archlinuxcn nsync 1.25.0-3
 archlinuxcn ntfs3-dkms 1:5.17-1
 archlinuxcn numix-circle-icon-theme-git 23.01.12.r0.g4ae406e-1
 archlinuxcn numix-icon-theme 23.01.12.r0.gfe5496a3e-1
-archlinuxcn nushell-git 0.74.1.r6559.g0fe288439-1
-archlinuxcn nushell-git-debug 0.74.1.r6559.g0fe288439-1
+archlinuxcn nushell-git 0.74.1.r6562.gbbe694a62-1
+archlinuxcn nushell-git-debug 0.74.1.r6562.gbbe694a62-1
 archlinuxcn nutstore 5.1.7-1
 archlinuxcn nvchecker-git 1:2.11dev.r11-1
 archlinuxcn nvidia-beta-dkms 510.60.02-1
@@ -24181,7 +24181,8 @@ archlinuxcn qemu-headless-git 18:7.2.0.r804.g239b8b0699-1
 archlinuxcn qogir-icon-theme-git 2022.11.05.11.g0d6e966d-1
 archlinuxcn qownnotes 23.1.1-1
 archlinuxcn qownnotes-debug 23.1.1-1
-archlinuxcn qps-git 2.6.0.15.g40d0172-1
+archlinuxcn qps-git 2.6.0.17.gb562335-1
+archlinuxcn qps-git-debug 2.6.0.17.gb562335-1
 archlinuxcn qspec 0.2-2
 archlinuxcn qt-heic-image-plugin-git 0.0.3.0.8.0.g78c138e-1
 archlinuxcn qt-heic-image-plugin-git-debug 0.0.3.0.8.0.g78c138e-1
