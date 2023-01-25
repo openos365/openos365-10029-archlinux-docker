@@ -1,5 +1,5 @@
 core acl 2.3.1-2 [installed]
-core amd-ucode 20221214.f3c283e-1
+core amd-ucode 20230117.7e4f0ed-1
 core archlinux-keyring 20221220-1 [installed]
 core argon2 20190702-4 [installed]
 core attr 2.5.1-2 [installed]
@@ -152,15 +152,15 @@ core links 2.28-5
 core linux 6.1.7.arch1-1
 core linux-api-headers 5.18.15-1 [installed]
 core linux-docs 6.1.7.arch1-1
-core linux-firmware 20221214.f3c283e-1
-core linux-firmware-bnx2x 20221214.f3c283e-1
-core linux-firmware-liquidio 20221214.f3c283e-1
-core linux-firmware-marvell 20221214.f3c283e-1
-core linux-firmware-mellanox 20221214.f3c283e-1
-core linux-firmware-nfp 20221214.f3c283e-1
-core linux-firmware-qcom 20221214.f3c283e-1
-core linux-firmware-qlogic 20221214.f3c283e-1
-core linux-firmware-whence 20221214.f3c283e-1
+core linux-firmware 20230117.7e4f0ed-1
+core linux-firmware-bnx2x 20230117.7e4f0ed-1
+core linux-firmware-liquidio 20230117.7e4f0ed-1
+core linux-firmware-marvell 20230117.7e4f0ed-1
+core linux-firmware-mellanox 20230117.7e4f0ed-1
+core linux-firmware-nfp 20230117.7e4f0ed-1
+core linux-firmware-qcom 20230117.7e4f0ed-1
+core linux-firmware-qlogic 20230117.7e4f0ed-1
+core linux-firmware-whence 20230117.7e4f0ed-1
 core linux-headers 6.1.7.arch1-1
 core linux-lts 5.15.90-1
 core linux-lts-docs 5.15.90-1
@@ -15704,7 +15704,7 @@ chaotic-aur networkmanager-iwd 1.40.10-1
 chaotic-aur networkmanager-iwd-debug 1.40.10-1
 chaotic-aur networkmanager-qt-git 5.102.0_r1177.gc7072d0-1
 chaotic-aur newaita-icons-git r929.c2b596b09-1
-chaotic-aur nextcloud-client-git 3.6.0.r655.ge4b244903-1
+chaotic-aur nextcloud-client-git 3.6.0.r660.g5c42da4de-1
 chaotic-aur nextdns-unprivileged 1.38.0-1
 chaotic-aur nextpnr-git 0.5.r9.g06eaffc5-1
 chaotic-aur nghttp2 1.50.0-1.2
@@ -17143,7 +17143,7 @@ chaotic-aur wattman-gtk-git r203.54d2482-1.1
 chaotic-aur wavebox-beta 10.109.9_3-1
 chaotic-aur wavesurfer 1.8.8p5-4
 chaotic-aur waybar-experimental-git 0.9.17.r37.gdd9e3d01-1
-chaotic-aur waybar-hyprland-git 0.9.17.r37.gdd9e3d01-1
+chaotic-aur waybar-hyprland-git 0.9.17.r39.g47cdd6f9-1
 chaotic-aur waydroid 1.3.4-1
 chaotic-aur waydroid-git 1.3.4.r46.g21607bb-1
 chaotic-aur waydroid-image 18.1_20230121-1
@@ -17194,7 +17194,7 @@ chaotic-aur wine-installer 5.0.3-2.1
 chaotic-aur wine-lol 1:7.0_5-1.1
 chaotic-aur wine-stable 8.0-2
 chaotic-aur wine-tkg-fsync-git 8.0rc5.r0.geb3355bcf80-327
-chaotic-aur wine-tkg-staging-fsync-git 8.0rc5.r0.g8a7297ab-327
+chaotic-aur wine-tkg-staging-fsync-git 8.0.r1.g484054b2-327
 chaotic-aur wine-wl-git 8.0.rc4.r222.g8fb40d8ba6e-1
 chaotic-aur wine-x64 7.22-1
 chaotic-aur wineasio 1.1.0-7
