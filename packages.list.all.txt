@@ -126,7 +126,7 @@ core libnetfilter_conntrack 1.0.9-1 [installed]
 core libnfnetlink 1.0.2-1 [installed]
 core libnftnl 1.2.4-1 [installed]
 core libnghttp2 1.51.0-1 [installed]
-core libnl 3.7.0-1 [installed]
+core libnl 3.7.0-2 [installed]
 core libnsl 2.0.0-2 [installed]
 core libp11-kit 0.24.1-1 [installed]
 core libpcap 1.10.3-1 [installed]
@@ -5026,7 +5026,7 @@ community gir-to-d 0.22.0-8
 community girara 0.3.7-1
 community gist 6.0.0-1
 community git-absorb 0.6.9-1
-community git-annex 10.20221212-18
+community git-annex 10.20221212-19
 community git-bug 0.8.0-1
 community git-cliff 1.1.2-1
 community git-credential-gopass 1.14.9-1
@@ -5435,8 +5435,8 @@ community haskell-cabal-doctest 1.0.9-1
 community haskell-cabal-install-parsers 0.4.2-192
 community haskell-cairo 0.13.8.2-26
 community haskell-call-stack 0.4.0-133
-community haskell-casa-client 0.0.1-544
-community haskell-casa-types 0.0.2-324
+community haskell-casa-client 0.0.1-545
+community haskell-casa-types 0.0.2-325
 community haskell-case-insensitive 1.2.1.0-177
 community haskell-cassava 0.5.3.0-38
 community haskell-cassava-megaparsec 2.0.4-87
@@ -5595,7 +5595,7 @@ community haskell-enummapset 0.7.1.0-14
 community haskell-equivalence 0.4.1-21
 community haskell-erf 2.0.0.0-24
 community haskell-errors 2.3.0-65
-community haskell-esqueleto 3.5.7.0-7
+community haskell-esqueleto 3.5.7.0-8
 community haskell-exact-pi 0.5.0.2-35
 community haskell-executable-path 0.0.3.1-20
 community haskell-expiring-cache-map 0.0.6.1-267
@@ -5949,7 +5949,7 @@ community haskell-monad-control 1.0.3.1-76
 community haskell-monad-dijkstra 0.1.1.3-293
 community haskell-monad-gen 0.3.0.1-6
 community haskell-monad-journal 0.8.1-243
-community haskell-monad-logger 0.3.37-40
+community haskell-monad-logger 0.3.39-1
 community haskell-monad-loops 0.4.3-25
 community haskell-monad-memo 0.5.4-54
 community haskell-monad-par 0.3.5-194
@@ -6022,7 +6022,7 @@ community haskell-pandoc-lua-marshal 0.1.7-33
 community haskell-pandoc-types 1.22.2.1-31
 community haskell-pango 0.13.8.2-45
 community haskell-panic 0.4.0.1-24
-community haskell-pantry 0.5.7-56
+community haskell-pantry 0.5.7-57
 community haskell-parallel 3.2.2.0-17
 community haskell-parameterized-utils 2.1.6.0-8
 community haskell-parsec-numbers 0.1.0-18
@@ -6037,12 +6037,12 @@ community haskell-pcg-random 0.1.3.7-59
 community haskell-pcre-heavy 1.0.0.3-11
 community haskell-pcre-light 0.4.1.0-235
 community haskell-pem 0.2.4-258
-community haskell-persistent 2.13.3.5-23
-community haskell-persistent-mysql 2.13.0.3-8
-community haskell-persistent-postgresql 2.13.4.0-5
-community haskell-persistent-qq 2.12.0.2-112
-community haskell-persistent-sqlite 2.13.1.0-32
-community haskell-persistent-test 2.13.1.2-57
+community haskell-persistent 2.13.3.5-24
+community haskell-persistent-mysql 2.13.0.3-9
+community haskell-persistent-postgresql 2.13.4.0-6
+community haskell-persistent-qq 2.12.0.2-113
+community haskell-persistent-sqlite 2.13.1.0-33
+community haskell-persistent-test 2.13.1.2-58
 community haskell-pgp-wordlist 0.1.0.3-208
 community haskell-pid1 0.1.3.1-1
 community haskell-pipes 4.3.16-92
@@ -6129,7 +6129,7 @@ community haskell-retrie 1.1.0.0-107
 community haskell-retry 0.9.3.0-25
 community haskell-rfc5051 0.2-8
 community haskell-rio 0.1.22.0-58
-community haskell-rio-orphans 0.1.2.0-209
+community haskell-rio-orphans 0.1.2.0-210
 community haskell-rio-prettyprint 0.1.4.0-13
 community haskell-roman-numerals 0.5.1.5-30
 community haskell-rope-utf16-splay 0.3.2.0-111
@@ -6428,13 +6428,13 @@ community haskell-xml-types 0.3.8-8
 community haskell-xmlgen 0.6.2.2-52
 community haskell-xss-sanitize 0.3.7.1-8
 community haskell-yaml 0.11.8.0-84
-community haskell-yesod 1.6.2.1-50
-community haskell-yesod-auth 1.6.11-80
-community haskell-yesod-core 1.6.24.0-67
-community haskell-yesod-form 1.7.3-34
-community haskell-yesod-persistent 1.6.0.8-124
-community haskell-yesod-static 1.6.1.0-563
-community haskell-yesod-test 1.6.15-44
+community haskell-yesod 1.6.2.1-51
+community haskell-yesod-auth 1.6.11-81
+community haskell-yesod-core 1.6.24.0-68
+community haskell-yesod-form 1.7.3-35
+community haskell-yesod-persistent 1.6.0.8-125
+community haskell-yesod-static 1.6.1.0-564
+community haskell-yesod-test 1.6.15-45
 community haskell-zenc 0.1.2-118
 community haskell-zeromq4-haskell 0.8.0-20
 community haskell-zinza 0.2-121
@@ -6492,7 +6492,7 @@ community hivex 1.3.21-7
 community hledger 1.27.1-31
 community hledger-iadd 1.3.17-135
 community hledger-ui 1.27.1-40
-community hledger-web 1.27.1-38
+community hledger-web 1.27.1-39
 community hlint 3.3.6-75
 community hm 17.0-1
 community hoel 1.4.27-1
@@ -7904,7 +7904,7 @@ community mp3unicode 1.2.1-5
 community mpfi 1.5.4-4
 community mpgtx 1.3.1-7
 community mpop 1.4.17-1
-community mpv 1:0.35.0-5
+community mpv 1:0.35.1-1
 community mpv-mpris 0.9-1
 community mruby 3.1.0-1
 community msgpack-c 5.0.0-1
@@ -7949,7 +7949,7 @@ community mythes-it 2.0.9l-6
 community mythes-nl 20140818-3
 community mythes-pl 1:0.8.67-2
 community mythes-ro 3.3-7
-community n2n 3.1.1-1
+community n2n 3.1.1-2
 community naev 0.10.3-1
 community nageru 2.2.0-1
 community namazu 2.0.21-5
@@ -9870,7 +9870,7 @@ community python-internetarchive 3.2.0-1
 community python-intervals 0.9.2-3
 community python-intervaltree 3.1.0-5
 community python-into-dbus 0.08-3
-community python-invoke 1.7.3-1
+community python-invoke 2.0.0-1
 community python-iocapture 0.1.2-10
 community python-ioflo 2.0.2-5
 community python-iosbackup 0.9.925-1
@@ -12106,7 +12106,7 @@ community sslsplit 0.5.5-2
 community ssr 0.5.0-4
 community sssd 2.8.1-2
 community sstp-client 1:1.0.18-1
-community stack 2.7.5-226
+community stack 2.7.5-227
 community stalonetray 0.8.4-2
 community stardict 3.0.6.2-1
 community starship 1.12.0-3
@@ -12258,7 +12258,7 @@ community tachyon 0.99.5-1
 community taffybar 4.0.0-58
 community tailscale 1.34.2-1
 community talkfilters 2.3.8-7
-community tamarin-prover 1.6.1-274
+community tamarin-prover 1.6.1-275
 community tamsyn-font 1.11-6
 community tang 11-2
 community tanka 0.23.1-1
@@ -15118,7 +15118,7 @@ chaotic-aur kvantum-theme-qogir-git r87.3386f6b-1
 chaotic-aur kvantum-theme-vimix-git 2021.09.05.r15.g29c4316-1
 chaotic-aur kwallet-git 5.103.0_r1227.g993bb8f-1
 chaotic-aur kwallet-pam-git 5.27.80_r284.gaf3180a-1
-chaotic-aur kwalletmanager-git 23.03.70_r1388.gaff4aa3-1
+chaotic-aur kwalletmanager-git 23.03.70_r1389.gfa8bea6-1
 chaotic-aur kwaterfoxhelper 5.0.7-0.1
 chaotic-aur kwayland-git 5.103.0_r1203.g4c4535e-1
 chaotic-aur kwayland-integration-git 5.27.80_r228.g9e8779c-1
@@ -15141,7 +15141,7 @@ chaotic-aur kwrited-git 5.27.80_r527.g516b8f0-1
 chaotic-aur kxmlgui-git 5.103.0_r957.g9b4ab07d-1
 chaotic-aur kxmlrpcclient-git 5.102.0_r507.g5e4e54938-1
 chaotic-aur la-capitaine-icon-theme 0.6.2-1
-chaotic-aur labplot-git 2.9.0_r11048.g2bfc0e84f-1
+chaotic-aur labplot-git 2.9.0_r11055.g290acfc33-1
 chaotic-aur labwc 0.6.0-2
 chaotic-aur labwc-git 0.6.0.r131.g4dc99e2-1
 chaotic-aur lagrange 1.15.1-1
@@ -16576,7 +16576,7 @@ chaotic-aur rtw88-dkms-git r169.14cbcf9-1
 chaotic-aur rtw89-dkms-git 1:r366.fce040c-1
 chaotic-aur rubymine 2022.3.1-1
 chaotic-aur rufetch 0.2.2-1
-chaotic-aur ruffle-git 1:r8140.f829157de-1
+chaotic-aur ruffle-git 1:r8145.06361ce01-1
 chaotic-aur ruffle-nightly-bin 2023.01.29-1
 chaotic-aur rusnapshot-git 31.e68c28b-1
 chaotic-aur rustc-demangle 0.1.21-1
@@ -22338,8 +22338,8 @@ archlinuxcn cemu-git 2.0.26.r3.gf3ff919-1
 archlinuxcn cemu-git-debug 2.0.26.r3.gf3ff919-1
 archlinuxcn cgproxy-git v0.19.r3.gaaa628a-4
 archlinuxcn charls 2.4.1-1
-archlinuxcn chatterino2-git r3839.adf58d277-1
-archlinuxcn chatterino2-git-debug r3839.adf58d277-1
+archlinuxcn chatterino2-git v2.4.0.r79.gbfa899c45-1
+archlinuxcn chatterino2-git-debug v2.4.0.r79.gbfa899c45-1
 archlinuxcn chez-scheme 9.5.6-1
 archlinuxcn china-ip-list-git 0.83.78c3d78-1
 archlinuxcn chnroutes-alike-git 0.128.d7405ea-1
@@ -22494,7 +22494,7 @@ archlinuxcn emacs-julia-mode-git 1:0.358.g7aafa8e-1
 archlinuxcn emacs-llvm-mode-git 449085.32c26e27b6fc-1
 archlinuxcn emacs-markdown-mode-git 2.5.r49.g0f7eae8-1
 archlinuxcn emacs-native-comp-git 30.0.50.164740-1
-archlinuxcn emacs-native-comp-pgtk-git 30.0.50.164738-1
+archlinuxcn emacs-native-comp-pgtk-git 30.0.50.164740-1
 archlinuxcn emacs-org-mode-git 1:9.6.1.r211.gaa48c80fe-1
 archlinuxcn emacs-pkgbuild-mode-git 0.14.1.r11.g04260c5-1
 archlinuxcn emacs-queue 0.2-3
@@ -23523,8 +23523,8 @@ archlinuxcn libpamac-aur 11.4.1-1
 archlinuxcn libpasastro 1.4.1-1
 archlinuxcn libpcl 1.12-5
 archlinuxcn libpdfium-nojs 5414.r1.89aa9f9ebe-1
-archlinuxcn libplacebo-git 1:5.229.1.r114.g35829860-1
-archlinuxcn libplacebo-git-debug 1:5.229.1.r114.g35829860-1
+archlinuxcn libplacebo-git 1:5.229.1.r118.gcd71614c-1
+archlinuxcn libplacebo-git-debug 1:5.229.1.r118.gcd71614c-1
 archlinuxcn libpthread-stubs 0.4-1
 archlinuxcn libqt6xdg-git 3.10.0.6.ga36b76d-2
 archlinuxcn libqt6xdg-git-debug 3.10.0.6.ga36b76d-2
@@ -23597,7 +23597,7 @@ archlinuxcn logisim 2.7.1-8
 archlinuxcn logseq-desktop 0.8.15-2
 archlinuxcn lua-resty-core 0.1.24-2
 archlinuxcn lua-resty-lrucache 0.13-2
-archlinuxcn lutris-git 0.5.12.r260.gf43ba06dd-1
+archlinuxcn lutris-git 0.5.12.r269.ga0f380697-1
 archlinuxcn lux-dl 0.16.0-1
 archlinuxcn lximage-qt-git 1.2.0.12.g09af621-1
 archlinuxcn lximage-qt-git-debug 1.2.0.12.g09af621-1
@@ -23698,8 +23698,8 @@ archlinuxcn mosh-git 1:1.4.0.r3.gc16108f-1
 archlinuxcn mosh-git-debug 1:1.4.0.r3.gc16108f-1
 archlinuxcn motrix 1.6.11-4
 archlinuxcn mpdscribble 0.24-2
-archlinuxcn mpv-git 0.35.0_142_gc25682f09e-1
-archlinuxcn mpv-git-debug 0.35.0_142_gc25682f09e-1
+archlinuxcn mpv-git 0.35.0_169_g86093fcae7-1
+archlinuxcn mpv-git-debug 0.35.0_169_g86093fcae7-1
 archlinuxcn mspdebug 0.25-3
 archlinuxcn mspds 3.15.1.001-11
 archlinuxcn mspds-debug 3.15.1.001-11
@@ -23735,7 +23735,7 @@ archlinuxcn neovide-git 0.10.3.r22.g0bd7cbc-1
 archlinuxcn neovide-git-debug 0.10.3.r22.g0bd7cbc-1
 archlinuxcn neovim-coc 0.0.82-1
 archlinuxcn neovim-coc-clangd-git r530.78f11dd-1
-archlinuxcn neovim-coc-git 1:0.0.82.r170.g0ae203a0-1
+archlinuxcn neovim-coc-git 1:0.0.82.r170.g0ae203a0-2
 archlinuxcn neovim-git 0.8.0.r1425.g4c90a84c61-1
 archlinuxcn neovim-plug 0.11.0-4
 archlinuxcn neovim-remote 2.5.0-1
@@ -24291,8 +24291,8 @@ archlinuxcn qemu-guest-agent-git 18:7.2.0.r904.g13356edb87-1
 archlinuxcn qemu-headless-arch-extra-git 18:7.2.0.r904.g13356edb87-1
 archlinuxcn qemu-headless-git 18:7.2.0.r904.g13356edb87-1
 archlinuxcn qogir-icon-theme-git 2022.11.05.12.gbf4ae8f9-1
-archlinuxcn qownnotes 23.1.3-1
-archlinuxcn qownnotes-debug 23.1.3-1
+archlinuxcn qownnotes 23.1.4-1
+archlinuxcn qownnotes-debug 23.1.4-1
 archlinuxcn qps-git 2.6.0.18.gd6723b9-1
 archlinuxcn qps-git-debug 2.6.0.18.gd6723b9-1
 archlinuxcn qspec 0.2-2
@@ -24334,7 +24334,8 @@ archlinuxcn qwinff 0.2.1-2
 archlinuxcn qxmpp 1.4.0-2
 archlinuxcn qxmpp-doc 1.4.0-2
 archlinuxcn radian 0.6.4-1
-archlinuxcn raine-git 2307.72c72513-1
+archlinuxcn raine-git 2308.d2b10c54-1
+archlinuxcn raine-git-debug 2308.d2b10c54-1
 archlinuxcn rait 4.3.1-1
 archlinuxcn rambox-bin 0.8.0-2
 archlinuxcn rar 6.20.0-1
@@ -24349,8 +24350,8 @@ archlinuxcn resp-app 2022.5-1
 archlinuxcn restbase-git v1.1.4.r157.gc1d391c7-2
 archlinuxcn resvg 0.23.0-1
 archlinuxcn retext-git 7.2.1.r40.g36cb918-1
-archlinuxcn retroarch-git 1.14.0.r256.b1b7fb56a9-1
-archlinuxcn retroarch-git-debug 1.14.0.r256.b1b7fb56a9-1
+archlinuxcn retroarch-git 1.14.0.r256.b1b7fb56a9-2
+archlinuxcn retroarch-git-debug 1.14.0.r256.b1b7fb56a9-2
 archlinuxcn revda-git 5.1.1.r0.ge16105f-2
 archlinuxcn rime-cloverpinyin 1.1.4-2
 archlinuxcn rime-sbxlm 20230118-2
@@ -24730,8 +24731,8 @@ archlinuxcn vmware-horizon-usb 2212-1
 archlinuxcn vmware-keymaps 17.0.0-2
 archlinuxcn vmware-workstation 17.0.0-2
 archlinuxcn vmware-workstation-macos 17.0.0-2
-archlinuxcn vnote-git 1:1812.f1a03554-1
-archlinuxcn vnote-git-debug 1:1812.f1a03554-1
+archlinuxcn vnote-git 1:1813.07538074-1
+archlinuxcn vnote-git-debug 1:1813.07538074-1
 archlinuxcn vsce 2.15.0-1
 archlinuxcn vscodium-bin 1.74.3.23010-1
 archlinuxcn vulkan-intel-git 1:23.0.0_devel.162640.0b82281e3e3b-1
