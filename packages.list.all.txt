@@ -10489,7 +10489,7 @@ community python-pytest-datadir 1.4.1-1
 community python-pytest-datafixtures 1.0.0-3
 community python-pytest-dependency 0.5.1-3
 community python-pytest-django 4.5.2-2
-community python-pytest-enabler 2.0.0-1
+community python-pytest-enabler 2.1.0-1
 community python-pytest-env 0.8.1-1
 community python-pytest-expect 1.1.0-9
 community python-pytest-fixture-config 1.7.0-8
@@ -14981,7 +14981,7 @@ chaotic-aur kded-git 5.103.0_r490.g23cb032-1
 chaotic-aur kdegraphics-mobipocket-git 22.12.1_r285.gac01ff7-1
 chaotic-aur kdelibs4support-git 5.102.0_r1144.g4c913503-1
 chaotic-aur kdenlive-git 23.03.70.r17335-1
-chaotic-aur kdenlive-stabledeps-git 23.03.70.r17335-1
+chaotic-aur kdenlive-stabledeps-git 23.03.70.r17343-1
 chaotic-aur kdepim-addons-git 5.22.40_r5039.g1e22462b4-1
 chaotic-aur kdepim-runtime-git 23.03.40_r15655.g219738e81-1
 chaotic-aur kdeplasma-addons-git 5.27.80_r9296.g83bf06338-1
@@ -15665,7 +15665,7 @@ chaotic-aur mutter-rounded 42.3-1.1
 chaotic-aur mutter-x11-scaling 43.2-1
 chaotic-aur mycroft-gui-git r721.53fb4a1-1.1
 chaotic-aur myman 0.7.0-7
-chaotic-aur mypy-git v0.520.r4664.g81efd6eaa-1
+chaotic-aur mypy-git v0.520.r4665.g91e858199-1
 chaotic-aur mysql 8.0.31-1
 chaotic-aur mysql-clients 8.0.31-1
 chaotic-aur mystiq 20.03.23-1.1
@@ -16104,13 +16104,13 @@ chaotic-aur pixelorama 0.10.3-1.1
 chaotic-aur pixelorama-git 2203.53dea9c8-1
 chaotic-aur pjsua 2.13-1
 chaotic-aur plasma-browser-integration-git 5.27.80_r1418.g18ea7e88-1
-chaotic-aur plasma-desktop-git 5.27.80_r10077.g49ab2e628-1
+chaotic-aur plasma-desktop-git 5.27.80_r10078.gbe1713eaa-1
 chaotic-aur plasma-disks-git 5.27.80_r328.g530bc40-1
 chaotic-aur plasma-firewall-git 5.27.80_r711.gd2e7392-1
 chaotic-aur plasma-framework-git 5.103.0_r16594.g5b5e7f06b-1
 chaotic-aur plasma-integration-git 5.27.80_r627.g4f92fb0-1
-chaotic-aur plasma-nm-git 5.27.80_r3529.g4cbd7227-1
-chaotic-aur plasma-pa-git 5.27.80.r1178.gdb8a3a2-1
+chaotic-aur plasma-nm-git 5.27.80_r3530.g2cb0cd8a-1
+chaotic-aur plasma-pa-git 5.27.80.r1179.g8b7c717-1
 chaotic-aur plasma-sdk-git 5.27.80.r2473.g987afec4-1
 chaotic-aur plasma-systemmonitor-git _r.g-1.1
 chaotic-aur plasma-thunderbolt-git 5.26.90_r222.g9626b23-1
@@ -17179,7 +17179,7 @@ chaotic-aur wf-osk-git r13.d2e2e32-1.1
 chaotic-aur wf-shell 0.7.0-3
 chaotic-aur wget2 2.0.1-1.1
 chaotic-aur whalebird 4.7.4-1
-chaotic-aur whatsapp-for-linux 1.5.2-1
+chaotic-aur whatsapp-for-linux 1.5.3-1
 chaotic-aur whatsie-git v4.12.1.r300.fa5add0-1
 chaotic-aur whitesur-cursor-theme-git r7.5c94e8c-1
 chaotic-aur whitesur-gtk-theme-git 2022.10.27.r49.gc64c88e-1
@@ -17360,7 +17360,7 @@ chaotic-aur yp-tools 4.2.3-6.1
 chaotic-aur yt-dlg-git 1.2.0.r312.g8fbe7c2-1
 chaotic-aur yt-dlp-git 2023.01.06.r9.g37e325b92-1
 chaotic-aur ytfzf-git r1937.2653557-1
-chaotic-aur yuzu-early-access 3343-1
+chaotic-aur yuzu-early-access 3345-1
 chaotic-aur yuzu-mainline-bin 0.1318-1
 chaotic-aur yuzu-mainline-git r23101.f21f8360e-1
 chaotic-aur zafiro-icon-theme 1.3-3
@@ -24975,8 +24975,10 @@ arch4edu gmsh-docs 4.11.1-1
 arch4edu google-chrome 109.0.5414.119-1
 arch4edu grass 8.2.1-1
 arch4edu grass-debug 8.2.1-1
-arch4edu gtsam 4.1.1-2
-arch4edu gtsam-mkl 4.1.1-2
+arch4edu gtsam 4.1.1-3
+arch4edu gtsam-debug 4.1.1-3
+arch4edu gtsam-mkl 4.1.1-3
+arch4edu gtsam-mkl-debug 4.1.1-3
 arch4edu guile2.0 2.0.14-6
 arch4edu hadoop 3.3.4-2
 arch4edu hdf4 4.2.15-1
@@ -25091,7 +25093,7 @@ arch4edu miktex 22.10-3
 arch4edu miktex-debug 22.10-3
 arch4edu miopen-hip 5.3.0-1
 arch4edu miopengemm 5.4.0-1
-arch4edu mirrorlist.arch4edu 20221223.bf51f51-1
+arch4edu mirrorlist.arch4edu 20230129.d1de7cc-1
 arch4edu mmg 5.7.1-1
 arch4edu mongodb 6.0.3-1
 arch4edu mongodb-tools 1:100.6.1-2
@@ -25249,7 +25251,7 @@ arch4edu python-glog 0.3.1-3
 arch4edu python-gpustat 1:1.0-2
 arch4edu python-grip 4.6.1-1
 arch4edu python-ibm-cloud-sdk-core 3.16.0-1
-arch4edu python-ibm-platform-services 0.30.3-1
+arch4edu python-ibm-platform-services 0.31.0-1
 arch4edu python-imagecodecs 2022.12.24-1
 arch4edu python-imageio 2.25.0-1
 arch4edu python-imread 0.7.4-2
@@ -25270,8 +25272,8 @@ arch4edu python-ninja 1.11.1-1
 arch4edu python-ninja-syntax 1.7.2-4
 arch4edu python-nocasedict 1.0.4-1
 arch4edu python-nocaselist 1.0.6-1
-arch4edu python-numba-git 0.57.0dev0.r1029.g435ddd3a2-1
-arch4edu python-numba-git-debug 0.57.0dev0.r1029.g435ddd3a2-1
+arch4edu python-numba-git 0.57.0dev0.r1070.gfcdb0ee49.pr8691-1
+arch4edu python-numba-git-debug 0.57.0dev0.r1070.gfcdb0ee49.pr8691-1
 arch4edu python-numpy-mkl 1.24.1-1
 arch4edu python-nvd3 0.15.0-5
 arch4edu python-nvidia-ml-py 11.525.84-1
@@ -25617,7 +25619,8 @@ arch4edu r-moments 0.14.1-1
 arch4edu r-multcomp 1.4.20-4
 arch4edu r-munsell 0.5.0-1
 arch4edu r-mvtnorm 1.1.3-10
-arch4edu r-network 1.18.0-1
+arch4edu r-network 1.18.1-1
+arch4edu r-network-debug 1.18.1-1
 arch4edu r-networkcomparisontest 2.2.1-1
 arch4edu r-networktoolbox 1.4.2-1
 arch4edu r-networktools 1.5.0-4
@@ -25738,7 +25741,8 @@ arch4edu r-shinythemes 1.2.0-4
 arch4edu r-signal 0.7.7-1
 arch4edu r-smacof 2.1.5-1
 arch4edu r-sn 2.1.0-1
-arch4edu r-sna 2.7-1
+arch4edu r-sna 2.7.1-1
+arch4edu r-sna-debug 2.7.1-1
 arch4edu r-snow 0.4.4-1
 arch4edu r-sourcetools 0.1.7-2
 arch4edu r-sp 1.6.0-1
