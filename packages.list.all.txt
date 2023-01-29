@@ -71,7 +71,7 @@ core gpgme 1.18.0-2 [installed]
 core gpm 1.20.7.r38.ge82d1a6-4 [installed]
 core grep 3.8-2 [installed]
 core groff 1.22.4-7 [installed]
-core grub 2:2.06.r440.g4de39a2af-1 [installed]
+core grub 2:2.06.r440.g4de39a2af-1
 core gssproxy 0.9.1-2
 core guile 3.0.9-1 [installed]
 core gzip 1.12-1 [installed]
@@ -310,11 +310,11 @@ extra appstream-glib 0.8.2-1
 extra appstream-qt 0.16.0-1
 extra apr 1.7.0-3
 extra apr-util 1.6.1-11
-extra arch-install-scripts 28-1 [installed]
+extra arch-install-scripts 28-1
 extra arch-rebuild-order 0.3.1-1
 extra arch-signoff 0.5.2-2
 extra archinstall 2.5.2-1
-extra archiso 69-1 [installed]
+extra archiso 69-1
 extra archivetools 3-3
 extra archlinux-appstream-data 20230115-1
 extra archlinux-themes-slim 1.2-6
@@ -552,7 +552,7 @@ extra eog 43.2-1
 extra eog-docs 43.2-1
 extra eog-plugins 42.3-1
 extra epiphany 43.0-1
-extra erofs-utils 1.5-3 [installed]
+extra erofs-utils 1.5-3
 extra ethtool 1:6.1-1
 extra eventviews 22.12.1-1
 extra evince 43.1-2
@@ -2083,7 +2083,7 @@ extra mplayer 38407-1
 extra msmtp 1.8.22-2
 extra msmtp-mta 1.8.22-2
 extra mtdev 1.1.6-2 [installed]
-extra mtools 1:4.0.42-1 [installed]
+extra mtools 1:4.0.42-1
 extra mtr 0.95-3
 extra mtr-gtk 0.95-3
 extra muparser 2.3.4-1
@@ -13663,7 +13663,7 @@ archcraft calamares-config-xfce 1.0-2
 archcraft cava 0.8.3-1
 archcraft ckbcomp 1.210-1 [installed]
 archcraft downgrade 11.2.1-1
-archcraft grub 2.06.r261.g2f4430cc0-3 [installed: 2:2.06.r440.g4de39a2af-1]
+archcraft grub 2.06.r261.g2f4430cc0-3
 archcraft gtk3-nocsd-git r82.512c2bd-1
 archcraft i3lock-color 2.13.c.4-1
 archcraft ksuperkey 0.4-2
@@ -14875,7 +14875,7 @@ chaotic-aur it87-dkms-git 217.49975da-1
 chaotic-aur itch-setup-bin 1.26.0-1
 chaotic-aur itcl3 3.4.3-2
 chaotic-aur j9-git r4190.867e2859-1
-chaotic-aur jackett 0.20.2732-1
+chaotic-aur jackett 0.20.2741-1
 chaotic-aur jade-application-kit 3.5.7-2
 chaotic-aur jamesdsp 2.4-1.1
 chaotic-aur jamesdsp-git 2.4.r18.ge2c5add-1
@@ -15864,7 +15864,7 @@ chaotic-aur openssh-hpn-shim 9.1p1.hpn17v10-1
 chaotic-aur openssl-1.0 1.0.2.u-5
 chaotic-aur openssl-git 3.1.0.beta1.r2254.g6a94535725-1
 chaotic-aur openswan 3.0.0-1.1
-chaotic-aur openttd-git 26818.be0d65d97-1
+chaotic-aur openttd-git 26820.6ba55e663-1
 chaotic-aur openxray 1.6.02_1144-1.1
 chaotic-aur opera-beta-ffmpeg-codecs 109.0.5414.87-1
 chaotic-aur optimus-manager 1.4-4.1
@@ -16078,7 +16078,7 @@ chaotic-aur phpstorm-eap 231.4840.331-1
 chaotic-aur phpstorm-eap-jre 231.4840.331-1
 chaotic-aur phpstorm-jre 2022.3.1-1
 chaotic-aur physx 4.1.2.29882248-1
-chaotic-aur picom-git 1847_9.rc1.169.g364463f_2023.01.17-1
+chaotic-aur picom-git 1848_9.rc1.170.g102a0bc_2023.01.29-1
 chaotic-aur picom-ibhagwan-git 1578_Next.297.gc4107bb_2021.11.03-1.1
 chaotic-aur pigpio 79-1.1
 chaotic-aur pika-backup 1:0.4.2-1.1
@@ -17087,6 +17087,7 @@ chaotic-aur vimiv-qt 0.8.0-2.1
 chaotic-aur vimiv-qt-git r2411.8d2c7acf-1
 chaotic-aur vimix-cursors 2020.02.24-5
 chaotic-aur vimix-gtk-themes 2023.01.25-1
+chaotic-aur vimix-gtk-themes-git r520.016b12d-1
 chaotic-aur vimix-icon-theme 2023.01.18-2
 chaotic-aur vimix-icon-theme-git 2023.01.18.r0.g6f39916c-1
 chaotic-aur vimv-git r47.3bb51a4-1.1
@@ -24926,8 +24927,8 @@ arch4edu engauge-samples 1:12.1-1
 arch4edu f2c 20200916-3
 arch4edu fakepkg 1.42.2-1
 arch4edu fakeroot-tcp 1.30.1-1
-arch4edu fastfetch 1.9.1-1
-arch4edu fastfetch-debug 1.9.1-1
+arch4edu fastfetch 1.9.1-2
+arch4edu fastfetch-debug 1.9.1-2
 arch4edu fbx-sdk 2020.1.1-1
 arch4edu fcl 0.7.0-1
 arch4edu fet-timetabling 6.8.1-1
@@ -25308,7 +25309,7 @@ arch4edu python-qiskit-ibm-runtime 0.8.0-1
 arch4edu python-qiskit-ibmq-provider 0.19.2-1
 arch4edu python-qiskit-machine-learning 0.5.0-1
 arch4edu python-qiskit-nature 0.5.2-1
-arch4edu python-qiskit-optimization 0.4.0-1
+arch4edu python-qiskit-optimization 0.5.0-1
 arch4edu python-qiskit-terra 0.23.0-1
 arch4edu python-qiskit-terra-debug 0.23.0-1
 arch4edu python-quandl 3.7.0-1
@@ -26184,9 +26185,10 @@ arch4edu xflr5 6.57.r1431-1
 arch4edu yay 11.3.2-1 [installed]
 arch4edu ycm-generator-git r125.7c0f570-1
 arch4edu zoom 5.13.5-1
-arch4edu zotero 6.0.18-1
+arch4edu zotero 6.0.20-1
 arch4edu zotero-bin 6.0.20-1
 arch4edu zotero-bin-debug 6.0.20-1
+arch4edu zotero-debug 6.0.20-1
 endeavouros akm 2.14-2
 endeavouros arc-gtk-theme-eos 20221218-1
 endeavouros arc-x-icons-theme 2.1-3
