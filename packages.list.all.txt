@@ -71,7 +71,7 @@ core gpgme 1.18.0-2 [installed]
 core gpm 1.20.7.r38.ge82d1a6-4 [installed]
 core grep 3.8-2 [installed]
 core groff 1.22.4-7 [installed]
-core grub 2:2.06.r440.g4de39a2af-1
+core grub 2:2.06.r440.g4de39a2af-1 [installed]
 core gssproxy 0.9.1-2
 core guile 3.0.9-1 [installed]
 core gzip 1.12-1 [installed]
@@ -310,11 +310,11 @@ extra appstream-glib 0.8.2-1
 extra appstream-qt 0.16.0-1
 extra apr 1.7.0-3
 extra apr-util 1.6.1-11
-extra arch-install-scripts 28-1
+extra arch-install-scripts 28-1 [installed]
 extra arch-rebuild-order 0.3.1-1
 extra arch-signoff 0.5.2-2
 extra archinstall 2.5.2-1
-extra archiso 69-1
+extra archiso 69-1 [installed]
 extra archivetools 3-3
 extra archlinux-appstream-data 20230115-1
 extra archlinux-themes-slim 1.2-6
@@ -552,7 +552,7 @@ extra eog 43.2-1
 extra eog-docs 43.2-1
 extra eog-plugins 42.3-1
 extra epiphany 43.0-1
-extra erofs-utils 1.5-3
+extra erofs-utils 1.5-3 [installed]
 extra ethtool 1:6.1-1
 extra eventviews 22.12.1-1
 extra evince 43.1-2
@@ -2083,7 +2083,7 @@ extra mplayer 38407-1
 extra msmtp 1.8.22-2
 extra msmtp-mta 1.8.22-2
 extra mtdev 1.1.6-2 [installed]
-extra mtools 1:4.0.42-1
+extra mtools 1:4.0.42-1 [installed]
 extra mtr 0.95-3
 extra mtr-gtk 0.95-3
 extra muparser 2.3.4-1
@@ -13663,7 +13663,7 @@ archcraft calamares-config-xfce 1.0-2
 archcraft cava 0.8.3-1
 archcraft ckbcomp 1.210-1 [installed]
 archcraft downgrade 11.2.1-1
-archcraft grub 2.06.r261.g2f4430cc0-3
+archcraft grub 2.06.r261.g2f4430cc0-3 [installed: 2:2.06.r440.g4de39a2af-1]
 archcraft gtk3-nocsd-git r82.512c2bd-1
 archcraft i3lock-color 2.13.c.4-1
 archcraft ksuperkey 0.4-2
@@ -15724,7 +15724,7 @@ chaotic-aur nodejs-intelephense 1.9.4-1
 chaotic-aur nodejs-nativefier 50.0.1-1
 chaotic-aur nohang 0.2.0-1.1
 chaotic-aur noisetorch 0.12.2-2.1
-chaotic-aur noisetorch-git 0.12.2.r19.g7563350-1
+chaotic-aur noisetorch-git 0.12.2.r22.g254802e-1
 chaotic-aur nomachine 8.3.1-1
 chaotic-aur non-euclidean-git r37.191fc4c-1.1
 chaotic-aur nordic-bluish-accent-standard-buttons-theme 2.2.0-1
