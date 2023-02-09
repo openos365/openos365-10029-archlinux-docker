@@ -37,7 +37,7 @@ core dialog 1:1.3_20221229-1
 core diffutils 3.8-1 [installed]
 core ding-libs 0.6.2-1
 core dmraid 1.0.0.rc16.3-14 [installed]
-core dnssec-anchors 20190629-3
+core dnssec-anchors 20190629-3 [installed]
 core dosfstools 4.2-3 [installed]
 core e2fsprogs 1.46.6-1 [installed]
 core ed 1.19-1
@@ -93,7 +93,7 @@ core kbd 2.5.1-1 [installed]
 core keyutils 1.6.3-1 [installed]
 core kmod 30-3 [installed]
 core krb5 1.20.1-1 [installed]
-core ldns 1.8.3-2
+core ldns 1.8.3-2 [installed]
 core lemon 3.40.1-1
 core less 1:608-2 [installed]
 core lib32-gcc-libs 12.2.1-2
@@ -195,7 +195,7 @@ core nspr 4.35-1 [installed]
 core nss 3.87-1 [installed]
 core openldap 2.6.3-2
 core openresolv 3.12.0-1
-core openssh 9.2p1-1
+core openssh 9.2p1-1 [installed]
 core openssl 3.0.8-1 [installed]
 core openssl-1.1 1.1.1.t-1
 core p11-kit 0.24.1-1 [installed]
@@ -569,7 +569,7 @@ extra evolution-spamassassin 3.46.3-3
 extra exempi 2.6.3-1
 extra exiv2 0.27.6-1
 extra exo 4.18.0-1
-extra expect 5.45.4-4
+extra expect 5.45.4-4 [installed]
 extra extra-cmake-modules 5.102.0-1 [installed]
 extra f2fs-tools 1.15.0-2
 extra faac 1.30-3
@@ -2925,7 +2925,7 @@ extra taglib 1.13-1
 extra tali 40.9-1
 extra talloc 2.4.0-2
 extra tbb 2021.5.0-2
-extra tcl 8.6.13-1
+extra tcl 8.6.13-1 [installed]
 extra tcpdump 4.99.3-1
 extra tdb 1.4.8-1 [installed]
 extra telepathy-accounts-signon 2.1-3
@@ -14771,7 +14771,7 @@ chaotic-aur gruvbox-material-gtk-theme-git r18.f56ba878e-1
 chaotic-aur gruvbox-material-icon-theme-git r18.f56ba878e-1
 chaotic-aur grype-bin 0.56.0-1
 chaotic-aur gsettings-desktop-schemas-git 43.0.r13.g0009326-1
-chaotic-aur gst-plugin-pipewire-common-git 0.3.65.r55.gb94cb5d9-1
+chaotic-aur gst-plugin-pipewire-common-git 0.3.65.r56.g274b63e9-1
 chaotic-aur gstreamer0.10 0.10.36-20
 chaotic-aur gstreamer0.10-base 0.10.36-13
 chaotic-aur gstreamer0.10-base-plugins 0.10.36-13
@@ -16135,15 +16135,15 @@ chaotic-aur pimcommon-git 5.22.49_r1977.gbde3efd6-1
 chaotic-aur pingu 0.0.5-1
 chaotic-aur pip-tools 6.12.2-1
 chaotic-aur pipe-viewer-git 0.4.5.r0.g4af2b90-1
-chaotic-aur pipewire-common-alsa-git 0.3.65.r55.gb94cb5d9-1
-chaotic-aur pipewire-common-docs-git 0.3.65.r55.gb94cb5d9-1
-chaotic-aur pipewire-common-git 0.3.65.r55.gb94cb5d9-1
-chaotic-aur pipewire-common-jack-git 0.3.65.r55.gb94cb5d9-1
-chaotic-aur pipewire-common-pulse-git 0.3.65.r55.gb94cb5d9-1
-chaotic-aur pipewire-common-roc-git 0.3.65.r55.gb94cb5d9-1
-chaotic-aur pipewire-common-v4l2-git 0.3.65.r55.gb94cb5d9-1
-chaotic-aur pipewire-common-x11-bell-git 0.3.65.r55.gb94cb5d9-1
-chaotic-aur pipewire-common-zeroconf-git 0.3.65.r55.gb94cb5d9-1
+chaotic-aur pipewire-common-alsa-git 0.3.65.r56.g274b63e9-1
+chaotic-aur pipewire-common-docs-git 0.3.65.r56.g274b63e9-1
+chaotic-aur pipewire-common-git 0.3.65.r56.g274b63e9-1
+chaotic-aur pipewire-common-jack-git 0.3.65.r56.g274b63e9-1
+chaotic-aur pipewire-common-pulse-git 0.3.65.r56.g274b63e9-1
+chaotic-aur pipewire-common-roc-git 0.3.65.r56.g274b63e9-1
+chaotic-aur pipewire-common-v4l2-git 0.3.65.r56.g274b63e9-1
+chaotic-aur pipewire-common-x11-bell-git 0.3.65.r56.g274b63e9-1
+chaotic-aur pipewire-common-zeroconf-git 0.3.65.r56.g274b63e9-1
 chaotic-aur pix 2.8.9-1
 chaotic-aur pixelorama 0.10.3-1.1
 chaotic-aur pixelorama-git 2211.c6d6c618-1
@@ -16532,7 +16532,7 @@ chaotic-aur qytdl 1.6-1.1
 chaotic-aur r8125-dkms 9.011.00-1
 chaotic-aur r8152-dkms 2.16.3.20221209-1
 chaotic-aur r8168-dkms 8.051.02-2
-chaotic-aur radare2-git 5.8.3.r29765.5edba216a4-1
+chaotic-aur radare2-git 5.8.3.r29766.b3b7557220-1
 chaotic-aur radeon-profile-git 20200824.r26.g0d632ba-1.2
 chaotic-aur raider-file-shredder 1.3.1-1.1
 chaotic-aur rakudo 2022.12-1
