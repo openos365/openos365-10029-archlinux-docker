@@ -78,7 +78,7 @@ core guile 3.0.9-1 [installed]
 core gzip 1.12-1 [installed]
 core hdparm 9.65-1
 core hwdata 0.366-1 [installed]
-core iana-etc 20221215-1 [installed]
+core iana-etc 20230105-1 [installed]
 core icu 72.1-2 [installed]
 core inetutils 2.3-1
 core iproute2 6.1.0-4 [installed]
@@ -1915,7 +1915,7 @@ extra libwpd 0.10.3-4
 extra libwpe 1.14.1-1
 extra libwpg 0.3.3-4
 extra libwps 0.4.13-1
-extra libx11 1.8.3-6 [installed]
+extra libx11 1.8.4-1 [installed]
 extra libxau 1.0.11-1 [installed]
 extra libxaw 1.0.14-1
 extra libxcb 1.15-2 [installed]
@@ -1969,9 +1969,9 @@ extra lightsoff 40.0.1-1
 extra lighttpd 1.4.69-1
 extra link-grammar 5.12.0-1
 extra linux-atm 2.5.2-8
-extra linux-hardened 6.1.10.hardened1-1
-extra linux-hardened-docs 6.1.10.hardened1-1
-extra linux-hardened-headers 6.1.10.hardened1-1
+extra linux-hardened 6.1.11.hardened1-1
+extra linux-hardened-docs 6.1.11.hardened1-1
+extra linux-hardened-headers 6.1.11.hardened1-1
 extra linux-rt 6.0.5.14.realtime1-4
 extra linux-rt-docs 6.0.5.14.realtime1-4
 extra linux-rt-headers 6.0.5.14.realtime1-4
@@ -3236,7 +3236,7 @@ extra xfdesktop 4.18.1-1
 extra xfwm4 4.18.0-1
 extra xfwm4-themes 4.10.0-4
 extra xinetd 2.3.15.4-1
-extra xkeyboard-config 2.37-1 [installed]
+extra xkeyboard-config 2.38-1 [installed]
 extra xmlsec 1.2.37-1
 extra xmlto 0.0.28-4
 extra xmltoman 0.4-4
@@ -14294,7 +14294,7 @@ chaotic-aur dockbarx 2:1.0beta2-1
 chaotic-aur dogecoin-qt 1.14.6-4
 chaotic-aur dolphin-emu-git 5.0.r18632.gf3ee167a3c-1
 chaotic-aur dolphin-emu-nogui-git 5.0.r18634.g9737345a9e-1
-chaotic-aur dolphin-git 23.03.70_r7277.g61dfc68c7-1
+chaotic-aur dolphin-git 23.03.70_r7281.gba930ddb3-1
 chaotic-aur dolphin-megasync-bin 3.6.6-2
 chaotic-aur dolphin-plugins-git 23.03.70_r729.gb250d6b-1
 chaotic-aur dosbox-staging 1:0.80.1-2
@@ -14707,7 +14707,7 @@ chaotic-aur gnome-shell-performance 1:43.2+7+ga64cf7009-1
 chaotic-aur gnome-shell-pomodoro 0.22.1-1
 chaotic-aur gnome-terminal-transparency 3.46.7-1
 chaotic-aur gnome-terminal-transparency-debug 3.46.7-1
-chaotic-aur godot-git 4.0.r52023.g27af0f1413f1-1
+chaotic-aur godot-git 4.0.r52025.g72c5b56d04f1-1
 chaotic-aur godot-headless-bin 3.5.1-1
 chaotic-aur godot-mono 3.5.1-1
 chaotic-aur goland 2022.3.2-1
@@ -16226,9 +16226,9 @@ chaotic-aur plasma-systemmonitor-git _r.g-1.1
 chaotic-aur plasma-thunderbolt-git 5.26.90_r226.g6d02435-1
 chaotic-aur plasma-vault-git 5.27.80_r431.g21ca939-1
 chaotic-aur plasma-wayland-protocols-git r1068.b9cb11d-1
-chaotic-aur plasma-wayland-session-git 5.27.80_r13262.g4a649353e-1
-chaotic-aur plasma-workspace-git 5.27.80_r13262.g4a649353e-1
-chaotic-aur plasma-workspace-wallpapers-git 5.27.80_r418.g78422bc-1
+chaotic-aur plasma-wayland-session-git 5.27.80_r13264.gc6f4d6f77-1
+chaotic-aur plasma-workspace-git 5.27.80_r13264.gc6f4d6f77-1
+chaotic-aur plasma-workspace-wallpapers-git 5.27.80_r419.g7d9a87b-1
 chaotic-aur plasma5-applets-audio-device-switcher 0.3.0-1.1
 chaotic-aur plasma5-applets-eventcalendar 76-1.1
 chaotic-aur plasma5-applets-latte-separator 0.1.2-1
@@ -16763,7 +16763,7 @@ chaotic-aur simutrans-extended-git r21674.894613ff3-1
 chaotic-aur sioyek 2.0.0-1
 chaotic-aur sip4 4.19.25-3
 chaotic-aur siril 1.0.6-1.1
-chaotic-aur siril-git 1.0.0.5450.256240e69-1
+chaotic-aur siril-git 1.0.0.5451.aaf79c078-1
 chaotic-aur sirula-git r67.70b5ce1-1.1
 chaotic-aur skeuos-gtk 20220629-1
 chaotic-aur skippy-xd-git v2016.10.20.40.gc3c864f-1
@@ -22537,7 +22537,7 @@ archlinuxcn astrometry.net-znver2 0.93-1
 archlinuxcn asus-rog-nb-wmi-dkms-git 1.0.2.r3.g9ac609c-1
 archlinuxcn asusctl-git 4.6.0.rc1.r11.g5600c51-1
 archlinuxcn asusctl-git-debug 4.6.0.rc1.r11.g5600c51-1
-archlinuxcn auctex-git 1:13.1.r307.g358cc74d-1
+archlinuxcn auctex-git 1:13.1.r308.g41397e93-1
 archlinuxcn aurutils 10b-1
 archlinuxcn aurutils-git 11.r4.gb33c7166-1
 archlinuxcn aurvote 1.9-3
@@ -23137,7 +23137,7 @@ archlinuxcn gtk3-no-tracker 1:3.24.35-2
 archlinuxcn gtk3-no-tracker-debug 1:3.24.35-2
 archlinuxcn gtkwave-gtk3 3.3.110-1
 archlinuxcn guile1.8 1.8.8-11
-archlinuxcn gvim-lily 9.0.1293-1
+archlinuxcn gvim-lily 9.0.1306-1
 archlinuxcn gxemul 0.7.0-2
 archlinuxcn hath 1.6.1-1
 archlinuxcn haxm-dkms-git 1:416.b73a231-1
@@ -23638,7 +23638,7 @@ archlinuxcn kicad-git 7.0.0.rc2.r284.gefe49ecfd2-1
 archlinuxcn kicad-git-debug 7.0.0.rc2.r284.gefe49ecfd2-1
 archlinuxcn kicad-library-3d-git 7.0.0.rc2.r2.g3aa910db-1
 archlinuxcn kicad-library-digikey-git r231.d4bd68f-1
-archlinuxcn kicad-library-git 7.0.0.rc2.r12.g9363d16db-1
+archlinuxcn kicad-library-git 7.0.0.rc2.r13.ga168dd18e-1
 archlinuxcn kindlegen 2.9-5
 archlinuxcn kjieba 20170519-2
 archlinuxcn klassy 4.0.breeze5.25.80-2
@@ -24137,7 +24137,7 @@ archlinuxcn np2kai-git-debug 1053.2ca8e7e-1
 archlinuxcn nspawn 0.6-1
 archlinuxcn nsync 1.25.0-3
 archlinuxcn ntfs3-dkms 1:5.17-1
-archlinuxcn numix-circle-icon-theme-git 23.02.05.r0.g425b221-1
+archlinuxcn numix-circle-icon-theme-git 23.02.12.r0.g39c768d-1
 archlinuxcn numix-icon-theme 23.01.12.r0.gfe5496a3e-1
 archlinuxcn nushell-git 0.75.1.r6687.g1096e653b-1
 archlinuxcn nushell-git-debug 0.75.1.r6687.g1096e653b-1
@@ -25027,13 +25027,13 @@ archlinuxcn vim-eunuch-git 1.3.r6.g291ef1f-1
 archlinuxcn vim-fcitx 1.2.6-2
 archlinuxcn vim-fugitive-git 3.7.78.g62f42f0-1
 archlinuxcn vim-gitgutter-git 793.g00df108-1
-archlinuxcn vim-lily 9.0.1293-1
-archlinuxcn vim-lily-debug 9.0.1293-1
+archlinuxcn vim-lily 9.0.1306-1
+archlinuxcn vim-lily-debug 9.0.1306-1
 archlinuxcn vim-pathogen 2.4-1.1
 archlinuxcn vim-plug 0.11.0-1
 archlinuxcn vim-plug-git 0.9.1.160.g034e844-1
 archlinuxcn vim-polyglot-git 4.17.0.r77.gbc8a81d3-1
-archlinuxcn vim-runtime-lily 9.0.1293-1
+archlinuxcn vim-runtime-lily 9.0.1306-1
 archlinuxcn vim-rust-git 20221127-1
 archlinuxcn vim-sleuth-git 2.0.r8.g1cc4557-1
 archlinuxcn vim-surround-git 2.2.r2.g9857a87-1
@@ -25141,8 +25141,8 @@ archlinuxcn xlayoutdisplay 1.3.0-2
 archlinuxcn xone-dkms-git 0.3.r1.g2467407-1
 archlinuxcn xorg-xwayland-hidpi-git 21.1.4.r552.ge196535abb-1
 archlinuxcn xorg-xwayland-hidpi-git-debug 21.1.4.r552.ge196535abb-1
-archlinuxcn xorg-xwayland-lily 22.1.7-2
-archlinuxcn xorg-xwayland-lily-debug 22.1.7-2
+archlinuxcn xorg-xwayland-lily 22.1.8-1
+archlinuxcn xorg-xwayland-lily-debug 22.1.8-1
 archlinuxcn xorgproto-git 2022.2.7.r2729.g1b6e63b-1
 archlinuxcn xray 1.7.5-1
 archlinuxcn xray-debug 1.7.5-1
