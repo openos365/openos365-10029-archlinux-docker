@@ -163,9 +163,9 @@ core linux-firmware-qcom 20230117.7e4f0ed-1
 core linux-firmware-qlogic 20230117.7e4f0ed-1
 core linux-firmware-whence 20230117.7e4f0ed-1
 core linux-headers 6.1.11.arch1-1
-core linux-lts 5.15.91-4
-core linux-lts-docs 5.15.91-4
-core linux-lts-headers 5.15.91-4
+core linux-lts 5.15.93-1
+core linux-lts-docs 5.15.93-1
+core linux-lts-headers 5.15.93-1
 core logrotate 3.21.0-2
 core lto-dump 12.2.1-2
 core lvm2 2.03.18-4 [installed]
@@ -2143,7 +2143,7 @@ extra numactl 2.0.16-1
 extra nuspell 5.1.2-2
 extra nvidia 525.89.02-2
 extra nvidia-dkms 525.89.02-1
-extra nvidia-lts 1:525.89.02-1
+extra nvidia-lts 1:525.89.02-2
 extra nvidia-open 525.89.02-2
 extra nvidia-open-dkms 525.89.02-2
 extra nvidia-prime 1.0-4
@@ -3375,7 +3375,7 @@ community acorn 1:8.8.2-1
 community acpi 1.7-3
 community acpi_call 1.2.2-105
 community acpi_call-dkms 1.2.2-1
-community acpi_call-lts 1.2.2-100
+community acpi_call-lts 1.2.2-101
 community acpica 20221020-1
 community acpid 2.0.34-1
 community acpilight 1.2-2
@@ -11214,7 +11214,7 @@ community r10k 3.15.2-1
 community r128-dri 7.11.2-13
 community r2ghidra 5.8.0-1
 community r8168 8.051.02-18
-community r8168-lts 8.051.02-14
+community r8168-lts 8.051.02-15
 community rabbitmq 3.10.7-1
 community rabbitmqadmin 3.10.7-1
 community racket 8.8-1
@@ -12187,7 +12187,7 @@ community ssh-key-confirmer 0.1-2
 community ssh-tools 1.7-2
 community sshfs 3.7.3-1
 community sshguard 2.4.2-2
-community sshpass 1.09-1
+community sshpass 1.10-1
 community sshtunnel 0.4.0-4
 community sshuttle 1.1.1-1
 community sslh 1.22.c-2
@@ -12597,7 +12597,7 @@ community towncrier 22.12.0-1
 community toxcore 1:0.2.13-1
 community toxic 0.11.3-2
 community tp_smapi 0.43-458
-community tp_smapi-lts 0.43-296
+community tp_smapi-lts 0.43-297
 community tpacpi-bat 3.1-3
 community tpm2-abrmd 2.4.1-1
 community tpm2-openssl 1.1.1-1
@@ -14713,7 +14713,7 @@ chaotic-aur godot-mono 3.5.1-1
 chaotic-aur goland 2022.3.2-1
 chaotic-aur goland-jre 2022.3.2-1
 chaotic-aur goldendict-git 1:1.5.0rc2.r587.ge1e70e6a-1
-chaotic-aur goldendict-webengine-pr-git 22.12.02.r12.geaf96447-1
+chaotic-aur goldendict-webengine-pr-git 22.12.02.r12.gadbfefdb-1
 chaotic-aur goocanvas2 2.0.4-9.1
 chaotic-aur goodvibes 0.7.6-1
 chaotic-aur goodvibes-git 0.7.6.r4.g9674fc1-1
@@ -16214,13 +16214,13 @@ chaotic-aur pixelorama 0.10.3-1.1
 chaotic-aur pixelorama-git 2213.7f026aa3-1
 chaotic-aur pjsua 2.13-1
 chaotic-aur plasma-browser-integration-git 5.27.80_r1426.g415e5868-1
-chaotic-aur plasma-desktop-git 5.27.80_r10132.g4b4f386cc-1
+chaotic-aur plasma-desktop-git 5.27.80_r10134.g06a9799ab-1
 chaotic-aur plasma-disks-git 5.27.80_r330.g5a4ca52-1
 chaotic-aur plasma-firewall-git 5.27.80_r714.ga65c3f8-1
 chaotic-aur plasma-framework-git 5.104.0_r16602.gc30ececd2-1
 chaotic-aur plasma-integration-git 5.27.80_r630.g140c698-1
 chaotic-aur plasma-nm-git 5.27.80_r3541.gc708a5bf-1
-chaotic-aur plasma-pa-git 5.27.80.r1194.gf0c7dda-1
+chaotic-aur plasma-pa-git 5.27.80.r1195.gf570eee-1
 chaotic-aur plasma-sdk-git 5.27.80.r2477.g5265261d-1
 chaotic-aur plasma-systemmonitor-git _r.g-1.1
 chaotic-aur plasma-thunderbolt-git 5.26.90_r226.g6d02435-1
@@ -16827,7 +16827,7 @@ chaotic-aur srb2kart-data 1.6-2
 chaotic-aur srecord 1.65.0-2
 chaotic-aur ssacli 4.21.7.0-1
 chaotic-aur sshs 3.4.0-1
-chaotic-aur st 0.9-1
+chaotic-aur st 0.9-3
 chaotic-aur stacer 1.1.0-1.1
 chaotic-aur stacer-git 1.1.0.r108.g0f24534-1.1
 chaotic-aur standardnotes-bin 3.148.0-1
@@ -25262,7 +25262,7 @@ arch4edu devtools-qemu 20200407.72.gf233679.21.27a741d-1
 arch4edu distccd-alarm-armv7h 12.1.0.20220530-1
 arch4edu distccd-alarm-armv8 12.1.0.20220530-1
 arch4edu dlib 19.24-1
-arch4edu dolfinx 0.6.0-2
+arch4edu dolfinx 0.6.0-3
 arch4edu dolfinx-debug 0.6.0-2
 arch4edu downgrade 11.2.1-1
 arch4edu dumux 3.6.0-2
@@ -25459,8 +25459,8 @@ arch4edu mysql-clients 8.0.31-1
 arch4edu ncl 6.6.2-4
 arch4edu ncurses5-compat-libs 6.3-1
 arch4edu ncview 2.1.8-1
-arch4edu netron 6.5.4-1
-arch4edu netron-cli 6.5.4-1
+arch4edu netron 6.5.5-1
+arch4edu netron-cli 6.5.5-1
 arch4edu netron-debug 6.5.3-1
 arch4edu nkf 2.1.5-2
 arch4edu nni 2.10-1
@@ -25541,7 +25541,7 @@ arch4edu pocketsphinx 5prealpha-13
 arch4edu praat 6.3.08-1
 arch4edu praat-debug 6.3.07-1
 arch4edu pyglossary 4.5.0-1
-arch4edu pypy3-pip 20.0.2-1
+arch4edu pypy3-pip 23.0-1
 arch4edu pypy3-setuptools 1:32.3.1-2
 arch4edu python-apex-git 22.03.r149.g0145d69d-1
 arch4edu python-apex-git-debug 22.03.r148.ga32d7a6d-1
