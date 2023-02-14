@@ -102,7 +102,7 @@ core libaio 0.3.113-1 [installed]
 core libarchive 3.6.2-2 [installed]
 core libassuan 2.5.5-1 [installed]
 core libbpf 1.0.1-1 [installed]
-core libcap 2.66-1 [installed]
+core libcap 2.67-1 [installed]
 core libcap-ng 0.8.3-1 [installed]
 core libcurl-compat 7.87.0-3
 core libcurl-gnutls 7.87.0-3
@@ -1030,9 +1030,9 @@ extra itinerary 22.12.2-1
 extra itstool 1:2.0.7-1
 extra iucode-tool 2.3.1-4
 extra jack-example-tools 4-1
-extra jack2 1.9.21-3 [installed]
-extra jack2-dbus 1.9.21-3
-extra jack2-docs 1.9.21-3
+extra jack2 1.9.22-1 [installed]
+extra jack2-dbus 1.9.22-1
+extra jack2-docs 1.9.22-1
 extra jasper 4.0.0-1
 extra jasper-doc 4.0.0-1
 extra java-commons-daemon 1.3.3-1
@@ -1480,7 +1480,7 @@ extra libiscsi 1.19.0-2
 extra libisoburn 1.5.4-2 [installed]
 extra libisofs 1.5.4-1 [installed]
 extra libixion 0.17.0-4
-extra libjpeg-turbo 2.1.4-2 [installed]
+extra libjpeg-turbo 2.1.5-2 [installed]
 extra libkate 0.4.1-8
 extra libkate-docs 0.4.1-8
 extra libkcddb 22.12.2-1
@@ -2555,7 +2555,7 @@ extra python-opengl 3.1.6-1
 extra python-ordered-set 4.1.0-1
 extra python-packaging 23.0-1
 extra python-patiencediff 0.2.13-1
-extra python-pip 22.3.1-1
+extra python-pip 23.0-1
 extra python-platformdirs 2.6.2-1
 extra python-ply 3.11-10
 extra python-prometheus_client 0.15.0-2
@@ -2837,7 +2837,7 @@ extra rust-src 1:1.67.1-1
 extra rust-wasm 1:1.67.1-1
 extra rygel 1:0.42.1-1
 extra samba 4.17.5-1
-extra sane 1.1.1-2
+extra sane 1.2.1-3
 extra sane-airscan 0.99.27-1
 extra sbc 2.0-1
 extra sbcl 2.3.0-1
@@ -13436,7 +13436,7 @@ multilib lib32-harfbuzz-cairo 7.0.0-1
 multilib lib32-harfbuzz-icu 7.0.0-1
 multilib lib32-icu 72.1-2
 multilib lib32-imlib2 1.10.0-2
-multilib lib32-jack2 1.9.21-1
+multilib lib32-jack2 1.9.22-1
 multilib lib32-jansson 2.14-1
 multilib lib32-json-c 0.16-1
 multilib lib32-json-glib 1.6.6-2
@@ -13453,7 +13453,7 @@ multilib lib32-libavc1394 0.5.4-4
 multilib lib32-libavtp 0.2.0-1
 multilib lib32-libcaca 0.99.beta20-1
 multilib lib32-libcanberra 1:0.30+r2+gc0620e4-2
-multilib lib32-libcap 2.66-1
+multilib lib32-libcap 2.67-1
 multilib lib32-libcroco 0.6.13-1
 multilib lib32-libcups 2.4.2-2
 multilib lib32-libcurl-compat 7.87.0-1
@@ -13484,7 +13484,7 @@ multilib lib32-libiec61883 1.2.0-3
 multilib lib32-libindicator-gtk2 12.10.1-9
 multilib lib32-libindicator-gtk3 12.10.1-9
 multilib lib32-libinstpatch 1.1.6-1
-multilib lib32-libjpeg-turbo 2.1.4-2
+multilib lib32-libjpeg-turbo 2.1.5-4
 multilib lib32-libjpeg6-turbo 1.5.3-2
 multilib lib32-libldap 2.6.3-3
 multilib lib32-libltdl 2.4.7-2
@@ -13969,7 +13969,7 @@ chaotic-aur backintime-cli 1.3.3-2
 chaotic-aur backintime-cli-git 1.3.3.r4.ge22c7f25-1
 chaotic-aur backintime-git 1.3.3.r4.ge22c7f25-1
 chaotic-aur badwolf 1.2.2-2.1
-chaotic-aur baloo-git 5.104.0_r3137.g3ffcaa3e-1
+chaotic-aur baloo-git 5.104.0_r3138.g1bd40d78-1
 chaotic-aur balz 1.20-2
 chaotic-aur bash-complete-alias 1.18.0-1
 chaotic-aur basilisk-bin 1:52.9.2023.01.26-1
@@ -14015,7 +14015,7 @@ chaotic-aur bluespec-bdw-git r11.5b61fa8-1
 chaotic-aur bluespec-contrib-git r23.aa20533-82
 chaotic-aur bluespec-git r738.034050db-82
 chaotic-aur bluetooth-autoconnect 1.3-1.2
-chaotic-aur bluez-git 1:5.66.r87.g67395a3b3-1
+chaotic-aur bluez-git 1:5.66.r96.gf2a298992-1
 chaotic-aur bluez-qt-git 5.104.0_r737.g210d8a8-1
 chaotic-aur bluez-utils-compat 5.66-1
 chaotic-aur boca 1:1.0.6a-1.1
@@ -14298,7 +14298,7 @@ chaotic-aur distrobox 1.4.2.1-1
 chaotic-aur dmalloc 5.6.5-2
 chaotic-aur dockbarx 2:1.0beta2-1
 chaotic-aur dogecoin-qt 1.14.6-4
-chaotic-aur dolphin-emu-git 5.0.r18663.gba3c38a63f-1
+chaotic-aur dolphin-emu-git 5.0.r18665.g22ed084209-1
 chaotic-aur dolphin-emu-nogui-git 5.0.r18663.gba3c38a63f-1
 chaotic-aur dolphin-git 23.03.70_r7281.gba930ddb3-1
 chaotic-aur dolphin-megasync-bin 3.6.6-2
@@ -14363,7 +14363,7 @@ chaotic-aur elm-format-bin 0.8.5-1
 chaotic-aur elm-language-server 2.6.0-1
 chaotic-aur elm-platform-bin 0.19.1-2
 chaotic-aur emacs-git 30.0.50.164956-1
-chaotic-aur emacs-pgtk-native-comp-git 30.0.50.164956-1
+chaotic-aur emacs-pgtk-native-comp-git 30.0.50.164965-1
 chaotic-aur emerald-gtk3 0.8.18-2.1
 chaotic-aur emote 3.0.3-4.1
 chaotic-aur emulationstation 2.11.0-1.1
@@ -15044,7 +15044,7 @@ chaotic-aur kalarm-git 23_r8262.g5267c070-1
 chaotic-aur kalendar-git 1.0.0.r549.gcba3027a-1
 chaotic-aur kali-themes 2023.1.1-1
 chaotic-aur kapidox-git 5.102.0_r585.gef3fe99-1
-chaotic-aur karchive-git 5.104.0_r622.gb367506-1
+chaotic-aur karchive-git 5.104.0_r623.g9ce8bd2-1
 chaotic-aur kasts 23.01.0-1
 chaotic-aur kate-git 23.03.70_r20303.g05cc17771-1
 chaotic-aur kauth-git 5.104.0_r540.g3f3e2cb-1
@@ -17410,7 +17410,7 @@ chaotic-aur xdg-desktop-portal-kde-git 5.27.80_r654.g6a83f32-1
 chaotic-aur xdg-desktop-portal-wlr-git v0.6.0.r7.ga18bea8-1
 chaotic-aur xdg-ninja-git r281.6bf757b-1
 chaotic-aur xdman 1:7.2.11-2
-chaotic-aur xembed-sni-proxy-git v5.26.90.r146.ga7deac657-1
+chaotic-aur xembed-sni-proxy-git v5.26.90.r147.g28a24cf79-1
 chaotic-aur xemu-git 0.7.83.r2.gd0d3e7b4fa-1
 chaotic-aur xen 4.17.0-1
 chaotic-aur xen-docs 4.17.0-1
