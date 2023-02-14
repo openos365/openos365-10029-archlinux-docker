@@ -72,7 +72,7 @@ core gpgme 1.18.0-2 [installed]
 core gpm 1.20.7.r38.ge82d1a6-4 [installed]
 core grep 3.8-3 [installed]
 core groff 1.22.4-7 [installed]
-core grub 2:2.06.r456.g65bc45963-1
+core grub 2:2.06.r456.g65bc45963-1 [installed]
 core gssproxy 0.9.1-2
 core guile 3.0.9-1 [installed]
 core gzip 1.12-2 [installed]
@@ -311,11 +311,11 @@ extra appstream-glib 0.8.2-1
 extra appstream-qt 0.16.1-1
 extra apr 1.7.0-3
 extra apr-util 1.6.1-11
-extra arch-install-scripts 28-1
+extra arch-install-scripts 28-1 [installed]
 extra arch-rebuild-order 0.3.1-1
 extra arch-signoff 0.5.2-2
 extra archinstall 2.5.2-1
-extra archiso 69-1
+extra archiso 69-1 [installed]
 extra archivetools 3-3
 extra archlinux-appstream-data 20230115-1
 extra archlinux-themes-slim 1.2-6
@@ -556,7 +556,7 @@ extra eog 43.2-1
 extra eog-docs 43.2-1
 extra eog-plugins 42.3-1
 extra epiphany 43.0-1
-extra erofs-utils 1.5-3
+extra erofs-utils 1.5-3 [installed]
 extra ethtool 1:6.1-1
 extra eventviews 22.12.2-1
 extra evince 43.1-2
@@ -2092,7 +2092,7 @@ extra mplayer 38407-1
 extra msmtp 1.8.22-2
 extra msmtp-mta 1.8.22-2
 extra mtdev 1.1.6-2 [installed]
-extra mtools 1:4.0.42-1
+extra mtools 1:4.0.42-1 [installed]
 extra mtr 0.95-3
 extra mtr-gtk 0.95-3
 extra muparser 2.3.4-1
@@ -2503,7 +2503,7 @@ extra pulseaudio-zeroconf 16.1-3
 extra purple-plugin-pack 2.8.0-1
 extra purpose 5.102.0-1
 extra putty 0.78-1
-extra pyalpm 0.10.6-4
+extra pyalpm 0.10.6-4 [installed]
 extra pyqt-builder 1.14.1-1
 extra pyside2 5.15.8-6
 extra pyside2-tools 5.15.8-6
@@ -3136,7 +3136,7 @@ extra webkit2gtk-5.0 2.38.4-1
 extra webkit2gtk-5.0-docs 2.38.4-1
 extra webkit2gtk-docs 2.38.4-1
 extra webrtc-audio-processing 0.3.1-3
-extra wget 1.21.3-1
+extra wget 1.21.3-1 [installed]
 extra whois 5.5.15-1
 extra wildmidi 0.4.5-1
 extra wipe 2.3.1-5
@@ -3347,7 +3347,7 @@ extra zimg 3.0.4-1 [installed]
 extra zip 3.0-10
 extra zita-alsa-pcmi 0.6.1-1
 extra zita-resampler 1.8.0-1
-extra zsh 5.9-3
+extra zsh 5.9-3 [installed]
 extra zsh-doc 5.9-3
 extra zvbi 0.2.40-1
 extra zxing-cpp 2.0.0-1
@@ -8125,7 +8125,7 @@ community nicotine+ 3.2.8-2
 community nikola 8.2.3-1
 community nikto 2.1.6-3
 community nim 1.6.10-2
-community ninja 1.11.1-2
+community ninja 1.11.1-2 [installed]
 community ninjas2 0.2.0-2
 community nitrocli 0.4.1-2
 community nitroshare 0.3.4-4
@@ -13760,7 +13760,7 @@ archcraft calamares-config-xfce 1.0-2
 archcraft cava 0.8.3-1
 archcraft ckbcomp 1.210-1 [installed]
 archcraft downgrade 11.2.1-1
-archcraft grub 2.06.r261.g2f4430cc0-3
+archcraft grub 2.06.r261.g2f4430cc0-3 [installed: 2:2.06.r456.g65bc45963-1]
 archcraft gtk3-nocsd-git r82.512c2bd-1
 archcraft i3lock-color 2.13.c.4-1
 archcraft ksuperkey 0.4-2
@@ -14220,7 +14220,7 @@ chaotic-aur cpp-httplib 0.12.0-1
 chaotic-aur cpp-jwt 1.4-3
 chaotic-aur cpp-taskflow 3.5.0-1
 chaotic-aur cpu-x 4.5.2-1
-chaotic-aur cpu-x-git 4.5.2.r18.g2ce4a42-1
+chaotic-aur cpu-x-git 4.5.2.r19.g7d9bfa4-1
 chaotic-aur cpufetch-git 1.03.r15.g3296dc9-1
 chaotic-aur cpupower-gui 1.0.0-5.1
 chaotic-aur crazydiskinfo 1.1.0-2.2
@@ -15820,7 +15820,7 @@ chaotic-aur newaita-icons-git r929.c2b596b09-1
 chaotic-aur nextcloud-client-git 3.6.0.r740.g7953d4ebc-1
 chaotic-aur nextdns-unprivileged 1.39.4-1
 chaotic-aur nextpnr-git 0.5.r45.g57693bcb-1
-chaotic-aur nghttp2 1.51.0-1
+chaotic-aur nghttp2 1.52.0-1
 chaotic-aur nginx-mainline-mod-brotli 1:1.0.0rc-5.1
 chaotic-aur nginx-mainline-mod-dav-ext 3.0.0-21.2
 chaotic-aur nginx-mainline-mod-echo 0.61-37.1
@@ -15945,7 +15945,7 @@ chaotic-aur odr-dabmux-git 4.3.0.r0.gcf1ce1f-1.1
 chaotic-aur ofono 1.34-1.1
 chaotic-aur ogre-1.9 1.9.1-7.1
 chaotic-aur ogre-docs-1.9 1.9.1-7.1
-chaotic-aur oh-my-zsh-git r6801.416560c9b-1
+chaotic-aur oh-my-zsh-git r6802.69b5737da-1
 chaotic-aur okular-git 23.03.70_r9965.g880444b7b-1
 chaotic-aur olive 0.1.2-3
 chaotic-aur olive-git continuous.r2470.ge7982239b-1
@@ -16611,7 +16611,7 @@ chaotic-aur qytdl 1.6-1.1
 chaotic-aur r8125-dkms 9.011.00-1
 chaotic-aur r8152-dkms 2.16.3.20221209-1
 chaotic-aur r8168-dkms 8.051.02-2
-chaotic-aur radare2-git 5.8.3.r29783.912509ab14-1
+chaotic-aur radare2-git 5.8.3.r29789.9e546591e3-1
 chaotic-aur radeon-profile-git 20200824.r26.g0d632ba-1.2
 chaotic-aur raider-file-shredder 1.3.1-1.1
 chaotic-aur rakudo 2022.12-1
@@ -17274,7 +17274,7 @@ chaotic-aur waterfox-g-bin 5.1-0
 chaotic-aur waterfox-g3-bin 2.6-1.1
 chaotic-aur waterfox-g4-bin 1.5-0.1
 chaotic-aur wattman-gtk-git r203.54d2482-1.1
-chaotic-aur wavebox-beta 10.110.15_3-1
+chaotic-aur wavebox-beta 10.110.18_3-1
 chaotic-aur wavesurfer 1.8.8p5-4
 chaotic-aur waybar-experimental-git 0.9.17.r66.gea38eec2-1
 chaotic-aur waybar-hyprland-git 0.9.17.r66.gea38eec2-1
@@ -17454,7 +17454,7 @@ chaotic-aur xpadneo-dkms-git 0.9.r131.g0150346-1
 chaotic-aur xplayer 2.4.2-2.1
 chaotic-aur xplayer-plparser 1.0.3-1.1
 chaotic-aur xpra-git v4.4.r482.gd85c0475c-1
-chaotic-aur xpra-html5-git v6.0.r33.g953523e-1
+chaotic-aur xpra-html5-git v6.0.r34.gff246e3-1
 chaotic-aur xschem 3.1.0-1
 chaotic-aur xsudo-git 1.0.1_r0_g672bf02-2
 chaotic-aur xviewer 3.2.12-3
@@ -22513,7 +22513,7 @@ archlinuxcn arch-wiki-docs-zh-tw 20230210-1
 archlinuxcn archey-git r146.b74e40br146.b74e40b-3
 archlinuxcn archlinux-artwork 1.6-6
 archlinuxcn archlinux-java-run 9-1
-archlinuxcn archlinuxcn-keyring 20220716-1
+archlinuxcn archlinuxcn-keyring 20220716-1 [installed]
 archlinuxcn archlinuxcn-mirrorlist-git 20230127-1
 archlinuxcn archrepo2-git 2:0.5.r18.gc003123-3
 archlinuxcn aria2-fast 1.36.0-3
@@ -28178,7 +28178,7 @@ xerolinux_repo quickgui-bin 1.2.8-1
 xerolinux_repo radiotray 0.7.3-16
 xerolinux_repo rarian 0.8.1-7
 xerolinux_repo rate-mirrors-bin 0.15.0-1
-xerolinux_repo realvnc-vnc-server 6.11.0-1
+xerolinux_repo realvnc-vnc-server 7.0.0-1
 xerolinux_repo realvnc-vnc-viewer 7.0.1-1
 xerolinux_repo repoctl 0.21-3
 xerolinux_repo rtl8821ce-dkms-git 1.0.5.r153.ga3e2f7c-1
