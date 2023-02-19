@@ -44,6 +44,10 @@ cd 9318-archlinux-docker
 docker run ghcr.io/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Sl > packages.list.all.txt
 docker run ghcr.io/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Qe > packages.list.installed.txt
 
+function aur.save()
+{
+
+
 cd ~/
 
 git clone https://github.com/archlinux/aur.git
@@ -70,7 +74,7 @@ do
 
 done < aur.all.txt
 
-
+}
 git config --global user.email "gnuhub@gmail.com"
 git config --global user.name "gnuhub"
 git add .
