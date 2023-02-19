@@ -28,8 +28,8 @@ docker push ghcr.io/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER
 docker push ghcr.io/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:latest
 docker push registry.cn-hangzhou.aliyuncs.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER
 docker push registry.cn-hangzhou.aliyuncs.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:latest
-docker push hkccr.ccs.tencentyun.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER 
-docker push hkccr.ccs.tencentyun.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:latest 
+# docker push hkccr.ccs.tencentyun.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER 
+# docker push hkccr.ccs.tencentyun.com/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:latest 
 docker push gnuhub/$PROJECT_NAME-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER
 docker push gnuhub/$PROJECT_NAME-$GITHUB_REF_NAME:latest
 
@@ -64,8 +64,7 @@ do
 
     cd ~/aur
     git checkout $line
-
-    rsync -avzP --delete --exclude='.git/' ~/aur/ $CMD_PATH/aur-all/$index/$line/
+    rsync -avzP --delete --exclude='.git/' ~/aur/ ~/9318-archlinux-docker/aur-all/$index/$line/
     cd ~/
     cd 9318-archlinux-docker
 
