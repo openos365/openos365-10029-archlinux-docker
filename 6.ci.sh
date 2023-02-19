@@ -62,18 +62,12 @@ do
     mkdir -p aur-all/$index 
     mkdir -p aur-all/$index/$line
 
-    cd ~/9318-archlinux-docker
+    cd ~/aur
     git checkout $line
 
-    rsync -avzP --exclude='.git/' ~/9318-archlinux-docker/ $CMD_PATH/aur-all/$index/$line/
+    rsync -avzP --delete --exclude='.git/' ~/aur/ $CMD_PATH/aur-all/$index/$line/
     cd ~/
     cd 9318-archlinux-docker
-
-
-
-
-
-
 
 done < aur.all.txt
 
