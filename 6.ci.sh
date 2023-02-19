@@ -54,6 +54,30 @@ cd ~/
 cd 9318-archlinux-docker
 
 
+mkdir -p aur-all
+while read line
+do
+    echo $line
+    index=${line:0:1}
+    mkdir -p aur-all/$index 
+    mkdir -p aur-all/$index/$line
+
+    cd ~/9318-archlinux-docker
+    git checkout $line
+
+    rsync -avzP --exclude='.git/' ~/9318-archlinux-docker/ $CMD_PATH/aur-all/$index/$line/
+    cd ~/
+    cd 9318-archlinux-docker
+
+
+
+
+
+
+
+done < aur.all.txt
+
+
 git config --global user.email "gnuhub@gmail.com"
 git config --global user.name "gnuhub"
 git add .
