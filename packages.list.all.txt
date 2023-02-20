@@ -23,7 +23,7 @@ core coreutils 9.1-3 [installed]
 core cracklib 2.9.8-1
 core cronie 1.6.1-1
 core cryptsetup 2.6.1-1 [installed]
-core curl 7.88.0-4 [installed]
+core curl 7.88.1-1 [installed: 7.88.0-4]
 core dash 0.5.11.5-1
 core db 6.2.32-1
 core db5.3 5.3.28-2
@@ -104,8 +104,8 @@ core libassuan 2.5.5-1 [installed]
 core libbpf 1.0.1-1 [installed]
 core libcap 2.67-1 [installed]
 core libcap-ng 0.8.3-1 [installed]
-core libcurl-compat 7.88.0-4
-core libcurl-gnutls 7.88.0-4
+core libcurl-compat 7.88.1-1
+core libcurl-gnutls 7.88.1-1
 core libedit 20210910_3.1-2
 core libelf 0.188-3 [installed]
 core libevent 2.1.12-4 [installed]
@@ -2034,9 +2034,9 @@ extra marble 22.12.2-1
 extra marble-common 22.12.2-1
 extra marble-maps 22.12.2-1
 extra marble-qt 22.12.2-1
-extra mariadb 10.10.3-1
-extra mariadb-clients 10.10.3-1
-extra mariadb-libs 10.10.3-1
+extra mariadb 10.11.2-1
+extra mariadb-clients 10.11.2-1
+extra mariadb-libs 10.11.2-1
 extra markdownpart 22.12.2-1
 extra maxima 5.46.0-8
 extra maxima-ecl 5.46.0-8
@@ -2107,7 +2107,7 @@ extra mypaint-brushes1 1.3.1-1
 extra mythes-de 20180514-3
 extra mythes-en 20221102-2
 extra mythes-es 1:2.7-1
-extra mytop 10.10.3-1
+extra mytop 10.11.2-1
 extra namcap 3.3.1-1
 extra nasm 2.15.05-1
 extra nautilus 43.2-1
@@ -6879,31 +6879,31 @@ community knot 3.2.4-1
 community knot-resolver 5.6.0-1
 community ko 0.12.0-3
 community kobodeluxe 0.5.1-11
-community kodi 20.0-3
-community kodi-addon-audioencoder-flac 1:20.2.0-1
-community kodi-addon-audioencoder-lame 1:20.3.0-1
-community kodi-addon-audioencoder-vorbis 1:20.2.0-1
-community kodi-addon-audioencoder-wav 1:20.2.0-1
-community kodi-addon-imagedecoder-heif 20.1.0-2
-community kodi-addon-imagedecoder-raw 20.1.0-2
-community kodi-addon-inputstream-adaptive 20.3.3-1
-community kodi-addon-inputstream-rtmp 20.3.0-2
-community kodi-addon-peripheral-joystick 20.1.5-1
-community kodi-addon-screensaver-asteroids 1:20.2.0-1
-community kodi-addon-screensaver-biogenesis 1:20.1.0-2
-community kodi-addon-screensaver-greynetic 1:20.2.0-1
-community kodi-addon-screensaver-matrixtrails 1:20.1.0-2
-community kodi-addon-screensaver-pingpong 1:20.2.0-1
-community kodi-addon-screensaver-pyro 1:20.1.0-2
-community kodi-addon-screensaver-stars 1:20.1.0-2
-community kodi-addon-visualization-projectm 1:20.2.0-2
-community kodi-addon-visualization-shadertoy 1:20.3.0-2
-community kodi-addon-visualization-spectrum 1:20.2.0-2
-community kodi-addon-visualization-waveform 1:20.2.1-2
-community kodi-dev 20.0-3
-community kodi-eventclients 20.0-3
-community kodi-platform 20190726.809c5e9-41
-community kodi-tools-texturepacker 20.0-3
+community kodi 20.0-5
+community kodi-addon-audioencoder-flac 1:20.2.0-3
+community kodi-addon-audioencoder-lame 1:20.3.0-3
+community kodi-addon-audioencoder-vorbis 1:20.2.0-3
+community kodi-addon-audioencoder-wav 1:20.2.0-3
+community kodi-addon-imagedecoder-heif 20.1.0-4
+community kodi-addon-imagedecoder-raw 20.1.0-4
+community kodi-addon-inputstream-adaptive 20.3.3-3
+community kodi-addon-inputstream-rtmp 20.3.0-4
+community kodi-addon-peripheral-joystick 20.1.5-3
+community kodi-addon-screensaver-asteroids 1:20.2.0-3
+community kodi-addon-screensaver-biogenesis 1:20.1.0-4
+community kodi-addon-screensaver-greynetic 1:20.2.0-3
+community kodi-addon-screensaver-matrixtrails 1:20.1.0-4
+community kodi-addon-screensaver-pingpong 1:20.2.0-3
+community kodi-addon-screensaver-pyro 1:20.1.0-4
+community kodi-addon-screensaver-stars 1:20.1.0-4
+community kodi-addon-visualization-projectm 1:20.2.0-4
+community kodi-addon-visualization-shadertoy 1:20.3.0-4
+community kodi-addon-visualization-spectrum 1:20.2.0-4
+community kodi-addon-visualization-waveform 1:20.2.1-4
+community kodi-dev 20.0-5
+community kodi-eventclients 20.0-5
+community kodi-platform 20190726.809c5e9-43
+community kodi-tools-texturepacker 20.0-5
 community kompose 1.28.0-1
 community kooha 2.2.3-1
 community kotlin 1.8.10-1
@@ -13410,7 +13410,7 @@ multilib lib32-clang 15.0.7-1
 multilib lib32-cmocka 1.1.5-1
 multilib lib32-colord 1.4.6-1
 multilib lib32-cracklib 2.9.8-1
-multilib lib32-curl 7.88.0-4
+multilib lib32-curl 7.88.1-1
 multilib lib32-dbus 1.14.6-1
 multilib lib32-dbus-glib 0.112-2
 multilib lib32-dconf 0.40.0-3
@@ -13468,8 +13468,8 @@ multilib lib32-libcanberra 1:0.30+r2+gc0620e4-2
 multilib lib32-libcap 2.67-1
 multilib lib32-libcroco 0.6.13-1
 multilib lib32-libcups 2.4.2-2
-multilib lib32-libcurl-compat 7.88.0-4
-multilib lib32-libcurl-gnutls 7.88.0-4
+multilib lib32-libcurl-compat 7.88.1-1
+multilib lib32-libcurl-gnutls 7.88.1-1
 multilib lib32-libdaemon 0.14-7
 multilib lib32-libdatrie 0.2.13-2
 multilib lib32-libdbusmenu-glib 16.04.0-5
@@ -14857,7 +14857,7 @@ chaotic-aur gruvbox-material-gtk-theme-git r18.f56ba878e-1
 chaotic-aur gruvbox-material-icon-theme-git r18.f56ba878e-1
 chaotic-aur grype-bin 0.57.1-1
 chaotic-aur gsettings-desktop-schemas-git 44.beta.r0.g186faa0-1
-chaotic-aur gst-plugin-pipewire-common-git 0.3.66.r9.g192044f1-1
+chaotic-aur gst-plugin-pipewire-common-git 0.3.66.r11.g2d5e0ef4-1
 chaotic-aur gstreamer0.10 0.10.36-20
 chaotic-aur gstreamer0.10-base 0.10.36-13
 chaotic-aur gstreamer0.10-base-plugins 0.10.36-13
@@ -14930,7 +14930,7 @@ chaotic-aur hyprland-nvidia 0.21.0beta-2
 chaotic-aur i2p 2.1.0-1
 chaotic-aur i3lock-color 2.13.c.4-1.2
 chaotic-aur i3lock-fancy-git r191.4cfcd47-1.1
-chaotic-aur i3status-rust-git 0.30.0.r3050.g850296e6-1
+chaotic-aur i3status-rust-git 0.30.0.r3052.g141887f2-1
 chaotic-aur ialauncher-git r127.b93f75d-1.1
 chaotic-aur ibus-bamboo-git 0.8.2+RC3+0+gd14fd96-1.1
 chaotic-aur ibus-mozc 2.28.4960.102-1
@@ -14998,7 +14998,7 @@ chaotic-aur isomaster 1.3.16-1.2
 chaotic-aur it87-dkms-git 217.49975da-1
 chaotic-aur itch-setup-bin 1.26.0-1
 chaotic-aur itcl3 3.4.3-2
-chaotic-aur j9-git r4278.6abc7ea4-1
+chaotic-aur j9-git r4279.b00bd337-1
 chaotic-aur jackett 0.20.3184-1
 chaotic-aur jade-application-kit 3.5.7-2
 chaotic-aur jamesdsp 2.4-1.1
@@ -15381,7 +15381,7 @@ chaotic-aur lib32-sratom 0.6.14-1.1
 chaotic-aur lib32-srt 1.5.1-1
 chaotic-aur lib32-unixodbc 2.3.11-1
 chaotic-aur lib32-vkbasalt 0.3.2.8-1
-chaotic-aur lib32-vkd3d-proton-tkg-git 1.1.r3182.g507cb319-1
+chaotic-aur lib32-vkd3d-proton-tkg-git 1.1.r3190.gdec130a0-1
 chaotic-aur lib32-vkd3d-tkg-git 1.6.r86.gf9e7cb63-1
 chaotic-aur lib32-vmaf 2.3.1-1
 chaotic-aur lib32-vulkan-icd-loader-git 1.3.235.r4.g3c25bbc5f-1
@@ -15423,7 +15423,7 @@ chaotic-aur libdrm-git 2.4.115.r1.gc6d6dce9-1
 chaotic-aur libeb 4.4.3-10
 chaotic-aur libelectron 1.0.5-1
 chaotic-aur libffi7 3.3-2
-chaotic-aur libfprint-git 1:1.94.5.r22.g22683ec-1
+chaotic-aur libfprint-git 1:1.94.5.r22.g22683ec4-1
 chaotic-aur libfpx 1.3.1.10-5
 chaotic-aur libgaminggear 0.15.1-8.1
 chaotic-aur libgbinder 1.1.30-1
@@ -15771,7 +15771,7 @@ chaotic-aur mpc-qt 23.02-1
 chaotic-aur mpd-mpris 0.3.1-1
 chaotic-aur mpir 3.0.0-3
 chaotic-aur mpv-full 0.35.1-1
-chaotic-aur mpv-full-git 0.35.1.r240.gd1cf89b655-1
+chaotic-aur mpv-full-git 0.35.1.r242.g9efce6d4ae-1
 chaotic-aur mrtg 2.17.10-1
 chaotic-aur ms-office-online 2:2.1.1-1.1
 chaotic-aur mu-editor 1:1.0.3-3.1
@@ -15959,7 +15959,7 @@ chaotic-aur odr-dabmux-git 4.3.0.r0.gcf1ce1f-1.1
 chaotic-aur ofono 1.34-1.1
 chaotic-aur ogre-1.9 1.9.1-7.1
 chaotic-aur ogre-docs-1.9 1.9.1-7.1
-chaotic-aur oh-my-zsh-git r6807.cc73a929f-1
+chaotic-aur oh-my-zsh-git r6808.8c808da23-1
 chaotic-aur okular-git 23.03.70_r9965.g880444b7b-1
 chaotic-aur olive 0.1.2-3
 chaotic-aur olive-git continuous.r2470.ge7982239b-1
@@ -16223,7 +16223,7 @@ chaotic-aur pimcommon-git 5.22.49_r1978.gfa99d548-1
 chaotic-aur pingu 0.0.5-1
 chaotic-aur pip-tools 6.12.2-1
 chaotic-aur pipe-viewer-git 0.4.5.r0.g4af2b90-1
-chaotic-aur pipewire-common-alsa-git 0.3.66.r9.g192044f1-1
+chaotic-aur pipewire-common-alsa-git 0.3.66.r11.g2d5e0ef4-1
 chaotic-aur pipewire-common-docs-git 0.3.66.r9.g192044f1-1
 chaotic-aur pipewire-common-git 0.3.66.r9.g192044f1-1
 chaotic-aur pipewire-common-jack-git 0.3.66.r9.g192044f1-1
@@ -16629,7 +16629,7 @@ chaotic-aur qytdl 1.6-1.1
 chaotic-aur r8125-dkms 9.011.00-1
 chaotic-aur r8152-dkms 2.16.3.20221209-1
 chaotic-aur r8168-dkms 8.051.02-2
-chaotic-aur radare2-git 5.8.3.r29825.c809882f38-1
+chaotic-aur radare2-git 5.8.3.r29826.a15067a8ea-1
 chaotic-aur radeon-profile-git 20200824.r26.g0d632ba-1.2
 chaotic-aur raider-file-shredder 1.3.1-1.1
 chaotic-aur rakudo 2022.12-1
@@ -16895,8 +16895,8 @@ chaotic-aur supertuxkart-git 23148+18575-1
 chaotic-aur surf-git 2.1.r10.g665a709-1.1
 chaotic-aur surfn-icons-git 1:22.10.01.r12.ga8d4fe84-1
 chaotic-aur svt-av1-git 1.4.1.r74.g424bffbb-1
-chaotic-aur sway-git r7080.788118f19-1
-chaotic-aur sway-git-debug r7080.788118f19-1
+chaotic-aur sway-git r7083.7d2e4a51-1
+chaotic-aur sway-git-debug r7083.7d2e4a51-1
 chaotic-aur sway-launcher-desktop 1.6.0-1
 chaotic-aur swaybg-git r128.a67361e-1
 chaotic-aur swayfx 0.1.1-1
