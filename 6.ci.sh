@@ -44,20 +44,17 @@ cd 9318-archlinux-docker
 docker run ghcr.io/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Sl > packages.list.all.txt
 docker run ghcr.io/${GITHUB_REPOSITORY}-$GITHUB_REF_NAME:$GITHUB_RUN_NUMBER pacman -Qe > packages.list.installed.txt
 
-function aur.save()
-{
-
 
 cd ~/
 
 git clone https://github.com/archlinux/aur.git
 cd aur
 git branch -a | sed 's#  remotes/origin/##g' | grep -v "main" > ~/9318-archlinux-docker/aur.all.txt
-
 cd ~/
 cd 9318-archlinux-docker
 
-
+function aur.save()
+{
 mkdir -p aur-all
 while read line
 do
@@ -75,6 +72,9 @@ do
 done < aur.all.txt
 
 }
+
+
+
 git config --global user.email "gnuhub@gmail.com"
 git config --global user.name "gnuhub"
 git add .
