@@ -12,8 +12,8 @@ core base-devel 1-1 [installed]
 core bash 5.1.016-3 [installed]
 core binutils 2.40-4 [installed]
 core bison 3.8.2-4 [installed]
-core brotli 1.0.9-9 [installed]
-core brotli-testdata 1.0.9-9
+core brotli 1.0.9-10 [installed]
+core brotli-testdata 1.0.9-10
 core btrfs-progs 6.1.3-1 [installed]
 core bzip2 1.0.8-5 [installed]
 core ca-certificates 20220905-1 [installed]
@@ -217,7 +217,7 @@ core procps-ng 3.3.17-1 [installed]
 core psmisc 23.6-1 [installed]
 core python 3.10.9-1 [installed]
 core python-audit 3.0.9-2
-core python-brotli 1.0.9-9
+core python-brotli 1.0.9-10
 core python-capng 0.8.3-1
 core python-gpgme 1.18.0-2
 core python-libseccomp 2.5.4-1
@@ -3589,7 +3589,7 @@ community autorandr 1.13.3-1
 community autossh 1.4g-2
 community autotiling-rs 0.1.3-1
 community av1an 0.4.0-1
-community avfs 1.1.4-2
+community avfs 1.1.5-1
 community avisynthplus 3.7.2-1
 community avldrums.lv2 0.5.2-1
 community avr-binutils 2.39-2
@@ -4217,7 +4217,7 @@ community deepin-cogl 1.22.5-3
 community deepin-community-wallpapers 1:1.7.7-2
 community deepin-compressor 5.12.14-1
 community deepin-control-center 5.5.157-1
-community deepin-daemon 5.14.110-1
+community deepin-daemon 5.14.111-1
 community deepin-desktop-base 2:2022.07.26-2
 community deepin-desktop-schemas 5.11.1-1
 community deepin-device-formatter 0.0.1.6-1
@@ -5206,7 +5206,7 @@ community golang-github-jung-kurt-gofpdf 2.5.0-1
 community golang-github-kr-pretty 0.2.1-1
 community golang-github-kr-pty 1.1.6-2
 community golang-github-kr-text 0.2.0-2
-community golang-github-linuxdeepin-go-dbus-factory 1.11.1-1
+community golang-github-linuxdeepin-go-dbus-factory 1.11.2-1
 community golang-github-linuxdeepin-go-gir 2.2.0-1
 community golang-github-linuxdeepin-go-lib 5.8.27-1
 community golang-github-linuxdeepin-go-x11-client 0.6.9-2
@@ -15291,7 +15291,7 @@ chaotic-aur lantern-bin 7.0.3-1
 chaotic-aur lapce-git 0.2.5.r122.gb92c519-1
 chaotic-aur latte-dock-git 0.10.9.r34.ga111d815-1
 chaotic-aur layan-gtk-theme-git 2021063035g4875fec-1
-chaotic-aur layer-shell-qt-git 5.27.80_r75.gb9f8f64-1
+chaotic-aur layer-shell-qt-git 5.27.80_r76.g3c85e2e-1
 chaotic-aur lazydocker 0.20.0-1
 chaotic-aur lbry-desktop-bin 0.53.9-1
 chaotic-aur leagueoflegends-git 13.1.r0.gbd681ad-1
@@ -16228,7 +16228,7 @@ chaotic-aur physx 4.1.2.29882248-1
 chaotic-aur picom-git 1851_9.rc1.173.gcee1287_2023.01.29-1
 chaotic-aur picom-ibhagwan-git 1578_Next.297.gc4107bb_2021.11.03-1.1
 chaotic-aur pigpio 79-1.1
-chaotic-aur pika-backup 1:0.5.1-1
+chaotic-aur pika-backup 1:0.5.2-1
 chaotic-aur pikasso-git r77.c466f00-1
 chaotic-aur pikaur-git 1.14.7.r75.g2620888-1
 chaotic-aur pim-data-exporter-git 23.03.40_r2869.g37814cc9-1
@@ -16251,9 +16251,9 @@ chaotic-aur pixelorama 0.10.3-1.1
 chaotic-aur pixelorama-git 2221.eee4e50f-1
 chaotic-aur pixelserv-tls 2.4-2
 chaotic-aur pjsua 2.13-1
-chaotic-aur plasma-browser-integration-git 5.27.80_r1435.g18381cd4-1
+chaotic-aur plasma-browser-integration-git 5.27.80_r1436.g8aa1b8a1-1
 chaotic-aur plasma-desktop-git 5.27.80_r10136.g205583023-1
-chaotic-aur plasma-disks-git 5.27.80_r339.g810020c-1
+chaotic-aur plasma-disks-git 5.27.80_r341.gaceb58a-1
 chaotic-aur plasma-firewall-git 5.27.80_r716.ge670eeb-1
 chaotic-aur plasma-framework-git 5.104.0_r16602.gc30ececd2-1
 chaotic-aur plasma-integration-git 5.27.80_r637.gae36cf1-1
@@ -16741,7 +16741,7 @@ chaotic-aur rustc-demangle 0.1.21-1
 chaotic-aur rustdesk-nightly 1.2.0-0
 chaotic-aur rustdesk-server-bin 1.1.7_1-1
 chaotic-aur rustow-git 0.4.beta.r7.g858b15e-1
-chaotic-aur rustup-git 1.25.2.r181.ga68bed56-1
+chaotic-aur rustup-git 1.25.2.r183.gf58e8c3c-1
 chaotic-aur ryujinx-git r2631.095ad923a-1
 chaotic-aur safeeyes 2.1.5-1
 chaotic-aur safeeyes-git 2.1.5.r13.g0874be5-1
@@ -16944,13 +16944,13 @@ chaotic-aur system-monitoring-center 2.7.0-1
 chaotic-aur system76-power 1.1.24-1
 chaotic-aur systemd-boot-pacman-hook 3-1.1
 chaotic-aur systemd-cron-next-git v1.0.2.r16.ga4c2de7-1.1
-chaotic-aur systemd-git 253.r62752.caeb2b616f-1
+chaotic-aur systemd-git 253.r62756.06762aa53e-1
 chaotic-aur systemd-guest-user 33.2-1.1
 chaotic-aur systemd-kcm 1.2.1-5.1
-chaotic-aur systemd-libs-git 253.r62752.caeb2b616f-1
+chaotic-aur systemd-libs-git 253.r62756.06762aa53e-1
 chaotic-aur systemd-oomd-defaults 251.5-1.1
-chaotic-aur systemd-resolvconf-git 253.r62752.caeb2b616f-1
-chaotic-aur systemd-sysvcompat-git 253.r62752.caeb2b616f-1
+chaotic-aur systemd-resolvconf-git 253.r62756.06762aa53e-1
+chaotic-aur systemd-sysvcompat-git 253.r62756.06762aa53e-1
 chaotic-aur systemsettings-git 5.27.80_r2859.g61e6b368-1
 chaotic-aur systray-x-git 0.9.2.r12.g2488b58-1.1
 chaotic-aur ta-lib 0.4.0-5
@@ -25362,7 +25362,7 @@ arch4edu fbx-sdk 2020.1.1-1
 arch4edu fcl 0.7.0-1
 arch4edu fet-timetabling 6.8.4-1
 arch4edu flite1 1.4-4
-arch4edu flutter 3.7.3-1
+arch4edu flutter 3.7.5-1
 arch4edu flutter-debug 3.7.1-1
 arch4edu fop-hyph 2.2-1
 arch4edu g2clib 1.6.0-2
@@ -26630,7 +26630,7 @@ arch4edu vim-colorschemes r215.fd8f122-1
 arch4edu vim-disable-mouse r2.e2aebbc-1
 arch4edu vim-gitgutter-git 793.g00df108-1
 arch4edu vim-pathogen 2.4-1
-arch4edu vim-sensible-git 1.2.r31.g1628346-1
+arch4edu vim-sensible-git 1.2.r32.ga7eea09-1
 arch4edu vim-tern 96.994ffbe-1
 arch4edu vim-youcompleteme-git r3065.9a5eb444-1
 arch4edu vim-youcompleteme-git-debug r3065.9a5eb444-1
@@ -26659,7 +26659,7 @@ arch4edu yay 11.3.2-1 [installed]
 arch4edu ycm-generator-git r125.7c0f570-1
 arch4edu zoom 5.13.7-1
 arch4edu zotero 6.0.20-1
-arch4edu zotero-bin 6.0.20-1
+arch4edu zotero-bin 6.0.22-1
 arch4edu zotero-bin-debug 6.0.20-1
 arch4edu zotero-debug 6.0.20-1
 endeavouros akm 2.14-2
