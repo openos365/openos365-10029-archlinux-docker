@@ -62,8 +62,8 @@ core gcc-libs 12.2.1-2 [installed]
 core gcc-objc 12.2.1-2
 core gdbm 1.23-1 [installed]
 core gettext 0.21.1-2 [installed]
-core glib2 2.74.5-1 [installed]
-core glib2-docs 2.74.5-1
+core glib2 2.74.6-1 [installed]
+core glib2-docs 2.74.6-1
 core glibc 2.37-2 [installed]
 core gmp 6.2.1-2 [installed]
 core gnupg 2.2.40-1 [installed]
@@ -13439,7 +13439,7 @@ multilib lib32-giflib 5.2.1-1
 multilib lib32-glew 2.2.0-4
 multilib lib32-glew1.10 1.10.0-5
 multilib lib32-glib-networking 2.74.0-1
-multilib lib32-glib2 2.74.5-1
+multilib lib32-glib2 2.74.6-1
 multilib lib32-glu 9.0.2-3
 multilib lib32-gmp 6.2.1-1
 multilib lib32-gnutls 3.8.0-1
@@ -14931,7 +14931,7 @@ chaotic-aur hplip-plugin 3.22.10-1.1
 chaotic-aur hsphfpd-git r29.d294d06-1.1
 chaotic-aur ht-editor 2.1.0-8
 chaotic-aur htim 3.2.0-10
-chaotic-aur htop-git 1:3.2.2.23.g89872e33-1
+chaotic-aur htop-git 1:3.2.2.25.g11318b5e-1
 chaotic-aur humanity-icon-theme 0.6.15-1
 chaotic-aur huniq-git r62.1d3c47e-1
 chaotic-aur hunspell-pt-br 3.2.15-1
@@ -15011,7 +15011,7 @@ chaotic-aur isomaster 1.3.16-1.2
 chaotic-aur it87-dkms-git 217.49975da-1
 chaotic-aur itch-setup-bin 1.26.0-1
 chaotic-aur itcl3 3.4.3-2
-chaotic-aur j9-git r4314.30fb2d32-1
+chaotic-aur j9-git r4315.bbd30276-1
 chaotic-aur jackett 0.20.3392-1
 chaotic-aur jade-application-kit 3.5.7-2
 chaotic-aur jamesdsp 2.4-1.1
@@ -15425,7 +15425,7 @@ chaotic-aur libbtbb 2020.12.R1-2
 chaotic-aur libccd 2.1-1
 chaotic-aur libcgroup 2.0-1
 chaotic-aur libcheese-git 43.0+r4+g8ca9de4a-1
-chaotic-aur libclc-git 1:17.0.0_r453033.614cd721e1c3-1
+chaotic-aur libclc-git 1:17.0.0_r453041.9e5bfa1ae30b-1
 chaotic-aur libcmrt 1.0.6-2.1
 chaotic-aur libcotp 2.0.0-1
 chaotic-aur libcprime 4.4.1-1.1
@@ -18976,6 +18976,8 @@ blackarch libbfio-debug 315.16fa155-1
 blackarch libbtbb 2020.12.R1-1
 blackarch libc-database 45.69815cd-1
 blackarch libdaq 2.0.7-1
+blackarch libdb 5.3.28-1
+blackarch libdb-debug 5.3.28-1
 blackarch libdisasm 0.23-1
 blackarch libdnet-ipv6 1.12-3
 blackarch libee 0.4.1-4
@@ -25371,7 +25373,7 @@ arch4edu dune-grid 2.9.0-1
 arch4edu dune-istl 2.9.0-1
 arch4edu dune-localfunctions 2.9.0-1
 arch4edu dune-uggrid 2.9.0-1
-arch4edu eccodes 2.27.1-1
+arch4edu eccodes 2.28.0-1
 arch4edu eigen2 2.0.17-4
 arch4edu elkirtasse-bin 3.6.8-1
 arch4edu elmerfem 9.0-3
@@ -25916,7 +25918,7 @@ arch4edu r-fadist 2.4-5
 arch4edu r-fansi 1.0.4-1
 arch4edu r-fansi-debug 1.0.4-1
 arch4edu r-farver 2.1.1-1
-arch4edu r-fastmap 1.1.0-2
+arch4edu r-fastmap 1.1.1-1
 arch4edu r-fdrtool 1.2.17-4
 arch4edu r-fitdistrplus 1.1.8-3
 arch4edu r-flexmix 2.3.18-1
