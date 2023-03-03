@@ -9650,7 +9650,7 @@ community python-django-compressor 4.3.1-1
 community python-django-crispy-forms 1.14.0-1
 community python-django-csp 3.7-2
 community python-django-debug-toolbar 3.7-1
-community python-django-environ 0.9.0-1
+community python-django-environ 0.10.0-1
 community python-django-extensions 3.2.1-1
 community python-django-fake-model 0.1.4-5
 community python-django-filter 22.1-2
@@ -16810,7 +16810,7 @@ chaotic-aur simutrans-extended-git r21674.894613ff3-1
 chaotic-aur sioyek 2.0.0-1
 chaotic-aur sip4 4.19.25-3
 chaotic-aur siril 1.0.6-1.1
-chaotic-aur siril-git 1.2.0.5602.e177821f8-1
+chaotic-aur siril-git 1.2.0.5603.773c95167-1
 chaotic-aur sirula-git r67.70b5ce1-1.1
 chaotic-aur skeuos-gtk 20220629-1
 chaotic-aur skippy-xd-git v2019.01.14.43.g61f979b-1
@@ -24000,9 +24000,9 @@ archlinuxcn linux-dctxmei510-headers 5.10.113-1
 archlinuxcn linux-dctxmei54 5.4.143-1
 archlinuxcn linux-dctxmei54-docs 5.4.143-1
 archlinuxcn linux-dctxmei54-headers 5.4.143-1
-archlinuxcn linux-jwrdegoede 6.2.0.202303030544.bfca67843b16-1
-archlinuxcn linux-jwrdegoede-docs 6.2.0.202303030544.bfca67843b16-1
-archlinuxcn linux-jwrdegoede-headers 6.2.0.202303030544.bfca67843b16-1
+archlinuxcn linux-jwrdegoede 6.2.0.202303040554.f96ed38c14b0-1
+archlinuxcn linux-jwrdegoede-docs 6.2.0.202303040554.f96ed38c14b0-1
+archlinuxcn linux-jwrdegoede-headers 6.2.0.202303040554.f96ed38c14b0-1
 archlinuxcn linux-lily 6.1.10-1
 archlinuxcn linux-lily-debug 6.1.10-1
 archlinuxcn linux-lily-headers 6.1.10-1
@@ -24181,7 +24181,7 @@ archlinuxcn neovide-git-debug 0.10.3.r52.ge483bf1-1
 archlinuxcn neovim-coc 0.0.82-5
 archlinuxcn neovim-coc-clangd-git r545.452f8ad-1
 archlinuxcn neovim-coc-git 1:0.0.82.r171.gbbaa1d5d-6
-archlinuxcn neovim-git 0.8.0.r1789.ga0292b4e5f-1
+archlinuxcn neovim-git 0.8.0.r1824.g7e90f247e7-1
 archlinuxcn neovim-plug 0.11.0-4
 archlinuxcn neovim-remote 2.5.0-1
 archlinuxcn neovim-symlinks 5-1
@@ -24394,8 +24394,8 @@ archlinuxcn pcem 17-6
 archlinuxcn pcem-debug 17-6
 archlinuxcn pcmanfm-qt-git 1.2.1.13.ge0a5bdb-1
 archlinuxcn pcmanfm-qt-git-debug 1.2.1.13.ge0a5bdb-1
-archlinuxcn pcsx2-git 1.7.4179.r0.g805f985144-2
-archlinuxcn pcsx2-git-debug 1.7.4179.r0.g805f985144-2
+archlinuxcn pcsx2-git 1.7.4187.r0.g8505e9203a-1
+archlinuxcn pcsx2-git-debug 1.7.4187.r0.g8505e9203a-1
 archlinuxcn pcsxr-git 1.9.94.r1697.6484236c-2
 archlinuxcn pencil 3.1.1-1
 archlinuxcn perl-file-rename 2.01-1
@@ -24815,8 +24815,8 @@ archlinuxcn restbase-git v1.1.4.r159.g399e6480-1
 archlinuxcn resvg 0.29.0-1
 archlinuxcn resvg-debug 0.29.0-1
 archlinuxcn retext-git 7.2.1.r40.g36cb918-1
-archlinuxcn retroarch-git 1.14.0.r470.34148dab49-1
-archlinuxcn retroarch-git-debug 1.14.0.r470.34148dab49-1
+archlinuxcn retroarch-git 1.14.0.r473.f60b3ec7a1-1
+archlinuxcn retroarch-git-debug 1.14.0.r473.f60b3ec7a1-1
 archlinuxcn revda-git 5.1.1.r0.ge16105f-2
 archlinuxcn rime-cloverpinyin 1.1.4-2
 archlinuxcn rime-sbxlm 20230118-2
@@ -25441,7 +25441,7 @@ arch4edu flutter 3.7.6-1
 arch4edu flutter-debug 3.7.1-1
 arch4edu fop-hyph 2.2-1
 arch4edu g2clib 1.6.0-2
-arch4edu gazebo 11.12.0-4
+arch4edu gazebo 11.12.0-3
 arch4edu gcc10 10.4.0-1
 arch4edu gcc10-fortran 10.4.0-1
 arch4edu gcc10-libs 10.4.0-1
@@ -25493,14 +25493,12 @@ arch4edu icu59 59.2-1
 arch4edu ida-free 8.2.230124-1
 arch4edu idutils 4.6-2
 arch4edu ignition-cmake 3.0.1-1
-arch4edu ignition-cmake-2 2.16.0-1
-arch4edu ignition-common-3 3.15.1-1
-arch4edu ignition-fuel_tools-4 4.8.0-1
+arch4edu ignition-common-3 3.14.1-1
+arch4edu ignition-fuel_tools-4 4.5.0-1
 arch4edu ignition-math 7.1.0-2
-arch4edu ignition-math-6 6.13.0-1
-arch4edu ignition-msgs-5 5.11.0-2
+arch4edu ignition-msgs-5 5.9.1-2
 arch4edu ignition-tools 2.0.0-1
-arch4edu ignition-transport-8 8.4.0-1
+arch4edu ignition-transport-8 8.2.0-2
 arch4edu ignition-utils 2.0.0-1
 arch4edu intel-oneapi-advisor 2023.0.0_25338-1
 arch4edu intel-oneapi-ccl 2021.8.0_25371-1
@@ -25680,7 +25678,7 @@ arch4edu pio 2.5.2-2
 arch4edu plplot 5.15.0-4
 arch4edu pnpm 7.28.0-1
 arch4edu pocketsphinx 5.0.0-1
-arch4edu praat 6.3.09-1
+arch4edu praat 6.3.08-1
 arch4edu praat-debug 6.3.07-1
 arch4edu pyglossary 4.5.0-1
 arch4edu pypy3-pip 23.0.1-1
@@ -25832,7 +25830,7 @@ arch4edu python-rospkg 1.4.0-1
 arch4edu python-rtslib-fb 2.1.75-1
 arch4edu python-rustworkx 0.12.1-2
 arch4edu python-schedule 1.1.0-3
-arch4edu python-scikit-image 0.20.0-1
+arch4edu python-scikit-image 0.19.3-1
 arch4edu python-scipy-mkl 1.10.1-1
 arch4edu python-selenium 4.8.0-1
 arch4edu python-sequitur-git 63.a96c3ce-2
@@ -26077,7 +26075,7 @@ arch4edu r-jaspmachinelearning 0.17.1-1
 arch4edu r-jaspmetaanalysis 0.17.1-1
 arch4edu r-jaspmixedmodels 0.17.1-1
 arch4edu r-jaspnetwork 0.17.1-1
-arch4edu r-jaspprocesscontrol 0.17.0-4
+arch4edu r-jaspprocesscontrol 0.17.0-1
 arch4edu r-jaspprophet 0.17.1-1
 arch4edu r-jaspqualitycontrol 0.17.1-1
 arch4edu r-jaspregression 0.17.1-1
@@ -26739,7 +26737,7 @@ arch4edu xalan-java 2.7.2-3
 arch4edu xerces2-java 2.12.2-1
 arch4edu xflr5 6.57.r1431-1
 arch4edu yay 11.3.2-1 [installed]
-arch4edu ycm-generator-git r128.b501516-1
+arch4edu ycm-generator-git r125.7c0f570-1
 arch4edu zoom 5.13.10-1
 arch4edu zotero 6.0.20-1
 arch4edu zotero-bin 6.0.22-1
