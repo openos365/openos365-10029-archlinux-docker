@@ -410,7 +410,7 @@ extra cairomm-1.16 1.16.2-1
 extra cairomm-1.16-docs 1.16.2-1
 extra cairomm-docs 1.14.4-1
 extra calendarsupport 22.12.3-1
-extra calligra 3.2.1-39
+extra calligra 3.2.1-40
 extra calligra-plan 3.3.0-2
 extra cantarell-fonts 1:0.303.1-1
 extra cantor 22.12.3-1
@@ -882,29 +882,29 @@ extra gsound 1.0.3-2
 extra gspell 1.12.0-2
 extra gssdp 1.6.2-1
 extra gssdp-docs 1.6.2-1
-extra gst-editing-services 1.22.1-1
-extra gst-libav 1.22.1-1
-extra gst-plugin-gtk 1.22.1-1
+extra gst-editing-services 1.22.1-2
+extra gst-libav 1.22.1-2
+extra gst-plugin-gtk 1.22.1-2
 extra gst-plugin-libcamera 0.0.4-1
-extra gst-plugin-msdk 1.22.1-1
-extra gst-plugin-opencv 1.22.1-1
+extra gst-plugin-msdk 1.22.1-2
+extra gst-plugin-opencv 1.22.1-2
 extra gst-plugin-pipewire 1:0.3.66-2
-extra gst-plugin-qml6 1.22.1-1
-extra gst-plugin-qmlgl 1.22.1-1
-extra gst-plugin-qsv 1.22.1-1
-extra gst-plugin-va 1.22.1-1
-extra gst-plugin-wpe 1.22.1-1
-extra gst-plugins-bad 1.22.1-1
-extra gst-plugins-bad-libs 1.22.1-1
-extra gst-plugins-base 1.22.1-1 [installed]
-extra gst-plugins-base-libs 1.22.1-1 [installed]
-extra gst-plugins-good 1.22.1-1
-extra gst-plugins-ugly 1.22.1-1
-extra gst-python 1.22.1-1
-extra gst-rtsp-server 1.22.1-1
-extra gstreamer 1.22.1-1 [installed]
-extra gstreamer-docs 1.22.1-1
-extra gstreamer-vaapi 1.22.1-1
+extra gst-plugin-qml6 1.22.1-2
+extra gst-plugin-qmlgl 1.22.1-2
+extra gst-plugin-qsv 1.22.1-2
+extra gst-plugin-va 1.22.1-2
+extra gst-plugin-wpe 1.22.1-2
+extra gst-plugins-bad 1.22.1-2
+extra gst-plugins-bad-libs 1.22.1-2
+extra gst-plugins-base 1.22.1-2 [installed]
+extra gst-plugins-base-libs 1.22.1-2 [installed]
+extra gst-plugins-good 1.22.1-2
+extra gst-plugins-ugly 1.22.1-2
+extra gst-python 1.22.1-2
+extra gst-rtsp-server 1.22.1-2
+extra gstreamer 1.22.1-2 [installed]
+extra gstreamer-docs 1.22.1-2
+extra gstreamer-vaapi 1.22.1-2
 extra gthumb 3.12.2-5
 extra gtk-doc 1.33.2-1
 extra gtk-engines 2.21.0-5
@@ -1014,7 +1014,7 @@ extra ifplugd 0.28-17
 extra ijs 0.35-5
 extra imagemagick 7.1.0.62-1
 extra imake 1.0.9-1
-extra imath 3.1.6-2
+extra imath 3.1.7-1
 extra imlib2 1.10.0-3
 extra incidenceeditor 22.12.3-1
 extra iniparser 4.1-4 [installed]
@@ -1205,7 +1205,7 @@ extra kigo 22.12.3-1
 extra kile 2.9.93-3
 extra killbots 22.12.3-1
 extra kimageannotator 0.6.0-1
-extra kimageformats 5.103.0-1
+extra kimageformats 5.103.0-2
 extra kimagemapeditor 22.12.3-1
 extra kimap 22.12.3-1
 extra kinfocenter 5.27.2-1
@@ -1286,7 +1286,7 @@ extra krdc 22.12.3-1
 extra kreport 3.2.0-4
 extra kreversi 22.12.3-1
 extra krfb 22.12.3-1
-extra krita 5.1.5-3
+extra krita 5.1.5-4
 extra kross 5.103.0-1
 extra kruler 22.12.3-1
 extra krunner 5.103.0-1
@@ -2171,13 +2171,13 @@ extra opencl-clhpp 2.0.16-1
 extra opencl-headers 2:2022.09.30-1
 extra opencl-mesa 22.3.6-1
 extra opencl-nvidia 525.89.02-2
-extra opencolorio 2.2.1-3
+extra opencolorio 2.2.1-4
 extra openconnect 1:9.01-2
 extra opencore-amr 0.1.6-1 [installed]
 extra opencv 4.7.0-6
 extra opencv-cuda 4.7.0-6
 extra opencv-samples 4.7.0-6
-extra openexr 3.1.5-1
+extra openexr 3.1.5-2
 extra opengl-man-pages 20190725-3
 extra openjade 1.3.2-7
 extra openjdk-doc 19.0.2.u7-2
@@ -3423,7 +3423,7 @@ community aircrack-ng 1.7-2
 community airspy 1.0.10-1
 community aj-snapshot 0.9.9-2
 community alacritty 0.11.0-2
-community alembic 1.8.4-2
+community alembic 1.8.4-3
 community alex 3.2.7.1-2
 community alglib 3.19.0-1
 community algol68g 3.1.0-1
@@ -3702,7 +3702,7 @@ community blackmagic 1.8.2-1
 community bladerf 2021.10-2
 community blanket 0.6.0-2
 community bleachbit 4.4.2-3
-community blender 17:3.4.1-18
+community blender 17:3.4.1-20
 community bless 0.6.3-1
 community blinksocks 3.3.8-3
 community blisp 0.0.3-1
@@ -4174,7 +4174,7 @@ community darcs 2.16.5-130
 community dark-reader 4.9.62-1
 community darkhttpd 1.14-1
 community darkstat 3.0.721-2
-community darktable 2:4.2.1-1
+community darktable 2:4.2.1-2
 community dart 2.19.2-1
 community dart-sass 1.58.1-1
 community darts 0.32-1
@@ -4831,7 +4831,7 @@ community freedesktop-docs 20220526.af8e64a-1
 community freedroid 1.2.1-2
 community freedroidrpg 1.0-1
 community freehdl 0.0.8-13
-community freeimage 3.18.0-17
+community freeimage 3.18.0-18
 community freeipmi 1.6.10-1
 community freeorion 0.4.10.2-6
 community freepats-general-midi 20221026-1
@@ -4984,7 +4984,7 @@ community gcin 2.9.0-5
 community gcolor3 2.4.0-4
 community gcompris-qt 3.0-1
 community gcovr 5.2-1
-community gdal 3.6.2-2
+community gdal 3.6.2-3
 community gdb-dashboard 0.16.0-1
 community gdlmm 3.7.3-5
 community gdnsd 3.8.0-1
@@ -5053,7 +5053,7 @@ community gimp-help-ro 2.10.0-6
 community gimp-help-ru 2.10.0-6
 community gimp-help-zh_cn 2.10.0-6
 community gimp-nufraw 0.43.3-7
-community gimp-plugin-gmic 3.2.1-2
+community gimp-plugin-gmic 3.2.1-3
 community ginac 1.8.6-1
 community gio-qt 0.0.11-1
 community gir-to-d 0.22.0-9
@@ -5119,7 +5119,7 @@ community glow 1.5.0-1
 community glulxe-term 1:0.6.0-1
 community glusterfs 1:10.3-2
 community glyr 1.0.10-4
-community gmic 3.2.1-2
+community gmic 3.2.1-3
 community gmm 5.4.2-1
 community gmni 1.0-1
 community gmp-ecm 7.0.5-1
@@ -6589,7 +6589,7 @@ community httplz 1.12.5-3
 community httptunnel 3.3-8
 community httrack 3.49.2-4
 community hub 2.14.2-3
-community hugin 2022.0.0-3
+community hugin 2022.0.0-5
 community hugo 0.110.0-1
 community hunspell-el 0.9-8
 community hunspell-fr 7.0-2
@@ -8306,7 +8306,7 @@ community openfpgaloader 0.9.1-1
 community opengv 1.0.git1-2
 community openh264 2.3.1-1
 community openimagedenoise 1.4.3-1
-community openimageio 2.4.9.0-1
+community openimageio 2.4.9.0-2
 community openipmi 2.0.33-2
 community openlibm 0.8.1-1
 community openmotif 2.3.8-3
@@ -8322,7 +8322,7 @@ community openrct2 0.4.3-1
 community openredir 1.0-1
 community opensc 0.23.0-1
 community openscad 2021.01-7
-community openscenegraph 3.6.5-17
+community openscenegraph 3.6.5-18
 community opensearch 2.6.0-1
 community opensearch-alerting-plugin 2.6.0.0-1
 community opensearch-analysis-icu-plugin 2.6.0-1
@@ -9222,7 +9222,7 @@ community postgrest 10.0.0-68
 community postgrey 1.37-5
 community postorius 1.3.8-1
 community pound 3.0.2-3
-community povray 2:3.7.0.10-6
+community povray 2:3.7.0.10-7
 community powerdns 4.7.3-2
 community powerdns-recursor 4.8.3-1
 community powerline 2.8.3-1
@@ -9835,7 +9835,7 @@ community python-gammu 3.2.4-1
 community python-gast 0.5.3-1
 community python-gast03 0.3.3-3
 community python-gcp-devrel-py-tools 0.0.16-5
-community python-gdal 3.6.2-2
+community python-gdal 3.6.2-3
 community python-gdstk 0.9.26-1
 community python-genshi 0.7.7-1
 community python-genty 1.3.2-11
@@ -12376,7 +12376,7 @@ community syncplay 1.6.9-5
 community syncthing 1.23.2-1
 community syncthing-relaysrv 1.23.2-1
 community synergy 1.11.1-1
-community synfig 1.4.4-1
+community synfig 1.4.4-2
 community synfigstudio 1.4.4-1
 community synthv1 0.9.29-1
 community sysbench 1.0.20-1
@@ -12957,7 +12957,7 @@ community vico 1.2.2-2
 community vidcutter 6.0.5.1-6
 community viewnior 1.8-3
 community vifm 0.12.1-1
-community vigra 1.11.1.r67+g093d57d1-6
+community vigra 1.11.1.r67+g093d57d1-7
 community viking 1.10-2
 community vim-airline 0.11-1
 community vim-airline-themes r1435.97cf3e6-1
@@ -13855,7 +13855,7 @@ chaotic-aur aconfmgr-git r811.1c62749-1
 chaotic-aur across 0.1.3-1.2
 chaotic-aur act 0.2.42-1
 chaotic-aur adcli 0.9.2-1.1
-chaotic-aur adguardhome 1:0.107.25-1
+chaotic-aur adguardhome 1:0.107.26-1
 chaotic-aur adms-git 2.3.7.r25.gcadf421-1
 chaotic-aur advancecomp 2.5-1
 chaotic-aur adw-gtk3-git 4.3.r3.6240aa4-1
@@ -13956,7 +13956,7 @@ chaotic-aur arch-update 1.5.1-1
 chaotic-aur archinstall-git 2.4.0.dev0-1.2
 chaotic-aur archlinux-appstream-data-pamac 1:20230220-1
 chaotic-aur archlinux-java-run 9-1.1
-chaotic-aur ardour-git 7.3.r53.g44bfaa9235-1
+chaotic-aur ardour-git 7.3.r54.g339d3e1265-1
 chaotic-aur ark-git 23.03.70_r5003.gaaeebe0c-1
 chaotic-aur arkenfox-user.js-git 109.0.r0.g7388485-1
 chaotic-aur arm-linux-gnueabi-binutils 2.36.1-1
@@ -14421,9 +14421,9 @@ chaotic-aur elm-bin 0.19.1-1
 chaotic-aur elm-format-bin 0.8.5-1
 chaotic-aur elm-language-server 2.6.0-1
 chaotic-aur elm-platform-bin 0.19.1-2
-chaotic-aur emacs-git 30.0.50.165371-1
+chaotic-aur emacs-git 30.0.50.165385-1
 chaotic-aur emacs-ng 30.0.50-5
-chaotic-aur emacs-pgtk-native-comp-git 30.0.50.165371-1
+chaotic-aur emacs-pgtk-native-comp-git 30.0.50.165385-1
 chaotic-aur emerald-gtk3 0.8.18-2.1
 chaotic-aur emote 3.0.3-4.1
 chaotic-aur emulationstation 2.11.1-1
@@ -14477,7 +14477,7 @@ chaotic-aur ff2mpv-native-messaging-host-git r70.6ca0eb0-1
 chaotic-aur ffmpeg-compat-57 3.4.11-1.1
 chaotic-aur ffmpeg-full 5.1.2-4
 chaotic-aur ffmpeg-git 5.2.r109977.gaca7ef78cc-1
-chaotic-aur ffmpeg-obs 5.1.2-3
+chaotic-aur ffmpeg-obs 6-1
 chaotic-aur ffmpeg-obs-debug 5.1.2-3
 chaotic-aur ffmpeg21 2.1-2
 chaotic-aur ffmpegthumbs-git 23.03.70.r252-1
@@ -15175,7 +15175,7 @@ chaotic-aur keeweb-desktop-bin 1.18.7-1.1
 chaotic-aur kega-fusion 3.63-17.1
 chaotic-aur kemoticons-git 5.104.0_r438.g0c37592-1
 chaotic-aur keyboard-visualizer-git release_4.00.r26.gb50cc50-1.1
-chaotic-aur keymapper-git r220.8d23ca6-1
+chaotic-aur keymapper-git r222.a8004c8-1
 chaotic-aur kfilemetadata-git 5.104.0_r922.g3f809d5-1
 chaotic-aur kfiredragonhelper 5.0.6-1.1
 chaotic-aur kgamma5-git 5.27.80_r512.g9f4eb6d-1
@@ -15317,7 +15317,7 @@ chaotic-aur kxmlrpcclient-git 5.102.0_r508.g06ea4c7e9-1
 chaotic-aur la-capitaine-icon-theme 0.6.2-1
 chaotic-aur labplot-git 2.9.0_r11210.gf5676879e-1
 chaotic-aur labwc 0.6.1-1
-chaotic-aur labwc-git 0.6.1.r75.ga0b5a80-1
+chaotic-aur labwc-git 0.6.1.r79.g00ebcdc-1
 chaotic-aur lagrange 1.15.3-1
 chaotic-aur languageclient-neovim 0.1.161-2
 chaotic-aur lanshare 1.2.1-8.1
@@ -15845,7 +15845,7 @@ chaotic-aur mutter-rounded 42.3-1.1
 chaotic-aur mutter-x11-scaling 43.3-2
 chaotic-aur mycroft-gui-git r724.0cf38d1-1
 chaotic-aur myman 0.7.0-7
-chaotic-aur mypy-git v0.520.r4777.g2e8dcbfa8-1
+chaotic-aur mypy-git v0.520.r4778.g287c45a86-1
 chaotic-aur mysql 8.0.31-1
 chaotic-aur mysql-clients 8.0.31-1
 chaotic-aur mystiq 20.03.23-1.1
@@ -16830,7 +16830,7 @@ chaotic-aur shutter-encoder 16.8-1
 chaotic-aur sidequest-bin 0.10.33-1
 chaotic-aur sigil-git 1.9.20.r46.ga2898308c-1
 chaotic-aur signal-desktop-beta 6.9.0beta1-1
-chaotic-aur signalbackup-tools-git 20230305.r0.gaa8cb1b-1
+chaotic-aur signalbackup-tools-git 20230307.1.r0.g871401c-1
 chaotic-aur signon-kwallet-extension-git 23.03.70_r84.g98ae2e2-1
 chaotic-aur siji-ttf r22.14e7da9-1
 chaotic-aur silo-netflix 0.6-1.1
@@ -17169,7 +17169,7 @@ chaotic-aur ttf-djb-zora-prints-fonts 20141016-1
 chaotic-aur ttf-font-awesome-4 4.7.0-5
 chaotic-aur ttf-freebanglafont 20130212-5
 chaotic-aur ttf-geosans-light 1.0-3
-chaotic-aur ttf-google-fonts-git 1:r4918.8852b0a7e-1
+chaotic-aur ttf-google-fonts-git 1:r4919.557a457e1-1
 chaotic-aur ttf-iosevka 20.0.0-1
 chaotic-aur ttf-iosevka-git 1677947576-1
 chaotic-aur ttf-juliamono 0.048-1
@@ -17317,7 +17317,7 @@ chaotic-aur vkd3d-tkg-git 1.6.r86.gf9e7cb63-1
 chaotic-aur vlang-git 0.3.3.r185.g71c3b66ecf-1
 chaotic-aur vlc-git 4.0.0.r23000.ga4ac04bf17-1
 chaotic-aur vlc-git-debug 4.0.0.r23000.ga4ac04bf17-1
-chaotic-aur vlc-luajit 3.0.18-4
+chaotic-aur vlc-luajit 3.0.18-5
 chaotic-aur vlc-luajit-debug 3.0.18-4
 chaotic-aur vmaf-git 2.3.1.r123.gc2608d92-1
 chaotic-aur vmware-keymaps 1.0-3.1
@@ -17575,7 +17575,7 @@ chaotic-aur yt-dlg-git 1.2.0.r350.ge50d22a-1
 chaotic-aur yt-dlp-git 2023.03.04.r7.g2d5cae963-1
 chaotic-aur ytfzf-git r1962.98c80dc-1
 chaotic-aur ytmdl 2023.2.28-0
-chaotic-aur yuzu-early-access 3443-1
+chaotic-aur yuzu-early-access 3444-1
 chaotic-aur yuzu-mainline-bin 0.1364-1
 chaotic-aur yuzu-mainline-git r23270.647e73edc-1
 chaotic-aur zafiro-icon-theme 1.3-3
@@ -27989,7 +27989,7 @@ arcolinux_repo_xlarge freetube-bin 0.18.0-1
 arcolinux_repo_xlarge geekbench 6.0.0-1
 arcolinux_repo_xlarge gitfiend 0.39.4-1
 arcolinux_repo_xlarge github-desktop-bin 3.2.0_linux1-1
-arcolinux_repo_xlarge gitkraken 9.1.1-1
+arcolinux_repo_xlarge gitkraken 9.2.0-1
 arcolinux_repo_xlarge google-chat-linux-bin 5.21.19-1
 arcolinux_repo_xlarge google-chrome 111.0.5563.64-1
 arcolinux_repo_xlarge google-earth-pro 7.3.6.9285-1
@@ -28031,7 +28031,7 @@ arcolinux_repo_xlarge spotify 1:1.1.84.716-13
 arcolinux_repo_xlarge tabby-bin 1.0.188-1
 arcolinux_repo_xlarge teams 1.5.00.23861-1
 arcolinux_repo_xlarge tela-circle-icon-theme-git 2022.03.07.r13.g5dacf92b-1
-arcolinux_repo_xlarge telegram-desktop-bin 4.6.5-2
+arcolinux_repo_xlarge telegram-desktop-bin 4.6.5-3
 arcolinux_repo_xlarge tor-browser 12.0.3-1
 arcolinux_repo_xlarge viber 18.2.0.2-3
 arcolinux_repo_xlarge visual-studio-code-bin 1.76.0-1
