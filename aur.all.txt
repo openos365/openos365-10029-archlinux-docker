@@ -88170,8 +88170,10 @@ ros2-galactic-xacro
 ros2-git
 ros2-humble
 ros2-humble-angles
+ros2-humble-backward-ros
 ros2-humble-behaviortree-cpp-v3
 ros2-humble-bond
+ros2-humble-bondcpp
 ros2-humble-control-msgs
 ros2-humble-control-toolbox
 ros2-humble-controller-interface
@@ -88189,7 +88191,9 @@ ros2-humble-eigen-stl-containers
 ros2-humble-forward-command-controller
 ros2-humble-gazebo-dev
 ros2-humble-gazebo-msgs
+ros2-humble-gazebo-plugins
 ros2-humble-gazebo-ros
+ros2-humble-gazebo-ros2-control
 ros2-humble-generate-parameter-library
 ros2-humble-generate-parameter-library-py
 ros2-humble-geometric-shapes
@@ -88201,6 +88205,7 @@ ros2-humble-joint-trajectory-controller
 ros2-humble-joy-teleop
 ros2-humble-launch-param-builder
 ros2-humble-moveit-common
+ros2-humble-moveit-configs-utils
 ros2-humble-moveit-core
 ros2-humble-moveit-kinematics
 ros2-humble-moveit-msgs
@@ -88209,7 +88214,9 @@ ros2-humble-moveit-resources-fanuc-description
 ros2-humble-moveit-resources-fanuc-moveit-config
 ros2-humble-moveit-resources-panda-description
 ros2-humble-moveit-resources-panda-moveit-config
+ros2-humble-moveit-resources-pr2-description
 ros2-humble-moveit-ros-control-interface
+ros2-humble-moveit-ros-move-group
 ros2-humble-moveit-ros-occupancy-map-monitor
 ros2-humble-moveit-ros-planning
 ros2-humble-moveit-ros-planning-interface
@@ -88241,10 +88248,13 @@ ros2-humble-nav2-rviz-plugins
 ros2-humble-nav2-simple-commander
 ros2-humble-nav2-smac-planner
 ros2-humble-nav2-smoother
+ros2-humble-nav2-theta-star-planner
 ros2-humble-nav2-util
 ros2-humble-nav2-velocity-smoother
 ros2-humble-nav2-waypoint-follower
 ros2-humble-navigation2
+ros2-humble-object-recognition-msgs
+ros2-humble-octomap-msgs-git
 ros2-humble-pal-gazebo-plugins
 ros2-humble-parameter-traits
 ros2-humble-play-motion2
@@ -88264,6 +88274,7 @@ ros2-humble-teleop-twist-keyboard
 ros2-humble-tl-expected
 ros2-humble-twist-mux
 ros2-humble-urdf-parser-py
+ros2-humble-vision-msgs
 ros2-humble-warehouse-ros
 ros2-humble-xacro
 ros2-pyqt5-sip-compat

@@ -72,7 +72,7 @@ core gpgme 1.18.0-2 [installed]
 core gpm 1.20.7.r38.ge82d1a6-4 [installed]
 core grep 3.9-1 [installed]
 core groff 1.22.4-7 [installed]
-core grub 2:2.06.r456.g65bc45963-1 [installed]
+core grub 2:2.06.r456.g65bc45963-1
 core gssproxy 0.9.1-2
 core guile 3.0.9-1 [installed]
 core gzip 1.12-2 [installed]
@@ -312,11 +312,11 @@ extra appstream-glib 0.8.2-1
 extra appstream-qt 0.16.1-2
 extra apr 1.7.2-2
 extra apr-util 1.6.3-1
-extra arch-install-scripts 28-1 [installed]
+extra arch-install-scripts 28-1
 extra arch-rebuild-order 0.3.1-1
 extra arch-signoff 0.5.2-2
 extra archinstall 2.5.3-1
-extra archiso 70-1 [installed]
+extra archiso 70-1
 extra archivetools 3-3
 extra archlinux-appstream-data 20230220-1
 extra archlinux-themes-slim 1.2-6
@@ -556,7 +556,7 @@ extra eog 43.2-1
 extra eog-docs 43.2-1
 extra eog-plugins 42.3-1
 extra epiphany 43.1-1
-extra erofs-utils 1.5-3 [installed]
+extra erofs-utils 1.5-3
 extra ethtool 1:6.2-1
 extra eventviews 22.12.3-1
 extra evince 43.1-2
@@ -2093,7 +2093,7 @@ extra mplayer 38412-1
 extra msmtp 1.8.22-2
 extra msmtp-mta 1.8.22-2
 extra mtdev 1.1.6-2 [installed]
-extra mtools 1:4.0.42-1 [installed]
+extra mtools 1:4.0.42-1
 extra mtr 0.95-3
 extra mtr-gtk 0.95-3
 extra muparser 2.3.4-1
@@ -2504,7 +2504,7 @@ extra pulseaudio-zeroconf 16.1-5
 extra purple-plugin-pack 2.8.0-1
 extra purpose 5.104.0-1
 extra putty 0.78-1
-extra pyalpm 0.10.6-4 [installed]
+extra pyalpm 0.10.6-4
 extra pyqt-builder 1.14.1-1
 extra pyside2 5.15.8-6
 extra pyside2-tools 5.15.8-6
@@ -3137,7 +3137,7 @@ extra webkit2gtk-5.0 2.38.5-1
 extra webkit2gtk-5.0-docs 2.38.5-1
 extra webkit2gtk-docs 2.38.5-1
 extra webrtc-audio-processing 0.3.1-3
-extra wget 1.21.3-1 [installed]
+extra wget 1.21.3-1
 extra whois 5.5.16-1
 extra wildmidi 0.4.5-1
 extra wipe 2.3.1-5
@@ -3348,7 +3348,7 @@ extra zip 3.0-10
 extra zita-alsa-pcmi 0.6.1-1
 extra zita-resampler 1.10.1-1
 extra zita-resampler-docs 1.10.1-1
-extra zsh 5.9-3 [installed]
+extra zsh 5.9-3
 extra zsh-doc 5.9-3
 extra zvbi 0.2.41-1
 extra zxing-cpp 2.0.0-2
@@ -8156,7 +8156,7 @@ community nicotine+ 3.2.9-1
 community nikola 8.2.3-1
 community nikto 2.1.6-3
 community nim 1.6.10-2
-community ninja 1.11.1-2 [installed]
+community ninja 1.11.1-2
 community ninjas2 0.2.0-2
 community nitrocli 0.4.1-2
 community nitroshare 0.3.4-5
@@ -13812,7 +13812,7 @@ archcraft calamares-config-xfce 1.0-2
 archcraft cava 0.8.3-1
 archcraft ckbcomp 1.210-1 [installed]
 archcraft downgrade 11.2.1-1
-archcraft grub 2.06.r261.g2f4430cc0-3 [installed: 2:2.06.r456.g65bc45963-1]
+archcraft grub 2.06.r261.g2f4430cc0-3
 archcraft gtk3-nocsd-git r82.512c2bd-1
 archcraft i3lock-color 2.13.c.4-1
 archcraft ksuperkey 0.4-2
@@ -15579,7 +15579,7 @@ chaotic-aur lightlyshaders-git v2.0.0.r4.gd6d6ba9-1.1
 chaotic-aur lightlyshaders-kdegit-git v2.0.0.r7.gd86ca81-1
 chaotic-aur lightspark-git latest.r0.g111064f9-1
 chaotic-aur lightzone 4.2.4-1
-chaotic-aur limine 4.20230313.0-1
+chaotic-aur limine 4.20230314.0-1
 chaotic-aur linux-amd 6.2.v.6-1
 chaotic-aur linux-amd-docs 6.2.v.6-1
 chaotic-aur linux-amd-headers 6.2.v.6-1
@@ -16049,7 +16049,7 @@ chaotic-aur openrgb-git r2993.7fdabcad-1
 chaotic-aur openssh-hpn 9.2p1.hpn17v11-1
 chaotic-aur openssh-hpn-shim 9.2p1.hpn17v11-1
 chaotic-aur openssl-1.0 1.0.2.u-5
-chaotic-aur openssl-git 3.1.0.beta1.r2433.g9313694295-1
+chaotic-aur openssl-git 3.1.0.beta1.r2438.g0e89b39619-1
 chaotic-aur openswan 3.0.0-1.1
 chaotic-aur openttd-git 27006.be69aa6257-1
 chaotic-aur openxray 1.6.02_1144-1.1
@@ -24084,6 +24084,8 @@ archlinuxcn linux-next-git-headers 20230314.r0.gec0fa9a0a6fa-1
 archlinuxcn linux-wifi-hotspot 4.4.0-1
 archlinuxcn linux-xanmod 6.2.5-1
 archlinuxcn linux-xanmod-headers 6.2.5-1
+archlinuxcn linux-xanmod-lts 6.1.18-1
+archlinuxcn linux-xanmod-lts-headers 6.1.18-1
 archlinuxcn listenbrainz-mpd 2.1.0-1
 archlinuxcn listenbrainz-mpd-debug 2.1.0-1
 archlinuxcn litecli 1.9.0-1
@@ -24243,6 +24245,8 @@ archlinuxcn ncspot-git-debug 0.13.0.r2.7dce6b9-1
 archlinuxcn ncurses5-compat-libs 6.3-1
 archlinuxcn needrestart 3.6-3
 archlinuxcn needrestart-git 3.6.r4.ge9f7e3b-1
+archlinuxcn nekoray-bin 2.19-2
+archlinuxcn nekoray-bin-debug 2.19-2
 archlinuxcn neovide-git 0.10.3.r53.g6819bab-1
 archlinuxcn neovide-git-debug 0.10.3.r53.g6819bab-1
 archlinuxcn neovim-coc 0.0.82-5
@@ -25918,8 +25922,8 @@ arch4edu python-smart_open 6.3.0-1
 arch4edu python-soundfile 0.12.1-1
 arch4edu python-sparse 0.13.0-1
 arch4edu python-sphinx-astropy 1.8.0-1
-arch4edu python-sphinx-automodapi 0.14.1-1
-arch4edu python-sphinx-automodapi-doc 0.14.1-1
+arch4edu python-sphinx-automodapi 0.15.0-1
+arch4edu python-sphinx-automodapi-doc 0.15.0-1
 arch4edu python-sphinx-gallery 0.12.2-1
 arch4edu python-sphinxcontrib-plantuml 0.25-1
 arch4edu python-sphinxcontrib.jquery 3.0.0-1
@@ -26187,7 +26191,7 @@ arch4edu r-libcoin 1.0.9-7
 arch4edu r-lifecycle 1.0.3-5
 arch4edu r-lisreltor 0.1.5-7
 arch4edu r-listenv 0.9.0-1
-arch4edu r-lme4 1.1.31-3
+arch4edu r-lme4 1.1.32-1
 arch4edu r-lmertest 3.1.3-3
 arch4edu r-lmtest 0.9.40-6
 arch4edu r-logistf 1.24.1-3
@@ -26272,7 +26276,7 @@ arch4edu r-plyr 1.8.8-1
 arch4edu r-png 0.1.8-1
 arch4edu r-polycor 0.8.1-3
 arch4edu r-polynom 1.4.1-9
-arch4edu r-posterior 1.4.0-3
+arch4edu r-posterior 1.4.1-1
 arch4edu r-ppcor 1.1-4
 arch4edu r-prabclus 2.3.2-4
 arch4edu r-praise 1.0.0-1
@@ -26569,7 +26573,7 @@ arch4edu ros-noetic-nodelet-topic-tools 1.10.2-4
 arch4edu ros-noetic-nodelet-tutorial-math 0.2.0-2
 arch4edu ros-noetic-pcl-conversions 1.7.4-4
 arch4edu ros-noetic-pcl-msgs 0.3.0-2
-arch4edu ros-noetic-pcl-ros 1.7.4-3
+arch4edu ros-noetic-pcl-ros 1.7.5-1
 arch4edu ros-noetic-perception 1.5.0-2
 arch4edu ros-noetic-perception-pcl 1.7.4-2
 arch4edu ros-noetic-pluginlib 1.13.0-4
@@ -26822,7 +26826,7 @@ arch4edu xflr5 6.57.r1431-1
 arch4edu yay 11.3.2-1 [installed]
 arch4edu ycm-generator-git r128.b501516-1
 arch4edu zoom 5.13.11-1
-arch4edu zotero 6.0.20-1
+arch4edu zotero 6.0.22-1
 arch4edu zotero-bin 6.0.23-1
 arch4edu zotero-bin-debug 6.0.20-1
 arch4edu zotero-debug 6.0.20-1
@@ -28134,7 +28138,7 @@ xerolinux_repo dxvk-nvapi-mingw 0.6.1-1
 xerolinux_repo edid-decode-git r651.2d44e1b-1
 xerolinux_repo emacs-dracula-theme-git 1.7.0.r82.gfdf057f-1
 xerolinux_repo enpass-bin 6.8.5.1173-1
-xerolinux_repo envycontrol 3.0.3-1
+xerolinux_repo envycontrol 3.2.0-2
 xerolinux_repo exe-thumbnailer 0.10.1-1
 xerolinux_repo extension-manager 0.4.0-2
 xerolinux_repo fancontrol-gui v0.8-1
@@ -28191,9 +28195,9 @@ xerolinux_repo hw-probe 1.6.5-1
 xerolinux_repo hypnotix 3.2-1
 xerolinux_repo hypnotix-wayland 3.2-2
 xerolinux_repo hyprevents-git 10.95426ae-1
-xerolinux_repo hyprland-git r2573.92d23311-1
+xerolinux_repo hyprland-git r2589.d63e8c8f-1
 xerolinux_repo hyprland-nvidia 0.22.0beta-1
-xerolinux_repo hyprland-nvidia-git r2565.b03c8970-1
+xerolinux_repo hyprland-nvidia-git r2589.d63e8c8f-1
 xerolinux_repo hyprshot 1.2.1-4
 xerolinux_repo icoextract 0.1.4-1
 xerolinux_repo input-devices-support 1.0.2-3
@@ -28468,7 +28472,7 @@ xerolinux_repo vlc-arc-dark-git r8.89fe85c-1
 xerolinux_repo vmware-keymaps 1.0-3
 xerolinux_repo vmware-unlocker-bin 4.2.5-1
 xerolinux_repo wallpaper-engine-plasma 0.5.4-3
-xerolinux_repo waybar-hyprland-git 0.9.17.r89.gb34d325a-1
+xerolinux_repo waybar-hyprland-git 0.9.17.r99.g473eb098-1
 xerolinux_repo waydroid 1.4.0-2
 xerolinux_repo waydroid-settings 22.1217-10
 xerolinux_repo wd719x-firmware 1-7
@@ -28506,7 +28510,7 @@ xerolinux_repo_xl kde-wallpapers 22.12-1
 xerolinux_repo_xl nerd-fonts-gabmus 2.3.3-1
 xerolinux_repo_xl nerd-fonts-hasklig 2.3.0-1
 xerolinux_repo_xl nerd-fonts-sarasa-mono 2.2.1-1
-xerolinux_repo_xl plex-media-server 1.31.1.6782-1
+xerolinux_repo_xl plex-media-server 1.31.2.6810-1
 xerolinux_repo_xl sengi-appimage 1.2.0-1
 xerolinux_repo_xl spotify 1:1.1.84.716-12
 xerolinux_repo_xl tabby-bin 1.0.188-1
