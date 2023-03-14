@@ -72,7 +72,7 @@ core gpgme 1.18.0-2 [installed]
 core gpm 1.20.7.r38.ge82d1a6-4 [installed]
 core grep 3.9-1 [installed]
 core groff 1.22.4-7 [installed]
-core grub 2:2.06.r456.g65bc45963-1
+core grub 2:2.06.r456.g65bc45963-1 [installed]
 core gssproxy 0.9.1-2
 core guile 3.0.9-1 [installed]
 core gzip 1.12-2 [installed]
@@ -312,11 +312,11 @@ extra appstream-glib 0.8.2-1
 extra appstream-qt 0.16.1-2
 extra apr 1.7.2-2
 extra apr-util 1.6.3-1
-extra arch-install-scripts 28-1
+extra arch-install-scripts 28-1 [installed]
 extra arch-rebuild-order 0.3.1-1
 extra arch-signoff 0.5.2-2
 extra archinstall 2.5.3-1
-extra archiso 70-1
+extra archiso 70-1 [installed]
 extra archivetools 3-3
 extra archlinux-appstream-data 20230220-1
 extra archlinux-themes-slim 1.2-6
@@ -556,7 +556,7 @@ extra eog 43.2-1
 extra eog-docs 43.2-1
 extra eog-plugins 42.3-1
 extra epiphany 43.1-1
-extra erofs-utils 1.5-3
+extra erofs-utils 1.5-3 [installed]
 extra ethtool 1:6.2-1
 extra eventviews 22.12.3-1
 extra evince 43.1-2
@@ -2093,7 +2093,7 @@ extra mplayer 38412-1
 extra msmtp 1.8.22-2
 extra msmtp-mta 1.8.22-2
 extra mtdev 1.1.6-2 [installed]
-extra mtools 1:4.0.42-1
+extra mtools 1:4.0.42-1 [installed]
 extra mtr 0.95-3
 extra mtr-gtk 0.95-3
 extra muparser 2.3.4-1
@@ -2504,7 +2504,7 @@ extra pulseaudio-zeroconf 16.1-5
 extra purple-plugin-pack 2.8.0-1
 extra purpose 5.104.0-1
 extra putty 0.78-1
-extra pyalpm 0.10.6-4
+extra pyalpm 0.10.6-4 [installed]
 extra pyqt-builder 1.14.1-1
 extra pyside2 5.15.8-6
 extra pyside2-tools 5.15.8-6
@@ -3137,7 +3137,7 @@ extra webkit2gtk-5.0 2.38.5-1
 extra webkit2gtk-5.0-docs 2.38.5-1
 extra webkit2gtk-docs 2.38.5-1
 extra webrtc-audio-processing 0.3.1-3
-extra wget 1.21.3-1
+extra wget 1.21.3-1 [installed]
 extra whois 5.5.16-1
 extra wildmidi 0.4.5-1
 extra wipe 2.3.1-5
@@ -3348,7 +3348,7 @@ extra zip 3.0-10
 extra zita-alsa-pcmi 0.6.1-1
 extra zita-resampler 1.10.1-1
 extra zita-resampler-docs 1.10.1-1
-extra zsh 5.9-3
+extra zsh 5.9-3 [installed]
 extra zsh-doc 5.9-3
 extra zvbi 0.2.41-1
 extra zxing-cpp 2.0.0-2
@@ -4033,7 +4033,7 @@ community cockpit-pcp 286.1-1
 community cockpit-podman 64-1
 community cockpit-storaged 286.1-1
 community cocogitto 5.3.1-1
-community code 1.76.1-1
+community code 1.76.1-2
 community codeblocks 20.03-4
 community codec2 1:1.0.5-1
 community codespell 2.2.2-3
@@ -5085,7 +5085,7 @@ community gitsign 0.5.2-1
 community gitui 0.22.1-1
 community givaro 4.2.0-1
 community gkrellm 2.3.11-3
-community glab 1.25.3-1
+community glab 1.26.0-1
 community glabels 3.4.1-9
 community glacier-calc 0.3.3-1
 community glad 2.0.3-1
@@ -8156,7 +8156,7 @@ community nicotine+ 3.2.9-1
 community nikola 8.2.3-1
 community nikto 2.1.6-3
 community nim 1.6.10-2
-community ninja 1.11.1-2
+community ninja 1.11.1-2 [installed]
 community ninjas2 0.2.0-2
 community nitrocli 0.4.1-2
 community nitroshare 0.3.4-5
@@ -13812,7 +13812,7 @@ archcraft calamares-config-xfce 1.0-2
 archcraft cava 0.8.3-1
 archcraft ckbcomp 1.210-1 [installed]
 archcraft downgrade 11.2.1-1
-archcraft grub 2.06.r261.g2f4430cc0-3
+archcraft grub 2.06.r261.g2f4430cc0-3 [installed: 2:2.06.r456.g65bc45963-1]
 archcraft gtk3-nocsd-git r82.512c2bd-1
 archcraft i3lock-color 2.13.c.4-1
 archcraft ksuperkey 0.4-2
@@ -16624,13 +16624,13 @@ chaotic-aur qca-qt5-git 2.3.5_r2475.ge05243a2-1
 chaotic-aur qca-qt6-git 2.3.5_r2475.ge05243a2-1
 chaotic-aur qdigidoc4 4.2.14.4431-2
 chaotic-aur qdirstat 1.8.1-1.1
-chaotic-aur qemu-arch-extra-git 18:7.2.0.r2748.g27a03171d0-1
-chaotic-aur qemu-block-gluster-git 18:7.2.0.r2748.g27a03171d0-1
-chaotic-aur qemu-block-iscsi-git 18:7.2.0.r2748.g27a03171d0-1
-chaotic-aur qemu-git 18:7.2.0.r2748.g27a03171d0-1
-chaotic-aur qemu-guest-agent-git 18:7.2.0.r2748.g27a03171d0-1
-chaotic-aur qemu-headless-arch-extra-git 18:7.2.0.r2748.g27a03171d0-1
-chaotic-aur qemu-headless-git 18:7.2.0.r2748.g27a03171d0-1
+chaotic-aur qemu-arch-extra-git 18:8.0.0.rc0.r0.g652737c809-1
+chaotic-aur qemu-block-gluster-git 18:8.0.0.rc0.r0.g652737c809-1
+chaotic-aur qemu-block-iscsi-git 18:8.0.0.rc0.r0.g652737c809-1
+chaotic-aur qemu-git 18:8.0.0.rc0.r0.g652737c809-1
+chaotic-aur qemu-guest-agent-git 18:8.0.0.rc0.r0.g652737c809-1
+chaotic-aur qemu-headless-arch-extra-git 18:8.0.0.rc0.r0.g652737c809-1
+chaotic-aur qemu-headless-git 18:8.0.0.rc0.r0.g652737c809-1
 chaotic-aur qimgv-git v1.0.3.alpha.r78.g8ad0a11-1.1
 chaotic-aur qmplay2-git 23.02.05.r4.g6a2caa3f-1
 chaotic-aur qnapi-git 0.2.3snapshot.r5.gd4e0378-1.1
@@ -16944,7 +16944,7 @@ chaotic-aur subsurface-libdc-git 20230306.8d3271e-1
 chaotic-aur subtitlecomposer 0.7.1-5
 chaotic-aur subtitlecomposer-git 0.7.1+git220.e6f69d1f-1
 chaotic-aur subtitleedit 3.6.11-1
-chaotic-aur sudo-git 1.9.13p3.r12236.g12648b4e0-1
+chaotic-aur sudo-git 1.9.13p3.r12243.g027b42d5a-1
 chaotic-aur sunshine 0.18.4-3
 chaotic-aur superbfetch-git r107.7f7ec03-1
 chaotic-aur supergfxctl 5.0.1-1
@@ -17310,7 +17310,7 @@ chaotic-aur virt-manager-meta 5-4
 chaotic-aur virtualbox-ext-oracle 7.0.6-3
 chaotic-aur visual-studio-code-bin 1.76.1-1
 chaotic-aur visual-studio-code-insiders-bin 1677825946-1
-chaotic-aur vita3k-git r3053.bab86970-1
+chaotic-aur vita3k-git r3055.9fa210b7-1
 chaotic-aur vital-synth 1.5.5-1
 chaotic-aur vivaldi-snapshot 5.8.2955.3-1
 chaotic-aur vivaldi-snapshot-ffmpeg-codecs 110.0.5481.100-1
@@ -24967,6 +24967,8 @@ archlinuxcn rustpython-git r8267.6b68848f-1
 archlinuxcn rxvt-unicode-better-wheel-scrolling 9.22-5.1
 archlinuxcn ryujinx-git r2657.6e9bd4de13-1
 archlinuxcn safeeyes-git 2.1.5.r13.g0874be5-1
+archlinuxcn sasm 3.14.0-2
+archlinuxcn sasm-debug 3.14.0-2
 archlinuxcn sayonara-player-git 1.8.0.beta1.r84.g87255710-1
 archlinuxcn sayonara-player-git-debug 1.8.0.beta1.r84.g87255710-1
 archlinuxcn scalapack 2.2.1-2
@@ -25314,6 +25316,8 @@ archlinuxcn waifu2x-converter-cpp-cuda-git v5.3.4.2.g57520b2-3
 archlinuxcn waifu2x-converter-cpp-git r1092.1611736270.57520b2-3
 archlinuxcn wait-online-git 0.r18.21abb36-1
 archlinuxcn wakeonlan 0.42-1
+archlinuxcn waybar-hyprland-git 0.9.17.r99.g473eb098-1
+archlinuxcn waybar-hyprland-git-debug 0.9.17.r99.g473eb098-1
 archlinuxcn waybar-lily 0.9.17-1
 archlinuxcn waydroid 1.4.0-1
 archlinuxcn wayfire-lily-git 0.8.0.20230305.091754.g7cba83d2-1
@@ -25410,6 +25414,12 @@ archlinuxcn zeal-git 0.6.1.r255.g74ca9bf-1
 archlinuxcn zeal-git-debug 0.6.1.r255.g74ca9bf-1
 archlinuxcn zenpower-dkms-git 46.5e2f56f-1
 archlinuxcn zeronet 0.7.1-3
+archlinuxcn zfs-dkms 2.1.9-2
+archlinuxcn zfs-dkms-git 2:2.1.99.r1819.g519851122b-1
+archlinuxcn zfs-utils 2.1.9-3
+archlinuxcn zfs-utils-debug 2.1.9-3
+archlinuxcn zfs-utils-git 2:2.1.99.r1819.g519851122b-1
+archlinuxcn zfs-utils-git-debug 2:2.1.99.r1819.g519851122b-1
 archlinuxcn zograscope-git r1114.067201c-1
 archlinuxcn zorin-desktop-themes 3.4.5-1
 archlinuxcn zorin-desktop-themes-git 3.4.5.r0.g6708d51-1
@@ -25922,8 +25932,8 @@ arch4edu python-smart_open 6.3.0-1
 arch4edu python-soundfile 0.12.1-1
 arch4edu python-sparse 0.13.0-1
 arch4edu python-sphinx-astropy 1.8.0-1
-arch4edu python-sphinx-automodapi 0.15.0-1
-arch4edu python-sphinx-automodapi-doc 0.15.0-1
+arch4edu python-sphinx-automodapi 0.14.1-1
+arch4edu python-sphinx-automodapi-doc 0.14.1-1
 arch4edu python-sphinx-gallery 0.12.2-1
 arch4edu python-sphinxcontrib-plantuml 0.25-1
 arch4edu python-sphinxcontrib.jquery 3.0.0-1
@@ -26191,7 +26201,7 @@ arch4edu r-libcoin 1.0.9-7
 arch4edu r-lifecycle 1.0.3-5
 arch4edu r-lisreltor 0.1.5-7
 arch4edu r-listenv 0.9.0-1
-arch4edu r-lme4 1.1.32-1
+arch4edu r-lme4 1.1.31-3
 arch4edu r-lmertest 3.1.3-3
 arch4edu r-lmtest 0.9.40-6
 arch4edu r-logistf 1.24.1-3
@@ -26276,7 +26286,7 @@ arch4edu r-plyr 1.8.8-1
 arch4edu r-png 0.1.8-1
 arch4edu r-polycor 0.8.1-3
 arch4edu r-polynom 1.4.1-9
-arch4edu r-posterior 1.4.1-1
+arch4edu r-posterior 1.4.0-3
 arch4edu r-ppcor 1.1-4
 arch4edu r-prabclus 2.3.2-4
 arch4edu r-praise 1.0.0-1
@@ -26573,7 +26583,7 @@ arch4edu ros-noetic-nodelet-topic-tools 1.10.2-4
 arch4edu ros-noetic-nodelet-tutorial-math 0.2.0-2
 arch4edu ros-noetic-pcl-conversions 1.7.4-4
 arch4edu ros-noetic-pcl-msgs 0.3.0-2
-arch4edu ros-noetic-pcl-ros 1.7.5-1
+arch4edu ros-noetic-pcl-ros 1.7.4-3
 arch4edu ros-noetic-perception 1.5.0-2
 arch4edu ros-noetic-perception-pcl 1.7.4-2
 arch4edu ros-noetic-pluginlib 1.13.0-4
@@ -26826,7 +26836,7 @@ arch4edu xflr5 6.57.r1431-1
 arch4edu yay 11.3.2-1 [installed]
 arch4edu ycm-generator-git r128.b501516-1
 arch4edu zoom 5.13.11-1
-arch4edu zotero 6.0.22-1
+arch4edu zotero 6.0.20-1
 arch4edu zotero-bin 6.0.23-1
 arch4edu zotero-bin-debug 6.0.20-1
 arch4edu zotero-debug 6.0.20-1
