@@ -1327,6 +1327,7 @@ extra kwalletmanager 22.12.3-1
 extra kwave 22.12.3-1
 extra kwayland 5.104.0-1
 extra kwayland-integration 5.27.3-1
+extra kweathercore 0.7-1
 extra kwidgetsaddons 5.104.0-1 [installed]
 extra kwin 5.27.3-1
 extra kwindowsystem 5.104.0-1 [installed]
@@ -3564,7 +3565,7 @@ community aspnet-targeting-pack-6.0 6.0.14.sdk114-1
 community astroid 0.16-6
 community astromenace 1.4.2-1
 community astyle 3.1-4
-community asunder 2.9.7-5
+community asunder 2.9.7-6
 community at 3.2.5-2
 community at51 1.0.0-3
 community atftp 0.8.0-3
@@ -14801,7 +14802,7 @@ chaotic-aur godot-mono 3.5.1-1
 chaotic-aur goland 2022.3.3-1
 chaotic-aur goland-jre 2022.3.3-1
 chaotic-aur goldendict-git 1:1.5.0rc2.r590.gd424f25f-1
-chaotic-aur goldendict-webengine-pr-git 22.12.02.r15.gd3eedd2e-1
+chaotic-aur goldendict-webengine-pr-git 22.12.02.r15.gb2c2619d-1
 chaotic-aur goocanvas2 2.0.4-9.1
 chaotic-aur goodvibes 0.7.6-1
 chaotic-aur goodvibes-git 0.7.6.r5.gf42a6ac-1
@@ -14970,7 +14971,7 @@ chaotic-aur headset-bin 3.3.3-1.1
 chaotic-aur health 0.94.0-3
 chaotic-aur heimdall-grimler-git 2.0.2.r0.02b577e-2.1
 chaotic-aur heimer 3.7.0-1
-chaotic-aur helix-git 22.12.436.ga07655d55-1
+chaotic-aur helix-git 22.12.437.gbd473928a-1
 chaotic-aur helvum-git 0.4.0.r0.g69257ff-1
 chaotic-aur heroic-games-launcher-bin 2.6.2-1
 chaotic-aur heroku-cli-bin 7.62.0-1.1
@@ -14997,7 +14998,7 @@ chaotic-aur hyprland-nvidia 0.22.0beta-1
 chaotic-aur i2p 2.1.0-1
 chaotic-aur i3lock-color 2.13.c.4-1.2
 chaotic-aur i3lock-fancy-git r191.4cfcd47-1.1
-chaotic-aur i3status-rust-git 0.30.5.r3206.g57a74091-1
+chaotic-aur i3status-rust-git 0.30.5.r3208.g2b01d38a-1
 chaotic-aur ialauncher-git r127.b93f75d-1.1
 chaotic-aur ibus-bamboo-git 0.8.2+RC3+2+gf8fab45-1
 chaotic-aur ibus-mozc 2.28.4960.102-1
@@ -15392,7 +15393,7 @@ chaotic-aur lib32-libdav1d 1.0.0-1
 chaotic-aur lib32-libdc1394 2.2.6-1.1
 chaotic-aur lib32-libdca 0.0.7-1
 chaotic-aur lib32-libde265 1.0.8-1
-chaotic-aur lib32-libdrm-git 2.4.115.r2.g332809f3-1
+chaotic-aur lib32-libdrm-git 2.4.115.r3.gd1681af0-1
 chaotic-aur lib32-libdvdcss 1.4.3-1
 chaotic-aur lib32-libdvdnav 6.1.1-1
 chaotic-aur lib32-libdvdread 6.1.3-1
@@ -15481,14 +15482,14 @@ chaotic-aur libbtbb 2020.12.R1-2
 chaotic-aur libccd 2.1-1
 chaotic-aur libcgroup 2.0-1
 chaotic-aur libcheese-git 43.0+r5+g061c3afe-1
-chaotic-aur libclc-git 1:17.0.0_r454996.0eac3c500406-1
+chaotic-aur libclc-git 1:17.0.0_r455032.ac62e7b6cb45-1
 chaotic-aur libcmrt 1.0.6-2.1
 chaotic-aur libcotp 2.0.0-1
 chaotic-aur libcprime 4.4.1-1.1
 chaotic-aur libcpufeatures-git 0.7.0+59.r328.d20230306.5607a68-1
 chaotic-aur libcyaml 1.3.1-1
 chaotic-aur libdigidocpp 3.14.11.1432-1
-chaotic-aur libdrm-git 2.4.115.r2.g332809f3-1
+chaotic-aur libdrm-git 2.4.115.r3.gd1681af0-1
 chaotic-aur libeb 4.4.3-10
 chaotic-aur libelectron 1.0.8-1
 chaotic-aur libffi7 3.3-2
@@ -15623,6 +15624,8 @@ chaotic-aur linux-firmware-whence-git 20230313.c761dbe-1
 chaotic-aur linux-git 6.2.r0.gc9c3395d5e3d-1
 chaotic-aur linux-git-docs 6.2.r0.gc9c3395d5e3d-1
 chaotic-aur linux-git-headers 6.2.r0.gc9c3395d5e3d-1
+chaotic-aur linux-hdr-git 6.0.r2753.gff57328e5784-1
+chaotic-aur linux-hdr-headers-git 6.0.r2753.gff57328e5784-1
 chaotic-aur linux-lqx 6.2.6.lqx1-1
 chaotic-aur linux-lqx-docs 6.2.6.lqx1-1
 chaotic-aur linux-lqx-headers 6.2.6.lqx1-1
@@ -16040,8 +16043,8 @@ chaotic-aur onedriver 0.13.0-0
 chaotic-aur onefetch-git 2.16.0.r22.g57ba299-1
 chaotic-aur oneko 1.2.5-4
 chaotic-aur onlyoffice-bin 7.3.0-1
-chaotic-aur openal-examples-git makemhr.r88.gef537361-1
-chaotic-aur openal-git makemhr.r88.gef537361-1
+chaotic-aur openal-examples-git makemhr.r90.g186a29b7-1
+chaotic-aur openal-git makemhr.r90.g186a29b7-1
 chaotic-aur openbangla-keyboard 2.0.0-7.1
 chaotic-aur openblas-lapack 0.3.21-1
 chaotic-aur openboard 1.6.4-2
@@ -16794,7 +16797,7 @@ chaotic-aur rtw88-dkms-git r202.ef584ec-1
 chaotic-aur rtw89-dkms-git 1:r400.bea0ed7-1
 chaotic-aur rubymine 2022.3.3-1
 chaotic-aur rufetch 0.2.2-1
-chaotic-aur ruffle-git 1:r8676.8c180f97b-1
+chaotic-aur ruffle-git 1:r8680.ba88b5216-1
 chaotic-aur ruffle-nightly-bin 2023.03.17-1
 chaotic-aur rusnapshot-git 31.e68c28b-1
 chaotic-aur rustc-demangle 0.1.21-1
