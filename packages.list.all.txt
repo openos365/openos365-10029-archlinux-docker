@@ -1565,7 +1565,7 @@ extra libodfgen 0.1.8-2
 extra libofa 0.9.3-9
 extra libogg 1.3.5-1 [installed]
 extra libomxil-bellagio 0.9.3-4 [installed]
-extra libopenmpt 0.6.9-1 [installed]
+extra libopenmpt 0.6.9-2 [installed]
 extra liborcus 0.17.2-4
 extra libotf 0.9.16-4
 extra libotr 4.1.1-3
@@ -3418,7 +3418,7 @@ community adriconf 2.5.1-1
 community adwaita-qt5 1.4.2-1
 community adwaita-qt6 1.4.2-1
 community aegisub 3.3.3-4
-community aeolus 0.10.4-1
+community aeolus 0.10.4-2
 community aerc 0.14.0-1
 community afew 3.0.1-5
 community afl 2.57b-13
@@ -4535,7 +4535,7 @@ community erfa 2.0.0-2
 community erlang 25.3-1
 community erlang-cl 1.2.4-6
 community erlang-docs 24.0-3
-community erlang-nox 25.2-2
+community erlang-nox 25.3-1
 community erlang-unixodbc 25.3-1
 community esbuild 0.17.11-1
 community esh 0.3.2-1
@@ -4586,7 +4586,7 @@ community fb-client 2.3.0-1
 community fbdump 0.4.2-6
 community fbgrab 1.5-2
 community fbida 2.14-5
-community fbreader 0.99.4-11
+community fbreader 0.99.4-12
 community fbset 2.1-7
 community fbv 1.0b-12
 community fceux 2.6.5-2
@@ -12180,7 +12180,7 @@ community solr 9.1.1-1
 community songrec 0.3.2-2
 community sonic 1.4.0-1
 community sonic-pi 3.3.1-5
-community sonic-visualiser 4.5.1-3
+community sonic-visualiser 4.5.1-4
 community sonivox 3.6.11-1
 community sopel 7.1.9-1
 community soplex 6.0.3-2
@@ -12276,8 +12276,8 @@ community step-cli 0.23.4-1
 community stern 1.23.0-1
 community stfl 0.24-5
 community sthttpd 2.27.1-4
-community stk 4.6.2-1
-community stk-docs 4.6.2-1
+community stk 4.6.2-2
+community stk-docs 4.6.2-2
 community stlink 1.7.0-1
 community stochas 1.3.5-2
 community stow 2.3.1-3
@@ -14625,7 +14625,7 @@ chaotic-aur firefox-extension-flagfox 6.1.58-1
 chaotic-aur firefox-extension-localcdn 2.6.45-1
 chaotic-aur firefox-extension-plasma-integration 1.8.1-1.2
 chaotic-aur firefox-extension-xdm-browser-monitor 2.2-1.1
-chaotic-aur firefox-nightly 113.0a1+20230317.1+h7a93650998b3-1
+chaotic-aur firefox-nightly 113.0a1+20230317.1+hc6b709a45852-1
 chaotic-aur firefox-pwa 2.4.1-1
 chaotic-aur firefox-userchromejs 111.0b4-1
 chaotic-aur firefox-wayland-hg r732364+.188786ccec78+-1
@@ -23271,8 +23271,8 @@ archlinuxcn google-authenticator-libpam-git 1.09.r13.gfdd8289-1
 archlinuxcn google-crc32c 1.1.2-2
 archlinuxcn google-drive-ocamlfuse 0.7.30-1
 archlinuxcn gowitness 2.4.2-1
-archlinuxcn gr-framework-git 0.71.7.r71.gfc01b1b6-1
-archlinuxcn gr-framework-git-debug 0.71.7.r71.gfc01b1b6-1
+archlinuxcn gr-framework-git 0.71.8.r1.g01334bc0-1
+archlinuxcn gr-framework-git-debug 0.71.8.r1.g01334bc0-1
 archlinuxcn graphite-cursor-theme-git 2021.11.26.r0.g4d712ad-2
 archlinuxcn graphite-mozilla 1:1.3.14-2
 archlinuxcn graphite-web 1.1.10-6
@@ -24889,14 +24889,14 @@ archlinuxcn python3-xcpf 2021.12-1
 archlinuxcn qbittorrent-enhanced-git 4.5.2.10.r0.g76478c487-1
 archlinuxcn qbittorrent-enhanced-git-debug 4.5.2.10.r0.g76478c487-1
 archlinuxcn qdl 1.0-8
-archlinuxcn qemu-arch-extra-git 18:8.0.0.rc0.r9.g9636e51325-1
-archlinuxcn qemu-block-gluster-git 18:8.0.0.rc0.r9.g9636e51325-1
-archlinuxcn qemu-block-iscsi-git 18:8.0.0.rc0.r9.g9636e51325-1
-archlinuxcn qemu-git 18:8.0.0.rc0.r9.g9636e51325-1
-archlinuxcn qemu-git-debug 18:8.0.0.rc0.r9.g9636e51325-1
-archlinuxcn qemu-guest-agent-git 18:8.0.0.rc0.r9.g9636e51325-1
-archlinuxcn qemu-headless-arch-extra-git 18:8.0.0.rc0.r9.g9636e51325-1
-archlinuxcn qemu-headless-git 18:8.0.0.rc0.r9.g9636e51325-1
+archlinuxcn qemu-arch-extra-git 18:8.0.0.rc0.r27.g74c581b645-1
+archlinuxcn qemu-block-gluster-git 18:8.0.0.rc0.r27.g74c581b645-1
+archlinuxcn qemu-block-iscsi-git 18:8.0.0.rc0.r27.g74c581b645-1
+archlinuxcn qemu-git 18:8.0.0.rc0.r27.g74c581b645-1
+archlinuxcn qemu-git-debug 18:8.0.0.rc0.r27.g74c581b645-1
+archlinuxcn qemu-guest-agent-git 18:8.0.0.rc0.r27.g74c581b645-1
+archlinuxcn qemu-headless-arch-extra-git 18:8.0.0.rc0.r27.g74c581b645-1
+archlinuxcn qemu-headless-git 18:8.0.0.rc0.r27.g74c581b645-1
 archlinuxcn qogir-icon-theme-git 2023.02.23.12.ga3d222bc-1
 archlinuxcn qownnotes 23.3.4-1
 archlinuxcn qownnotes-debug 23.3.4-1
@@ -25607,7 +25607,7 @@ arch4edu fastfetch 1.10.3-1
 arch4edu fastfetch-debug 1.9.1-4
 arch4edu fbx-sdk 2020.1.1-1
 arch4edu fcl 0.7.0-1
-arch4edu fet-timetabling 6.8.7-1
+arch4edu fet-timetabling 6.8.6-1
 arch4edu flite1 1.4-5
 arch4edu flutter 3.7.7-1
 arch4edu flutter-debug 3.7.1-1
@@ -25925,14 +25925,14 @@ arch4edu python-gpustat 1:1.0-2
 arch4edu python-grip 4.6.1-1
 arch4edu python-ibm-cloud-sdk-core 3.16.0-1
 arch4edu python-ibm-platform-services 0.31.1-1
-arch4edu python-imagecodecs 2023.3.16-1
+arch4edu python-imagecodecs 2023.1.23-1
 arch4edu python-imagecodecs-debug 2023.1.23-1
 arch4edu python-imageio 2.26.0-1
 arch4edu python-imread 0.7.4-2
 arch4edu python-json-tricks 3.15.5-1
 arch4edu python-lazy-loader 0.1-1
 arch4edu python-leveldb 0.201-3
-arch4edu python-librosa 0.10.0.post1-1
+arch4edu python-librosa 0.10.0-1
 arch4edu python-llvmlite 0.38.0-2
 arch4edu python-llvmlite-git 0.40.0dev0.r84.g6cf968b-1
 arch4edu python-llvmlite-git-debug 0.40.0dev0.r53.g5f8737c-1
@@ -26848,7 +26848,7 @@ arch4edu scilab 6.1.0-5
 arch4edu scilab-bin 2023.0.0-1
 arch4edu scotch 7.0.3-2
 arch4edu scotch-debug 7.0.3-1
-arch4edu sdformat-9 9.8.0-3
+arch4edu sdformat-9 9.8.0-2
 arch4edu seafile 8.0.10-1
 arch4edu seafile-client 8.0.10-1
 arch4edu sge 1:8.1.9-8
