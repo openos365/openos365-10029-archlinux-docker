@@ -195,7 +195,7 @@ core nspr 4.35-1 [installed]
 core nss 3.89-1 [installed]
 core openldap 2.6.4-1
 core openresolv 3.12.0-1
-core openssh 9.2p1-1 [installed]
+core openssh 9.3p1-1 [installed]
 core openssl 3.0.8-1 [installed]
 core openssl-1.1 1.1.1.t-1
 core p11-kit 0.24.1-1 [installed]
@@ -1199,7 +1199,7 @@ extra kholidays 1:5.104.0-1
 extra khotkeys 5.27.3-1
 extra khtml 5.104.0-1
 extra ki18n 5.104.0-1 [installed]
-extra kiconthemes 5.104.0-1 [installed]
+extra kiconthemes 5.104.0-2 [installed]
 extra kidentitymanagement 22.12.3-1
 extra kidletime 5.104.0-1
 extra kig 22.12.3-1
@@ -1309,6 +1309,7 @@ extra ksysguard 5.22.0-1
 extra ksystemlog 22.12.3-1
 extra ksystemstats 5.27.3-1
 extra kteatime 22.12.3-1
+extra ktextaddons 1.1.0-1
 extra ktexteditor 5.104.0-1
 extra ktextwidgets 5.104.0-1 [installed]
 extra ktimer 22.12.3-1
@@ -6681,7 +6682,7 @@ community innernet 1.5.5-1
 community innoextract 1.9-8
 community inotify-tools 3.22.6.0-1
 community inspectrum 0.2.3-3
-community intel-compute-runtime 22.43.24595.30-1
+community intel-compute-runtime 22.43.24595.30-2
 community intel-gmmlib 22.3.3-1
 community intel-gpu-tools 1.27-1
 community intel-graphics-compiler 1:1.0.12812.26-3
@@ -14614,7 +14615,7 @@ chaotic-aur firefox-extension-flagfox 6.1.58-1
 chaotic-aur firefox-extension-localcdn 2.6.45-1
 chaotic-aur firefox-extension-plasma-integration 1.8.1-1.2
 chaotic-aur firefox-extension-xdm-browser-monitor 2.2-1.1
-chaotic-aur firefox-nightly 113.0a1+20230317.1+hf3211521687b-1
+chaotic-aur firefox-nightly 113.0a1+20230317.1+h7a93650998b3-1
 chaotic-aur firefox-pwa 2.4.1-1
 chaotic-aur firefox-userchromejs 111.0b4-1
 chaotic-aur firefox-wayland-hg r732364+.188786ccec78+-1
@@ -14696,7 +14697,7 @@ chaotic-aur fxload 2008_10_13-6
 chaotic-aur fzf-tab-bin-git r235.69024c2-1
 chaotic-aur fzf-tab-git r235.69024c2-1
 chaotic-aur g4music 1.8.2-1.1
-chaotic-aur g4music-git 1.6.1.r79.gdc92071-1
+chaotic-aur g4music-git 1.9.r0.g01d0d86-1
 chaotic-aur gaiasky 2:3.4.2.041928e7c-1
 chaotic-aur gajim-git 1:r20785.e2e40a351-1
 chaotic-aur gajim-plugin-omemo 2.9.0-2
@@ -14799,7 +14800,7 @@ chaotic-aur godot-mono 3.5.1-1
 chaotic-aur goland 2022.3.3-1
 chaotic-aur goland-jre 2022.3.3-1
 chaotic-aur goldendict-git 1:1.5.0rc2.r590.gd424f25f-1
-chaotic-aur goldendict-webengine-pr-git 22.12.02.r15.gd65eee27-1
+chaotic-aur goldendict-webengine-pr-git 22.12.02.r15.gd3eedd2e-1
 chaotic-aur goocanvas2 2.0.4-9.1
 chaotic-aur goodvibes 0.7.6-1
 chaotic-aur goodvibes-git 0.7.6.r5.gf42a6ac-1
@@ -14968,7 +14969,7 @@ chaotic-aur headset-bin 3.3.3-1.1
 chaotic-aur health 0.94.0-3
 chaotic-aur heimdall-grimler-git 2.0.2.r0.02b577e-2.1
 chaotic-aur heimer 3.7.0-1
-chaotic-aur helix-git 22.12.434.g21a3fb8f2-1
+chaotic-aur helix-git 22.12.436.ga07655d55-1
 chaotic-aur helvum-git 0.4.0.r0.g69257ff-1
 chaotic-aur heroic-games-launcher-bin 2.6.2-1
 chaotic-aur heroku-cli-bin 7.62.0-1.1
@@ -15628,8 +15629,8 @@ chaotic-aur linux-lts-tkg-bmq 5.15.103-273
 chaotic-aur linux-lts-tkg-bmq-headers 5.15.103-273
 chaotic-aur linux-lts-tkg-cfs 5.15.102-273
 chaotic-aur linux-lts-tkg-cfs-headers 5.15.102-273
-chaotic-aur linux-lts-tkg-pds 5.15.102-273
-chaotic-aur linux-lts-tkg-pds-headers 5.15.102-273
+chaotic-aur linux-lts-tkg-pds 5.15.103-273
+chaotic-aur linux-lts-tkg-pds-headers 5.15.103-273
 chaotic-aur linux-lts-tkg-tt 5.15.102-273
 chaotic-aur linux-lts-tkg-tt-headers 5.15.102-273
 chaotic-aur linux-mainline 6.3rc2-1
@@ -16155,7 +16156,7 @@ chaotic-aur phoronix-test-suite 10.8.4-1.1
 chaotic-aur phosh 0.21.0-1.1
 chaotic-aur photocollage 1.4.5-2.1
 chaotic-aur photoqt 3.1-1
-chaotic-aur php-humbug-box-bin 4.2.0-1
+chaotic-aur php-humbug-box-bin 4.3.7-1
 chaotic-aur php80 8.0.28-1
 chaotic-aur php80-apache 8.0.28-1
 chaotic-aur php80-bcmath 8.0.28-1
@@ -16486,7 +16487,7 @@ chaotic-aur python-fonttools-git 4.39.2.r1.g43e2108-1
 chaotic-aur python-freetype-py 2.3.0-1.1
 chaotic-aur python-gbinder 1.1.1-2
 chaotic-aur python-gevent-eventemitter 2.1-3.1
-chaotic-aur python-git 3.12.0a0.r116286.4f5774f648e-1
+chaotic-aur python-git 3.12.0a0.r116287.65fb7c4055f-1
 chaotic-aur python-googletrans-git r116.d15c94f-1.1
 chaotic-aur python-gpiozero 1.6.2-2
 chaotic-aur python-gps3 0.33.3-3
@@ -16792,7 +16793,7 @@ chaotic-aur rtw88-dkms-git r202.ef584ec-1
 chaotic-aur rtw89-dkms-git 1:r398.4f3464d-1
 chaotic-aur rubymine 2022.3.3-1
 chaotic-aur rufetch 0.2.2-1
-chaotic-aur ruffle-git 1:r8675.1edcbe438-1
+chaotic-aur ruffle-git 1:r8676.8c180f97b-1
 chaotic-aur ruffle-nightly-bin 2023.03.17-1
 chaotic-aur rusnapshot-git 31.e68c28b-1
 chaotic-aur rustc-demangle 0.1.21-1
@@ -17170,7 +17171,7 @@ chaotic-aur trackma-git 0.8.5.r26.g642d483-1
 chaotic-aur tracktion-waveform 12.1.8-1.1
 chaotic-aur traitor-git 0.0.14.r4.g0d221ba-1
 chaotic-aur transset-df 6-8
-chaotic-aur trayscale 0.8.0-2
+chaotic-aur trayscale 0.8.1-1
 chaotic-aur trello 0.1.9-5
 chaotic-aur trello-cli 0.5.1-1.1
 chaotic-aur trello-git 0.1.1-1.1
@@ -17481,7 +17482,7 @@ chaotic-aur x2goclient 4.1.2.2-5.1
 chaotic-aur x2goserver 4.1.0.3-10.2
 chaotic-aur xalan-java 2.7.2-3.1
 chaotic-aur xampp 8.2.0-2
-chaotic-aur xash3d-fwgs-git r2522.d085c5a8-1
+chaotic-aur xash3d-fwgs-git r2523.33c0764e-1
 chaotic-aur xavs 0.1.55-1
 chaotic-aur xavs2 1.4-1
 chaotic-aur xbanish 1.8-1
@@ -22811,8 +22812,8 @@ archlinuxcn chromium-ublock-origin-git 2:1.47.5rc2.1.g4d81e5a8d-1
 archlinuxcn ciel 3.1.3-1
 archlinuxcn citra-canary-git 2:2424.r0.g37dcc2c8d-1
 archlinuxcn citra-canary-git-debug 2:2424.r0.g37dcc2c8d-1
-archlinuxcn citra-git r9439.27c280534-1
-archlinuxcn citra-git-debug r9439.27c280534-1
+archlinuxcn citra-git r9440.a2fd43dea-1
+archlinuxcn citra-git-debug r9440.a2fd43dea-1
 archlinuxcn clang-git 17.0.0_r453901.b9337b108ec8f-1
 archlinuxcn clash-dashboard-git 0.3.0.r196.g20978b1-2
 archlinuxcn clash-dctxmei 1.13.0-1
@@ -23216,8 +23217,8 @@ archlinuxcn gg-debug 0.2.18-1
 archlinuxcn ghcup-hs-bin 0.1.19.2-1
 archlinuxcn ghcup-hs-bin-debug 0.1.19.2-1
 archlinuxcn gimp-devel 2.99.14-2
-archlinuxcn gimp-git 2:49483.6ffdea6a17-2
-archlinuxcn gimp-git-debug 2:49483.6ffdea6a17-2
+archlinuxcn gimp-git 2:49484.ad7a2e53eb-1
+archlinuxcn gimp-git-debug 2:49484.ad7a2e53eb-1
 archlinuxcn git-cinnabar 0.5.11-1
 archlinuxcn git-delta-git 0.15.1.20230315-1
 archlinuxcn git-delta-git-debug 0.15.1.20230315-1
@@ -24392,8 +24393,8 @@ archlinuxcn nspawn 0.6-1
 archlinuxcn ntfs3-dkms 1:5.17-1
 archlinuxcn numix-circle-icon-theme-git 23.03.04.r0.g441bd8e-1
 archlinuxcn numix-icon-theme 23.02.20.r0.g19d352ea7-1
-archlinuxcn nushell-git 0.77.1.r6895.g1552eb921-1
-archlinuxcn nushell-git-debug 0.77.1.r6895.g1552eb921-1
+archlinuxcn nushell-git 0.77.2.r6900.geb2e2e637-1
+archlinuxcn nushell-git-debug 0.77.2.r6900.geb2e2e637-1
 archlinuxcn nutstore 5.1.7-1
 archlinuxcn nvchecker-git 1:2.11dev.r13-1
 archlinuxcn nvidia-beta-dkms 510.60.02-1
@@ -24416,8 +24417,8 @@ archlinuxcn obconf-qt-git 0.16.2.10.g0d73d51-1
 archlinuxcn obconf-qt-git-debug 0.16.2.10.g0d73d51-1
 archlinuxcn obfs4proxy 0.0.14-1
 archlinuxcn obkey-git 1.0.47.gcf99076-4
-archlinuxcn obs-studio-git 29.0.0.352-1
-archlinuxcn obs-studio-git-debug 29.0.0.352-1
+archlinuxcn obs-studio-git 29.0.0.352-2
+archlinuxcn obs-studio-git-debug 29.0.0.352-2
 archlinuxcn ocaml-biniou 1.2.2-7
 archlinuxcn ocaml-compiler-libs-repackaged 0.12.4-5
 archlinuxcn ocaml-easy-format 1.3.4-4
@@ -24852,7 +24853,7 @@ archlinuxcn python-whisper 1.1.10-1
 archlinuxcn python-xcocotools 1.13-1
 archlinuxcn python-yacs 0.1.8-3
 archlinuxcn python-yappi 1.4.0-1
-archlinuxcn python-ydata-profiling 4.1.0-1
+archlinuxcn python-ydata-profiling 4.1.1-1
 archlinuxcn python2 2.7.18-9
 archlinuxcn python2-cairo 1.18.2-5
 archlinuxcn python2-django-jsonfield 2.1.1-4
@@ -25016,7 +25017,7 @@ archlinuxcn rustdesk-flutter-git 1.2.0.r2463.g09c2fc9d-1
 archlinuxcn rustfmt-nightly 4:1.70.0_20230310-1
 archlinuxcn rustpython-git r8267.6b68848f-1
 archlinuxcn rxvt-unicode-better-wheel-scrolling 9.22-5.1
-archlinuxcn ryujinx-git r2660.da073fce61-2
+archlinuxcn ryujinx-git r2663.5131b71437-1
 archlinuxcn safeeyes-git 2.1.5.r13.g0874be5-1
 archlinuxcn sasm 3.14.0-2
 archlinuxcn sasm-debug 3.14.0-2
@@ -25173,8 +25174,8 @@ archlinuxcn tela-circle-icon-theme-yellow-git 398.f0826967-1
 archlinuxcn tela-icon-theme-git 410.3efe1d70-1
 archlinuxcn telegraf 1.26.0-1
 archlinuxcn telegraf-debug 1.26.0-1
-archlinuxcn telegram-desktop-git 4.6.11.r3.geb7ef59bd-2
-archlinuxcn telegram-desktop-git-debug 4.6.11.r3.geb7ef59bd-2
+archlinuxcn telegram-desktop-git 4.6.11.r11.g68eb99bde-1
+archlinuxcn telegram-desktop-git-debug 4.6.11.r11.g68eb99bde-1
 archlinuxcn telegram-desktop-megumifox 4.6.5-4
 archlinuxcn telegram-desktop-megumifox-debug 4.6.5-4
 archlinuxcn teleport-bin 12.1.1-1
@@ -25646,12 +25647,13 @@ arch4edu ignition-cmake-2 2.16.0-1
 arch4edu ignition-common-3 3.15.1-2
 arch4edu ignition-fuel_tools-4 4.8.0-2
 arch4edu ignition-math 7.1.0-3
-arch4edu ignition-math-6 6.13.0-1
-arch4edu ignition-msgs-5 5.11.0-3
+arch4edu ignition-math-6 6.13.0-3
+arch4edu ignition-msgs-5 5.11.0-4
 arch4edu ignition-tools 2.0.0-2
 arch4edu ignition-tools-1 1.5.0-1
 arch4edu ignition-transport-8 8.4.0-2
 arch4edu ignition-utils 2.0.0-2
+arch4edu ignition-utils-1 1.5.1-1
 arch4edu intel-oneapi-advisor 2023.0.0_25338-1
 arch4edu intel-oneapi-ccl 2021.8.0_25371-1
 arch4edu intel-oneapi-ccl-static 2021.8.0_25371-1
@@ -25679,7 +25681,7 @@ arch4edu java-resolver 1.2-4
 arch4edu java-skinlf 6.7-5
 arch4edu java-testng 7.6.1-1
 arch4edu javacc 7.0.9-1
-arch4edu javahelp2 2.0.05.r90-5
+arch4edu javahelp2 2.0.05.r90-6
 arch4edu jellyfin 10.8.9-1
 arch4edu jellyfin-debug 10.8.9-1
 arch4edu jellyfin-server 10.8.9-1
@@ -25729,7 +25731,7 @@ arch4edu meshlab 2022.02-1
 arch4edu meteoinfo 3.5.8-1
 arch4edu metis 5.1.0.p11-1
 arch4edu metis-debug 5.1.0.p11-1
-arch4edu microsoft-edge-stable-bin 111.0.1661.43-1
+arch4edu microsoft-edge-stable-bin 111.0.1661.44-1
 arch4edu migraphx 5.4.3-1
 arch4edu miktex 22.10-3
 arch4edu miktex-debug 22.10-3
@@ -25747,7 +25749,7 @@ arch4edu muparserx 4.0.12-1
 arch4edu mysql 8.0.31-1
 arch4edu mysql-clients 8.0.31-1
 arch4edu ncl 6.6.2-4
-arch4edu ncurses5-compat-libs 6.3-1
+arch4edu ncurses5-compat-libs 6.4-1
 arch4edu ncview 2.1.8-1
 arch4edu netron 6.7.5-1
 arch4edu netron-cli 6.7.5-1
@@ -26002,8 +26004,8 @@ arch4edu python-tensorflow-amd 2.9.2-3
 arch4edu python-tensorflow-opt-amd 2.9.2-3
 arch4edu python-tensorflow-rocm 2.4.0-4
 arch4edu python-theano 1.0.5-1
-arch4edu python-tifffile 2023.2.28-1
-arch4edu python-tifffile-doc 2023.2.28-1
+arch4edu python-tifffile 2023.3.15-1
+arch4edu python-tifffile-doc 2023.3.15-1
 arch4edu python-timeout-decorator 0.5.0-1
 arch4edu python-torchfile 0.1.0-3
 arch4edu python-torchvision-rocm 0.14.1-3
@@ -26126,7 +26128,7 @@ arch4edu r-farver 2.1.1-1
 arch4edu r-fastmap 1.1.1-1
 arch4edu r-fdrtool 1.2.17-4
 arch4edu r-fitdistrplus 1.1.8-3
-arch4edu r-flexmix 2.3.18-1
+arch4edu r-flexmix 2.3.19-1
 arch4edu r-flexplot 0.19.1-1
 arch4edu r-fontawesome 0.5.0-1
 arch4edu r-fontbitstreamvera 0.1.1-1
@@ -26295,7 +26297,7 @@ arch4edu r-mice 3.15.0-3
 arch4edu r-mime 0.12-11
 arch4edu r-miniui 0.1.1.1-7
 arch4edu r-minqa 1.2.5-1
-arch4edu r-mkl 4.2.2-2
+arch4edu r-mkl 4.2.3-1
 arch4edu r-mle.tools 1.0.0-7
 arch4edu r-mnormt 2.1.1-5
 arch4edu r-modeltools 0.2.23-10
@@ -26335,7 +26337,7 @@ arch4edu r-patchwork 1.1.2-1
 arch4edu r-pbapply 1.7.0-3
 arch4edu r-pbivnorm 0.6.0-7
 arch4edu r-pbkrtest 0.5.2-3
-arch4edu r-pema 0.1.2-1
+arch4edu r-pema 0.1.3-1
 arch4edu r-pema-debug 0.1.2-1
 arch4edu r-pillar 1.8.1-1
 arch4edu r-pkgbuild 1.4.0-1
@@ -26866,7 +26868,7 @@ arch4edu urdfdom-headers 1.1.0-1
 arch4edu ventoy-bin 1.0.89-1
 arch4edu vim-colorschemes r215.fd8f122-1
 arch4edu vim-disable-mouse r2.e2aebbc-2
-arch4edu vim-gitgutter-git 795.g3d29f67-1
+arch4edu vim-gitgutter-git 796.g44dbd57-1
 arch4edu vim-pathogen 2.4-1
 arch4edu vim-sensible-git 1.2.r33.g5693bb6-1
 arch4edu vim-tern 96.994ffbe-2
@@ -27091,55 +27093,55 @@ garuda virtualbox-meta 2-3
 garuda wine-meta 1-5
 garuda zdummy-vlkdrv 0.1-1
 arcolinux_repo_iso arco-calamares 3.3.0.alpha3-02
-arcolinux_repo_iso arco-calamares-config-xl-dev-git 23.03-11
-arcolinux_repo_iso arco-calamares-config-xl-git 23.03-11
-arcolinux_repo_iso arco-calamares-config-xl-git-git 23.03-11
-arcolinux_repo_iso arco-calamares-config-xl-next-git 23.03-11
-arcolinux_repo_iso arco-calamares-config-xs-git 23.03-11
-arcolinux_repo_iso arco-calamares-config-xs-lts-git 23.03-11
-arcolinux_repo_iso arco-calamares-config-xs-xanmod-git 23.03-11
-arcolinux_repo_iso arco-calamares-config-xs-zen-git 23.03-11
+arcolinux_repo_iso arco-calamares-config-xl-dev-git 23.03-15
+arcolinux_repo_iso arco-calamares-config-xl-git 23.03-15
+arcolinux_repo_iso arco-calamares-config-xl-git-git 23.03-15
+arcolinux_repo_iso arco-calamares-config-xl-next-git 23.03-15
+arcolinux_repo_iso arco-calamares-config-xs-git 23.03-15
+arcolinux_repo_iso arco-calamares-config-xs-lts-git 23.03-15
+arcolinux_repo_iso arco-calamares-config-xs-xanmod-git 23.03-15
+arcolinux_repo_iso arco-calamares-config-xs-zen-git 23.03-15
 arcolinux_repo_iso arco-calamares-git 3.3.0.r10513.d8a03bb34-10
 arcolinux_repo_iso arco-calamares-next 3.3.0.alpha3-01
 arcolinux_repo_iso arco-calamares-wayland 3.3.0.alpha3-01
-arcolinux_repo_iso arcob-calamares-config-awesome-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-berry-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-bspwm-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-budgie-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-chadwm-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-cinnamon-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-cutefish-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-cwm-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-deepin-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-dusk-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-dwm-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-enlightenment-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-everyway-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-fvwm3-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-gnome-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-herbstluftwm-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-hypr-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-hyprland-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-i3-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-icewm-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-jwm-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-leftwm-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-lxqt-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-mate-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-openbox-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-pantheon-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-plasma-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-qtile-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-spectrwm-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-sway-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-ukui-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-wmderland-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-worm-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-xfce-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-xmonad-git 23.03-11
-arcolinux_repo_iso arcob-calamares-config-xtended-git 23.03-11
-arcolinux_repo_iso arcod-calamares-config-git 23.03-11
-arcolinux_repo_iso arcod-calamares-config-next-git 23.03-11
+arcolinux_repo_iso arcob-calamares-config-awesome-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-berry-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-bspwm-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-budgie-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-chadwm-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-cinnamon-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-cutefish-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-cwm-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-deepin-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-dusk-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-dwm-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-enlightenment-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-everyway-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-fvwm3-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-gnome-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-herbstluftwm-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-hypr-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-hyprland-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-i3-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-icewm-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-jwm-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-leftwm-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-lxqt-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-mate-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-openbox-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-pantheon-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-plasma-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-qtile-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-spectrwm-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-sway-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-ukui-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-wmderland-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-worm-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-xfce-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-xmonad-git 23.03-15
+arcolinux_repo_iso arcob-calamares-config-xtended-git 23.03-15
+arcolinux_repo_iso arcod-calamares-config-git 23.03-15
+arcolinux_repo_iso arcod-calamares-config-next-git 23.03-15
 arcolinux_repo_iso arcolinux-system-installation-dev-git 23.03-01
 arcolinux_repo_iso arcolinux-system-installation-git 23.03-01
 arcolinux_repo_iso mkinitcpio-openswap 0.1.0-3
