@@ -569,7 +569,7 @@ extra evolution-spamassassin 3.46.4-1
 extra exempi 2.6.3-1
 extra exiv2 0.27.6-1
 extra exo 4.18.0-1
-extra expect 5.45.4-4
+extra expect 5.45.4-4 [installed]
 extra extra-cmake-modules 5.104.0-1 [installed]
 extra f2fs-tools 1.15.0-2
 extra faac 1.30-3
@@ -2929,7 +2929,7 @@ extra t1lib 5.1.2-8
 extra taglib 1.13-1
 extra tali 40.9-1
 extra talloc 2.4.0-2
-extra tcl 8.6.13-1
+extra tcl 8.6.13-1 [installed]
 extra tcpdump 4.99.3-1
 extra tdb 1.4.8-1 [installed]
 extra telepathy-accounts-signon 2.1-3
@@ -8160,9 +8160,9 @@ community ninja 1.11.1-2 [installed]
 community ninjas2 0.2.0-2
 community nitrocli 0.4.1-2
 community nitroshare 0.3.4-5
-community nix 2.14.1-1
+community nix 2.14.1-2
 community nix-busybox 1.35.0-1
-community nix-docs 2.14.1-1
+community nix-docs 2.14.1-2
 community njconnect 1.6-3
 community nload 0.7.4-7
 community nlohmann-json 3.11.2-1
@@ -13133,7 +13133,7 @@ community web-ext 7.5.0-1
 community webfs 1.21-17
 community webhook 2.8.0-2
 community webkit2-sharp 2.10.9-3
-community webp-pixbuf-loader 0.2.1-1
+community webp-pixbuf-loader 0.2.2-1
 community websocat 1.11.0-1
 community websocketpp 0.8.2-1
 community websvn 2.8.1-1
@@ -14796,7 +14796,7 @@ chaotic-aur godot-mono 3.5.1-1
 chaotic-aur goland 2022.3.3-1
 chaotic-aur goland-jre 2022.3.3-1
 chaotic-aur goldendict-git 1:1.5.0rc2.r590.gd424f25f-1
-chaotic-aur goldendict-webengine-pr-git 22.12.02.r15.g74fec9db-1
+chaotic-aur goldendict-webengine-pr-git 22.12.02.r15.g6cd4dfa1-1
 chaotic-aur goocanvas2 2.0.4-9.1
 chaotic-aur goodvibes 0.7.6-1
 chaotic-aur goodvibes-git 0.7.6.r5.gf42a6ac-1
@@ -15419,7 +15419,7 @@ chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangoapp 0.6.8-4
 chaotic-aur lib32-mangohud 0.6.8-4
 chaotic-aur lib32-mangohud-git 0.6.8.r120.g3cebc55-1
-chaotic-aur lib32-mesa-tkg-git 23.1.0_devel.168315.cf973fe2990-1
+chaotic-aur lib32-mesa-tkg-git 23.1.0_devel.168327.7edae456e2c-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.1
 chaotic-aur lib32-neon 0.32.4-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15775,7 +15775,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.1
 chaotic-aur menulibre 2.2.3-1.1
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.34.1-1
-chaotic-aur mesa-tkg-git 23.1.0_devel.168315.cf973fe2990-1
+chaotic-aur mesa-tkg-git 23.1.0_devel.168327.7edae456e2c-1
 chaotic-aur mesen-sx-git 0.4.0.r250.gc85dd78-1
 chaotic-aur mesen-x-git 1.0.1.r177.ge6d75fcf-1
 chaotic-aur meshlab 2022.02-1.1
@@ -16121,7 +16121,7 @@ chaotic-aur paru 1.11.1-1.3
 chaotic-aur paru-git 1.11.2.r160.g4780e94-1
 chaotic-aur passbook 0.8-1.1
 chaotic-aur passbook-git 0.8.r36.g750825d-1.1
-chaotic-aur path-of-building-community-git 2.25.1.r6779.60.517-1
+chaotic-aur path-of-building-community-git 2.25.1.r6780.60.517-1
 chaotic-aur patool 1.12-5.1
 chaotic-aur pcf-unifont 15.0.01-1
 chaotic-aur pcf-unifont-extra 15.0.01-1
@@ -16697,7 +16697,7 @@ chaotic-aur qytdl 1.6-1.1
 chaotic-aur r8125-dkms 9.011.00-1
 chaotic-aur r8152-dkms 2.16.3.20221209-1
 chaotic-aur r8168-dkms 8.051.02-2
-chaotic-aur radare2-git 5.8.5.r29989.33c6303319-1
+chaotic-aur radare2-git 5.8.5.r29990.1286246f25-1
 chaotic-aur radeon-profile-git 20200824.r26.g0d632ba-1.2
 chaotic-aur raider-file-shredder 1.3.1-1.1
 chaotic-aur rakudo 2022.12-1
@@ -25640,12 +25640,13 @@ arch4edu ignition-cmake-2 2.16.0-1
 arch4edu ignition-common-3 3.15.1-2
 arch4edu ignition-fuel_tools-4 4.8.0-2
 arch4edu ignition-math 7.1.0-3
-arch4edu ignition-math-6 6.13.0-1
-arch4edu ignition-msgs-5 5.11.0-3
+arch4edu ignition-math-6 6.13.0-3
+arch4edu ignition-msgs-5 5.11.0-4
 arch4edu ignition-tools 2.0.0-2
 arch4edu ignition-tools-1 1.5.0-1
 arch4edu ignition-transport-8 8.4.0-2
 arch4edu ignition-utils 2.0.0-2
+arch4edu ignition-utils-1 1.5.1-1
 arch4edu intel-oneapi-advisor 2023.0.0_25338-1
 arch4edu intel-oneapi-ccl 2021.8.0_25371-1
 arch4edu intel-oneapi-ccl-static 2021.8.0_25371-1
@@ -25996,8 +25997,8 @@ arch4edu python-tensorflow-amd 2.9.2-3
 arch4edu python-tensorflow-opt-amd 2.9.2-3
 arch4edu python-tensorflow-rocm 2.4.0-4
 arch4edu python-theano 1.0.5-1
-arch4edu python-tifffile 2023.2.28-1
-arch4edu python-tifffile-doc 2023.2.28-1
+arch4edu python-tifffile 2023.3.15-1
+arch4edu python-tifffile-doc 2023.3.15-1
 arch4edu python-timeout-decorator 0.5.0-1
 arch4edu python-torchfile 0.1.0-3
 arch4edu python-torchvision-rocm 0.14.1-3
@@ -26860,7 +26861,7 @@ arch4edu urdfdom-headers 1.1.0-1
 arch4edu ventoy-bin 1.0.89-1
 arch4edu vim-colorschemes r215.fd8f122-1
 arch4edu vim-disable-mouse r2.e2aebbc-2
-arch4edu vim-gitgutter-git 795.g3d29f67-1
+arch4edu vim-gitgutter-git 796.g44dbd57-1
 arch4edu vim-pathogen 2.4-1
 arch4edu vim-sensible-git 1.2.r33.g5693bb6-1
 arch4edu vim-tern 96.994ffbe-2
