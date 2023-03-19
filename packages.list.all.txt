@@ -4192,6 +4192,7 @@ community datamash 1.8-1
 community dateutils 0.4.10-1
 community datovka 4.22.0-1
 community datree 1.8.8-1
+community dbc-parser-cpp 0.1.1.r88.ca69d0d-1
 community dbeaver 22.3.4-1
 community dbeaver-plugin-apache-poi 4.1.1-4
 community dbeaver-plugin-batik 1.14.0-3
@@ -6978,7 +6979,7 @@ community kyotocabinet 1.2.79-1
 community l3afpad 0.8.18.1.11-7
 community lablgtk3 3.1.3-1
 community laborejo 2.2.2-1
-community labplot 2.9.0-3
+community labplot 2.10.0-1
 community ladybird 20220916-1
 community languagetool 6.0-1
 community lapce 0.2.7-1
@@ -7730,7 +7731,6 @@ community macchanger 1.7.0-5
 community mach64-dri 7.11.2-13
 community mage 1.14.0-1
 community magic-wormhole 0.12.0-7
-community magma 2.7.0-1
 community magma-cuda 2.7.1-3
 community magma-hip 2.7.1-3
 community magnum 2020.06-3
@@ -13674,7 +13674,7 @@ multilib lib32-pipewire-v4l2 1:0.3.67-1
 multilib lib32-pixman 0.42.2-1
 multilib lib32-polkit 122-1
 multilib lib32-popt 1.19-1
-multilib lib32-portaudio 1:19.7.0-1
+multilib lib32-portaudio 1:19.7.0-2
 multilib lib32-primus 20151110-5
 multilib lib32-primus_vk 1.6.2-1
 multilib lib32-procps-ng 3.3.17-1
@@ -13987,7 +13987,7 @@ chaotic-aur arch-update 1.5.1-1
 chaotic-aur archinstall-git 2.4.0.dev0-1.2
 chaotic-aur archlinux-appstream-data-pamac 1:20230220-1
 chaotic-aur archlinux-java-run 9-1.1
-chaotic-aur ardour-git 7.3.r74.gc3c44d61a4-1
+chaotic-aur ardour-git 7.3.r75.g73bc7e6cb7-1
 chaotic-aur ark-git 23.03.70_r5003.gaaeebe0c-1
 chaotic-aur arkenfox-user.js-git 110.0.r1.ge2e8c4e-1
 chaotic-aur arm-linux-gnueabi-binutils 2.36.1-1
@@ -14297,7 +14297,7 @@ chaotic-aur corepad 4.4.0-1.1
 chaotic-aur corepaint 4.4.0-1.1
 chaotic-aur corepdf 4.4.0-1.1
 chaotic-aur coreutils-git 9.1.r205.g11f4d5913-1
-chaotic-aur coreutils-hybrid-git 0.0.17.r429.gcc46de7f1-1
+chaotic-aur coreutils-hybrid-git 0.0.17.r436.gc61117687-1
 chaotic-aur corrosion-git v0.3.0.r139.g14d5ecf-1
 chaotic-aur coulr 1.8.1-1.1
 chaotic-aur cozette-otb 1.19.1-1
@@ -15125,7 +15125,7 @@ chaotic-aur jre 19.0.2-1
 chaotic-aur jre8 8u351-1
 chaotic-aur jrosetta 1.0.4-5.1
 chaotic-aur juliaup 1.8.17-1
-chaotic-aur juno-theme-git r188.b1fe089-1
+chaotic-aur juno-theme-git r189.a2c4d54-1
 chaotic-aur jupyter-metakernel 0.29.4-1
 chaotic-aur k3s-bin 1.26.1+k3s1-1
 chaotic-aur kaccounts-integration-git 20.12.0_r1345.gadcbe5f-1
@@ -15439,7 +15439,7 @@ chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangoapp 0.6.8-4
 chaotic-aur lib32-mangohud 0.6.8-4
 chaotic-aur lib32-mangohud-git 0.6.8.r120.g3cebc55-1
-chaotic-aur lib32-mesa-tkg-git 23.1.0_devel.168405.afb82e553be-1
+chaotic-aur lib32-mesa-tkg-git 23.1.0_devel.168406.dc34413f43a-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.1
 chaotic-aur lib32-neon 0.32.4-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15798,7 +15798,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.1
 chaotic-aur menulibre 2.2.3-1.1
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.34.1-1
-chaotic-aur mesa-tkg-git 23.1.0_devel.168405.afb82e553be-1
+chaotic-aur mesa-tkg-git 23.1.0_devel.168406.dc34413f43a-1
 chaotic-aur mesen-sx-git 0.4.0.r250.gc85dd78-1
 chaotic-aur mesen-x-git 1.0.1.r177.ge6d75fcf-1
 chaotic-aur meshlab 2022.02-1.1
@@ -15902,7 +15902,7 @@ chaotic-aur neofetch-git 7.1.0.r166.gccd5d9f5-1
 chaotic-aur neofrog-git 7.1.0.r166.gccd5d9f5-1.1
 chaotic-aur neovide-git 0.10.3.r55.gfadc48f-1
 chaotic-aur neovim-drop-in 1-1.1
-chaotic-aur neovim-git 0.8.0.r2007.geb3fcf652b-1
+chaotic-aur neovim-git 0.8.0.r2019.g5726f33e8c-1
 chaotic-aur neovim-nightly-bin 0.9.0+dev+1135+g419819b62-1
 chaotic-aur neovim-plug 0.11.0-3.1
 chaotic-aur neovim-plug-git 0.11.0.r11.034e844-1
@@ -28211,6 +28211,7 @@ iso-repo calamares-config 23.03-2
 iso-repo calamares-config-dev 22.12-2
 iso-repo calamares-g-config 23.01-1
 iso-repo calamares-g-config-dev 23.01-2
+iso-repo calamares-x-cfg 23.03-1
 iso-repo xero-calamares 3.2.61-13
 iso-repo xero-g-config-dev 23.01-3
 iso-repo xero-kde-config-dev 22.12-2
