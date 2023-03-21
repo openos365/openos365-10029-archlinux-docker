@@ -62,8 +62,8 @@ core gcc-libs 12.2.1-2 [installed]
 core gcc-objc 12.2.1-2
 core gdbm 1.23-2 [installed]
 core gettext 0.21.1-2 [installed]
-core glib2 2.76.0-1 [installed]
-core glib2-docs 2.76.0-1
+core glib2 2.76.0-2 [installed]
+core glib2-docs 2.76.0-2
 core glibc 2.37-2 [installed]
 core gmp 6.2.1-2 [installed]
 core gnupg 2.2.41-1 [installed]
@@ -851,8 +851,8 @@ extra gnumeric 1.12.55-1
 extra gnuplot 5.4.6-1
 extra gnuplot-demos 5.4.6-1
 extra gob2 2.0.20-3
-extra gobject-introspection 1.74.0-1
-extra gobject-introspection-runtime 1.74.0-1
+extra gobject-introspection 1.76.0-1
+extra gobject-introspection-runtime 1.76.0-1
 extra goffice 0.10.55-1
 extra gom 0.4-5
 extra gpart 0.3-4
@@ -1357,9 +1357,9 @@ extra lib32-rust-libs 1:1.68.0-1
 extra libabw 0.1.3-3
 extra libaccounts-glib 1.26-1
 extra libaccounts-qt 1.16-3
-extra libadwaita 1:1.2.3-1
-extra libadwaita-demos 1:1.2.3-1
-extra libadwaita-docs 1:1.2.3-1
+extra libadwaita 1:1.3.1-1
+extra libadwaita-demos 1:1.3.1-1
+extra libadwaita-docs 1:1.3.1-1
 extra libakonadi 22.12.3-1
 extra libao 1.2.2-6
 extra libappimage 1.0.4.5-4
@@ -1442,6 +1442,7 @@ extra libgdm 43.0-1
 extra libgee 0.20.6-1
 extra libgepub 0.7.0-1
 extra libgfshare 2.0.0-3
+extra libgirepository 1.76.0-1
 extra libgit2 1:1.5.1-2 [installed]
 extra libgit2-glib 1.1.0-1
 extra libgit2-glib-docs 1.1.0-1
@@ -3067,9 +3068,9 @@ extra tomcat8 8.5.87-1
 extra tomcat9 9.0.73-1
 extra totem 43.0-2
 extra totem-pl-parser 3.26.6-2
-extra tracker3 3.4.2-2
-extra tracker3-docs 3.4.2-2
-extra tracker3-miners 3.4.3-1
+extra tracker3 3.5.0-1
+extra tracker3-docs 3.5.0-1
+extra tracker3-miners 3.5.0-1
 extra transmission-cli 4.0.1-2
 extra transmission-gtk 4.0.1-2
 extra transmission-qt 4.0.1-2
@@ -3138,12 +3139,14 @@ extra wayland 1.21.0-2 [installed]
 extra wayland-docs 1.21.0-2
 extra wayland-protocols 1.31-1
 extra wayland-utils 1.1.0-1
-extra webkit2gtk 2.38.5-1
-extra webkit2gtk-4.1 2.38.5-1
-extra webkit2gtk-4.1-docs 2.38.5-1
-extra webkit2gtk-5.0 2.38.5-1
-extra webkit2gtk-5.0-docs 2.38.5-1
-extra webkit2gtk-docs 2.38.5-1
+extra webkit2gtk 2.40.0-1
+extra webkit2gtk-4.1 2.40.0-1
+extra webkit2gtk-4.1-docs 2.40.0-1
+extra webkit2gtk-5.0 2.38.5-2
+extra webkit2gtk-5.0-docs 2.38.5-2
+extra webkit2gtk-docs 2.40.0-1
+extra webkitgtk-6.0 2.40.0-1
+extra webkitgtk-6.0-docs 2.40.0-1
 extra webrtc-audio-processing 0.3.1-3
 extra wget 1.21.3-1 [installed]
 extra whois 5.5.16-1
@@ -3155,8 +3158,8 @@ extra wireplumber 0.4.14-1
 extra woff2 1.0.2-4
 extra wolfssl 5.5.4-1
 extra wpebackend-fdo 1.14.1-1
-extra wpewebkit 2.38.5-1
-extra wpewebkit-docs 2.38.5-1
+extra wpewebkit 2.40.0-1
+extra wpewebkit-docs 2.40.0-1
 extra wv 1.2.9-6
 extra wxwidgets-common 3.2.2.1-1
 extra wxwidgets-gtk3 3.2.2.1-1
@@ -5074,7 +5077,7 @@ community gir-to-d 0.22.0-9
 community girara 0.4.0-1
 community gist 6.0.0-1
 community git-absorb 0.6.9-1
-community git-annex 10.20230126-30
+community git-annex 10.20230126-31
 community git-branchless 0.7.1-2
 community git-bug 0.8.0-1
 community git-cliff 1.1.2-1
@@ -5488,8 +5491,8 @@ community haskell-cabal-doctest 1.0.9-1
 community haskell-cabal-install-parsers 0.4.2-205
 community haskell-cairo 0.13.8.2-29
 community haskell-call-stack 0.4.0-139
-community haskell-casa-client 0.0.1-564
-community haskell-casa-types 0.0.2-341
+community haskell-casa-client 0.0.1-565
+community haskell-casa-types 0.0.2-342
 community haskell-case-insensitive 1.2.1.0-180
 community haskell-cassava 0.5.3.0-46
 community haskell-cassava-megaparsec 2.0.4-95
@@ -5510,7 +5513,7 @@ community haskell-cipher-aes128 0.7.0.6-7
 community haskell-citeproc 0.8.1-19
 community haskell-clash-lib 1.6.4-58
 community haskell-clash-prelude 1.6.4-44
-community haskell-classy-prelude 1.5.0.2-57
+community haskell-classy-prelude 1.5.0.2-58
 community haskell-clientsession 0.9.1.2-334
 community haskell-clock 0.8.3-89
 community haskell-cmark-gfm 0.2.5-16
@@ -5649,7 +5652,7 @@ community haskell-enummapset 0.7.1.0-24
 community haskell-equivalence 0.4.1-24
 community haskell-erf 2.0.0.0-24
 community haskell-errors 2.3.0-65
-community haskell-esqueleto 3.5.7.1-19
+community haskell-esqueleto 3.5.7.1-20
 community haskell-exact-pi 0.5.0.2-38
 community haskell-executable-path 0.0.3.1-20
 community haskell-expiring-cache-map 0.0.6.1-275
@@ -6013,7 +6016,7 @@ community haskell-monad-control 1.0.3.1-79
 community haskell-monad-dijkstra 0.1.1.3-307
 community haskell-monad-gen 0.3.0.1-6
 community haskell-monad-journal 0.8.1-246
-community haskell-monad-logger 0.3.39-16
+community haskell-monad-logger 0.3.39-17
 community haskell-monad-loops 0.4.3-25
 community haskell-monad-memo 0.5.4-57
 community haskell-monad-par 0.3.5-197
@@ -6090,7 +6093,7 @@ community haskell-pandoc-server 0.1-33
 community haskell-pandoc-types 1.23-11
 community haskell-pango 0.13.8.2-48
 community haskell-panic 0.4.0.1-24
-community haskell-pantry 0.5.7-83
+community haskell-pantry 0.5.7-84
 community haskell-parallel 3.2.2.0-17
 community haskell-parameterized-utils 2.1.6.0-21
 community haskell-parsec-numbers 0.1.0-18
@@ -6105,12 +6108,12 @@ community haskell-pcg-random 0.1.3.7-62
 community haskell-pcre-heavy 1.0.0.3-14
 community haskell-pcre-light 0.4.1.0-241
 community haskell-pem 0.2.4-261
-community haskell-persistent 2.13.3.5-40
-community haskell-persistent-mysql 2.13.0.4-19
-community haskell-persistent-postgresql 2.13.4.0-23
-community haskell-persistent-qq 2.12.0.2-130
-community haskell-persistent-sqlite 2.13.1.0-49
-community haskell-persistent-test 2.13.1.2-74
+community haskell-persistent 2.13.3.5-41
+community haskell-persistent-mysql 2.13.0.4-20
+community haskell-persistent-postgresql 2.13.4.0-24
+community haskell-persistent-qq 2.12.0.2-131
+community haskell-persistent-sqlite 2.13.1.0-50
+community haskell-persistent-test 2.13.1.2-75
 community haskell-pgp-wordlist 0.1.0.3-211
 community haskell-pid1 0.1.3.1-1
 community haskell-pipes 4.3.16-95
@@ -6197,7 +6200,7 @@ community haskell-retrie 1.1.0.0-120
 community haskell-retry 0.9.3.0-32
 community haskell-rfc5051 0.2-8
 community haskell-rio 0.1.22.0-67
-community haskell-rio-orphans 0.1.2.0-225
+community haskell-rio-orphans 0.1.2.0-226
 community haskell-rio-prettyprint 0.1.4.0-24
 community haskell-roman-numerals 0.5.1.5-30
 community haskell-rope-utf16-splay 0.3.2.0-114
@@ -6278,7 +6281,7 @@ community haskell-statevar 1.2.2-2
 community haskell-static-hash 0.0.2-21
 community haskell-statistics 0.16.1.2-19
 community haskell-status-notifier-item 0.3.1.0-52
-community haskell-stm-chans 3.0.0.6-2
+community haskell-stm-chans 3.0.0.9-1
 community haskell-stm-containers 1.2-35
 community haskell-stm-delay 0.1.1.1-12
 community haskell-stm-hamt 1.2.0.9-13
@@ -6499,13 +6502,13 @@ community haskell-xml-types 0.3.8-8
 community haskell-xmlgen 0.6.2.2-55
 community haskell-xss-sanitize 0.3.7.1-11
 community haskell-yaml 0.11.11.0-5
-community haskell-yesod 1.6.2.1-75
-community haskell-yesod-auth 1.6.11-103
-community haskell-yesod-core 1.6.24.2-13
-community haskell-yesod-form 1.7.4-19
-community haskell-yesod-persistent 1.6.0.8-146
-community haskell-yesod-static 1.6.1.0-586
-community haskell-yesod-test 1.6.15-67
+community haskell-yesod 1.6.2.1-76
+community haskell-yesod-auth 1.6.11-104
+community haskell-yesod-core 1.6.24.2-14
+community haskell-yesod-form 1.7.4-20
+community haskell-yesod-persistent 1.6.0.8-147
+community haskell-yesod-static 1.6.1.0-587
+community haskell-yesod-test 1.6.15-68
 community haskell-zenc 0.1.2-125
 community haskell-zeromq4-haskell 0.8.0-23
 community haskell-zinza 0.2-129
@@ -6569,7 +6572,7 @@ community hivex 1.3.21-7
 community hledger 1.28-17
 community hledger-iadd 1.3.17-148
 community hledger-ui 1.28-18
-community hledger-web 1.28-25
+community hledger-web 1.28-26
 community hlint 3.3.6-89
 community hm 17.0-1
 community hoel 1.4.27-1
@@ -12269,7 +12272,7 @@ community sslsplit 0.5.5-2
 community ssr 0.6.0-1
 community sssd 2.8.1-2
 community sstp-client 1:1.0.18-1
-community stack 2.7.5-262
+community stack 2.7.5-263
 community stalonetray 0.8.5-1
 community stardict 3.0.6.2-1
 community starship 1.13.1-1
@@ -12423,7 +12426,7 @@ community taffybar 4.0.0-82
 community tailscale 1.38.1-1
 community tailwindcss-language-server 0.0.12-2
 community talkfilters 2.3.8-7
-community tamarin-prover 1.6.1-297
+community tamarin-prover 1.6.1-298
 community tamsyn-font 1.11-6
 community tang 11-2
 community tanka 0.24.0-1
@@ -12433,7 +12436,7 @@ community tarantool 2.10.4-2
 community tarsnap 1.0.40-2
 community task 2.6.2-1
 community taskd 1.1.0-5
-community taskell 1.11.4-304
+community taskell 1.11.4-305
 community taskwarrior-tui 0.23.6-1
 community tcc 0.9.27-4
 community tclap 1.2.5-1
@@ -13499,7 +13502,7 @@ multilib lib32-giflib 5.2.1-1
 multilib lib32-glew 2.2.0-4
 multilib lib32-glew1.10 1.10.0-5
 multilib lib32-glib-networking 2.74.0-1
-multilib lib32-glib2 2.76.0-1
+multilib lib32-glib2 2.76.0-2
 multilib lib32-glu 9.0.2-3
 multilib lib32-gmp 6.2.1-1
 multilib lib32-gnutls 3.8.0-1
@@ -13969,9 +13972,9 @@ chaotic-aur anime4k-git r419.4ba94b1-1
 chaotic-aur ankama-launcher 3.9.3-1
 chaotic-aur anki 2.1.60-1.1
 chaotic-aur anope 2.0.12-1
-chaotic-aur ant-dracula-kde-theme-git v4.0.0.r3.gdf9af5e-1
-chaotic-aur ant-dracula-kvantum-theme-git v4.0.0.r3.gdf9af5e-1
-chaotic-aur ant-dracula-theme-git 4.0.0.r3.gdf9af5e-1
+chaotic-aur ant-dracula-kde-theme-git v4.0.0.r4.g42dc8ed-1
+chaotic-aur ant-dracula-kvantum-theme-git v4.0.0.r4.g42dc8ed-1
+chaotic-aur ant-dracula-theme-git 4.0.0.r4.g42dc8ed-1
 chaotic-aur antimicrox 3.3.3-1
 chaotic-aur anydesk-bin 6.2.1-2.1
 chaotic-aur apostrophe 2.6.3-5.1
@@ -15323,7 +15326,7 @@ chaotic-aur ktweak-git 1.0.293f748-1
 chaotic-aur kubetail 1.6.17-1
 chaotic-aur kunitconversion-git 5.104.0_r481.g1dbe91a-1
 chaotic-aur kuserfeedback-git 1.2.1_r813.g8d0062d-1
-chaotic-aur kvantum-git 1.0.9.r19.gc7e0ab82-1
+chaotic-aur kvantum-git 1.0.9.r20.g4ece61e6-1
 chaotic-aur kvantum-theme-akava-git r16.0500493-1
 chaotic-aur kvantum-theme-chromeos-git r65.fa7c1ac-1
 chaotic-aur kvantum-theme-matcha-git r11.a3b247b-1.1
@@ -16032,7 +16035,7 @@ chaotic-aur obs-plugin-looking-glass-git 2:B6.r11.ge067db7b-1
 chaotic-aur obs-streamfx 0.11.1-1.2
 chaotic-aur obs-studio-browser 29.0.2-2
 chaotic-aur obs-studio-browser-debug 29.0.2-2
-chaotic-aur obs-studio-git 29.0.0.446-1
+chaotic-aur obs-studio-git 29.0.0.449-1
 chaotic-aur obs-studio-rc 5:29.0.2-2
 chaotic-aur obs-studio-rc-debug 5:29.0.2-2
 chaotic-aur obs-studio-tytan652 29.0.2-2
@@ -22750,8 +22753,8 @@ archlinuxcn astrometry.net-znver2 0.93-1
 archlinuxcn asusctl-git 4.6.0.rc1.r11.g5600c51-1
 archlinuxcn asusctl-git-debug 4.6.0.rc1.r11.g5600c51-1
 archlinuxcn auctex-git 1:13.1.r318.g2a65fac9-1
-archlinuxcn audacity-git 3.2.5.r539.gdb62bcae5-1
-archlinuxcn audacity-git-debug 3.2.5.r539.gdb62bcae5-1
+archlinuxcn audacity-git 3.2.5.r543.g6ec6548af-1
+archlinuxcn audacity-git-debug 3.2.5.r543.g6ec6548af-1
 archlinuxcn aurutils 12.1-1
 archlinuxcn aurutils-git 12.1.r17.gb2b0a12f-1
 archlinuxcn aurvote 1.9-3
@@ -23018,7 +23021,7 @@ archlinuxcn emacs-go-mode-git 1.6.0.r12.g166dfb1e-1
 archlinuxcn emacs-julia-mode-git 1:0.358.g7aafa8e-1
 archlinuxcn emacs-llvm-mode-git 455075.864a2b25beac-1
 archlinuxcn emacs-markdown-mode-git 2.5.r57.gece1dd8-1
-archlinuxcn emacs-native-comp-git 30.0.50.165536-1
+archlinuxcn emacs-native-comp-git 30.0.50.165541-1
 archlinuxcn emacs-native-comp-pgtk-git 30.0.50.165541-1
 archlinuxcn emacs-org-mode-git 1:9.6.1.r269.gaa2249787-1
 archlinuxcn emacs-pkgbuild-mode-git 0.14.1.r11.g04260c5-1
@@ -24496,8 +24499,8 @@ archlinuxcn ocaml-ppxlib 0.28.0-2
 archlinuxcn ocaml-seq base-10
 archlinuxcn ocrmypdf 14.0.4-1
 archlinuxcn ocserv 1.1.2-4
-archlinuxcn oh-my-posh 14.14.3-1
-archlinuxcn oh-my-posh-debug 14.14.3-1
+archlinuxcn oh-my-posh 14.15.0-1
+archlinuxcn oh-my-posh-debug 14.15.0-1
 archlinuxcn oh-my-zsh-git r6840.82d261603d-1
 archlinuxcn oh-my-zsh-powerline-theme-git 81.56021ec-2
 archlinuxcn okteto 2.13.0-1
@@ -25287,7 +25290,7 @@ archlinuxcn toilet 0.3.r155.3eb9d58-2
 archlinuxcn tome4 1.7.4-2
 archlinuxcn topgrade 10.3.0-2
 archlinuxcn topgrade-debug 10.3.0-2
-archlinuxcn tor-browser 12.0.3-1
+archlinuxcn tor-browser 12.0.4-1
 archlinuxcn tornado_systemd 1.0.1-3
 archlinuxcn touche 2.0.8-1
 archlinuxcn touchegg 2.0.16-1
@@ -25348,7 +25351,7 @@ archlinuxcn uget-integrator-chromium 1.0.0-5
 archlinuxcn uget-integrator-firefox 1.0.0-5
 archlinuxcn uget-integrator-opera 1.0.0-5
 archlinuxcn unagi 0.3.4-3
-archlinuxcn unciv 4.5.10.REL-1
+archlinuxcn unciv 4.5.11.REL-1
 archlinuxcn ungoogled-chromium 111.0.5563.64-1
 archlinuxcn ungoogled-chromium-debug 111.0.5563.64-1
 archlinuxcn unzip-natspec 6.0-7
@@ -25379,8 +25382,8 @@ archlinuxcn vapoursynth-plugin-rife-ncnn-vulkan-git 1:9.r0.g6c6d0fa-5
 archlinuxcn vapoursynth-plugin-rife-ncnn-vulkan-git-debug 1:9.r0.g6c6d0fa-5
 archlinuxcn vcpkg 2023.02.24-2
 archlinuxcn vcpkg-debug 2023.02.24-2
-archlinuxcn vcpkg-git 2023.02.24.r191.ge249dfb528-1
-archlinuxcn vcpkg-git-debug 2023.02.24.r191.ge249dfb528-1
+archlinuxcn vcpkg-git 2023.02.24.r201.gae59b93af0-1
+archlinuxcn vcpkg-git-debug 2023.02.24.r201.gae59b93af0-1
 archlinuxcn vdhcoapp 1.6.3-1
 archlinuxcn ventoy-bin 1.0.89-1
 archlinuxcn ventoy-bin-debug 1.0.89-1
@@ -25477,8 +25480,8 @@ archlinuxcn webstorm 2022.3.4-1
 archlinuxcn webstorm-jre 2022.3.4-1
 archlinuxcn wev-git 1.0.0.r4.g0fc0549-1
 archlinuxcn wev-git-debug 1.0.0.r4.g0fc0549-1
-archlinuxcn wezterm-git 20230320.225427.40081cb5-2
-archlinuxcn wezterm-git-debug 20230320.225427.40081cb5-2
+archlinuxcn wezterm-git 20230321.144806.cd4a41df-1
+archlinuxcn wezterm-git-debug 20230321.144806.cd4a41df-1
 archlinuxcn wf-config-git 0.8.0.20210803.043821-1
 archlinuxcn wget-lily 1.21.3-1
 archlinuxcn wine-for-wechat 8.3-1
@@ -25586,7 +25589,7 @@ arch4edu adms 2.3.7-1
 arch4edu aic94xx-firmware 30-9
 arch4edu alberta 3.0.3-3
 arch4edu alpm_octopi_utils 1.0.2-3
-arch4edu anaconda 2023.03-1
+arch4edu anaconda 2022.10-1
 arch4edu android-emulator 32.1.11-1
 arch4edu android-ndk r25.c-1
 arch4edu android-platform 33_r02-1
@@ -25817,7 +25820,7 @@ arch4edu mavproxy 1.8.59-1
 arch4edu mendeleydesktop 1.19.8-1
 arch4edu mendeleydesktop-bundled 1.19.8-1
 arch4edu meshlab 2022.02-1
-arch4edu meteoinfo 3.5.9-1
+arch4edu meteoinfo 3.5.8-1
 arch4edu metis 5.1.0.p11-1
 arch4edu metis-debug 5.1.0.p11-1
 arch4edu microsoft-edge-stable-bin 111.0.1661.44-1
@@ -25840,8 +25843,8 @@ arch4edu mysql-clients 8.0.31-1
 arch4edu ncl 6.6.2-4
 arch4edu ncurses5-compat-libs 6.4-1
 arch4edu ncview 2.1.8-1
-arch4edu netron 6.7.7-1
-arch4edu netron-cli 6.7.7-1
+arch4edu netron 6.7.6-1
+arch4edu netron-cli 6.7.6-1
 arch4edu netron-debug 6.5.3-1
 arch4edu nkf 2.1.5-2
 arch4edu nni 2.10-1
@@ -26082,7 +26085,7 @@ arch4edu python-sip4 4.19.25-3
 arch4edu python-smart_open 6.3.0-1
 arch4edu python-soundfile 0.12.1-1
 arch4edu python-sparse 0.13.0-1
-arch4edu python-sphinx-astropy 1.8.0-2
+arch4edu python-sphinx-astropy 1.8.0-1
 arch4edu python-sphinx-automodapi 0.15.0-1
 arch4edu python-sphinx-automodapi-doc 0.15.0-1
 arch4edu python-sphinx-gallery 0.12.2-1
@@ -26265,13 +26268,13 @@ arch4edu r-gmp-debug 0.7.1-1
 arch4edu r-gnm 1.1.2-1
 arch4edu r-gnorm 1.0.0-5
 arch4edu r-goftest 1.2.3-4
-arch4edu r-gparotation 2023.3.1-1
+arch4edu r-gparotation 2022.10.2-1
 arch4edu r-gplots 3.1.3-4
 arch4edu r-gridextra 2.3-1
 arch4edu r-gridgraphics 0.5.1-4
 arch4edu r-gridtext 0.1.5-1
 arch4edu r-gridtext-debug 0.1.5-1
-arch4edu r-gtable 0.3.2-3
+arch4edu r-gtable 0.3.1-1
 arch4edu r-gtools 3.9.4-1
 arch4edu r-hdinterval 0.2.4-1
 arch4edu r-heplots 1.4.2-3
@@ -26279,7 +26282,7 @@ arch4edu r-here 1.0.1-7
 arch4edu r-hexbin 1.28.2-1
 arch4edu r-highr 0.10-1
 arch4edu r-hmeasure 1.0.2-5
-arch4edu r-hmisc 5.0.1-3
+arch4edu r-hmisc 5.0.1-1
 arch4edu r-hms 1.1.2-3
 arch4edu r-htmltable 2.4.1-1
 arch4edu r-htmltools 0.5.4-1
@@ -26369,7 +26372,7 @@ arch4edu r-markdown 1.5-1
 arch4edu r-mathjaxr 1.6.0-8
 arch4edu r-matrixcalc 1.0.6-1
 arch4edu r-matrixmodels 0.5.1-1
-arch4edu r-matrixstats 0.63.0-2
+arch4edu r-matrixstats 0.63.0-1
 arch4edu r-mclust 6.0.0-1
 arch4edu r-mcmc 0.9.7-4
 arch4edu r-mcmcpack 1.6.3-6
@@ -26377,7 +26380,7 @@ arch4edu r-mdscore 0.1.3-7
 arch4edu r-memoise 2.0.1-2
 arch4edu r-metabma 0.6.7-3
 arch4edu r-metadat 1.2.0-1
-arch4edu r-metafor 4.0.0-1
+arch4edu r-metafor 3.8.1-3
 arch4edu r-metamisc 0.4.0-1
 arch4edu r-mglm 0.2.1-8
 arch4edu r-mgm 1.2.13-1
@@ -26413,7 +26416,7 @@ arch4edu r-officer 0.6.1-1
 arch4edu r-onewaytests 2.7-1
 arch4edu r-openmx 2.21.1-1
 arch4edu r-openmx-debug 2.21.1-1
-arch4edu r-openssl 2.0.6-3
+arch4edu r-openssl 2.0.6-2
 arch4edu r-openxlsx 4.2.5.2-1
 arch4edu r-openxlsx-debug 4.2.5.2-1
 arch4edu r-operator.tools 1.6.3-9
@@ -26455,7 +26458,7 @@ arch4edu r-purrr 1.0.1-1
 arch4edu r-pwr 1.3.0-4
 arch4edu r-qcc 2.7-7
 arch4edu r-qgam 1.3.4-4
-arch4edu r-qgraph 1.9.4-1
+arch4edu r-qgraph 1.9.3-1
 arch4edu r-quadprog 1.5.8-4
 arch4edu r-quantmod 0.4.20-1
 arch4edu r-quantreg 5.94-1
@@ -26492,11 +26495,11 @@ arch4edu r-rinside 0.2.18-1
 arch4edu r-rinside-debug 0.2.18-1
 arch4edu r-rjags 4.13-5
 arch4edu r-rjson 0.2.21-4
-arch4edu r-rlang 1.1.0-2
+arch4edu r-rlang 1.1.0-1
 arch4edu r-rmarkdown 2.20-2
 arch4edu r-rngwell 0.10.9-1
 arch4edu r-rngwell-debug 0.10.9-1
-arch4edu r-robma 2.3.2-3
+arch4edu r-robma 2.3.2-1
 arch4edu r-robustbase 0.95.0-1
 arch4edu r-rockchalk 1.8.157-1
 arch4edu r-rocr 1.0.11-4
@@ -26556,7 +26559,7 @@ arch4edu r-symmoments 1.2.1-1
 arch4edu r-sys 3.4.1-1
 arch4edu r-systemfonts 1.0.4-2
 arch4edu r-tensora 0.36.2-4
-arch4edu r-testthat 3.1.7-2
+arch4edu r-testthat 3.1.7-1
 arch4edu r-textshaping 0.3.6-2
 arch4edu r-th.data 1.1.1-9
 arch4edu r-threejs 0.3.3-4
@@ -26583,7 +26586,7 @@ arch4edu r-utf8-debug 1.2.3-1
 arch4edu r-uuid 1.1.0-1
 arch4edu r-vcd 1.4.11-1
 arch4edu r-vcdextra 0.8.2-3
-arch4edu r-vctrs 0.6.0-3
+arch4edu r-vctrs 0.6.0-1
 arch4edu r-vctrs-debug 0.5.2-1
 arch4edu r-vdiffr 1.0.5-1
 arch4edu r-vdiffr-debug 1.0.5-1
@@ -26600,7 +26603,7 @@ arch4edu r-withr 2.5.0-1
 arch4edu r-wordcloud 2.6-4
 arch4edu r-xfun 0.37-1
 arch4edu r-xfun-debug 0.37-1
-arch4edu r-xml 3.99.0.14-1
+arch4edu r-xml 3.99.0.10-1
 arch4edu r-xml2 1.3.3-2
 arch4edu r-xtable 1.8.4-1
 arch4edu r-xts 0.13.0-3
