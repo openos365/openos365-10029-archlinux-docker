@@ -11,7 +11,7 @@ core base 3-1 [installed]
 core base-devel 1-1 [installed]
 core bash 5.1.016-3 [installed]
 core binutils 2.40-4 [installed]
-core bison 3.8.2-4 [installed]
+core bison 3.8.2-5 [installed]
 core brotli 1.0.9-10 [installed]
 core brotli-testdata 1.0.9-10
 core btrfs-progs 6.2.1-1 [installed]
@@ -49,7 +49,7 @@ core fakeroot 1.31-2 [installed]
 core file 5.44-3 [installed]
 core filesystem 2023.01.31-1 [installed]
 core findutils 4.9.0-3 [installed]
-core flex 2.6.4-4 [installed]
+core flex 2.6.4-5 [installed]
 core fuse2fs 1.47.0-1
 core gawk 5.2.1-2 [installed]
 core gc 8.2.2-1 [installed]
@@ -171,7 +171,7 @@ core lto-dump 12.2.1-2
 core lvm2 2.03.20-1 [installed]
 core lz4 1:1.9.4-1 [installed]
 core lzo 2.10-5 [installed]
-core m4 1.4.19-2 [installed]
+core m4 1.4.19-3 [installed]
 core make 4.4.1-2 [installed]
 core man-db 2.11.2-1
 core man-pages 6.03-1
@@ -440,7 +440,7 @@ extra clucene 2.3.3.4-14
 extra clutter 1.26.4-2
 extra clutter-gst 3.0.27-4
 extra clutter-gtk 1.8.4-3
-extra cmake 3.26.0-1 [installed]
+extra cmake 3.26.1-1 [installed]
 extra cmark 0.30.3-1
 extra cogl 1.22.8-2
 extra colord 1.4.6-1
@@ -5051,7 +5051,7 @@ community giac 1.9.0.41-1
 community gif2png 3.0.0-4
 community gifsicle 1.93-2
 community gifski 1.10.3-1
-community gigedit 1.2.0-1
+community gigedit 1.2.0-2
 community giggle 0.7-11
 community gimagereader-common 3.4.1-1
 community gimagereader-gtk 3.4.1-1
@@ -5143,7 +5143,7 @@ community glulxe-term 1:0.6.0-1
 community glusterfs 1:10.3-2
 community glyr 1.0.10-5
 community gmic 3.2.2-1
-community gmm 5.4.2-1
+community gmm 5.4.2-2
 community gmni 1.0-1
 community gmp-ecm 7.0.5-1
 community gmrun 1.4w-1
@@ -6036,7 +6036,7 @@ community haskell-mono-traversable 1.0.15.3-118
 community haskell-mono-traversable-instances 0.1.1.0-163
 community haskell-monoid-subclasses 1.2.2-3
 community haskell-mountpoints 1.0.2-24
-community haskell-mtl-prelude 2.0.3.1-2
+community haskell-mtl-prelude 2.0.3.1-3
 community haskell-mueval 0.9.3-162
 community haskell-multimap 1.2.1-1
 community haskell-multistate 0.8.0.4-53
@@ -11529,8 +11529,8 @@ community rsibreak 0.12.15-1
 community rsnapshot 1.4.4-1
 community rspamd 3.5-1
 community rss2email 3.14-4
-community rssguard 4.3.2-1
-community rssguard-lite 4.3.2-1
+community rssguard 4.3.3-1
+community rssguard-lite 4.3.3-1
 community rst2pdf 0.100-1
 community rstcheck 6.1.2-1
 community rt-tests 2.5-1
@@ -12104,14 +12104,14 @@ community shy 0.1.10-3
 community siege 4.1.5-3
 community sieve-connect 0.90-2
 community sigal 2.3-1
-community sigdigger 0.1.0-2
+community sigdigger 0.3.0-2
 community sigil 1.9.30-1
 community signal-desktop 6.11.0-1
 community signify 31-3
 community signing-party 2.11-1
 community sigrok-cli 0.7.2-1
 community sigrok-firmware-fx2lafw 0.1.7-1
-community sigutils 0.1.0-4
+community sigutils 0.3.0-1
 community sile 0.14.8-1
 community silicon 0.5.1-1
 community simde 0.7.2-1
@@ -12353,8 +12353,8 @@ community supervisor 4.2.5-1
 community surfraw 2.3.0-3
 community surge 1.9.0-3
 community surge-xt 1.1.2-1
-community suscan 0.1.0-6
-community suwidgets 0.1.0-1
+community suscan 0.3.0-1
+community suwidgets 0.3.0-1
 community svelte-language-server 0.15.8-2
 community svgcleaner 0.9.5-3
 community svt-hevc 1.5.1-2
@@ -14283,7 +14283,7 @@ chaotic-aur clipman 1.6.1-1
 chaotic-aur cloaker-bin 2.1-1
 chaotic-aur cloudflare-warp-bin 2023.1.133-1
 chaotic-aur cmake-extras-git r290-1
-chaotic-aur cmake-git 3.26.0.571.g841c1844e1-1
+chaotic-aur cmake-git 3.26.1.557.gc96f977017-1
 chaotic-aur cobang 0.9.10-1
 chaotic-aur cockroachdb-bin 22.2.2-1
 chaotic-aur code-marketplace 1.75.1-1
@@ -14830,7 +14830,7 @@ chaotic-aur goldendict-git 1:1.5.0rc2.r590.gd424f25f-1
 chaotic-aur goldendict-webengine-pr-git 22.12.02.r16.gf1e50cd3-1
 chaotic-aur goocanvas2 2.0.4-9.1
 chaotic-aur goodvibes 0.7.6-1
-chaotic-aur goodvibes-git 0.7.6.r12.g9932639-1
+chaotic-aur goodvibes-git 0.7.6.r13.gc789863-1
 chaotic-aur googerteller-git r41.9eb0527-1
 chaotic-aur google-chrome 111.0.5563.110-1
 chaotic-aur google-chrome-beta 112.0.5615.29-1
@@ -15452,7 +15452,7 @@ chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangoapp 0.6.8-4
 chaotic-aur lib32-mangohud 0.6.8-4
 chaotic-aur lib32-mangohud-git 0.6.8.r125.g5d5df3d-1
-chaotic-aur lib32-mesa-tkg-git 23.1.0_devel.168613.2c1da7fbde0-1
+chaotic-aur lib32-mesa-tkg-git 23.1.0_devel.168615.c54b8dfe672-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.1
 chaotic-aur lib32-neon 0.32.4-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15697,8 +15697,8 @@ chaotic-aur linux-tkg-tt 6.2.8-273
 chaotic-aur linux-tkg-tt-generic_v3 6.2.8-273
 chaotic-aur linux-tkg-tt-generic_v3-headers 6.2.8-273
 chaotic-aur linux-tkg-tt-headers 6.2.8-273
-chaotic-aur linux-tt 6.2.7-1
-chaotic-aur linux-tt-headers 6.2.7-1
+chaotic-aur linux-tt 6.2.8-1
+chaotic-aur linux-tt-headers 6.2.8-1
 chaotic-aur linux-vfio 6.2.7.arch1-1
 chaotic-aur linux-vfio-docs 6.2.7.arch1-1
 chaotic-aur linux-vfio-headers 6.2.7.arch1-1
@@ -15812,7 +15812,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.1
 chaotic-aur menulibre 2.2.3-1.1
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.34.1-1
-chaotic-aur mesa-tkg-git 23.1.0_devel.168613.2c1da7fbde0-1
+chaotic-aur mesa-tkg-git 23.1.0_devel.168615.c54b8dfe672-1
 chaotic-aur mesen-sx-git 0.4.0.r250.gc85dd78-1
 chaotic-aur mesen-x-git 1.0.1.r177.ge6d75fcf-1
 chaotic-aur meshlab 2022.02-1.1
@@ -15849,7 +15849,7 @@ chaotic-aur miredo 1.2.6+r159+ge5f5652-1.1
 chaotic-aur mkbold-mkitalic 0.11-2
 chaotic-aur mkinitcpio-firmware 1.4.0-1
 chaotic-aur mkinitcpio-openswap 0.1.0-3.1
-chaotic-aur mkosi-git 14.r243.gbeee070-1
+chaotic-aur mkosi-git 14.r247.gdc20cb6-1
 chaotic-aur mmsd-git r648.f4b8b32-1.1
 chaotic-aur moarvm 2022.12-1
 chaotic-aur mobydroid 0.4-1.1
@@ -28581,7 +28581,7 @@ xerolinux_repo sweet-kvantum-theme-git r309.c226258-1
 xerolinux_repo sweet-theme-full-git r309.c226258-1
 xerolinux_repo sweet-theme-git 3.0.r81.gddb23cd-1
 xerolinux_repo syngestures 1.0-4
-xerolinux_repo system-monitoring-center 2.8.1-1
+xerolinux_repo system-monitoring-center 2.9.0-1
 xerolinux_repo system-tools-backends 2.10.2-5
 xerolinux_repo system76-power 1.1.24-1
 xerolinux_repo systemd-boot-pacman-hook 3-1
