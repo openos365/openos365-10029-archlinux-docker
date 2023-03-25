@@ -1515,7 +1515,7 @@ extra liblightdm-qt5 1:1.32.0-4
 extra liblouis 3.25.0-1
 extra liblqr 0.4.2-3
 extra libmad 0.15.1b-10
-extra libmalcontent 0.11.0-1
+extra libmalcontent 0.11.1-1
 extra libmatroska 1.7.1-1
 extra libmbim 1.28.4-1
 extra libmcrypt 2.5.8-6
@@ -2030,7 +2030,7 @@ extra maeparser 1.3.1-1
 extra mailcap 2.1.53-1 [installed]
 extra mailcommon 22.12.3-1
 extra mailimporter 22.12.3-1
-extra malcontent 0.11.0-1
+extra malcontent 0.11.1-1
 extra mallard-ducktype 1.0.2-8
 extra man2html 3.0.1-9
 extra marble 22.12.3-1
@@ -2827,7 +2827,6 @@ extra rest 0.8.1+r4+ge5ee6ef-1
 extra rhash 1.4.3-1 [installed]
 extra rhino 1.7.14-1
 extra rhino-javadoc 1.7.14-1
-extra rhythmbox 3.4.6-1
 extra rinutils 0.10.1-1
 extra ristretto 0.13.0-1
 extra rocs 22.12.3-1
@@ -3097,7 +3096,7 @@ extra usbctl 1.2-2
 extra usbguard 1.1.2-1
 extra usbmuxd 1.1.1-2 [installed]
 extra v4l-utils 1.24.1-1 [installed]
-extra vala 0.56.4-1
+extra vala 0.56.5-1
 extra valgrind 3.20.0-1
 extra varnish 7.3.0-1
 extra vc 1.4.3-1
@@ -3868,7 +3867,7 @@ community cargo-deny 0.13.7-1
 community cargo-depgraph 1.4.0-1
 community cargo-edit 0.11.9-1
 community cargo-espflash 1.7.0-3
-community cargo-expand 1.0.43-1
+community cargo-expand 1.0.46-1
 community cargo-feature 0.7.0-1
 community cargo-flamegraph 0.6.2-1
 community cargo-fuzz 0.11.2-1
@@ -10187,7 +10186,7 @@ community python-markdown2 2.4.6-1
 community python-markups 3.1.3-4
 community python-marshmallow 3.19.0-1
 community python-marshmallow-sqlalchemy 0.29.0-1
-community python-matplotlib 3.6.3-1
+community python-matplotlib 3.7.1-1
 community python-matplotlib-inline 0.1.6-2
 community python-matrix-common 1.3.0-2
 community python-matrix-nio 0.20.0-1
@@ -10392,7 +10391,7 @@ community python-phpserialize 1.3-10
 community python-piccata 2.0.3-1
 community python-pickleshare 0.7.5-8
 community python-piexif 1.1.3-7
-community python-pikepdf 7.1.1-1
+community python-pikepdf 7.1.2-1
 community python-pilkit 2.0-10
 community python-pillow 9.4.0-2
 community python-pillowfight 0.3.0-6
@@ -11438,6 +11437,7 @@ community rhvoice-voice-victoria 1.8.0-1
 community rhvoice-voice-vitaliy 1.8.0-1
 community rhvoice-voice-volodymyr 1.8.0-1
 community rhvoice-voice-yuriy 1.8.0-1
+community rhythmbox 3.4.6-1
 community riff 1.0.3-1
 community rime-bopomofo 0.0.0.20210131-1
 community rime-cangjie 0.0.0.20210223-1
@@ -14667,7 +14667,7 @@ chaotic-aur firejail-git 0.9.72.r300.gb2fa859bb-1
 chaotic-aur firejail-pacman-hook 1-2.1
 chaotic-aur firetools-git 0.9.72.r3.g81ca775-1
 chaotic-aur fish-autopair 1.0.4-1
-chaotic-aur fish-git 2:3.6.1.r263.ge2579a59b-1
+chaotic-aur fish-git 2:3.6.1.r264.gaa268696b-1
 chaotic-aur fish-systemd-git r10.4e922a2-2
 chaotic-aur fityk 1.3.2-1.1
 chaotic-aur flacon 10.0.0-1
@@ -16178,7 +16178,7 @@ chaotic-aur paru 1.11.1-1.3
 chaotic-aur paru-git 1.11.2.r160.g4780e94-1
 chaotic-aur passbook 0.8-1.1
 chaotic-aur passbook-git 0.8.r36.g750825d-1.1
-chaotic-aur path-of-building-community-git 2.25.1.r6780.60.517-1
+chaotic-aur path-of-building-community-git 2.25.1.r6781.60.517-1
 chaotic-aur patool 1.12-5.1
 chaotic-aur pcf-unifont 15.0.01-1
 chaotic-aur pcf-unifont-extra 15.0.01-1
@@ -23037,7 +23037,7 @@ archlinuxcn electron8-bin 1:8.5.5-4
 archlinuxcn elementary-planner 3.0.7-1
 archlinuxcn emacs-evil 1.14.0-1
 archlinuxcn emacs-gcc-wayland-devel-bin 28.2.50.152031-3
-archlinuxcn emacs-git 30.0.50.165587-1
+archlinuxcn emacs-git 30.0.50.165591-1
 archlinuxcn emacs-go-mode-git 1.6.0.r12.g166dfb1e-1
 archlinuxcn emacs-julia-mode-git 1:0.358.g7aafa8e-1
 archlinuxcn emacs-llvm-mode-git 455075.864a2b25beac-1
@@ -25370,8 +25370,8 @@ archlinuxcn ttf-zilla-slab 1.002-3
 archlinuxcn ttfautohint 1.8.4-2
 archlinuxcn ttfautohint-debug 1.8.4-2
 archlinuxcn tuhi-git 20230319-1
-archlinuxcn typora 1.5.9-1
-archlinuxcn typora-debug 1.5.9-1
+archlinuxcn typora 1.5.10-1
+archlinuxcn typora-debug 1.5.10-1
 archlinuxcn uefipatch 0.28.0-1
 archlinuxcn uefitool 1:0.28.0-2
 archlinuxcn uefitool-debug 1:0.28.0-2
@@ -25557,7 +25557,7 @@ archlinuxcn xorg-xwayland-hidpi-git 21.1.4.r597.gfc625fe172-1
 archlinuxcn xorg-xwayland-hidpi-git-debug 21.1.4.r597.gfc625fe172-1
 archlinuxcn xorg-xwayland-lily 22.1.8-4
 archlinuxcn xorg-xwayland-lily-debug 22.1.8-4
-archlinuxcn xorgproto-git 2022.2.9.r2731.gcf35a91-1
+archlinuxcn xorgproto-git 2022.2.10.r2732.g9fa55c4-1
 archlinuxcn xray 1.8.0-1
 archlinuxcn xray-debug 1.8.0-1
 archlinuxcn xray-domain-list-community 20230325115318-1
