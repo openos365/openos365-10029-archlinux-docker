@@ -353,8 +353,8 @@ extra avidemux-cli 2.8.1-2
 extra avidemux-qt 2.8.1-2
 extra avogadro-crystals 1.0.1-1
 extra avogadro-molecules 1.0.0-1
-extra avogadrolibs 1.97.0-3
-extra avogadrolibs-qt5 1.97.0-3
+extra avogadrolibs 1.97.0-4
+extra avogadrolibs-qt5 1.97.0-4
 extra babl 0.1.102-1
 extra baloo 5.104.0-1
 extra baloo-widgets 22.12.3-1
@@ -2180,9 +2180,9 @@ extra opencl-nvidia 530.41.03-1
 extra opencolorio 2.2.1-4
 extra openconnect 1:9.01-2
 extra opencore-amr 0.1.6-1 [installed]
-extra opencv 4.7.0-6
-extra opencv-cuda 4.7.0-6
-extra opencv-samples 4.7.0-6
+extra opencv 4.7.0-7
+extra opencv-cuda 4.7.0-7
+extra opencv-samples 4.7.0-7
 extra openexr 3.1.6-1 [installed]
 extra opengl-man-pages 20190725-3
 extra openjade 1.3.2-7
@@ -2556,7 +2556,7 @@ extra python-notify2 0.3.1-7
 extra python-nspektr 0.4.0-2
 extra python-numpy 1.24.2-1
 extra python-openbabel 3.1.1-5
-extra python-opencv 4.7.0-6
+extra python-opencv 4.7.0-7
 extra python-opengl 3.1.6-1
 extra python-ordered-set 4.1.0-1
 extra python-packaging 23.0-1
@@ -3395,7 +3395,7 @@ community acpilight 1.2-2
 community acsccid 1.1.8-2
 community activity-log-manager 0.9.7-9
 community adapta-gtk-theme 3.95.0.11-2
-community adios2 2.8.3-2
+community adios2 2.8.3-3
 community adljack 1.2.0-4
 community adlplug 1.0.2-8
 community adlplug-lv2 1.0.2-8
@@ -3434,7 +3434,7 @@ community aircrack-ng 1.7-2
 community airspy 1.0.10-1
 community aj-snapshot 0.9.9-2
 community alacritty 0.11.0-2
-community alembic 1.8.5-1
+community alembic 1.8.5-2
 community alex 3.2.7.1-2
 community alglib 3.19.0-1
 community algol68g 3.1.0-1
@@ -3950,7 +3950,7 @@ community cgdb 0.8.0-1
 community cgit 1.2.3-3
 community cgit-aurweb 1.2.3-3
 community cgmanager 0.42-2
-community cgns 4.3.0-3
+community cgns 4.3.0-4
 community cgrep 6.6.32-366
 community cgroup_event_listener 6.2-1
 community chafa 1.12.4-3
@@ -4138,7 +4138,7 @@ community crystal 1.7.3-1
 community csfml 2.5.1-1
 community csound 6.18.1-2
 community csound-doc 6.18.1-2
-community csound-plugins 1.0.2-4
+community csound-plugins 1.0.2-5
 community csoundqt 1:1.1.1-1
 community csvkit 1.0.7-1
 community ct 0.9.4-1
@@ -5005,7 +5005,7 @@ community gcin 2.9.0-5
 community gcolor3 2.4.0-5
 community gcompris-qt 3.0-1
 community gcovr 5.2-1
-community gdal 3.6.3-1
+community gdal 3.6.3-2
 community gdb-dashboard 0.16.0-1
 community gdlmm 3.7.3-5
 community gdnsd 3.8.0-1
@@ -6530,8 +6530,8 @@ community hcxkeys 6.2.1-2
 community hcxtools 6.2.7-2
 community hd-idle 1.05-4
 community hdapsd 20141203-4
-community hdf5 1.12.2-2
-community hdf5-openmpi 1.12.2-3
+community hdf5 1.14.0-2
+community hdf5-openmpi 1.14.0-1
 community heaptrack 1.4.0-3
 community hedgedoc 1.9.7-1
 community hedgewars 1.0.2-16
@@ -6997,7 +6997,7 @@ community kyotocabinet 1.2.79-1
 community l3afpad 0.8.18.1.11-7
 community lablgtk3 3.1.3-1
 community laborejo 2.2.2-1
-community labplot 2.10.0-1
+community labplot 2.10.0-2
 community ladybird 20220916-1
 community languagetool 6.0-1
 community lapce 0.2.7-1
@@ -7054,7 +7054,7 @@ community libayatana-appindicator 0.5.92-1
 community libayatana-indicator 0.9.3-1
 community libb64 1.2.1-4
 community libbf 2020.01.19-1
-community libblastrampoline 5.4.0-1
+community libblastrampoline 5.5.0-1
 community libbloom 1.6-3
 community libbobcat 6.02.02-1
 community libbraiding 1.2-1
@@ -7193,7 +7193,7 @@ community libmanette 0.2.6-4
 community libmatekbd 1.26.0-1
 community libmatemixer 1.26.0-1
 community libmateweather 1.26.0-1
-community libmatio 1.5.23-2
+community libmatio 1.5.23-3
 community libmaxminddb 1.7.1-1
 community libmd 1.0.4-1
 community libmediainfo 22.12-1
@@ -7887,8 +7887,8 @@ community mdf2iso 0.3.1-4
 community mdk4 4.2-1
 community mdns-scan 0.5-6
 community mdp 1.0.15-2
-community med 4.1.1-1
-community med-openmpi 4.1.1-2
+community med 4.1.1-2
+community med-openmpi 4.1.1-3
 community mediaelch 2.8.18-2
 community mediainfo 22.12-1
 community mediainfo-gui 22.12-1
@@ -8122,11 +8122,11 @@ community nerdctl 1.2.1-1
 community netavark 1.5.0-1
 community netbeans 16-1
 community netbrake 0.2-7
-community netcdf 4.9.2-1
+community netcdf 4.9.2-2
 community netcdf-cxx 4.3.1-3
 community netcdf-fortran 4.6.0-1
 community netcdf-fortran-openmpi 4.6.0-1
-community netcdf-openmpi 4.9.2-1
+community netcdf-openmpi 4.9.2-3
 community netcf 0.2.8-8
 community netdata 1.38.1-1
 community netfilter-fullconenat r73.0cf3b48-281
@@ -8285,7 +8285,7 @@ community ocamlbuild 0.14.2-1
 community ocrad 0.28-2
 community ocrdesktop 4.0-1
 community ocrfeeder 0.8.5-1
-community octave 8.1.0-1
+community octave 8.1.0-3
 community ode 0.16.2-1
 community odin2-synthesizer 2.3.4-1
 community odt2txt 0.5-5
@@ -8543,7 +8543,7 @@ community papirus-icon-theme 20230301-1
 community par2cmdline 0.8.1-2
 community parallel 20230222-1
 community parallel-docs 20230222-1
-community paraview 5.11.0-2
+community paraview 5.11.0-3
 community parcellite 1.2.1-4
 community pari 2.15.3-1
 community pari-elldata 20210301-1
@@ -9867,7 +9867,7 @@ community python-gammu 3.2.4-1
 community python-gast 0.5.3-1
 community python-gast03 0.3.3-3
 community python-gcp-devrel-py-tools 0.0.16-5
-community python-gdal 3.6.3-1
+community python-gdal 3.6.3-2
 community python-gdstk 0.9.27-1
 community python-genshi 0.7.7-1
 community python-genty 1.3.2-11
@@ -9918,8 +9918,8 @@ community python-guzzle-sphinx-theme 0.7.11-10
 community python-gwebsockets 0.7-5
 community python-h11 0.14.0-1
 community python-h2 4.1.0-1
-community python-h5py 3.8.0-1
-community python-h5py-openmpi 3.7.0-1
+community python-h5py 3.8.0-2
+community python-h5py-openmpi 3.8.0-1
 community python-hachoir 3.2.0-1
 community python-hacking 5.0.0-1
 community python-halo 0.0.31-4
@@ -10609,7 +10609,7 @@ community python-pysrt 1.1.2-4
 community python-pystache 0.6.1-1
 community python-pystemmer 2.2.0.1-1
 community python-pyswip 0.2.10-2
-community python-pytables 3.7.0-3
+community python-pytables 3.7.0-4
 community python-pytddmon 1.0.8-8
 community python-pyte 0.8.1-1
 community python-pytesseract 0.3.10-1
@@ -11216,7 +11216,7 @@ community qcoro-qt6 0.8.0-1
 community qcustomplot 2.1.1-1
 community qcustomplot-doc 2.1.1-1
 community qd 2.3.23-1
-community qgis 3.30.0-1
+community qgis 3.30.0-2
 community qgit 2.10-2
 community qgnomeplatform-qt5 0.9.0-8
 community qgnomeplatform-qt6 0.9.0-8
@@ -12153,7 +12153,7 @@ community sloccount 2.26-10
 community slock 1.5-1
 community slop 7.6-2
 community slowhttptest 1.9.0-1
-community slurm-llnl 22.05.7.1-1
+community slurm-llnl 22.05.7.1-2
 community slurp 1.4.0-1
 community smali 2.5.2-1
 community smalltalk 3.2.91-13
@@ -12429,7 +12429,7 @@ community systemd-swap 4.4.0-2
 community systemd-ui 3-5
 community systemdgenie 0.99.0-4
 community systeroid 0.3.1-1
-community sz 2.1.12.5-1
+community sz 2.1.12.5-2
 community t-prot 3.4-6
 community t1utils 1.42-1
 community tachyon 0.99.5-1
@@ -13000,7 +13000,7 @@ community vico 1.2.2-2
 community vidcutter 6.0.5.1-6
 community viewnior 1.8-3
 community vifm 0.12.1-1
-community vigra 1.11.1.r67+g093d57d1-7
+community vigra 1.11.1.r67+g093d57d1-8
 community viking 1.10-2
 community vim-airline 0.11-1
 community vim-airline-themes r1435.97cf3e6-1
@@ -13129,7 +13129,7 @@ community vsftpd 3.0.3-8
 community vsqlite++ 0.3.13-7
 community vst3sdk 3.7.6_build_18-2
 community vst3sdk-docs 3.7.6_build_18-2
-community vtk 9.2.6-3
+community vtk 9.2.6-4
 community vtr 8.0.0-4
 community vulscan 2.0-4
 community vultr-cli 2.15.1-1
@@ -14836,7 +14836,7 @@ chaotic-aur godot-mono 3.5.1-1
 chaotic-aur goland 2022.3.4-1
 chaotic-aur goland-jre 2022.3.4-1
 chaotic-aur goldendict-git 1:1.5.0rc2.r590.gd424f25f-1
-chaotic-aur goldendict-webengine-pr-git 22.12.02.r16.ga1d75148-1
+chaotic-aur goldendict-webengine-pr-git 22.12.02.r16.g1dd20ac3-1
 chaotic-aur goocanvas2 2.0.4-9.1
 chaotic-aur goodvibes 0.7.6-1
 chaotic-aur goodvibes-git 0.7.6.r13.gc789863-1
@@ -16827,7 +16827,7 @@ chaotic-aur rtw88-dkms-git r204.d5af6c1-1
 chaotic-aur rtw89-dkms-git 1:r420.964cff5-1
 chaotic-aur rubymine 2022.3.3-1
 chaotic-aur rufetch 0.2.2-1
-chaotic-aur ruffle-git 1:r8806.39b53c76d-1
+chaotic-aur ruffle-git 1:r8808.c68a4b009-1
 chaotic-aur ruffle-nightly-bin 2023.03.25-1
 chaotic-aur rusnapshot-git 31.e68c28b-1
 chaotic-aur rustc-demangle 0.1.21-1
