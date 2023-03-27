@@ -37,7 +37,7 @@ core dialog 1:1.3_20230209-1
 core diffutils 3.9-1 [installed]
 core ding-libs 0.6.2-1
 core dmraid 1.0.0.rc16.3-14 [installed]
-core dnssec-anchors 20190629-3
+core dnssec-anchors 20190629-3 [installed]
 core dosfstools 4.2-3 [installed]
 core e2fsprogs 1.47.0-1 [installed]
 core ed 1.19-1
@@ -93,7 +93,7 @@ core kbd 2.5.1-1 [installed]
 core keyutils 1.6.3-1 [installed]
 core kmod 30-3 [installed]
 core krb5 1.20.1-1 [installed]
-core ldns 1.8.3-2
+core ldns 1.8.3-2 [installed]
 core lemon 3.41.2-1
 core less 1:608-2 [installed]
 core lib32-gcc-libs 12.2.1-2
@@ -195,7 +195,7 @@ core nspr 4.35-1 [installed]
 core nss 3.89-1 [installed]
 core openldap 2.6.4-1
 core openresolv 3.12.0-1
-core openssh 9.3p1-1
+core openssh 9.3p1-1 [installed]
 core openssl 3.0.8-1 [installed]
 core openssl-1.1 1.1.1.t-1
 core p11-kit 0.24.1-1 [installed]
@@ -569,7 +569,7 @@ extra evolution-spamassassin 3.46.4-1
 extra exempi 2.6.3-1
 extra exiv2 0.27.6-1
 extra exo 4.18.0-1
-extra expect 5.45.4-4
+extra expect 5.45.4-4 [installed]
 extra extra-cmake-modules 5.104.0-1 [installed]
 extra f2fs-tools 1.15.0-2
 extra faac 1.30-4
@@ -2930,7 +2930,7 @@ extra t1lib 5.1.2-8
 extra taglib 1.13-1
 extra tali 40.9-1
 extra talloc 2.4.0-2
-extra tcl 8.6.13-1
+extra tcl 8.6.13-1 [installed]
 extra tcpdump 4.99.3-1
 extra tdb 1.4.8-1 [installed]
 extra telepathy-accounts-signon 2.1-3
@@ -14247,7 +14247,7 @@ chaotic-aur chaotic-keyring 20220803-1 [installed]
 chaotic-aur chaotic-mirrorlist 20230304-2 [installed]
 chaotic-aur chaotic-neofetch-git 7.1.0.r166.gccd5d9f5-1
 chaotic-aur chatgpt-desktop-bin 0.12.0-1
-chaotic-aur chatterino2-7tv-git r4063.fa9f9b23-1
+chaotic-aur chatterino2-7tv-git r4075.fb2aab8c-1
 chaotic-aur chatterino2-git v2.4.2.r17.gf7ac526c3-1
 chaotic-aur check-broken-packages-pacman-hook-git r87.eec94bd-1
 chaotic-aur checkmake 0.2.1-2
@@ -14671,7 +14671,7 @@ chaotic-aur firejail-git 0.9.72.r301.g9c438eff6-1
 chaotic-aur firejail-pacman-hook 1-2.1
 chaotic-aur firetools-git 0.9.72.r3.g81ca775-1
 chaotic-aur fish-autopair 1.0.4-1
-chaotic-aur fish-git 2:3.6.1.r284.gf096841e4-1
+chaotic-aur fish-git 2:3.6.1.r287.gba7785856-1
 chaotic-aur fish-systemd-git r10.4e922a2-2
 chaotic-aur fityk 1.3.2-1.1
 chaotic-aur flacon 10.0.0-1
@@ -14779,7 +14779,7 @@ chaotic-aur gdm-settings-git 3.beta.0+0+g83d55d9-1
 chaotic-aur gdm-tools-git 1:1.2+0+gef1e98f-1
 chaotic-aur gedit-plugin-markdown_preview 2.0-1.1
 chaotic-aur geekbench 6.0.1-1
-chaotic-aur gegl-git 0..r10511.61d601dff-1
+chaotic-aur gegl-git 0..r10512.c4c769ee2-1
 chaotic-aur genmon-plugin-common-git 5.1.0.r41.gd8f2540-1
 chaotic-aur genymotion 3.3.3-1
 chaotic-aur geometrize-bin 1.0.1-1
@@ -14821,7 +14821,7 @@ chaotic-aur gmsh-bin 4.11.1-1
 chaotic-aur gmusicbrowser 1.1.16-1.1
 chaotic-aur gnome-2048-git 3.38.2.r26.g1978ad0-1
 chaotic-aur gnome-browser-connector 42.1-3.2
-chaotic-aur gnome-calendar-git 44.0+36+ge0201616-1
+chaotic-aur gnome-calendar-git 44.0+37+gbdf29115-1
 chaotic-aur gnome-icon-theme 3.12.0-7.1
 chaotic-aur gnome-icon-theme-symbolic 3.12.0-6.1
 chaotic-aur gnome-multi-writer-git 3.35.90.r330.91c7b2d-1
@@ -15354,7 +15354,7 @@ chaotic-aur ktweak-git 1.0.293f748-1
 chaotic-aur kubetail 1.6.17-1
 chaotic-aur kunitconversion-git 5.104.0_r481.g1dbe91a-1
 chaotic-aur kuserfeedback-git 1.2.1_r813.g8d0062d-1
-chaotic-aur kvantum-git 1.0.9.r23.g868eba20-1
+chaotic-aur kvantum-git 1.0.9.r24.g9c14ea76-1
 chaotic-aur kvantum-theme-akava-git r16.0500493-1
 chaotic-aur kvantum-theme-chromeos-git r65.fa7c1ac-1
 chaotic-aur kvantum-theme-matcha-git r11.a3b247b-1.1
@@ -15747,7 +15747,7 @@ chaotic-aur lldb-git 17.0.0_r453920.0ffea218934b-1
 chaotic-aur llvm-git 17.0.0_r453920.0ffea218934b-1
 chaotic-aur llvm-libs-git 17.0.0_r453920.0ffea218934b-1
 chaotic-aur llvm-proton-bin 1:20210522-1
-chaotic-aur lmms-git 1.3.0.alpha.1.r277.g2baa23ee1-1
+chaotic-aur lmms-git 1.3.0.alpha.1.r278.gfb529a19c-1
 chaotic-aur lockdown-ms 20130326-4
 chaotic-aur loginized 1.4.0-2.1
 chaotic-aur logiops 0.2.3-1.1
@@ -16217,7 +16217,7 @@ chaotic-aur phonon-qt5-git 4.11.1_r3900.g81b3111d-1
 chaotic-aur phoronix-test-suite 10.8.4-1.1
 chaotic-aur phosh 0.21.0-1.1
 chaotic-aur photocollage 1.4.5-2.1
-chaotic-aur photoqt 3.1-1
+chaotic-aur photoqt 3.1-2
 chaotic-aur php-humbug-box-bin 4.3.8-1
 chaotic-aur php80 8.0.28-1
 chaotic-aur php80-apache 8.0.28-1
@@ -17001,7 +17001,7 @@ chaotic-aur startgame 1.2.3-1.1
 chaotic-aur steam-boilr-gui 1.7.21-1.1
 chaotic-aur steam-metadata-editor-git 1.0.2.r57.96265af-1
 chaotic-aur steamtinkerlaunch 12.12-1
-chaotic-aur stellarium 1.2-1
+chaotic-aur stellarium 23.1-1
 chaotic-aur sticky-git 1.14.r4.g7760fb1-1
 chaotic-aur stilo-themes-git 4.0.r0.gf21dee1-1
 chaotic-aur stockfish-git r5666.g587bc647d-1
