@@ -61,7 +61,7 @@ core gcc-go 12.2.1-2
 core gcc-libs 12.2.1-2 [installed]
 core gcc-objc 12.2.1-2
 core gdbm 1.23-2 [installed]
-core gettext 0.21.1-2 [installed]
+core gettext 0.21.1-4 [installed]
 core glib2 2.76.1-1 [installed]
 core glib2-docs 2.76.1-1
 core glibc 2.37-2 [installed]
@@ -98,9 +98,9 @@ core lemon 3.41.2-1
 core less 1:608-2 [installed]
 core lib32-gcc-libs 12.2.1-2
 core lib32-glibc 2.37-2
-core libaio 0.3.113-1 [installed]
+core libaio 0.3.113-2 [installed]
 core libarchive 3.6.2-2 [installed]
-core libassuan 2.5.5-1 [installed]
+core libassuan 2.5.5-2 [installed]
 core libbpf 1.1.0-1 [installed]
 core libcap 2.67-1 [installed]
 core libcap-ng 0.8.3-1 [installed]
@@ -128,7 +128,7 @@ core libnfnetlink 1.0.2-1 [installed]
 core libnftnl 1.2.5-1 [installed]
 core libnghttp2 1.52.0-1 [installed]
 core libnl 3.7.0-3 [installed]
-core libnsl 2.0.0-2 [installed]
+core libnsl 2.0.0-3 [installed]
 core libp11-kit 0.24.1-1 [installed]
 core libpcap 1.10.3-1 [installed]
 core libpipeline 1.5.7-1
@@ -190,7 +190,7 @@ core nettle 3.8.1-1 [installed]
 core nfs-utils 2.6.2-1
 core nfsidmap 2.6.2-1
 core nilfs-utils 2.2.9-2
-core npth 1.6-3 [installed]
+core npth 1.6-4 [installed]
 core nspr 4.35-1 [installed]
 core nss 3.89-1 [installed]
 core openldap 2.6.4-1
@@ -2618,7 +2618,7 @@ extra python-virtualenv 20.17.1-1
 extra python-wrapt 1.14.1-1
 extra python-wstools 0.4.10-5
 extra python-ytmusicapi 0.25.1-1
-extra python-zope-interface 5.5.2-1
+extra python-zope-interface 6.0-1
 extra qalculate-gtk 4.6.0-1
 extra qalculate-qt 4.6.0-1
 extra qbs 1.24.1-1
@@ -5719,8 +5719,8 @@ community haskell-ghc-trace-events 0.1.2.6-1
 community haskell-ghc-typelits-extra 0.4.4-9
 community haskell-ghc-typelits-knownnat 0.7.7-6
 community haskell-ghc-typelits-natnormalise 0.7.7-10
-community haskell-ghcide 1.8.0.0-34
-community haskell-ghcide-test-utils 1.8.0.0-34
+community haskell-ghcide 1.8.0.0-35
+community haskell-ghcide-test-utils 1.8.0.0-35
 community haskell-gi 0.26.3-15
 community haskell-gi-atk 2.0.25-41
 community haskell-gi-base 0.26.3-2
@@ -5797,34 +5797,34 @@ community haskell-hinotify 0.4.1-148
 community haskell-hint 0.9.0.6-17
 community haskell-hjsmin 0.2.0.4-201
 community haskell-hledger-lib 1.28-14
-community haskell-hls-alternate-number-format-plugin 1.2.0.0-34
-community haskell-hls-brittany-plugin 1.0.2.2-39
-community haskell-hls-call-hierarchy-plugin 1.1.0.0-34
-community haskell-hls-change-type-signature-plugin 1.0.1.1-34
-community haskell-hls-class-plugin 1.1.0.0-34
-community haskell-hls-code-range-plugin 1.0.0.0-34
-community haskell-hls-eval-plugin 1.3.0.0-34
-community haskell-hls-explicit-fixity-plugin 1.0.0.0-34
-community haskell-hls-explicit-imports-plugin 1.1.0.1-38
-community haskell-hls-floskell-plugin 1.0.1.2-34
-community haskell-hls-fourmolu-plugin 1.1.0.0-34
-community haskell-hls-gadt-plugin 1.0.0.0-34
-community haskell-hls-graph 1.8.0.0-21
-community haskell-hls-haddock-comments-plugin 1.1.0.0-34
-community haskell-hls-hlint-plugin 1.1.0.0-34
-community haskell-hls-module-name-plugin 1.1.0.0-34
-community haskell-hls-ormolu-plugin 1.0.2.2-35
-community haskell-hls-plugin-api 1.5.0.0-26
-community haskell-hls-pragmas-plugin 1.0.3.0-34
-community haskell-hls-qualify-imported-names-plugin 1.0.1.0-51
-community haskell-hls-refactor-plugin 1.0.0.0-34
-community haskell-hls-refine-imports-plugin 1.0.3.0-34
-community haskell-hls-rename-plugin 1.0.1.0-34
-community haskell-hls-retrie-plugin 1.0.2.2-34
-community haskell-hls-splice-plugin 1.0.2.0-33
-community haskell-hls-stylish-haskell-plugin 1.0.1.1-40
-community haskell-hls-tactics-plugin 1.7.0.0-34
-community haskell-hls-test-utils 1.4.0.0-34
+community haskell-hls-alternate-number-format-plugin 1.2.0.0-35
+community haskell-hls-brittany-plugin 1.0.2.2-40
+community haskell-hls-call-hierarchy-plugin 1.1.0.0-35
+community haskell-hls-change-type-signature-plugin 1.0.1.1-35
+community haskell-hls-class-plugin 1.1.0.0-35
+community haskell-hls-code-range-plugin 1.0.0.0-35
+community haskell-hls-eval-plugin 1.3.0.0-35
+community haskell-hls-explicit-fixity-plugin 1.0.0.0-35
+community haskell-hls-explicit-imports-plugin 1.1.0.1-39
+community haskell-hls-floskell-plugin 1.0.1.2-35
+community haskell-hls-fourmolu-plugin 1.1.0.0-35
+community haskell-hls-gadt-plugin 1.0.0.0-35
+community haskell-hls-graph 1.8.0.0-22
+community haskell-hls-haddock-comments-plugin 1.1.0.0-35
+community haskell-hls-hlint-plugin 1.1.0.0-35
+community haskell-hls-module-name-plugin 1.1.0.0-35
+community haskell-hls-ormolu-plugin 1.0.2.2-36
+community haskell-hls-plugin-api 1.5.0.0-27
+community haskell-hls-pragmas-plugin 1.0.3.0-35
+community haskell-hls-qualify-imported-names-plugin 1.0.1.0-52
+community haskell-hls-refactor-plugin 1.0.0.0-35
+community haskell-hls-refine-imports-plugin 1.0.3.0-35
+community haskell-hls-rename-plugin 1.0.1.0-35
+community haskell-hls-retrie-plugin 1.0.2.2-35
+community haskell-hls-splice-plugin 1.0.2.0-34
+community haskell-hls-stylish-haskell-plugin 1.0.1.1-41
+community haskell-hls-tactics-plugin 1.7.0.0-35
+community haskell-hls-test-utils 1.4.0.0-35
 community haskell-hoauth2 2.2.0-47
 community haskell-hookup 0.7-27
 community haskell-hopenpgp 2.9.8-94
@@ -5946,7 +5946,7 @@ community haskell-language-c 0.9.2-1
 community haskell-language-haskell-extract 0.2.4-15
 community haskell-language-javascript 0.7.1.0-135
 community haskell-language-python 0.5.8-132
-community haskell-language-server 1.8.0.0-34
+community haskell-language-server 1.8.0.0-35
 community haskell-lattices 2.1-12
 community haskell-lazysmallcheck 0.6-4
 community haskell-leancheck 1.0.0-1
@@ -6284,9 +6284,9 @@ community haskell-static-hash 0.0.2-21
 community haskell-statistics 0.16.1.2-21
 community haskell-status-notifier-item 0.3.1.0-56
 community haskell-stm-chans 3.0.0.9-1
-community haskell-stm-containers 1.2-37
+community haskell-stm-containers 1.2-38
 community haskell-stm-delay 0.1.1.1-12
-community haskell-stm-hamt 1.2.0.9-15
+community haskell-stm-hamt 1.2.0.10-1
 community haskell-stmonadtrans 0.4.6-75
 community haskell-storable-complex 0.2.3.0-218
 community haskell-storable-record 0.0.7-2
@@ -9775,7 +9775,7 @@ community python-extension-helpers 1.0.0-2
 community python-extras 1.0.0-10
 community python-fabulous 0.4.0-3
 community python-factory-boy 3.2.1-3
-community python-faker 16.6.1-1
+community python-faker 16.7.0-1
 community python-fakeredis 2.10.2-1
 community python-falcon 3.1.1-1
 community python-fastapi 0.95.0-1
@@ -11184,7 +11184,7 @@ community python-zipfile-deflate64 0.2.0-1
 community python-zipp 3.15.0-1
 community python-zita-audiotools 1.3.0-1
 community python-zita-jacktools 1.6.0-2
-community python-zope-annotation 4.8-1
+community python-zope-annotation 5.0-1
 community python-zope-component 5.1.0-3
 community python-zope-configuration 4.4.1-1
 community python-zope-copy 4.3-1
@@ -14543,7 +14543,7 @@ chaotic-aur ferdium-bin 6.2.4-1
 chaotic-aur ferdium-nightly-bin 6.2.6.nightly.9-1
 chaotic-aur ff2mpv-native-messaging-host-git r70.6ca0eb0-1
 chaotic-aur ffmpeg-full 6.0-2
-chaotic-aur ffmpeg-git 6.1.r110105.g9bf1848acf-1
+chaotic-aur ffmpeg-git 6.1.r110112.gd6e30291db-1
 chaotic-aur ffmpeg-obs 6-4
 chaotic-aur ffmpeg-obs-debug 5.1.2-3
 chaotic-aur ffmpeg21 2.1-2
@@ -14972,7 +14972,7 @@ chaotic-aur gruvbox-material-gtk-theme-git r20.84e977222-1
 chaotic-aur gruvbox-material-icon-theme-git r20.84e977222-1
 chaotic-aur grype-bin 0.59.1-1
 chaotic-aur gsettings-desktop-schemas-git 44.0.r0.geff0b36-1
-chaotic-aur gst-plugin-pipewire-common-git 0.3.67.r188.g08642add-1
+chaotic-aur gst-plugin-pipewire-common-git 0.3.67.r195.g4323a8ad-1
 chaotic-aur gstreamer0.10 0.10.36-20
 chaotic-aur gstreamer0.10-base 0.10.36-13
 chaotic-aur gstreamer0.10-base-plugins 0.10.36-13
@@ -15045,7 +15045,7 @@ chaotic-aur hyprland-nvidia 0.22.0beta-1
 chaotic-aur i2p 2.1.0-1
 chaotic-aur i3lock-color 2.13.c.4-1.2
 chaotic-aur i3lock-fancy-git r191.4cfcd47-1.1
-chaotic-aur i3status-rust-git 0.30.6.r3231.gde47be7c-1
+chaotic-aur i3status-rust-git 0.30.6.r3232.g86213c7d-1
 chaotic-aur ialauncher-git r127.b93f75d-1.1
 chaotic-aur ibus-bamboo-git 0.8.2+RC3+2+gf8fab45-1
 chaotic-aur ibus-mozc 2.28.4960.102-1
@@ -15360,7 +15360,7 @@ chaotic-aur kvantum-theme-chromeos-git r65.fa7c1ac-1
 chaotic-aur kvantum-theme-matcha-git r11.a3b247b-1.1
 chaotic-aur kvantum-theme-nordic-git 2.2.0.r46.g7c18257-1
 chaotic-aur kvantum-theme-orchis-git r44.9899e1d-1
-chaotic-aur kvantum-theme-qogir-git r88.5f80b0a-1
+chaotic-aur kvantum-theme-qogir-git r89.f430168-1
 chaotic-aur kvantum-theme-vimix-git 2021.09.05.r15.g29c4316-1
 chaotic-aur kwallet-git 5.104.0_r1231.g353f494-1
 chaotic-aur kwallet-pam-git 5.27.80_r284.gaf3180a-1
@@ -17035,8 +17035,8 @@ chaotic-aur supertuxkart-git 23148+18575-1
 chaotic-aur surf-git 2.1.r10.g665a709-1.1
 chaotic-aur surfn-icons-git 1:22.10.01.r14.g41ff56aa-1
 chaotic-aur svt-av1-git 1.4.1.r105.g4816347d-1
-chaotic-aur sway-git r7100.dee032d0a-1
-chaotic-aur sway-git-debug r7100.dee032d0a-1
+chaotic-aur sway-git r7100.dee032d0-1
+chaotic-aur sway-git-debug r7100.dee032d0-1
 chaotic-aur sway-launcher-desktop 1.6.0-1
 chaotic-aur swaybg-git r128.a67361e-1
 chaotic-aur swayfx 0.2-2
@@ -23011,13 +23011,13 @@ archlinuxcn dislocker-noruby 0.7.3-2
 archlinuxcn dnsmasq-china-list-git 0.153195.7c03aedb10-2
 archlinuxcn docker-rootless-extras 23.0.2-1
 archlinuxcn dog-dns-git 0.1.0.r100.g721440b-1
-archlinuxcn dolphin-emu-git 5.0.r19106.012044eb64a-1
-archlinuxcn dolphin-emu-git-debug 5.0.r19106.012044eb64a-1
-archlinuxcn dolphin-emu-nogui-git 5.0.r19106.012044eb64a-1
+archlinuxcn dolphin-emu-git 5.0.r19109.d62838a2f41-1
+archlinuxcn dolphin-emu-git-debug 5.0.r19109.d62838a2f41-1
+archlinuxcn dolphin-emu-nogui-git 5.0.r19109.d62838a2f41-1
 archlinuxcn dosbox-staging 0.79.1-1
 archlinuxcn dosbox-staging-debug 0.79.1-1
-archlinuxcn dosbox-x-git 17829.ccf74541f-1
-archlinuxcn dosbox-x-git-debug 17829.ccf74541f-1
+archlinuxcn dosbox-x-git 17830.aa6c17fe9-1
+archlinuxcn dosbox-x-git-debug 17830.aa6c17fe9-1
 archlinuxcn dotnet-host-bin 7.0.4.sdk202-1
 archlinuxcn dotnet-runtime-bin 7.0.4.sdk202-1
 archlinuxcn dotnet-sdk-bin 7.0.4.sdk202-1
@@ -23122,7 +23122,7 @@ archlinuxcn fcitx5-qt5-git 5.0.17.r2.gd411c42-1
 archlinuxcn fcitx5-qt6-git 5.0.17.r2.gd411c42-1
 archlinuxcn fcitx5-rime-git 5.0.16.r1.gcde7376-1
 archlinuxcn fcitx5-rime-git-debug 5.0.16.r1.gcde7376-1
-archlinuxcn feeluown-git 2:r1500.5689e82-1
+archlinuxcn feeluown-git 2:r1501.79f2c04-1
 archlinuxcn feishu-bin 5.30.15-1
 archlinuxcn feroxbuster-git 2.7.1.r6.ga424057-1
 archlinuxcn fex 2.0.0-1
@@ -24162,8 +24162,8 @@ archlinuxcn libpasastro 1.4.1-1
 archlinuxcn libpcl 1.12-5
 archlinuxcn libpdfium-nojs 5563.r1.05a0a80e52-1
 archlinuxcn libpdfium-nojs-debug 5563.r1.05a0a80e52-1
-archlinuxcn libplacebo-git 1:5.264.0.r85.g0f36b010-1
-archlinuxcn libplacebo-git-debug 1:5.264.0.r85.g0f36b010-1
+archlinuxcn libplacebo-git 1:5.264.0.r86.gfc874b5b-1
+archlinuxcn libplacebo-git-debug 1:5.264.0.r86.gfc874b5b-1
 archlinuxcn libpthread-stubs 0.4-1
 archlinuxcn libqt6xdg-git 3.10.0.6.ga36b76d-3
 archlinuxcn libqt6xdg-git-debug 3.10.0.6.ga36b76d-3
@@ -24308,11 +24308,11 @@ archlinuxcn mangoapp 0.6.8-5
 archlinuxcn mangohud 0.6.8-5
 archlinuxcn mangohud-common 0.6.8-5
 archlinuxcn mangohud-debug 0.6.8-5
-archlinuxcn mariadb-clients-git 10.9.5.r117.geec1d6ce3dc-6
+archlinuxcn mariadb-clients-git 10.9.5.r117.geec1d6ce3dc-7
 archlinuxcn mariadb-connector-cpp 1.1.2-1
-archlinuxcn mariadb-git 10.9.5.r117.geec1d6ce3dc-6
-archlinuxcn mariadb-git-debug 10.9.5.r117.geec1d6ce3dc-6
-archlinuxcn mariadb-libs-git 10.9.5.r117.geec1d6ce3dc-6
+archlinuxcn mariadb-git 10.9.5.r117.geec1d6ce3dc-7
+archlinuxcn mariadb-git-debug 10.9.5.r117.geec1d6ce3dc-7
+archlinuxcn mariadb-libs-git 10.9.5.r117.geec1d6ce3dc-7
 archlinuxcn marktext-git 0.17.0.r16.gaed36db-1
 archlinuxcn mars-mips 4.5-6
 archlinuxcn masterpdfeditor 5.9.40-4
@@ -24386,7 +24386,7 @@ archlinuxcn music-dl 3.0.0-3
 archlinuxcn mycli 1.25.0-1
 archlinuxcn mysql 8.0.31-2
 archlinuxcn mysql-clients 8.0.31-2
-archlinuxcn mytop-git 10.9.5.r117.geec1d6ce3dc-6
+archlinuxcn mytop-git 10.9.5.r117.geec1d6ce3dc-7
 archlinuxcn naiveproxy 111.0.5563.64_1-1
 archlinuxcn naiveproxy-debug 111.0.5563.64_1-1
 archlinuxcn nali-cli 2.1.4-2
@@ -24508,8 +24508,8 @@ archlinuxcn nspawn 0.6-1
 archlinuxcn ntfs3-dkms 1:5.17-1
 archlinuxcn numix-circle-icon-theme-git 23.03.19.r0.g57e585d-1
 archlinuxcn numix-icon-theme 23.02.20.r0.g19d352ea7-1
-archlinuxcn nushell-git 0.77.2.r6970.g7ec5f2f2e-1
-archlinuxcn nushell-git-debug 0.77.2.r6970.g7ec5f2f2e-1
+archlinuxcn nushell-git 0.77.2.r6972.g8b185a400-1
+archlinuxcn nushell-git-debug 0.77.2.r6972.g8b185a400-1
 archlinuxcn nutstore 5.1.7-1
 archlinuxcn nvchecker-git 1:2.11dev.r18-1
 archlinuxcn nvidia-beta-dkms 530.41.03-1
@@ -25072,8 +25072,8 @@ archlinuxcn revda-git-debug 5.2.0.r0.g0ea65e3-1
 archlinuxcn rime-cloverpinyin 1.1.4-2
 archlinuxcn rime-sbxlm 20230312-1
 archlinuxcn rime-symbols 1.0.0-1
-archlinuxcn ripgrep-skylake-git 13.0.0.20230321-1
-archlinuxcn ripgrep-skylake-git-debug 13.0.0.20230321-1
+archlinuxcn ripgrep-skylake-git 13.0.0.20230328-1
+archlinuxcn ripgrep-skylake-git-debug 13.0.0.20230328-1
 archlinuxcn rmath-julia-git 0.4.0-1
 archlinuxcn rmg-git 0.3.8.9.g3d81a05-1
 archlinuxcn rmg-git-debug 0.3.8.9.g3d81a05-1
@@ -28595,6 +28595,7 @@ xerolinux_repo woeusb-ng 0.2.10-1
 xerolinux_repo woeusbgui 3.3.1-3
 xerolinux_repo wttr 1.55.r0.g36893b1-1
 xerolinux_repo xdman 1:7.2.11-2
+xerolinux_repo xero-catppuccin-wallpapers 23.04-1
 xerolinux_repo xero-fix-scripts 0.9-3
 xerolinux_repo xero-g-config 23.02-4
 xerolinux_repo xero-g-hello 1.0.2-2
