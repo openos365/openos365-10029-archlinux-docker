@@ -238,11 +238,11 @@ core sqlite-tcl 3.41.2-1
 core sudo 1.9.13.p3-1 [installed]
 core sysfsutils 2.1.1-1 [installed]
 core syslinux 6.04.pre2.r11.gbf6db5b4-3
-core systemd 253.1-3 [installed]
-core systemd-libs 253.1-3 [installed]
-core systemd-resolvconf 253.1-3
-core systemd-sysvcompat 253.1-3 [installed]
-core systemd-ukify 253.1-3
+core systemd 253.2-1 [installed]
+core systemd-libs 253.2-1 [installed]
+core systemd-resolvconf 253.2-1
+core systemd-sysvcompat 253.2-1 [installed]
+core systemd-ukify 253.2-1
 core tar 1.34-2 [installed]
 core texinfo 7.0.2-2 [installed]
 core thin-provisioning-tools 1.0.3-1 [installed]
@@ -1346,7 +1346,7 @@ extra latex2html 2023-1
 extra latex2rtf 2.3.18-1
 extra layer-shell-qt 5.27.3-1
 extra lcms2 2.15-1 [installed]
-extra ldb 2:2.7.1-1
+extra ldb 2:2.7.2-1
 extra leafpad 0.8.19-2
 extra lensfun 1:0.3.3-1
 extra lftp 4.9.2-1
@@ -2036,9 +2036,9 @@ extra marble 22.12.3-1
 extra marble-common 22.12.3-1
 extra marble-maps 22.12.3-1
 extra marble-qt 22.12.3-1
-extra mariadb 10.11.2-1
-extra mariadb-clients 10.11.2-1
-extra mariadb-libs 10.11.2-1
+extra mariadb 10.11.2-2
+extra mariadb-clients 10.11.2-2
+extra mariadb-libs 10.11.2-2
 extra markdownpart 22.12.3-1
 extra maxima 5.46.0-8
 extra maxima-ecl 5.46.0-8
@@ -2109,7 +2109,7 @@ extra mypaint-brushes1 1.3.1-1
 extra mythes-de 20180514-3
 extra mythes-en 20221102-2
 extra mythes-es 1:2.7-1
-extra mytop 10.11.2-1
+extra mytop 10.11.2-2
 extra namcap 3.4.0-2
 extra nasm 2.16.01-1
 extra nautilus 43.2-1
@@ -4555,7 +4555,7 @@ community eslint_d 12.1.0-2
 community espeak-ng 1.51.1-2
 community espeakup 0.90-2
 community espflash 1.7.0-3
-community esptool 4.4-1
+community esptool 4.5.1-1
 community espup 0.3.2-1
 community etc-update 2.3.99-2
 community etckeeper 1.18.20-1
@@ -13728,7 +13728,7 @@ multilib lib32-smpeg 2.0.0-1
 multilib lib32-speex 1.2.1-1
 multilib lib32-speexdsp 1.2.1-1
 multilib lib32-sqlite 3.41.1-1
-multilib lib32-systemd 253.1-1
+multilib lib32-systemd 253.2-1
 multilib lib32-taglib 1.13-2
 multilib lib32-tcl 8.6.13-1
 multilib lib32-tdb 1.4.8-1
@@ -14694,7 +14694,7 @@ chaotic-aur flite1 1.4-5
 chaotic-aur floorp 10.11.1-1
 chaotic-aur fluent-black-icon-theme-git 2023.02.01.r9.gd69f702-1
 chaotic-aur fluent-cursor-theme-git 2023.02.01.r9.gd69f702-1
-chaotic-aur fluent-gtk-theme-git 2022.12.15.r11.g669841e-1
+chaotic-aur fluent-gtk-theme-git 2022.12.15.r13.g7fc847c-1
 chaotic-aur fluent-icon-theme-git 2023.02.01.r9.gd69f702-1
 chaotic-aur fluent-kde-theme-git r91.d7576a7-1
 chaotic-aur fluent-round-icon-theme-git 2023.02.01.r9.gd69f702-1
@@ -14852,7 +14852,7 @@ chaotic-aur godot-mono 3.5.1-1
 chaotic-aur goland 2022.3.4-1
 chaotic-aur goland-jre 2022.3.4-1
 chaotic-aur goldendict-git 1:1.5.0rc2.r591.g1dfc44a6-1
-chaotic-aur goldendict-webengine-pr-git 22.12.02.r17.g9e35754b-1
+chaotic-aur goldendict-webengine-pr-git 22.12.02.r17.g5464eba3-1
 chaotic-aur goocanvas2 2.0.4-9.1
 chaotic-aur goodvibes 0.7.6-1
 chaotic-aur goodvibes-git 0.7.6.r16.g4e987db-1
@@ -16078,7 +16078,7 @@ chaotic-aur obs-vaapi 0.2.0-2
 chaotic-aur obs-vkcapture-git r247.57b6d91-1
 chaotic-aur obsidian-2-theme-git 2.22.r0.ged5e9cd-1
 chaotic-aur obsidian-icon-theme-git 4.15.r1.g4cccdd3f-1.1
-chaotic-aur ocenaudio-bin 3.11.22-1
+chaotic-aur ocenaudio-bin 3.11.23-1
 chaotic-aur ocrmypdf 14.0.4-1
 chaotic-aur ocs-url 3.1.0-7.1
 chaotic-aur octopi 0.14.0-2
@@ -16892,7 +16892,7 @@ chaotic-aur sddm-nordic-theme-git 2.2.0.r46.g7c18257-1
 chaotic-aur sddm-theme-astronaut 1.0-1.1
 chaotic-aur sdformat-9 9.8.0-1.1
 chaotic-aur sdl2_compat12-git r764.b48b470-1
-chaotic-aur sdrpp-git r1367.b5c41bc-1
+chaotic-aur sdrpp-git r1372.342a677-1
 chaotic-aur sdx 20110317-1
 chaotic-aur seafile 8.0.10-1
 chaotic-aur seafile-client 8.0.10-1
@@ -22908,8 +22908,8 @@ archlinuxcn chromedriver-debug 111.0.5563.64-1
 archlinuxcn chromium-extension-violentmonkey-git 2835.2afa08dc-1
 archlinuxcn chromium-ublock-origin-git 2:1.48.1b8.1.gcee3c4822-1
 archlinuxcn ciel 3.1.3-1
-archlinuxcn citra-canary-git 2:2434.r0.gc5b836d6d-1
-archlinuxcn citra-canary-git-debug 2:2434.r0.gc5b836d6d-1
+archlinuxcn citra-canary-git 2:2435.r0.gef5fba916-1
+archlinuxcn citra-canary-git-debug 2:2435.r0.gef5fba916-1
 archlinuxcn citra-git r9459.5346ca27b-1
 archlinuxcn citra-git-debug r9459.5346ca27b-1
 archlinuxcn clang-git 17.0.0_r453901.b9337b108ec8f-1
@@ -23322,8 +23322,8 @@ archlinuxcn gg-debug 0.2.18-1
 archlinuxcn ghcup-hs-bin 0.1.19.2-1
 archlinuxcn ghcup-hs-bin-debug 0.1.19.2-1
 archlinuxcn gimp-devel 2.99.14-2
-archlinuxcn gimp-git 2:49544.fa4538683a-1
-archlinuxcn gimp-git-debug 2:49544.fa4538683a-1
+archlinuxcn gimp-git 2:49548.a2b74ef670-1
+archlinuxcn gimp-git-debug 2:49548.a2b74ef670-1
 archlinuxcn gimp-plugin-bimp 2.6-2
 archlinuxcn gimp-plugin-bimp-debug 2.6-2
 archlinuxcn git-cinnabar 0.5.11-1
@@ -25621,8 +25621,8 @@ archlinuxcn youtube-dl-git 2021.12.17.r200.6fece0a96b-1
 archlinuxcn yubico-piv-tool 2.3.1-1
 archlinuxcn yubico-piv-tool-debug 2.3.1-1
 archlinuxcn yubikey-full-disk-encryption-git r155.dcaac00-1
-archlinuxcn yuzu-early-access 3487-1
-archlinuxcn yuzu-early-access-debug 3487-1
+archlinuxcn yuzu-early-access 3488-1
+archlinuxcn yuzu-early-access-debug 3488-1
 archlinuxcn yuzu-git r23501.8bdc51b620-1
 archlinuxcn yuzu-git-debug r23501.8bdc51b620-1
 archlinuxcn yuzu-mainline-git 1387.r0.g29aeda20f-1
