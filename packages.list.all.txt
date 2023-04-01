@@ -2562,7 +2562,7 @@ extra python-patiencediff 0.2.13-1
 extra python-pip 23.0.1-1
 extra python-platformdirs 3.1.1-1
 extra python-ply 3.11-10
-extra python-prometheus_client 0.15.0-2
+extra python-prometheus_client 0.16.0-1
 extra python-protobuf 21.12-1
 extra python-pyasn1 0.4.8-7
 extra python-pyasn1-modules 0.2.8-6
@@ -8275,7 +8275,7 @@ community opam 2.1.4-1
 community open-iscsi 2.1.8-2
 community open-isns 0.102-2
 community open-vm-tools 6:12.2.0-1
-community openapi-diff 2.0.1-1
+community openapi-diff 2.0.1-2
 community openapi-generator 6.5.0-1
 community openblas 0.3.21-4
 community openblas64 0.3.21-4
@@ -8406,7 +8406,7 @@ community or1k-elf-gdb 12.1-3
 community or1k-elf-newlib 4.1.0-1
 community orcania 2.3.2-1
 community os-prober 1.81-1
-community osbuild 81-1
+community osbuild 82-1
 community osc2midi 0.2.5-2
 community oscpack 1.1.0-2
 community osdbattery 1.4-8
@@ -9963,7 +9963,7 @@ community python-invoke 2.0.0-1
 community python-iocapture 0.1.2-10
 community python-ioflo 2.0.2-5
 community python-iosbackup 0.9.925-1
-community python-ipdb 0.13.11-1
+community python-ipdb 0.13.12-1
 community python-ipip-ipdb 1.6.0-2
 community python-ipy 1.01-3
 community python-ipycanvas 0.13.1-1
@@ -10063,7 +10063,7 @@ community python-krb5 0.4.1-1
 community python-kubernetes 26.1.0-1
 community python-langdetect 1.0.9-3
 community python-lark-parser 1.1.5-1
-community python-latex2mathml 3.75.1-1
+community python-latex2mathml 3.75.2-1
 community python-latexcodec 2.0.1-5
 community python-lazr.config 2.2.3-3
 community python-lazr.delegates 2.0.4-8
@@ -13714,8 +13714,8 @@ archcraft archcraft-backgrounds-extra 1.0-4
 archcraft archcraft-backgrounds-gradient 1.0-4
 archcraft archcraft-backgrounds-minimal 1.0-4
 archcraft archcraft-backgrounds-nature 1.0-4
-archcraft archcraft-berry 2.0-0
-archcraft archcraft-bspwm 3.0-1
+archcraft archcraft-berry 2.0-1
+archcraft archcraft-bspwm 3.0-2
 archcraft archcraft-config-geany 1.0-1
 archcraft archcraft-config-music 1.0-1
 archcraft archcraft-config-qt 1.0-0
@@ -13729,9 +13729,9 @@ archcraft archcraft-cursor-qogirr 1.0-4
 archcraft archcraft-cursor-sweet 1.0-4
 archcraft archcraft-cursor-vimix 1.0-4
 archcraft archcraft-dunst-icons 1.0-2
-archcraft archcraft-dwm 2.0-0
-archcraft archcraft-fluxbox 2.0-0
-archcraft archcraft-fonts 1.0-5
+archcraft archcraft-dwm 2.0-1
+archcraft archcraft-fluxbox 2.0-1
+archcraft archcraft-fonts 1.0-6
 archcraft archcraft-funscripts 1.0-0
 archcraft archcraft-grub-theme 1.0-4
 archcraft archcraft-grub-theme-slaze 1.0-4
@@ -13765,7 +13765,7 @@ archcraft archcraft-herbstluftwm 2.0-0
 archcraft archcraft-hooks 2.0-1
 archcraft archcraft-hooks-extra 2.0-1
 archcraft archcraft-hooks-zsh 1.0-1
-archcraft archcraft-i3wm 2.0-0
+archcraft archcraft-i3wm 2.0-1
 archcraft archcraft-icons-arc 1.0-6
 archcraft archcraft-icons-breeze 1.0-6
 archcraft archcraft-icons-hack 1.0-5
@@ -13790,32 +13790,32 @@ archcraft archcraft-lxdm-theme-wave 1.0-4
 archcraft archcraft-mirrorlist 2.0-1
 archcraft archcraft-music 1.0-4
 archcraft archcraft-neofetch 1.0-2
-archcraft archcraft-omz 1.0-6
+archcraft archcraft-omz 1.0-7
 archcraft archcraft-openbox 3.0-1
 archcraft archcraft-plymouth-theme 1.0-4
 archcraft archcraft-ranger 1.0-2
 archcraft archcraft-sddm-theme 1.0-4
 archcraft archcraft-st 0.8.4-3
-archcraft archcraft-vim 1.0-4
+archcraft archcraft-vim 1.0-5
 archcraft archcraft-welcome 1.0-4
 archcraft archcraft-xfce 1.0-4
-archcraft archcraft-xmonad 2.0-0
+archcraft archcraft-xmonad 2.0-1
 archcraft ast-firmware 501-1
 archcraft berry-git git+e5bcb3-1
 archcraft betterlockscreen 4.0.4-2
 archcraft blight 0.1.1-1
-archcraft calamares 3.2.61-2
+archcraft calamares 3.2.61-3
 archcraft calamares-config 2.0-5
 archcraft calamares-config-lxde 1.0-2
 archcraft calamares-config-xfce 1.0-2
-archcraft catppuccin-gtk-theme-frappe 0.4.1-1
-archcraft catppuccin-gtk-theme-latte 0.4.1-1
-archcraft catppuccin-gtk-theme-macchiato 0.4.1-1
-archcraft catppuccin-gtk-theme-mocha 0.4.1-1
+archcraft catppuccin-gtk-theme-frappe 0.4.3-1
+archcraft catppuccin-gtk-theme-latte 0.4.3-1
+archcraft catppuccin-gtk-theme-macchiato 0.4.3-1
+archcraft catppuccin-gtk-theme-mocha 0.4.3-1
 archcraft cava 0.8.3-1
 archcraft ckbcomp 1.210-1 [installed]
-archcraft downgrade 11.2.1-1
-archcraft grub 2.06.r261.g2f4430cc0-3 [installed: 2:2.06.r456.g65bc45963-1]
+archcraft downgrade 11.3.0-1
+archcraft grub 2.06.r261.g2f4430cc0-4 [installed: 2:2.06.r456.g65bc45963-1]
 archcraft gtk3-nocsd-git r82.512c2bd-1
 archcraft i3lock-color 2.13.c.4-1
 archcraft ksuperkey 0.4-2
@@ -13830,10 +13830,10 @@ archcraft perl-linux-desktopfiles 0.25-2
 archcraft picom-ibhagwan-git 1578_Next.297.gc4107bb_2021.11.03-1
 archcraft plymouth 22.02.122-5
 archcraft python-dasbus 1.7-1
-archcraft python-imageio 2.26.0-1
+archcraft python-imageio 2.26.1-1
 archcraft python-thefuzz 0.19.0-2
 archcraft python2 2.7.18-5
-archcraft river 0.2.3-1
+archcraft river 0.2.3-2
 archcraft timeshift 22.11.2-1
 archcraft toilet 0.3.r155.3eb9d58-1
 archcraft unimatrix-git r69.4cc40bb-1
@@ -15611,9 +15611,9 @@ chaotic-aur linux-clear-headers 6.2.9-1
 chaotic-aur linux-drm-next-docs-git 6.3.r1171188.82bbec189ab3-1
 chaotic-aur linux-drm-next-git 6.3.r1171188.82bbec189ab3-1
 chaotic-aur linux-drm-next-headers-git 6.3.r1171188.82bbec189ab3-1
-chaotic-aur linux-drm-tip-docs-git 6.3.r1171348.f128906b94b2-1
-chaotic-aur linux-drm-tip-git 6.3.r1171348.f128906b94b2-1
-chaotic-aur linux-drm-tip-headers-git 6.3.r1171348.f128906b94b2-1
+chaotic-aur linux-drm-tip-docs-git 6.3.r1171355.a7180debb9c6-1
+chaotic-aur linux-drm-tip-git 6.3.r1171355.a7180debb9c6-1
+chaotic-aur linux-drm-tip-headers-git 6.3.r1171355.a7180debb9c6-1
 chaotic-aur linux-firmware-bnx2x-git 20230320.bcdcfbc-1
 chaotic-aur linux-firmware-git 20230320.bcdcfbc-1
 chaotic-aur linux-firmware-liquidio-git 20230320.bcdcfbc-1
@@ -23454,7 +23454,8 @@ archlinuxcn iptables-fullconenat-debug 1:1.8.9-2
 archlinuxcn iptables-fullconenat-nft 1:1.8.9-2
 archlinuxcn iredis 1.13.0-1
 archlinuxcn isl 0.24-2
-archlinuxcn isoimagewriter 0.9-1
+archlinuxcn isoimagewriter 0.9.1-1
+archlinuxcn isoimagewriter-debug 0.9.1-1
 archlinuxcn itk 5.3.0-2
 archlinuxcn itk-git 5.3.r54713.212c0e1cc4-1
 archlinuxcn itk-git-debug 5.3.r54713.212c0e1cc4-1
@@ -27131,7 +27132,7 @@ arcolinux_repo archlinux-login-backgrounds-plain-git 22.07-02
 arcolinux_repo archlinux-logout-dev-git 22.12-02
 arcolinux_repo archlinux-logout-git 23.01-01
 arcolinux_repo archlinux-logout-themes-git 22.12-01
-arcolinux_repo archlinux-tweak-tool-dev-git 23.04-12
+arcolinux_repo archlinux-tweak-tool-dev-git 23.04-13
 arcolinux_repo archlinux-tweak-tool-git 23.04-11
 arcolinux_repo archlinux-wallpapers-git 22.06-02
 arcolinux_repo arcolinux-alacritty-git 23.03-01
