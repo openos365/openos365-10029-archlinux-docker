@@ -1904,7 +1904,7 @@ extra libutp r99.fda9f4b-1
 extra libuv 1.44.2-1 [installed]
 extra libva 2.18.0-1 [installed]
 extra libva-intel-driver 2.4.1-2
-extra libva-mesa-driver 23.0.1-1
+extra libva-mesa-driver 23.0.1-2
 extra libva-vdpau-driver 0.7.4-6
 extra libvdpau 1.5-1 [installed]
 extra libvisio 0.1.7-8
@@ -2055,11 +2055,11 @@ extra memtest86+-efi 6.10-1
 extra memtest86+-iso 6.10-1
 extra mencoder 38412-1
 extra mercurial 6.4-1
-extra mesa 23.0.1-1 [installed]
+extra mesa 23.0.1-2 [installed]
 extra mesa-amber 21.3.9-4
 extra mesa-demos 9.0.0-2
 extra mesa-utils 9.0.0-2
-extra mesa-vdpau 23.0.1-1
+extra mesa-vdpau 23.0.1-2
 extra mescc-tools 1.3-1
 extra meson 1.0.1-1
 extra messagelib 22.12.3-1
@@ -2172,7 +2172,7 @@ extra openal-examples 1.23.0-2
 extra openbabel 3.1.1-6
 extra opencl-clhpp 2.0.16-1
 extra opencl-headers 2:2022.09.30-1
-extra opencl-mesa 23.0.1-1
+extra opencl-mesa 23.0.1-2
 extra opencl-nvidia 530.41.03-1
 extra opencolorio 2.2.1-4
 extra openconnect 1:9.01-2
@@ -3119,13 +3119,13 @@ extra vulkan-extra-tools 1.3.243.0-1
 extra vulkan-headers 1:1.3.246-1
 extra vulkan-html-docs 1:1.3.246-1
 extra vulkan-icd-loader 1.3.245-1 [installed]
-extra vulkan-intel 23.0.1-1
-extra vulkan-mesa-layers 23.0.1-1
-extra vulkan-radeon 23.0.1-1
-extra vulkan-swrast 23.0.1-1
+extra vulkan-intel 23.0.1-2
+extra vulkan-mesa-layers 23.0.1-2
+extra vulkan-radeon 23.0.1-2
+extra vulkan-swrast 23.0.1-2
 extra vulkan-tools 1.3.245-1
 extra vulkan-validation-layers 1.3.243.0-1
-extra vulkan-virtio 23.0.1-1
+extra vulkan-virtio 23.0.1-2
 extra w3c-mathml2 2.0-6
 extra w3m 0.5.3.git20230121_1-1
 extra wavpack 5.6.0-1
@@ -7344,12 +7344,12 @@ community libva-utils 2.17.1-1
 community libvarlink 23-1
 community libvdpau-va-gl 0.4.2-3
 community libvips 8.14.2-1
-community libvirt 1:9.1.0-1
+community libvirt 1:9.2.0-1
 community libvirt-dbus 1.4.1-2
 community libvirt-glib 4.0.0-2
-community libvirt-python 1:9.1.0-1
-community libvirt-storage-gluster 1:9.1.0-1
-community libvirt-storage-iscsi-direct 1:9.1.0-1
+community libvirt-python 1:9.2.0-1
+community libvirt-storage-gluster 1:9.2.0-1
+community libvirt-storage-iscsi-direct 1:9.2.0-1
 community libvolk 2:2.5.2-1
 community libvpx1.3 1.3.0-3
 community libvterm 0.3.1-1
@@ -13544,7 +13544,7 @@ multilib lib32-libunwind 1.6.2-2
 multilib lib32-libusb 1.0.26-2
 multilib lib32-libva 2.17.0-1
 multilib lib32-libva-intel-driver 2.4.1-1
-multilib lib32-libva-mesa-driver 23.0.1-1
+multilib lib32-libva-mesa-driver 23.0.1-2
 multilib lib32-libva-vdpau-driver 0.7.4-7
 multilib lib32-libvdpau 1.5-1
 multilib lib32-libvisual 0.4.1-1
@@ -13584,11 +13584,11 @@ multilib lib32-llvm 15.0.7-1
 multilib lib32-llvm-libs 15.0.7-1
 multilib lib32-lm_sensors 1:3.6.0.r41.g31d1f125-2
 multilib lib32-lz4 1.9.4-1
-multilib lib32-mesa 23.0.1-1
+multilib lib32-mesa 23.0.1-2
 multilib lib32-mesa-amber 21.3.9-5
 multilib lib32-mesa-demos 8.5.0-1
 multilib lib32-mesa-utils 8.5.0-1
-multilib lib32-mesa-vdpau 23.0.1-1
+multilib lib32-mesa-vdpau 23.0.1-2
 multilib lib32-mpg123 1.31.3-1
 multilib lib32-ncurses 6.4-1
 multilib lib32-nettle 3.8.1-1
@@ -13598,7 +13598,7 @@ multilib lib32-nvidia-cg-toolkit 3.1-8
 multilib lib32-nvidia-utils 530.41.03-1
 multilib lib32-ocl-icd 2.3.1-1
 multilib lib32-openal 1.23.0-1
-multilib lib32-opencl-mesa 23.0.1-1
+multilib lib32-opencl-mesa 23.0.1-2
 multilib lib32-opencl-nvidia 530.41.03-1
 multilib lib32-openssl 1:3.0.8-1
 multilib lib32-openssl-1.1 1.1.1.t-1
@@ -13646,11 +13646,11 @@ multilib lib32-v4l-utils 1.22.1-1
 multilib lib32-virtualgl 3.1-1
 multilib lib32-vkd3d 1.6-1
 multilib lib32-vulkan-icd-loader 1.3.245-1
-multilib lib32-vulkan-intel 23.0.1-1
-multilib lib32-vulkan-mesa-layers 23.0.1-1
-multilib lib32-vulkan-radeon 23.0.1-1
+multilib lib32-vulkan-intel 23.0.1-2
+multilib lib32-vulkan-mesa-layers 23.0.1-2
+multilib lib32-vulkan-radeon 23.0.1-2
 multilib lib32-vulkan-validation-layers 1.3.243.0-1
-multilib lib32-vulkan-virtio 23.0.1-1
+multilib lib32-vulkan-virtio 23.0.1-2
 multilib lib32-wavpack 5.6.0-1
 multilib lib32-wayland 1.21.0-1
 multilib lib32-xcb-util 0.4.1-1
@@ -22919,7 +22919,7 @@ archlinuxcn dendrite 0.12.0-2
 archlinuxcn dendrite-debug 0.12.0-2
 archlinuxcn denseflow 0.1.0-3
 archlinuxcn deoplete-git r2057.4e91c4d-2
-archlinuxcn depot-tools-git r9466.401f0f6e4-1
+archlinuxcn depot-tools-git r9468.bc5906f6f-1
 archlinuxcn devilspie2 0.44-1
 archlinuxcn devtools-archlinuxcn 20230307-2
 archlinuxcn devtools-arm-git 0.0.0.11.6176c7a-1
@@ -23285,8 +23285,8 @@ archlinuxcn google-drive-ocamlfuse 0.7.30-1
 archlinuxcn gotop 4.2.0-2
 archlinuxcn gotop-debug 4.2.0-2
 archlinuxcn gowitness 2.4.2-1
-archlinuxcn gr-framework-git 0.71.8.r22.gcf9ca965-1
-archlinuxcn gr-framework-git-debug 0.71.8.r22.gcf9ca965-1
+archlinuxcn gr-framework-git 0.72.0.r1.g9515f7c4-1
+archlinuxcn gr-framework-git-debug 0.72.0.r1.g9515f7c4-1
 archlinuxcn graphite-cursor-theme-git 2021.11.26.r0.g4d712ad-2
 archlinuxcn graphite-mozilla 1:1.3.14-2
 archlinuxcn graphite-web 1.1.10-6
@@ -23390,8 +23390,8 @@ archlinuxcn hyprland 0.23.0beta-2
 archlinuxcn hyprland-git r2673.e6211eef-1
 archlinuxcn hyprland-hidpi-xprop-git r2673.e6211eef-1
 archlinuxcn hyprland-hidpi-xprop-git-debug r2673.e6211eef-1
-archlinuxcn hyprland-lily-git 0.23.0beta.r82.ge6211eef-1
-archlinuxcn hyprland-lily-git-debug 0.23.0beta.r82.ge6211eef-1
+archlinuxcn hyprland-lily-git 0.23.0beta.r84.ga43b18ae-1
+archlinuxcn hyprland-lily-git-debug 0.23.0beta.r84.ga43b18ae-1
 archlinuxcn hyprland-nvidia 0.23.0beta-3
 archlinuxcn hyprland-nvidia-git r2673.e6211eef-1
 archlinuxcn hyprland-nvidia-hidpi-git r2621.d23bbd16-1
@@ -24313,8 +24313,8 @@ archlinuxcn multibootusb 9.2.0-6
 archlinuxcn mumps 5.5.1-1
 archlinuxcn mumps-seq 5.5.1-1
 archlinuxcn munt-git 2278.605ed3ec-1
-archlinuxcn musescore-git 1:29936.02de551252-1
-archlinuxcn musescore-git-debug 1:29936.02de551252-1
+archlinuxcn musescore-git 1:29941.abb91a47d3-1
+archlinuxcn musescore-git-debug 1:29941.abb91a47d3-1
 archlinuxcn music-dl 3.0.0-3
 archlinuxcn mycli 1.25.0-1
 archlinuxcn mysql 8.0.31-2
@@ -24797,7 +24797,7 @@ archlinuxcn python-mmpycocotools-debug 12.0.3-4
 archlinuxcn python-mmsegmentation 1:0.30.0-1
 archlinuxcn python-modin 0.19.0-1
 archlinuxcn python-monai 1.1.0-1
-archlinuxcn python-motor 3.1.1-1
+archlinuxcn python-motor 3.1.2-1
 archlinuxcn python-multimethod 1.9.1-1
 archlinuxcn python-multiprocess 0.70.14-1
 archlinuxcn python-mwclient 0.10.1-4
@@ -25040,7 +25040,7 @@ archlinuxcn rpcs3-git-debug 0.0.27.14840.842edbcbe7-1
 archlinuxcn rr-git 5.6.0.r153.gb6dd0aa0-1
 archlinuxcn rslsync 2.7.3-1
 archlinuxcn rssdrop 26.4614df7-1
-archlinuxcn rsshub-git r8958.dbd6ac73ca-1
+archlinuxcn rsshub-git r8961.01e29c18d6-1
 archlinuxcn rstudio-desktop-bin 2023.03.0.386-2
 archlinuxcn rstudio-desktop-git 40418.f067a3bfbe-1
 archlinuxcn rstudio-desktop-git-debug 40418.f067a3bfbe-1
@@ -28112,7 +28112,7 @@ iso-repo calamares-config 23.03-2
 iso-repo calamares-g-cfg-dev 23.04-3
 iso-repo calamares-g-config 23.04-1
 iso-repo calamares-g-config-dev 23.01-2
-iso-repo calamares-x-cfg-dev 23.04-2
+iso-repo calamares-x-cfg-dev 23.04-3
 iso-repo xero-calamares 3.2.61-13
 iso-repo xero-g-config-dev 23.04-1
 iso-repo xero-kde-config-dev 23.04-3
