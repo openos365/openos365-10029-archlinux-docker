@@ -238,11 +238,11 @@ core sqlite-tcl 3.41.2-1
 core sudo 1.9.13.p3-1 [installed]
 core sysfsutils 2.1.1-1 [installed]
 core syslinux 6.04.pre2.r11.gbf6db5b4-3
-core systemd 253.2-1 [installed]
-core systemd-libs 253.2-1 [installed]
-core systemd-resolvconf 253.2-1
-core systemd-sysvcompat 253.2-1 [installed]
-core systemd-ukify 253.2-1
+core systemd 253.2-2 [installed]
+core systemd-libs 253.2-2 [installed]
+core systemd-resolvconf 253.2-2
+core systemd-sysvcompat 253.2-2 [installed]
+core systemd-ukify 253.2-2
 core tar 1.34-2 [installed]
 core texinfo 7.0.3-1 [installed]
 core thin-provisioning-tools 1.0.3-1 [installed]
@@ -16770,7 +16770,7 @@ chaotic-aur rtw88-dkms-git r210.e6d63e1-1
 chaotic-aur rtw89-dkms-git 1:r422.728b514-1
 chaotic-aur rubymine 2023.1-1
 chaotic-aur rufetch 0.2.2-1
-chaotic-aur ruffle-git 1:r9016.63aa67d19-1
+chaotic-aur ruffle-git 1:r9017.315a7c87e-1
 chaotic-aur ruffle-nightly-bin 2023.04.04-1
 chaotic-aur runescape-launcher 2.2.11-1
 chaotic-aur rusnapshot-git 31.e68c28b-1
@@ -25648,7 +25648,7 @@ arch4edu distccd-alarm-armv8 12.1.0.20220530-1
 arch4edu dlib 19.24-1
 arch4edu docker-rootless-extras 23.0.1-1
 arch4edu dolfinx 0.6.0-4
-arch4edu downgrade 11.2.1-1
+arch4edu downgrade 11.3.0-1
 arch4edu dumux 3.6.0-2
 arch4edu dune-common 2.9.0-2
 arch4edu dune-geometry 2.9.0-1
@@ -25849,7 +25849,7 @@ arch4edu ogre-1.9 1.9.1-9
 arch4edu ogre-docs-1.9 1.9.1-9
 arch4edu ompl 1.5.2-3
 arch4edu onedrive 1.1.4-1
-arch4edu openblas-lapack 0.3.22-2
+arch4edu openblas-lapack 0.3.23-1
 arch4edu openboard 1.6.4-5
 arch4edu openctm-tools 2:1.0.3-1
 arch4edu opencv3-opt 3.4.19-1
@@ -25968,7 +25968,7 @@ arch4edu python-lazy-loader 0.2-1
 arch4edu python-leveldb 0.201-3
 arch4edu python-librosa 0.10.0.post2-1
 arch4edu python-llvmlite 0.38.0-2
-arch4edu python-llvmlite-git 0.40.0dev0.r102.g6f95465-1
+arch4edu python-llvmlite-git 0.40.0dev0.r106.g5d25662-1
 arch4edu python-lmfit 1.0.3-1
 arch4edu python-mkl-fft 1.3.1-1
 arch4edu python-mkl-random 1.2.2.post2-1
@@ -26204,7 +26204,7 @@ arch4edu r-gginnards 0.1.1-1
 arch4edu r-ggmcmc 1.5.1.1-4
 arch4edu r-ggnetwork 0.5.12-1
 arch4edu r-ggparty 1.0.0-4
-arch4edu r-ggplot2 3.4.1-1
+arch4edu r-ggplot2 3.4.2-1
 arch4edu r-ggpol 0.0.7-4
 arch4edu r-ggpp 0.5.2-1
 arch4edu r-ggrepel 0.9.3-3
@@ -26396,7 +26396,7 @@ arch4edu r-progressr 0.13.0-1
 arch4edu r-promises 1.2.0.1-7
 arch4edu r-prophet 1.0-4
 arch4edu r-proxy 0.4.27-1
-arch4edu r-ps 1.7.3-1
+arch4edu r-ps 1.7.4-1
 arch4edu r-psych 2.3.3-1
 arch4edu r-purrr 1.0.1-1
 arch4edu r-pwr 1.3.0-4
@@ -26404,7 +26404,7 @@ arch4edu r-qcc 2.7-7
 arch4edu r-qgam 1.3.4-4
 arch4edu r-qgraph 1.9.4-1
 arch4edu r-quadprog 1.5.8-4
-arch4edu r-quantmod 0.4.20-1
+arch4edu r-quantmod 0.4.21-1
 arch4edu r-quantreg 5.94-1
 arch4edu r-qvcalc 1.0.2-4
 arch4edu r-r.matlab 3.7.0-1
@@ -26840,8 +26840,8 @@ arch4edu vim-tern 96.994ffbe-2
 arch4edu vim-youcompleteme-git r3080.9f4d1011-1
 arch4edu visual-studio-code-bin 1.77.0-1
 arch4edu voro++ 0.4.6-2
-arch4edu vscodium 1.77.0.23090-1
-arch4edu vscodium-bin 1.77.0.23090-1
+arch4edu vscodium 1.77.0.23093-1
+arch4edu vscodium-bin 1.77.0.23093-1
 arch4edu vundle-git 0.10.2.629.b255382-2
 arch4edu vvc-vtm 20.0rc1-1
 arch4edu wd719x-firmware 1-7
@@ -26854,7 +26854,7 @@ arch4edu wxwidgets-gtk2 3.2.2.1-1
 arch4edu xalan-java 2.7.2-3
 arch4edu xerces2-java 2.12.2-1
 arch4edu xflr5 6.57.r1431-1
-arch4edu yay 11.3.2-1 [installed]
+arch4edu yay 12.0.2-1 [installed: 11.3.2-1]
 arch4edu ycm-generator-git r128.b501516-1
 arch4edu zoom 5.14.0-1
 arch4edu zotero 6.0.23-1
