@@ -5795,6 +5795,7 @@ community haskell-hls-code-range-plugin 1.0.0.0-40
 community haskell-hls-eval-plugin 1.3.0.0-40
 community haskell-hls-explicit-fixity-plugin 1.0.0.0-40
 community haskell-hls-explicit-imports-plugin 1.1.0.1-44
+community haskell-hls-explicit-record-fields-plugin 1.0.0.0-1
 community haskell-hls-floskell-plugin 1.0.1.2-40
 community haskell-hls-fourmolu-plugin 1.1.0.0-40
 community haskell-hls-gadt-plugin 1.0.0.0-40
@@ -14219,7 +14220,7 @@ chaotic-aur clipman 1.6.1-1
 chaotic-aur cloaker-bin 2.1-1
 chaotic-aur cloudflare-warp-bin 2023.3.258-1
 chaotic-aur cmake-extras-git r290-1
-chaotic-aur cmake-git 3.26.2.645.g7764354a97-1
+chaotic-aur cmake-git 3.26.2.664.g87b97464f7-1
 chaotic-aur cobang 0.9.10-1
 chaotic-aur cockroachdb-bin 22.2.2-1
 chaotic-aur code-marketplace 1.75.1-1
@@ -14380,7 +14381,7 @@ chaotic-aur dwarfs-git 0.7.0.RC4.r6.g2a0ac12-1
 chaotic-aur dwm 6.4-1
 chaotic-aur dwm-git 6.4.r4.g348f655-1
 chaotic-aur dxvk-async-git 2.1.r51.g30691904-1
-chaotic-aur dxvk-mingw-git 2.1.r51.g30691904-1
+chaotic-aur dxvk-mingw-git 2.1.r52.gf212cc8f-1
 chaotic-aur dynamic-wallpaper-editor 2.7-2.1
 chaotic-aur dynarmic 6.4.6-1
 chaotic-aur easystroke 0.6.0-24.1
@@ -15144,7 +15145,7 @@ chaotic-aur kded-git 5.103.0_r491.gb4068a7-1
 chaotic-aur kdegraphics-mobipocket-git 22.12.3_r289.gea9ef4d-1
 chaotic-aur kdelibs4support-git 5.102.0_r1145.g9f1399ec-1
 chaotic-aur kdenlive-git 23.03.70.r17481-1
-chaotic-aur kdenlive-stabledeps-git 23.07.70.r17797-1
+chaotic-aur kdenlive-stabledeps-git 23.07.70.r17803-1
 chaotic-aur kdepim-addons-git 5.22.40_r5100.ge169155b1-1
 chaotic-aur kdepim-runtime-git 23.03.40_r15655.g219738e81-1
 chaotic-aur kdeplasma-addons-git 5.27.80_r9320.g96a6e8313-1
@@ -15194,9 +15195,9 @@ chaotic-aur kirigami2-git 5.105.0_r3645.g9bfdd04a-1
 chaotic-aur kitemmodels-git 5.105.0_r643.gbf82e31-1
 chaotic-aur kitemviews-git 5.105.0_r421.g48ed954-1
 chaotic-aur kitinerary-git 5.22.42_r2695.g49b686ba-1
-chaotic-aur kitty-git 1:r12002.g6dcc7ad0c-1
-chaotic-aur kitty-shell-integration-git 1:r12002.g6dcc7ad0c-1
-chaotic-aur kitty-terminfo-git 1:r12002.g6dcc7ad0c-1
+chaotic-aur kitty-git 1:r12003.g3ee77a3a5-1
+chaotic-aur kitty-shell-integration-git 1:r12003.g3ee77a3a5-1
+chaotic-aur kitty-terminfo-git 1:r12003.g3ee77a3a5-1
 chaotic-aur kjobwidgets-git 5.104.0_r465.g5bb73a7-1
 chaotic-aur kjs-git 5.102.0_r388.g6b34482-1
 chaotic-aur kjsembed-git 5.102.0_r361.g457ba7f-1
@@ -15372,7 +15373,7 @@ chaotic-aur lib32-libdvdread 6.1.3-1
 chaotic-aur lib32-libexif 0.6.24-1
 chaotic-aur lib32-libfdk-aac 2.0.2-1
 chaotic-aur lib32-libffmpeg 2:6.0-2
-chaotic-aur lib32-libglvnd-git 1.6.0.r8.g65c23a8-1
+chaotic-aur lib32-libglvnd-git 1.6.0.r10.g179d727-1
 chaotic-aur lib32-libgme 0.6.3-3
 chaotic-aur lib32-libgphoto2 2.5.30-1
 chaotic-aur lib32-libheif 1.14.2-1
@@ -15454,7 +15455,7 @@ chaotic-aur libbtbb 2020.12.R1-2
 chaotic-aur libccd 2.1-1
 chaotic-aur libcgroup 2.0-1
 chaotic-aur libcheese-git 43.0+r5+g061c3afe-1
-chaotic-aur libclc-git 1:17.0.0_r456686.43e2fe79b5eb-1
+chaotic-aur libclc-git 1:17.0.0_r456738.91beab69cdac-1
 chaotic-aur libcmrt 1.0.6-2.1
 chaotic-aur libcotp 2.0.0-1
 chaotic-aur libcprime 4.4.1-1.1
@@ -15474,7 +15475,7 @@ chaotic-aur libgdm-plymouth-prime 43.0-1
 chaotic-aur libgdm-prime 43.0-1.1
 chaotic-aur libgksu 2.0.12-9.1
 chaotic-aur libglibutil 1.0.68-1
-chaotic-aur libglvnd-git 1.6.0.r8.g65c23a8-1
+chaotic-aur libglvnd-git 1.6.0.r10.g179d727-1
 chaotic-aur libgravatar-git 5.22.41_r480.gac4c75c-1
 chaotic-aur libhandy-git 1.8.0.r21.g691fa96-1
 chaotic-aur libinput-gestures 2.74-1
@@ -15503,8 +15504,8 @@ chaotic-aur libnm-iwd 1.42.4-1
 chaotic-aur libnvidia-container 1.12.1-1
 chaotic-aur libnvidia-container-tools 1.12.1-1
 chaotic-aur libopenglrecorder 0.1.0-1.1
-chaotic-aur libopenmpt-doc-svn 0.7.r18956-1
-chaotic-aur libopenmpt-svn 0.7.r18956-1
+chaotic-aur libopenmpt-doc-svn 0.7.r18957-1
+chaotic-aur libopenmpt-svn 0.7.r18957-1
 chaotic-aur libpamac-aur 11.5.0-1
 chaotic-aur libpamac-nosnap 1:11.4.1-2
 chaotic-aur libpdfium-nojs 5563.r1.05a0a80e52-1
@@ -17368,9 +17369,9 @@ chaotic-aur wayfire 0.7.5-1
 chaotic-aur wayfire-desktop-git 0.7.3-1.1
 chaotic-aur wayfire-git r2514.90c370fa-1
 chaotic-aur wayfire-plugins-extra 0.7.5-1
-chaotic-aur wayland-docs-git 1.22.0.r0.gb2649cb-1
-chaotic-aur wayland-git 1.22.0.r0.gb2649cb-1
-chaotic-aur wayland-protocols-git 1.31.r12.g275fce4-1
+chaotic-aur wayland-docs-git 1.22.0.r2.g307b2362-1
+chaotic-aur wayland-git 1.22.0.r2.g307b2362-1
+chaotic-aur wayland-protocols-git 1.31.r14.gf9ef5fd-1
 chaotic-aur waynergy-git r315.dde9b5b-1
 chaotic-aur waypipe-git 0.8.5.r8.gfca09a1-1
 chaotic-aur wcm 0.7.0-2
@@ -22944,9 +22945,9 @@ archlinuxcn dislocker-noruby 0.7.3-2
 archlinuxcn dnsmasq-china-list-git 0.153345.7abcbb1d77-1
 archlinuxcn docker-rootless-extras 23.0.2-1
 archlinuxcn dog-dns-git 0.1.0.r100.g721440b-1
-archlinuxcn dolphin-emu-git 5.0.r19135.7be5fc551dc-2
-archlinuxcn dolphin-emu-git-debug 5.0.r19135.7be5fc551dc-2
-archlinuxcn dolphin-emu-nogui-git 5.0.r19135.7be5fc551dc-2
+archlinuxcn dolphin-emu-git 5.0.r19141.b63b574a3f8-1
+archlinuxcn dolphin-emu-git-debug 5.0.r19141.b63b574a3f8-1
+archlinuxcn dolphin-emu-nogui-git 5.0.r19141.b63b574a3f8-1
 archlinuxcn dosbox-staging 0.79.1-1
 archlinuxcn dosbox-staging-debug 0.79.1-1
 archlinuxcn dosbox-x-git 17850.caf44d5be-2
@@ -23394,13 +23395,13 @@ archlinuxcn htpdate-debug 1.3.7-1
 archlinuxcn httpry 0.1.8-2
 archlinuxcn hyper 3.0.2-1
 archlinuxcn hyprland 0.23.0beta-2
-archlinuxcn hyprland-git r2686.882be776-1
+archlinuxcn hyprland-git r2689.6519c030-1
 archlinuxcn hyprland-hidpi-xprop-git r2686.882be776-1
 archlinuxcn hyprland-hidpi-xprop-git-debug r2686.882be776-1
 archlinuxcn hyprland-lily-git 0.23.0beta.r98.g6519c030-1
 archlinuxcn hyprland-lily-git-debug 0.23.0beta.r98.g6519c030-1
 archlinuxcn hyprland-nvidia 0.23.0beta-3
-archlinuxcn hyprland-nvidia-git r2686.882be776-1
+archlinuxcn hyprland-nvidia-git r2689.6519c030-1
 archlinuxcn hyprland-nvidia-hidpi-git r2686.882be776-1
 archlinuxcn hysteria 1.3.4-1
 archlinuxcn hysteria-debug 1.3.4-1
@@ -24132,7 +24133,7 @@ archlinuxcn lief 0.12.3-1
 archlinuxcn light-git 1.2.2.r6.gd717f1c-1
 archlinuxcn light-git-debug 1.2.2.r6.gd717f1c-1
 archlinuxcn lightdm-mini-greeter 0.5.1-1
-archlinuxcn lilac-git r1080.91322b0-1
+archlinuxcn lilac-git r1081.e02064a-1
 archlinuxcn linux-amd 6.2.v.9-2
 archlinuxcn linux-amd-headers 6.2.v.9-2
 archlinuxcn linux-amd-znver2 6.2.v.9-1
