@@ -72,7 +72,7 @@ core gpgme 1.19.0-3 [installed]
 core gpm 1.20.7.r38.ge82d1a6-4 [installed]
 core grep 3.10-1 [installed]
 core groff 1.22.4-10 [installed]
-core grub 2:2.06.r456.g65bc45963-1 [installed]
+core grub 2:2.06.r456.g65bc45963-1
 core gssproxy 0.9.1-2
 core guile 3.0.9-1 [installed]
 core gzip 1.12-2 [installed]
@@ -316,7 +316,7 @@ extra arch-install-scripts 28-1 [installed]
 extra arch-rebuild-order 0.3.1-1
 extra arch-signoff 0.5.2-2
 extra archinstall 2.5.5-1
-extra archiso 70-1 [installed]
+extra archiso 70-1
 extra archivetools 3-3
 extra archlinux-appstream-data 20230220-1
 extra archlinux-themes-slim 1.2-6
@@ -557,7 +557,7 @@ extra eog 44.0-1
 extra eog-docs 44.0-1
 extra eog-plugins 44.0-1
 extra epiphany 43.1-1
-extra erofs-utils 1.6-1 [installed]
+extra erofs-utils 1.6-1
 extra ethtool 1:6.2-1
 extra eventviews 22.12.3-1
 extra evince 43.1-2
@@ -2095,7 +2095,7 @@ extra mplayer 38412-1
 extra msmtp 1.8.22-2
 extra msmtp-mta 1.8.22-2
 extra mtdev 1.1.6-2 [installed]
-extra mtools 1:4.0.43-1 [installed]
+extra mtools 1:4.0.43-1
 extra mtr 0.95-3
 extra mtr-gtk 0.95-3
 extra muparser 2.3.4-1
@@ -5301,6 +5301,9 @@ community granite 6.2.0-2
 community granite7 7.2.0-1
 community grc 1.13-1
 community grcov 0.8.13-1
+community greetd 0.9.0-3
+community greetd-agreety 0.9.0-3
+community greetd-tuigreet 0.8.0-2
 community grex 1.4.1-1
 community griffith 0.19-1
 community grim 1.4.0-3
@@ -13788,7 +13791,7 @@ archcraft catppuccin-gtk-theme-mocha 0.4.3-1
 archcraft cava 0.8.3-1
 archcraft ckbcomp 1.210-1 [installed]
 archcraft downgrade 11.3.0-1
-archcraft grub 2.06.r261.g2f4430cc0-4 [installed: 2:2.06.r456.g65bc45963-1]
+archcraft grub 2.06.r261.g2f4430cc0-4
 archcraft gtk3-nocsd-git r82.512c2bd-1
 archcraft i3lock-color 2.13.c.4-1
 archcraft ksuperkey 0.4-2
@@ -16777,7 +16780,7 @@ chaotic-aur rtw88-dkms-git r218.37c8025-1
 chaotic-aur rtw89-dkms-git 1:r422.728b514-1
 chaotic-aur rubymine 2023.1-1
 chaotic-aur rufetch 0.2.2-1
-chaotic-aur ruffle-git 1:r9026.8d527ceed-1
+chaotic-aur ruffle-git 1:r9032.e07bde884-1
 chaotic-aur ruffle-nightly-bin 2023.04.04-1
 chaotic-aur runescape-launcher 2.2.11-1
 chaotic-aur rusnapshot-git 31.e68c28b-1
@@ -22946,9 +22949,9 @@ archlinuxcn dislocker-noruby 0.7.3-2
 archlinuxcn dnsmasq-china-list-git 0.153345.7abcbb1d77-1
 archlinuxcn docker-rootless-extras 23.0.2-1
 archlinuxcn dog-dns-git 0.1.0.r100.g721440b-1
-archlinuxcn dolphin-emu-git 5.0.r19141.b63b574a3f8-1
-archlinuxcn dolphin-emu-git-debug 5.0.r19141.b63b574a3f8-1
-archlinuxcn dolphin-emu-nogui-git 5.0.r19141.b63b574a3f8-1
+archlinuxcn dolphin-emu-git 5.0.r19148.d8fabd37fbd-1
+archlinuxcn dolphin-emu-git-debug 5.0.r19148.d8fabd37fbd-1
+archlinuxcn dolphin-emu-nogui-git 5.0.r19148.d8fabd37fbd-1
 archlinuxcn dosbox-staging 0.79.1-1
 archlinuxcn dosbox-staging-debug 0.79.1-1
 archlinuxcn dosbox-x-git 17859.ed43edd20-1
@@ -24067,8 +24070,8 @@ archlinuxcn libearcut_jll-git v1.0.2.r0.gf176b89-3
 archlinuxcn libeb 4.4.3-10
 archlinuxcn liberica-jdk-11-full-bin 11.0.14+9-2
 archlinuxcn libevhtp-seafile 2:1.2.0-6
-archlinuxcn libfm-qt-git 1.2.1.16.gabd4aaa-2
-archlinuxcn libfm-qt-git-debug 1.2.1.16.gabd4aaa-2
+archlinuxcn libfm-qt-git 1.2.1.18.g800ba37-1
+archlinuxcn libfm-qt-git-debug 1.2.1.18.g800ba37-1
 archlinuxcn libfm-qt6-git 1.2.1.13.g9e2d442-2
 archlinuxcn libfm-qt6-git-debug 1.2.1.13.g9e2d442-2
 archlinuxcn libfprint-git 1.94.5.r29.g6ed1b707-1
@@ -24202,14 +24205,14 @@ archlinuxcn lua-resty-lrucache 0.13-2
 archlinuxcn lutris-git 0.5.13.beta1.r90.gb4c0f6df8-1
 archlinuxcn lux-dl 0.17.2-1
 archlinuxcn lux-dl-debug 0.17.2-1
-archlinuxcn lximage-qt-git 1.2.0.20.g846ab88-1
-archlinuxcn lximage-qt-git-debug 1.2.0.20.g846ab88-1
+archlinuxcn lximage-qt-git 1.2.0.20.g846ab88-2
+archlinuxcn lximage-qt-git-debug 1.2.0.20.g846ab88-2
 archlinuxcn lxqt-about-git 1.2.0.3.g0492f5a-1
 archlinuxcn lxqt-about-git-debug 1.2.0.3.g0492f5a-1
 archlinuxcn lxqt-admin-git 1.2.0.3.g2f9587a-1
 archlinuxcn lxqt-admin-git-debug 1.2.0.3.g2f9587a-1
-archlinuxcn lxqt-archiver-git 0.7.0.r8.g270dd7c-13
-archlinuxcn lxqt-archiver-git-debug 0.7.0.r8.g270dd7c-13
+archlinuxcn lxqt-archiver-git 0.7.0.r9.g359bf6d-1
+archlinuxcn lxqt-archiver-git-debug 0.7.0.r9.g359bf6d-1
 archlinuxcn lxqt-build-tools-git 0.12.0.2.g8e53618-1
 archlinuxcn lxqt-build-tools-qt6-git 0.12.0.1.ge2786d4-2
 archlinuxcn lxqt-config-git 1.2.0.19.gc5ee907-1
@@ -24481,8 +24484,8 @@ archlinuxcn obconf-qt-git 0.16.2.11.g44cb32f-1
 archlinuxcn obconf-qt-git-debug 0.16.2.11.g44cb32f-1
 archlinuxcn obfs4proxy 0.0.14-1
 archlinuxcn obkey-git 1.0.47.gcf99076-4
-archlinuxcn obs-studio-git 29.1.0.beta1-8
-archlinuxcn obs-studio-git-debug 29.1.0.beta1-8
+archlinuxcn obs-studio-git 29.1.0.beta1-9
+archlinuxcn obs-studio-git-debug 29.1.0.beta1-9
 archlinuxcn ocaml-biniou 1.2.2-7
 archlinuxcn ocaml-compiler-libs-repackaged 0.12.4-5
 archlinuxcn ocaml-easy-format 1.3.4-4
@@ -24582,10 +24585,10 @@ archlinuxcn pavucontrol-qt-git-debug 1.2.0.12.g50dc939-1
 archlinuxcn pavumeter 0.9.3-7
 archlinuxcn pcem 17-6
 archlinuxcn pcem-debug 17-6
-archlinuxcn pcmanfm-qt-git 1.2.1.24.g3f2f9db-1
-archlinuxcn pcmanfm-qt-git-debug 1.2.1.24.g3f2f9db-1
-archlinuxcn pcsx2-git 1.7.4328.r0.gada291c0f6-2
-archlinuxcn pcsx2-git-debug 1.7.4328.r0.gada291c0f6-2
+archlinuxcn pcmanfm-qt-git 1.2.1.25.g43fcda8-1
+archlinuxcn pcmanfm-qt-git-debug 1.2.1.25.g43fcda8-1
+archlinuxcn pcsx2-git 1.7.4331.r0.g559b88438b-1
+archlinuxcn pcsx2-git-debug 1.7.4331.r0.g559b88438b-1
 archlinuxcn pcsxr-git 1.9.94.r1697.6484236c-2
 archlinuxcn pencil 3.1.1-1
 archlinuxcn perl-file-rename 2.01-1
@@ -25213,8 +25216,8 @@ archlinuxcn supertuxkart-git 23179+18579-1
 archlinuxcn supertuxkart-git-debug 23179+18579-1
 archlinuxcn suplemon 0.2.0-5
 archlinuxcn surface-control 0.4.3-1
-archlinuxcn sway-hidpi-git r7102.9cf66e8c7-1
-archlinuxcn sway-hidpi-git-debug r7102.9cf66e8c7-1
+archlinuxcn sway-hidpi-git r7102.9cf66e8c7-2
+archlinuxcn sway-hidpi-git-debug r7102.9cf66e8c7-2
 archlinuxcn sway-im 1:1.7-2
 archlinuxcn swaybg-git r128.a67361e-1
 archlinuxcn swaylock-effects 1.6.10-1
@@ -25503,8 +25506,8 @@ archlinuxcn wine-osu 3.12-2
 archlinuxcn wine-valve 4:7.0.6e-2
 archlinuxcn wine-wechat-setup 1.2-1
 archlinuxcn winff 1.5.5+5475df4-2
-archlinuxcn wlroots-hidpi-git 0.17.0.r6181.89dcecba39-1
-archlinuxcn wlroots-hidpi-git-debug 0.17.0.r6181.89dcecba39-1
+archlinuxcn wlroots-hidpi-git 0.17.0.r6182.835208db98-1
+archlinuxcn wlroots-hidpi-git-debug 0.17.0.r6182.835208db98-1
 archlinuxcn wlroots-lily-git 0.17.0.20230211.084438-1
 archlinuxcn wlroots-lily-git-debug 0.17.0.20230211.084438-1
 archlinuxcn wob 0.14.2-1
@@ -25611,7 +25614,6 @@ arch4edu android-studio 2022.1.1.21-1
 arch4edu ann 1.1.2-3
 arch4edu apache-lucene 9.5.0-1
 arch4edu apm_planner-bin 2.0.26-2
-arch4edu apriltag 3.2.0-3
 arch4edu arch4edu-keyring 20200805-1
 arch4edu arch4edu-mirrorlist 20221117.e22de92-1
 arch4edu archlinux-java-run 9-1
@@ -25852,7 +25854,7 @@ arch4edu nvidia-container-toolkit 1.12.1-1
 arch4edu nvidia-docker 2.12.0-1
 arch4edu nvm 0.39.3-1
 arch4edu oce 0.18.3-2
-arch4edu octave-control 3.5.1-1
+arch4edu octave-control 3.5.0-1
 arch4edu octave-general 2.1.2-1
 arch4edu octave-image 2.14.0-1
 arch4edu octave-io 2.6.4-1
