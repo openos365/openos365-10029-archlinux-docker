@@ -200,7 +200,7 @@ core openssl 3.0.8-1 [installed]
 core openssl-1.1 1.1.1.t-1
 core p11-kit 0.24.1-1 [installed]
 core pacman 6.0.2-6 [installed]
-core pacman-mirrorlist 20230226-1 [installed]
+core pacman-mirrorlist 20230410-1 [installed]
 core pam 1.5.2-1 [installed]
 core pambase 20221020-1 [installed]
 core patch 2.7.6-9 [installed]
@@ -2299,7 +2299,7 @@ extra perl-http-daemon 6.16-1 [installed]
 extra perl-http-date 6.05-6 [installed]
 extra perl-http-message 6.44-1 [installed]
 extra perl-http-negotiate 6.01-11 [installed]
-extra perl-image-exiftool 12.50-2
+extra perl-image-exiftool 12.60-1
 extra perl-inc-latest 0.500-10
 extra perl-io-html 1.004-3 [installed]
 extra perl-io-socket-inet6 2.73-2
@@ -8634,8 +8634,8 @@ community perl-cache-memcached 1.30-4
 community perl-cairo-gobject 1.005-1
 community perl-canary-stability 2013-5
 community perl-carp-always 0.16-3
-community perl-carp-assert 0.21-5
-community perl-cgi 4.55-1
+community perl-carp-assert 0.22-1
+community perl-cgi 4.56-1
 community perl-cgi-fast 2.16-2
 community perl-cgi-formbuilder 3.10-5
 community perl-cgi-session 4.48-9
@@ -8768,7 +8768,7 @@ community perl-finance-quote 1.5400-1
 community perl-font-afm 1.20-11
 community perl-font-ttf 1.06-4
 community perl-freezethaw 0.5001-7
-community perl-function-parameters 2.001005-1
+community perl-function-parameters 2.002002-1
 community perl-fuse 0.16.1-13
 community perl-gd 2.76-1
 community perl-gdgraph 1.54-4
@@ -8847,7 +8847,7 @@ community perl-local-lib 2.000029-1
 community perl-locale-codes 3.72-1
 community perl-locale-maketext-lexicon 1.00-4
 community perl-locale-po 0.27-8
-community perl-log-any 1.713-1
+community perl-log-any 1.714-1
 community perl-log-any-adapter-log4perl 0.09-5
 community perl-log-any-adapter-tap 0.003003-5
 community perl-log-message 0.08-8
@@ -14081,7 +14081,7 @@ chaotic-aur bottles 2:51.5-3
 chaotic-aur boxtron 0.5.4-1.1
 chaotic-aur bpytop-git 1.0.68.r3.gac0f666-1.1
 chaotic-aur brave-bin 1:1.50.114-1
-chaotic-aur brave-nightly-bin 1.52.27-1
+chaotic-aur brave-nightly-bin 1.52.30-1
 chaotic-aur breeze-git 5.27.80_r2584.g4107cc0c-1
 chaotic-aur breeze-gtk-git 5.27.80_r500.g5923854-1
 chaotic-aur breeze-icons-git 5.105.0_r1954.ga3e2231e-1
@@ -15007,8 +15007,8 @@ chaotic-aur ignition-tools 2.0.0-2
 chaotic-aur ignition-transport-8 8.2.0-2.1
 chaotic-aur iir1 1.9.4-1
 chaotic-aur image-roll-bin 2.1.0-1.1
-chaotic-aur imagemagick-full-doc-git 7.1.1.6.r38.g0d5e3a078-1
-chaotic-aur imagemagick-full-git 7.1.1.6.r38.g0d5e3a078-1
+chaotic-aur imagemagick-full-doc-git 7.1.1.6.r46.gf9b514222-1
+chaotic-aur imagemagick-full-git 7.1.1.6.r46.gf9b514222-1
 chaotic-aur imagewriter 1.10.1432200249.1d253d9.2.15-1
 chaotic-aur imaginary-teleprompter-bin 2.4.0-7.1
 chaotic-aur imagine-git 0.7.1.r0.g278e380-1.1
@@ -15418,7 +15418,7 @@ chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangoapp 0.6.8+140+g1b3f8b2-1
 chaotic-aur lib32-mangohud 0.6.8+140+g1b3f8b2-1
 chaotic-aur lib32-mangohud-git 0.6.8.r158.g05444cb-1
-chaotic-aur lib32-mesa-tkg-git 23.1.0_devel.169585.719a0e269e2-1
+chaotic-aur lib32-mesa-tkg-git 23.1.0_devel.169588.18ea1080385-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.1
 chaotic-aur lib32-neon 0.32.4-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15781,7 +15781,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.1
 chaotic-aur menulibre 2.2.3-1.1
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.35.1-1
-chaotic-aur mesa-tkg-git 23.1.0_devel.169585.719a0e269e2-1
+chaotic-aur mesa-tkg-git 23.1.0_devel.169588.18ea1080385-1
 chaotic-aur mesen-sx-git 0.4.0.r250.gc85dd78-1
 chaotic-aur mesen-x-git 1.0.1.r177.ge6d75fcf-1
 chaotic-aur meshlab 2022.02-1.1
@@ -16071,7 +16071,7 @@ chaotic-aur openssh-hpn-shim 9.2p1.hpn17v11-2
 chaotic-aur openssl-1.0 1.0.2.u-5
 chaotic-aur openssl-git 3.1.0.beta1.r2594.gf309b3f608-1
 chaotic-aur openswan 3.0.0-1.1
-chaotic-aur openttd-git 27054.770df65141-1
+chaotic-aur openttd-git 27055.e2f1cd44dc-1
 chaotic-aur openxray 1.6.02_1144-1.1
 chaotic-aur opera-beta-ffmpeg-codecs 112.0.5615.20-1
 chaotic-aur optimus-manager 1.4-4.1
@@ -16492,7 +16492,7 @@ chaotic-aur python-fonttools-git 4.39.3.r15.g1c28375-1
 chaotic-aur python-freetype-py 2.3.0-1.1
 chaotic-aur python-gbinder 1.1.1-2
 chaotic-aur python-gevent-eventemitter 2.1-3.1
-chaotic-aur python-git 3.12.0a0.r116501.ecad802e3f9-1
+chaotic-aur python-git 3.12.0a0.r116502.a28e2ce3fbc-1
 chaotic-aur python-googletrans-git r116.d15c94f-1.1
 chaotic-aur python-gpiozero 1.6.2-2
 chaotic-aur python-gps3 0.33.3-3
@@ -27309,7 +27309,7 @@ arcolinux_repo arcolinux-dwm-st-git 21.07-01
 arcolinux_repo arcolinux-enlightenment-dconf-git 22.07-01
 arcolinux_repo arcolinux-enlightenment-git 22.11-02
 arcolinux_repo arcolinux-faces-git 21.07-01
-arcolinux_repo arcolinux-fish-git 23.04-03
+arcolinux_repo arcolinux-fish-git 23.04-06
 arcolinux_repo arcolinux-fonts-git 21.07-01
 arcolinux_repo arcolinux-foot-git 21.12-01
 arcolinux_repo arcolinux-fvwm3-dconf-git 22.07-01
@@ -27409,7 +27409,7 @@ arcolinux_repo arcolinux-reflector-simple-git 21.07-01
 arcolinux_repo arcolinux-river-git 22.12-21
 arcolinux_repo arcolinux-rofi-git 23.04-01
 arcolinux_repo arcolinux-rofi-themes-git 23.04-01
-arcolinux_repo arcolinux-root-git 23.04-04
+arcolinux_repo arcolinux-root-git 23.04-06
 arcolinux_repo arcolinux-sddm-breeze-git 23.03-01
 arcolinux_repo arcolinux-sddm-breeze-minimal-git 23.03-01
 arcolinux_repo arcolinux-sddm-futuristic-git 23.03-01
@@ -27462,7 +27462,7 @@ arcolinux_repo arcolinux-xmonad-dconf-git 22.07-01
 arcolinux_repo arcolinux-xmonad-polybar-git 23.01-02
 arcolinux_repo arcolinux-xmonad-xmobar-git 23.01-02
 arcolinux_repo arcolinux-xtended-dconf-git 22.07-01
-arcolinux_repo arcolinux-zsh-git 23.04-04
+arcolinux_repo arcolinux-zsh-git 23.04-06
 arcolinux_repo arcolinuxd-config-live-session-git 22.07-01
 arcolinux_repo arcolinuxd-system-config-dev-git 23.03-12
 arcolinux_repo arcolinuxd-system-config-git 23.03-12
