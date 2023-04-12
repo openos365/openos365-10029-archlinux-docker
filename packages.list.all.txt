@@ -938,7 +938,7 @@ extra gupnp 1:1.6.3-1
 extra gupnp-av 0.14.1-2
 extra gupnp-dlna 0.12.0-2
 extra gupnp-docs 1:1.6.3-1
-extra gupnp-igd 1.2.0-3
+extra gupnp-igd 1.6.0-1
 extra gutenprint 5.3.4-2
 extra gv 3.7.4-5
 extra gvfs 1.50.4-1
@@ -1547,7 +1547,7 @@ extra libnetfilter_cthelper 1.0.1-1
 extra libnetfilter_cttimeout 1.0.1-1
 extra libnetfilter_log 1.0.2-1
 extra libnetfilter_queue 1.0.5-1
-extra libnice 0.1.21-1
+extra libnice 0.1.21-2
 extra libnitrokey 3.8-1
 extra libnm 1.42.4-2 [installed]
 extra libnma 1.10.6-1
@@ -2167,8 +2167,8 @@ extra ocl-icd 2.3.1-1 [installed]
 extra okteta 1:0.26.10-1
 extra okular 22.12.3-1
 extra onetbb 2021.8.0-2
-extra openal 1.23.0-2 [installed]
-extra openal-examples 1.23.0-2
+extra openal 1.23.1-1 [installed]
+extra openal-examples 1.23.1-1
 extra openbabel 3.1.1-6
 extra opencl-clhpp 2.0.16-1
 extra opencl-headers 2:2022.09.30-1
@@ -13621,7 +13621,7 @@ multilib lib32-nss 3.89-1
 multilib lib32-nvidia-cg-toolkit 3.1-8
 multilib lib32-nvidia-utils 530.41.03-1
 multilib lib32-ocl-icd 2.3.1-1
-multilib lib32-openal 1.23.0-1
+multilib lib32-openal 1.23.1-1
 multilib lib32-opencl-mesa 23.0.2-2
 multilib lib32-opencl-nvidia 530.41.03-1
 multilib lib32-openssl 1:3.0.8-1
@@ -15423,7 +15423,7 @@ chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangoapp 0.6.8+140+g1b3f8b2-1
 chaotic-aur lib32-mangohud 0.6.8+140+g1b3f8b2-1
 chaotic-aur lib32-mangohud-git 0.6.8.r159.g140c0d8-1
-chaotic-aur lib32-mesa-tkg-git 23.1.0_devel.169716.0c8394908c7-1
+chaotic-aur lib32-mesa-tkg-git 23.1.0_devel.169724.77047736198-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.1
 chaotic-aur lib32-neon 0.32.4-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15787,7 +15787,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.1
 chaotic-aur menulibre 2.2.3-1.1
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.35.1-1
-chaotic-aur mesa-tkg-git 23.1.0_devel.169716.0c8394908c7-1
+chaotic-aur mesa-tkg-git 23.1.0_devel.169724.77047736198-1
 chaotic-aur mesen-sx-git 0.4.0.r250.gc85dd78-1
 chaotic-aur mesen-x-git 1.0.1.r177.ge6d75fcf-1
 chaotic-aur meshlab 2022.02-1.1
@@ -16896,7 +16896,7 @@ chaotic-aur simutrans-extended-git r21686.d16d1d700-1
 chaotic-aur sioyek 2.0.0-1
 chaotic-aur sip4 4.19.25-3
 chaotic-aur siril 1.0.6-1.1
-chaotic-aur siril-git 1.2.0.5779.df71c48fa-1
+chaotic-aur siril-git 1.2.0.5780.bde2eb3c5-1
 chaotic-aur sirula-git r67.70b5ce1-1.1
 chaotic-aur skeuos-gtk 20220629-1
 chaotic-aur skippy-xd-git v2023.03.10.54.g841e6d4-1
@@ -18172,7 +18172,7 @@ blackarch cryptohazemultiforcer 1.31a-2
 blackarch cryptonark 0.5.7-1
 blackarch csrftester 1.0-4
 blackarch ct-exposer 24.71252ac-1
-blackarch ctf-party v2.3.0.r17.g8802d3e-1
+blackarch ctf-party v2.3.0.r22.ga5be46a-1
 blackarch ctunnel 0.7-1
 blackarch ctypes-sh 153.6982e6c-2
 blackarch cuckoo 2.0.7-8
@@ -18719,7 +18719,7 @@ blackarch hachoir-parser 1.3.4-2
 blackarch hackersh 0.2.0-8
 blackarch hackredis 3.fbae1bc-2
 blackarch hackrf 2023.01.1-1
-blackarch haiti v1.5.0.r7.gf19648a-1
+blackarch haiti v1.5.0.r13.gf9e20c7-1
 blackarch haka 0.2.2-3
 blackarch hakku 384.bbb434d-6
 blackarch hakrawler 234.14e240b-1
@@ -19467,8 +19467,8 @@ blackarch ntlmrecon 75.da150d6-1
 blackarch ntp-fingerprint 0.1-1
 blackarch ntp-ip-enum 0.1-3
 blackarch ntpdos 1:4.3fe389b-1
-blackarch nuclei 1:v2.9.0.r6.gf4b0625d-1
-blackarch nuclei-debug 1:v2.9.0.r6.gf4b0625d-1
+blackarch nuclei 1:v2.9.1.r0.g5b22ca84-1
+blackarch nuclei-debug 1:v2.9.1.r0.g5b22ca84-1
 blackarch nuclei-templates 1:v9.4.0.r7.geaeb1621e-1
 blackarch nullinux 123.a647159-1
 blackarch nullscan 1.0.1-2
@@ -21826,7 +21826,7 @@ blackarch rulesfinder 38.38313f3-1
 blackarch rupture 1383.131c61a-2
 blackarch rustbuster 302.4a243d4-1
 blackarch rustcat v3.0.0.r4.g245c791-1
-blackarch rusthound 53.f79ea96-1
+blackarch rusthound 55.6d7b945-1
 blackarch rustpad v1.8.1.r1.g11ce343-1
 blackarch rustscan 2.1.1-1
 blackarch rvi-capture 14.a2e129b-4
@@ -23012,8 +23012,8 @@ archlinuxcn dolphin-emu-git-debug 5.0.r19211.c5bbe0af028-1
 archlinuxcn dolphin-emu-nogui-git 5.0.r19211.c5bbe0af028-1
 archlinuxcn dosbox-staging 0.79.1-1
 archlinuxcn dosbox-staging-debug 0.79.1-1
-archlinuxcn dosbox-x-git 17910.0bf16b48b-1
-archlinuxcn dosbox-x-git-debug 17910.0bf16b48b-1
+archlinuxcn dosbox-x-git 17911.78798b3ad-1
+archlinuxcn dosbox-x-git-debug 17911.78798b3ad-1
 archlinuxcn dotnet-host-bin 7.0.4.sdk202-1
 archlinuxcn dotnet-runtime-bin 7.0.4.sdk202-1
 archlinuxcn dotnet-sdk-bin 7.0.4.sdk202-1
@@ -24387,8 +24387,8 @@ archlinuxcn multibootusb 9.2.0-6
 archlinuxcn mumps 5.5.1-1
 archlinuxcn mumps-seq 5.5.1-1
 archlinuxcn munt-git 2278.605ed3ec-1
-archlinuxcn musescore-git 1:30084.ce262dbe32-1
-archlinuxcn musescore-git-debug 1:30084.ce262dbe32-1
+archlinuxcn musescore-git 1:30124.95280d8cd5-1
+archlinuxcn musescore-git-debug 1:30124.95280d8cd5-1
 archlinuxcn music-dl 3.0.0-3
 archlinuxcn mycli 1.25.0-1
 archlinuxcn mysql 8.0.31-2
@@ -24497,7 +24497,8 @@ archlinuxcn nheko-git-debug 0.11.3.r170.ga7524bee-2
 archlinuxcn nintendo-udev 1.0.0-2
 archlinuxcn nixfmt 0.5.0-2
 archlinuxcn nixnote2 2.1.6-1
-archlinuxcn nm-tray-git r238.e7dfe52-1
+archlinuxcn nm-tray-git r239.0914cd4-1
+archlinuxcn nm-tray-git-debug r239.0914cd4-1
 archlinuxcn nodejs-nativefier 50.0.1-1
 archlinuxcn nodejs-unblockneteasemusic 0.25.3-6
 archlinuxcn nohang 0.2.0-2
@@ -25138,7 +25139,7 @@ archlinuxcn ruby-launchy 2.5.0-4
 archlinuxcn ruby-net-http-pipeline 1.0.1-6
 archlinuxcn ruby-pusher-client 0.6.2-6
 archlinuxcn ruby-reverse_markdown 2.1.1-1
-archlinuxcn ruby-rubocop 1.50.0-1
+archlinuxcn ruby-rubocop 1.50.1-1
 archlinuxcn ruby-thread_safe 0.3.6-5
 archlinuxcn ruby-travis 1.11.0-1
 archlinuxcn ruby-tzinfo-1 1.2.9-2
