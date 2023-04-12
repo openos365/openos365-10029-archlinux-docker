@@ -277,7 +277,7 @@ extra adwaita-icon-theme 43-2
 extra aha 0.5.1-2
 extra aiksaurus 1.2.1-9
 extra aisleriot 3.22.27-1
-extra akonadi 22.12.3-1
+extra akonadi 22.12.3-2
 extra akonadi-calendar 22.12.3-1
 extra akonadi-calendar-tools 22.12.3-1
 extra akonadi-contacts 22.12.3-1
@@ -1326,7 +1326,7 @@ extra kwayland 5.105.0-1
 extra kwayland-integration 5.27.4-1
 extra kweathercore 0.7-1
 extra kwidgetsaddons 5.105.0-1 [installed]
-extra kwin 5.27.4-1
+extra kwin 5.27.4.1-1
 extra kwindowsystem 5.105.0-1 [installed]
 extra kwordquiz 22.12.3-1
 extra kwrited 5.27.4-1
@@ -1357,7 +1357,7 @@ extra libaccounts-qt 1.16-3
 extra libadwaita 1:1.3.1-1
 extra libadwaita-demos 1:1.3.1-1
 extra libadwaita-docs 1:1.3.1-1
-extra libakonadi 22.12.3-1
+extra libakonadi 22.12.3-2
 extra libao 1.2.2-6
 extra libappimage 1.0.4.5-4
 extra libass 0.17.1-1 [installed]
@@ -2509,10 +2509,10 @@ extra purpose 5.105.0-1
 extra putty 0.78-1
 extra pyalpm 0.10.6-4 [installed]
 extra pyqt-builder 1.15.0-1
-extra pyside2 5.15.8-6
-extra pyside2-tools 5.15.8-6
-extra pyside6 6.4.3-1
-extra pyside6-tools 6.4.3-1
+extra pyside2 5.15.9-1
+extra pyside2-tools 5.15.9-1
+extra pyside6 6.5.0-1
+extra pyside6-tools 6.5.0-1
 extra pytest-pacman 0.1-3
 extra python-anytree 2.8.0-5
 extra python-appdirs 1.4.4-7
@@ -2581,13 +2581,13 @@ extra python-pyqt5-networkauth 5.15.5-3
 extra python-pyqt5-purchasing 5.15.5-3
 extra python-pyqt5-sip 12.12.0-1
 extra python-pyqt5-webengine 5.15.6-1
-extra python-pyqt6 6.4.2-1
-extra python-pyqt6-3d 6.4.0-1
-extra python-pyqt6-charts 6.4.0-1
-extra python-pyqt6-datavisualization 6.4.0-1
-extra python-pyqt6-networkauth 6.4.0-1
+extra python-pyqt6 6.5.0-1
+extra python-pyqt6-3d 6.5.0-1
+extra python-pyqt6-charts 6.5.0-1
+extra python-pyqt6-datavisualization 6.5.0-1
+extra python-pyqt6-networkauth 6.5.0-1
 extra python-pyqt6-sip 13.5.0-1
-extra python-pyqt6-webengine 6.4.0-1
+extra python-pyqt6-webengine 6.5.0-1
 extra python-pysmbc 1.0.23-3
 extra python-pytest-pacman 0.1-3
 extra python-pytest-qt 4.2.0-1
@@ -2602,7 +2602,7 @@ extra python-service-identity 21.1.0-4
 extra python-setuptools 1:67.6.1-1
 extra python-setuptools-gettext 0.1.1-1
 extra python-sgmllib3k 1.0.0-4
-extra python-shiboken2 5.15.8-6
+extra python-shiboken2 5.15.9-1
 extra python-six 1.16.0-6
 extra python-speg 0.3-9
 extra python-systemd 235-1
@@ -2715,87 +2715,90 @@ extra qrencode 4.1.1-2
 extra qscintilla-qt5 2.13.4-1
 extra qscintilla-qt6 2.13.4-1
 extra qt-gstreamer 1.2.0-4
-extra qt5-3d 5.15.8-1
-extra qt5-base 5.15.8+kde+r185-1 [installed]
-extra qt5-charts 5.15.8-1
-extra qt5-connectivity 5.15.8+kde+r8-1
-extra qt5-datavis3d 5.15.8-1
-extra qt5-declarative 5.15.8+kde+r24-2 [installed]
+extra qt5-3d 5.15.9-1
+extra qt5-base 5.15.9+kde+r151-1 [installed]
+extra qt5-charts 5.15.9-1
+extra qt5-connectivity 5.15.9+kde+r5-1
+extra qt5-datavis3d 5.15.9-1
+extra qt5-declarative 5.15.9+kde+r22-1 [installed]
 extra qt5-doc 5.15.8-1
 extra qt5-examples 5.15.8-1
-extra qt5-gamepad 5.15.8-1
-extra qt5-graphicaleffects 5.15.8-1
-extra qt5-imageformats 5.15.8+kde+r9-1
-extra qt5-location 5.15.8+kde+r4-2 [installed]
-extra qt5-lottie 5.15.8-1
-extra qt5-mqtt 5.15.2-8
-extra qt5-multimedia 5.15.8+kde+r2-1 [installed]
-extra qt5-networkauth 5.15.8-1
-extra qt5-purchasing 5.15.8-1
-extra qt5-quick3d 5.15.8+kde+r1-1
-extra qt5-quickcontrols 5.15.8-1
-extra qt5-quickcontrols2 5.15.8+kde+r7-1 [installed]
-extra qt5-quicktimeline 5.15.8-1
-extra qt5-remoteobjects 5.15.8-1
-extra qt5-script 5.15.13-1
-extra qt5-scxml 5.15.8-1
-extra qt5-sensors 5.15.8-1
-extra qt5-serialbus 5.15.8-1
-extra qt5-serialport 5.15.8-1
-extra qt5-speech 5.15.8+kde+r1-1 [installed]
-extra qt5-svg 5.15.8+kde+r8-1 [installed]
-extra qt5-tools 5.15.8+kde+r1-3 [installed]
-extra qt5-translations 5.15.8-1 [installed]
-extra qt5-virtualkeyboard 5.15.8-1
-extra qt5-wayland 5.15.8+kde+r63-1 [installed]
-extra qt5-webchannel 5.15.8+kde+r3-1 [installed]
-extra qt5-webengine 5.15.13-1 [installed]
-extra qt5-webglplugin 5.15.8-1
-extra qt5-websockets 5.15.8+kde+r3-1
-extra qt5-webview 5.15.8-1
-extra qt5-x11extras 5.15.8-1 [installed]
-extra qt5-xcb-private-headers 5.15.8+kde+r185-1
-extra qt5-xmlpatterns 5.15.8-1 [installed]
-extra qt6-3d 6.4.3-1
-extra qt6-5compat 6.4.3-1
-extra qt6-base 6.4.3-1
-extra qt6-charts 6.4.3-1
-extra qt6-connectivity 6.4.3-1
-extra qt6-datavis3d 6.4.3-1
-extra qt6-declarative 6.4.3-1
-extra qt6-doc 6.4.3-1
-extra qt6-examples 6.4.3-1
-extra qt6-httpserver 6.4.3-1
-extra qt6-imageformats 6.4.3-1
-extra qt6-languageserver 6.4.3-1
-extra qt6-lottie 6.4.3-1
-extra qt6-multimedia 6.4.3-1
-extra qt6-multimedia-ffmpeg 6.4.3-1
-extra qt6-multimedia-gstreamer 6.4.3-1
-extra qt6-networkauth 6.4.3-1
-extra qt6-positioning 6.4.3-1
-extra qt6-quick3d 6.4.3-1
-extra qt6-quick3dphysics 6.4.3-1
-extra qt6-quicktimeline 6.4.3-1
-extra qt6-remoteobjects 6.4.3-1
-extra qt6-scxml 6.4.3-1
-extra qt6-sensors 6.4.3-1
-extra qt6-serialbus 6.4.3-1
-extra qt6-serialport 6.4.3-1
-extra qt6-shadertools 6.4.3-1
-extra qt6-speech 6.4.3-1
-extra qt6-svg 6.4.3-1
-extra qt6-tools 6.4.3-2
-extra qt6-translations 6.4.3-1
-extra qt6-virtualkeyboard 6.4.3-1
-extra qt6-wayland 6.4.3-1
-extra qt6-webchannel 6.4.3-1
-extra qt6-webengine 6.4.3-1
-extra qt6-websockets 6.4.3-1
-extra qt6-webview 6.4.3-1
+extra qt5-gamepad 5.15.9-1
+extra qt5-graphicaleffects 5.15.9-1
+extra qt5-imageformats 5.15.9+kde+r9-1
+extra qt5-location 5.15.9+kde+r4-1 [installed]
+extra qt5-lottie 5.15.9-1
+extra qt5-mqtt 5.15.2-9
+extra qt5-multimedia 5.15.9+kde+r3-1 [installed]
+extra qt5-networkauth 5.15.9-1
+extra qt5-purchasing 5.15.9-1
+extra qt5-quick3d 5.15.9+kde+r1-1
+extra qt5-quickcontrols 5.15.9-1
+extra qt5-quickcontrols2 5.15.9+kde+r5-1 [installed]
+extra qt5-quicktimeline 5.15.9-1
+extra qt5-remoteobjects 5.15.9-1
+extra qt5-script 5.15.13-2
+extra qt5-scxml 5.15.9-1
+extra qt5-sensors 5.15.9-1
+extra qt5-serialbus 5.15.9-1
+extra qt5-serialport 5.15.9-1
+extra qt5-speech 5.15.9+kde+r1-1 [installed]
+extra qt5-svg 5.15.9+kde+r7-1 [installed]
+extra qt5-tools 5.15.9+kde+r1-1 [installed]
+extra qt5-translations 5.15.9-1 [installed]
+extra qt5-virtualkeyboard 5.15.9-1
+extra qt5-wayland 5.15.9+kde+r55-1 [installed]
+extra qt5-webchannel 5.15.9+kde+r3-1 [installed]
+extra qt5-webengine 5.15.13-2 [installed]
+extra qt5-webglplugin 5.15.9-1
+extra qt5-websockets 5.15.9+kde+r2-1
+extra qt5-webview 5.15.9-1
+extra qt5-x11extras 5.15.9-1 [installed]
+extra qt5-xcb-private-headers 5.15.9+kde+r151-1
+extra qt5-xmlpatterns 5.15.9-1 [installed]
+extra qt6-3d 6.5.0-1
+extra qt6-5compat 6.5.0-1
+extra qt6-base 6.5.0-3
+extra qt6-charts 6.5.0-1
+extra qt6-connectivity 6.5.0-2
+extra qt6-datavis3d 6.5.0-1
+extra qt6-declarative 6.5.0-2
+extra qt6-doc 6.5.0-1
+extra qt6-examples 6.5.0-1
+extra qt6-grpc 6.5.0-1
+extra qt6-httpserver 6.5.0-1
+extra qt6-imageformats 6.5.0-1
+extra qt6-languageserver 6.5.0-1
+extra qt6-location 6.5.0-1
+extra qt6-lottie 6.5.0-1
+extra qt6-multimedia 6.5.0-1
+extra qt6-multimedia-ffmpeg 6.5.0-1
+extra qt6-multimedia-gstreamer 6.5.0-1
+extra qt6-networkauth 6.5.0-1
+extra qt6-positioning 6.5.0-1
+extra qt6-quick3d 6.5.0-2
+extra qt6-quick3dphysics 6.5.0-2
+extra qt6-quickeffectmaker 6.5.0-3
+extra qt6-quicktimeline 6.5.0-1
+extra qt6-remoteobjects 6.5.0-2
+extra qt6-scxml 6.5.0-2
+extra qt6-sensors 6.5.0-1
+extra qt6-serialbus 6.5.0-2
+extra qt6-serialport 6.5.0-1
+extra qt6-shadertools 6.5.0-2
+extra qt6-speech 6.5.0-1
+extra qt6-svg 6.5.0-1
+extra qt6-tools 6.5.0-4
+extra qt6-translations 6.5.0-1
+extra qt6-virtualkeyboard 6.5.0-1
+extra qt6-wayland 6.5.0-2
+extra qt6-webchannel 6.5.0-1
+extra qt6-webengine 6.5.0-2
+extra qt6-websockets 6.5.0-1
+extra qt6-webview 6.5.0-1
 extra qtav 1.13.0-4
-extra qtcreator 10.0.0-1
-extra qtcreator-devel 10.0.0-1
+extra qtcreator 10.0.0-2
+extra qtcreator-devel 10.0.0-2
 extra qtkeychain-qt5 0.13.2-1
 extra qtkeychain-qt6 0.13.2-1
 extra quadrapassel 40.2-1
@@ -2868,8 +2871,8 @@ extra shaderc 2023.3-1
 extra shared-color-targets 0.1.7-4
 extra shared-mime-info 2.2+13+ga2ffb28-1 [installed]
 extra sharutils 4.15.2-4
-extra shiboken2 5.15.8-6
-extra shiboken6 6.4.3-1
+extra shiboken2 5.15.9-1
+extra shiboken6 6.5.0-1
 extra signon-kwallet-extension 22.12.3-1
 extra signon-plugin-oauth2 0.25-1
 extra signon-ui 0.17+20171022-3
@@ -3826,7 +3829,7 @@ community caja-xattr-tags 1.26.1-2
 community calc 2.14.1.5-1
 community calcurse 4.8.0-2
 community calf 0.90.3-6
-community calibre 6.15.1-1
+community calibre 6.15.1-2
 community cameractrls 0.4.14-1
 community camlp-streams 5.0.1-1
 community camlp4 4.14+1-3
@@ -3866,7 +3869,7 @@ community cargo-feature 0.7.0-1
 community cargo-flamegraph 0.6.2-1
 community cargo-fuzz 0.11.2-1
 community cargo-geiger 0.11.6-1
-community cargo-generate 0.18.1-2
+community cargo-generate 0.18.2-1
 community cargo-generate-rpm 0.10.2-1
 community cargo-hakari 0.9.14-1
 community cargo-llvm-cov 0.5.14-1
@@ -4213,41 +4216,41 @@ community debian-archive-keyring 2023.1-1
 community debian-ports-archive-keyring 2023.02.01-1
 community debootstrap 1.0.128-1
 community deepin-account-faces 1.0.12.1-1
-community deepin-album 6.0.0-1
+community deepin-album 6.0.0-2
 community deepin-anything 5.0.18-1
 community deepin-anything-arch 5.0.18-50
 community deepin-anything-dkms 5.0.18-1
 community deepin-api 5.5.32-1
 community deepin-app-services 0.0.22-1
 community deepin-boot-maker 5.7.8-1
-community deepin-calculator 5.8.23-2
+community deepin-calculator 5.8.23-3
 community deepin-calendar 5.9.1-1
 community deepin-camera 1.4.11-1
-community deepin-clipboard 5.4.25-2
+community deepin-clipboard 5.4.25-3
 community deepin-clone 5.0.11-1
 community deepin-clutter 1.26.2-3
 community deepin-cogl 1.22.5-3
 community deepin-community-wallpapers 1:1.7.7-2
-community deepin-compressor 5.12.14-1
+community deepin-compressor 5.12.14-2
 community deepin-control-center 5.5.158-1
 community deepin-daemon 5.14.115-1
 community deepin-desktop-base 2:2022.07.26-2
 community deepin-desktop-schemas 6.0.2-1
 community deepin-device-formatter 0.0.1.6-1
-community deepin-dock 5.5.81-1
-community deepin-draw 6.0.1-1
+community deepin-dock 5.5.81-2
+community deepin-draw 6.0.1-2
 community deepin-editor 6.0.1-1
-community deepin-file-manager 1:5.8.3-2
+community deepin-file-manager 1:5.8.3-3
 community deepin-font-manager 5.9.14-1
 community deepin-gettext-tools 1.0.10-1
 community deepin-grand-search 5.3.2-3
 community deepin-gtk-theme 2020.06.10-1
 community deepin-icon-theme 2021.11.24-1
 community deepin-image-editor 1.0.26-1
-community deepin-image-viewer 5.9.11-1
+community deepin-image-viewer 5.9.11-2
 community deepin-kwin 5.5.11-1
 community deepin-launcher 5.6.1-2
-community deepin-menu 5.0.1-10
+community deepin-menu 5.0.1-11
 community deepin-metacity 3.22.24-3
 community deepin-movie 1:5.10.14-1
 community deepin-music 6.2.25-1
@@ -4259,20 +4262,20 @@ community deepin-polkit-agent 5.4.17-1
 community deepin-polkit-agent-ext-gnomekeyring 0.1.0-2
 community deepin-printer 0.9.16-1
 community deepin-pw-check 5.1.18-1
-community deepin-qt-dbus-factory 6.0.0-1
-community deepin-qt5integration 5.6.6-1
-community deepin-qt5platform-plugins 5.6.5-2
-community deepin-reader 5.10.29-2
-community deepin-screen-recorder 5.11.15-1
+community deepin-qt-dbus-factory 6.0.0-2
+community deepin-qt5integration 5.6.6-2
+community deepin-qt5platform-plugins 5.6.5-3
+community deepin-reader 5.10.29-3
+community deepin-screen-recorder 5.11.15-2
 community deepin-screensaver 5.0.5-1
 community deepin-screensaver-pp 0.0.4-2
 community deepin-screenshot 5.0.0-6
 community deepin-session-shell 5.5.84-1
-community deepin-session-ui 5.6.2-1
+community deepin-session-ui 5.6.2-2
 community deepin-shortcut-viewer 5.0.7-1
 community deepin-sound-theme 15.10.6-1
 community deepin-store 1.2.4-1
-community deepin-system-monitor 6.0.3-2
+community deepin-system-monitor 6.0.3-3
 community deepin-terminal 5.9.40-1
 community deepin-terminal-gtk 5.0.4.3-1
 community deepin-topbar 0.7.0-1
@@ -4441,10 +4444,10 @@ community dstat 0.7.4-5
 community dtc 1.6.1-4
 community dtkcommon 5.6.4-2
 community dtkcore 1:5.6.6-1
-community dtkdeclarative 5.6.0-2
-community dtkgui 1:5.6.6-1
-community dtkwidget 5.6.6-1
-community dtkwm 2.0.12-17
+community dtkdeclarative 5.6.0-3
+community dtkgui 1:5.6.6-2
+community dtkwidget 5.6.6-3
+community dtkwm 2.0.12-18
 community dtools 2.103.0-1
 community dua-cli 2.19.2-1
 community dub 1.31.1-1
@@ -4605,8 +4608,8 @@ community fcitx-kkc 0.1.4-2
 community fcitx-libpinyin 0.5.4-2
 community fcitx-m17n 0.2.4-2
 community fcitx-mozc 2.26.4360.102.gca82d39-2
-community fcitx-qt5 1.2.7-8
-community fcitx-qt6 1.2.7-8
+community fcitx-qt5 1.2.7-10
+community fcitx-qt6 1.2.7-10
 community fcitx-rime 0.3.2-3
 community fcitx-sayura 0.1.2-2
 community fcitx-skk 0.1.4-2
@@ -4631,7 +4634,7 @@ community fcitx5-material-color 0.2.1-1
 community fcitx5-mozc 2.26.4632.102.g4d2e3bd-2
 community fcitx5-nord 0.0.0.20210116-1
 community fcitx5-pinyin-zhwiki 1:0.2.4.20230329-1
-community fcitx5-qt 5.0.17-1
+community fcitx5-qt 5.0.17-2
 community fcitx5-rime 5.0.16-1
 community fcitx5-sayura 5.0.8-1
 community fcitx5-skk 5.0.15-1
@@ -4884,7 +4887,7 @@ community fzf 0.39.0-1
 community fzy 1.0-2
 community g2reverb 0.7.1-6
 community gajim 1.7.1-2
-community gala 7.0.1-1
+community gala 7.0.2-1
 community galculator 2.1.4-8
 community gambas3-dev-tools 3.18.1-1
 community gambas3-gb-args 3.18.1-1
@@ -6904,7 +6907,7 @@ community klipper 0.11.0-1
 community klystrack-plus 0.10.0.alpha1-1
 community kmidimon 1.3.1-3
 community kmon 1.6.3-1
-community kmymoney 5.1.3-4
+community kmymoney 5.1.3-5
 community knative-client 1.7.0-1
 community knockd 0.8-1
 community knot 3.2.4-1
@@ -7103,7 +7106,7 @@ community libfm 1.3.2-1
 community libfm-extra 1.3.2-1
 community libfm-gtk2 1.3.2-1
 community libfm-gtk3 1.3.2-1
-community libfm-qt 1.2.1-2
+community libfm-qt 1.2.1-3
 community libforensic1394 0.2-9
 community libfreexl 1.0.6-2
 community libftdi 1.5-4
@@ -7244,7 +7247,7 @@ community libptytty 2.0-4
 community libpurple-lurch 0.7.0-1
 community libqb 2.0.3-1
 community libqtshadowsocks 2.1.0-14
-community libqtxdg 3.10.0-2
+community libqtxdg 3.10.0-3
 community libquotient 0.7.1-1
 community librabbitmq-c 0.11.0-2
 community libratbag 0.17-1
@@ -11174,7 +11177,7 @@ community qastools 0.23.0-1
 community qbe 1.1-1
 community qbittorrent 4.5.2-1
 community qbittorrent-nox 4.5.2-1
-community qcad 3.28.1.0-1
+community qcad 3.28.1.0-2
 community qconf 2.5-3
 community qcoro-qt5 0.8.0-1
 community qcoro-qt6 0.8.0-1
@@ -11183,8 +11186,8 @@ community qcustomplot-doc 2.1.1-1
 community qd 2.3.23-1
 community qgis 3.30.0-2
 community qgit 2.10-2
-community qgnomeplatform-qt5 0.9.0-8
-community qgnomeplatform-qt6 0.9.0-8
+community qgnomeplatform-qt5 0.9.0-10
+community qgnomeplatform-qt6 0.9.0-10
 community qgo 2.1.1-1
 community qhexedit2 0.8.9-1
 community qhttpengine 1.0.1-4
@@ -11221,10 +11224,10 @@ community qt5-feedback 0.0.0.20150918-4
 community qt5-gsettings 1.3.0-1
 community qt5-quickcontrols-nemo 5.7.2-1
 community qt5-systems 5.4.0.20181230-2
-community qt5-ukui-platformtheme 1.0.8-4
+community qt5-ukui-platformtheme 1.0.8-5
 community qt5ct 1.7-1
 community qt5pas 2.6.2.2.4-1
-community qt6ct 0.8-2
+community qt6ct 0.8-3
 community qtcurve-gtk2 1:1.9-5
 community qtcurve-kde 1:1.9-5
 community qtcurve-qt5 1:1.9-5
@@ -11928,7 +11931,7 @@ community ruff-lsp 0.0.24-1
 community runc 1.1.5-1
 community runst 0.1.3-1
 community rust-analyzer 20230410-1
-community rust-bindgen 0.64.0-1
+community rust-bindgen 0.65.1-1
 community rust-rage 0.9.1-1
 community rust-script 0.25.0-1
 community rustscan 2.1.1-1
@@ -12099,7 +12102,7 @@ community skim 0.10.4-1
 community skk-jisyo 20221030-1
 community skktools 1.3.4-4
 community skopeo 1.11.2-1
-community skrooge 2.29.0-1
+community skrooge 2.29.0-2
 community sl 5.05-4
 community sleuthkit 4.11.1-1
 community slib 3b6-3
@@ -12421,7 +12424,7 @@ community tectonic 0.12.0-2
 community teensy_loader_cli 2.2-2
 community teeworlds 0.7.5-2
 community tekton-cli 0.29.1-1
-community telegram-desktop 4.7.1-1
+community telegram-desktop 4.7.1-2
 community telegram-qt 0.1.0-6
 community telepathy-morse 0.1.0-3
 community tellico 3.4.6-1
@@ -12834,7 +12837,7 @@ community ukui-sidebar 3.1.2-1
 community ukui-system-monitor 1.0.4-1
 community ukui-themes 3.0.1-1
 community ukui-wallpapers 20.04.2-1
-community ukui-window-switch 3.0.1-8
+community ukui-window-switch 3.0.1-9
 community ukwm 1.2.1-4
 community ulfius 2.7.13-1
 community umoci 0.4.7-2
@@ -13645,7 +13648,7 @@ multilib lib32-procps-ng 3.3.17-1
 multilib lib32-readline 8.2.001-2
 multilib lib32-rest 0.8.1-4
 multilib lib32-sdl12-compat 1.2.60-1
-multilib lib32-sdl2 2.26.4-1
+multilib lib32-sdl2 2.26.5-1
 multilib lib32-sdl2_image 2.6.3-1
 multilib lib32-sdl2_mixer 2.6.3-1
 multilib lib32-sdl2_ttf 2.20.2-1
@@ -13674,7 +13677,7 @@ multilib lib32-vulkan-radeon 23.0.2-2
 multilib lib32-vulkan-validation-layers 1.3.243.0-1
 multilib lib32-vulkan-virtio 23.0.2-2
 multilib lib32-wavpack 5.6.0-1
-multilib lib32-wayland 1.21.0-1
+multilib lib32-wayland 1.22.0-1
 multilib lib32-xcb-util 0.4.1-1
 multilib lib32-xcb-util-keysyms 0.4.1-1
 multilib lib32-xz 5.4.2-1
@@ -14270,7 +14273,7 @@ chaotic-aur corepad 4.4.0-1.1
 chaotic-aur corepaint 4.4.0-1.1
 chaotic-aur corepdf 4.4.0-1.1
 chaotic-aur coreutils-git 9.2.r21.gcc95246ee-1
-chaotic-aur coreutils-hybrid-git 0.0.18.r40.g248be61c3-1
+chaotic-aur coreutils-hybrid-git 0.0.18.r44.g08c5f3b61-1
 chaotic-aur corrosion-git v0.3.0.r140.ge516737-1
 chaotic-aur coulr 1.8.1-1.1
 chaotic-aur cozette-otb 1.19.1-1
@@ -14983,7 +14986,7 @@ chaotic-aur hunspell-pt-br 3.2.15-1
 chaotic-aur hw-probe 1.6.5-1.1
 chaotic-aur hyperspace-bin 1:1.1.4-1.1
 chaotic-aur hypnotix 3.2-1
-chaotic-aur hyprland-git r2739.c2f29be9-1
+chaotic-aur hyprland-git r2747.efee6a1c-1
 chaotic-aur hyprland-nvidia 0.24.1-1
 chaotic-aur i2p 2.2.0-1
 chaotic-aur i3lock-color 2.13.c.4-1.2
@@ -15608,9 +15611,9 @@ chaotic-aur linux-clear-headers 6.2.10-1
 chaotic-aur linux-drm-next-docs-git 6.3.r1171778.55bf14961db9-1
 chaotic-aur linux-drm-next-git 6.3.r1171778.55bf14961db9-1
 chaotic-aur linux-drm-next-headers-git 6.3.r1171778.55bf14961db9-1
-chaotic-aur linux-drm-tip-docs-git 6.3.r1172354.603a179375a1-1
-chaotic-aur linux-drm-tip-git 6.3.r1172354.603a179375a1-1
-chaotic-aur linux-drm-tip-headers-git 6.3.r1172354.603a179375a1-1
+chaotic-aur linux-drm-tip-docs-git 6.3.r1172365.0c5be3027d7a-1
+chaotic-aur linux-drm-tip-git 6.3.r1172365.0c5be3027d7a-1
+chaotic-aur linux-drm-tip-headers-git 6.3.r1172365.0c5be3027d7a-1
 chaotic-aur linux-firmware-bnx2x-git 20230406.86da2ac9-1
 chaotic-aur linux-firmware-git 20230406.86da2ac-1
 chaotic-aur linux-firmware-liquidio-git 20230406.86da2ac-1
@@ -22785,8 +22788,8 @@ archlinuxcn astrometry.net-znver2 0.93-1
 archlinuxcn asusctl-git 1:4.6.0.r8.gdd30c80-1
 archlinuxcn asusctl-git-debug 1:4.6.0.r8.gdd30c80-1
 archlinuxcn auctex-git 1:13.1.r322.g21893998-1
-archlinuxcn audacity-git 3.2.5.r642.g934774cdd-1
-archlinuxcn audacity-git-debug 3.2.5.r642.g934774cdd-1
+archlinuxcn audacity-git 3.2.5.r680.ga4101bae8-1
+archlinuxcn audacity-git-debug 3.2.5.r680.ga4101bae8-1
 archlinuxcn aurutils 13.2-1
 archlinuxcn aurutils-git 13.2.r0.g645edd7c-1
 archlinuxcn aurvote 1.9-3
@@ -23456,8 +23459,8 @@ archlinuxcn hyper 3.0.2-1
 archlinuxcn hyprland-git r2739.c2f29be9-1
 archlinuxcn hyprland-hidpi-xprop-git r2739.c2f29be9-1
 archlinuxcn hyprland-hidpi-xprop-git-debug r2739.c2f29be9-1
-archlinuxcn hyprland-lily-git 0.24.1.r15.gc2f29be9-1
-archlinuxcn hyprland-lily-git-debug 0.24.1.r15.gc2f29be9-1
+archlinuxcn hyprland-lily-git 0.24.1.r22.ga68feb5a-1
+archlinuxcn hyprland-lily-git-debug 0.24.1.r22.ga68feb5a-1
 archlinuxcn hyprland-nvidia 0.24.1-1
 archlinuxcn hyprland-nvidia-git r2739.c2f29be9-1
 archlinuxcn hyprland-nvidia-hidpi-git r2739.c2f29be9-1
@@ -24648,8 +24651,8 @@ archlinuxcn pcem 17-6
 archlinuxcn pcem-debug 17-6
 archlinuxcn pcmanfm-qt-git 1.2.1.27.g9d7ff06-1
 archlinuxcn pcmanfm-qt-git-debug 1.2.1.27.g9d7ff06-1
-archlinuxcn pcsx2-git 1.7.4372.r0.g1ec83dc790-1
-archlinuxcn pcsx2-git-debug 1.7.4372.r0.g1ec83dc790-1
+archlinuxcn pcsx2-git 1.7.4373.r0.ga3af4155f8-1
+archlinuxcn pcsx2-git-debug 1.7.4373.r0.ga3af4155f8-1
 archlinuxcn pcsxr-git 1.9.94.r1697.6484236c-2
 archlinuxcn pencil 3.1.1-1
 archlinuxcn perl-file-rename 2.01-1
@@ -25466,8 +25469,8 @@ archlinuxcn vapoursynth-plugin-rife-ncnn-vulkan-git 1:9.r0.g6c6d0fa-5
 archlinuxcn vapoursynth-plugin-rife-ncnn-vulkan-git-debug 1:9.r0.g6c6d0fa-5
 archlinuxcn vcpkg 2023.02.24-2
 archlinuxcn vcpkg-debug 2023.02.24-2
-archlinuxcn vcpkg-git 2023.02.24.r378.g4116148a7f-1
-archlinuxcn vcpkg-git-debug 2023.02.24.r378.g4116148a7f-1
+archlinuxcn vcpkg-git 2023.02.24.r393.g203383666e-1
+archlinuxcn vcpkg-git-debug 2023.02.24.r393.g203383666e-1
 archlinuxcn vdhcoapp 1.6.3-2
 archlinuxcn ventoy-bin 1.0.91-1
 archlinuxcn ventoy-bin-debug 1.0.91-1
@@ -25634,8 +25637,8 @@ archlinuxcn ydcv-rs-git 0.4.7.157-1
 archlinuxcn ydotool-git 1.0.4.r0.g57ba7d0-1
 archlinuxcn ydotool-git-debug 1.0.4.r0.g57ba7d0-1
 archlinuxcn ykdl-git 1.8.1.post1.r4.082ab8c-1
-archlinuxcn yosys-git 0.27+30.r12227.101075611-1
-archlinuxcn yosys-git-debug 0.27+30.r12227.101075611-1
+archlinuxcn yosys-git 0.27+30.r12228.f9a6c0fcb-1
+archlinuxcn yosys-git-debug 0.27+30.r12228.f9a6c0fcb-1
 archlinuxcn youtube-dl-git 2021.12.17.r212.213d1d91bf-1
 archlinuxcn yubico-piv-tool 2.3.1-1
 archlinuxcn yubico-piv-tool-debug 2.3.1-1
