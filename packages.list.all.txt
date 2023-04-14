@@ -13499,7 +13499,7 @@ multilib lib32-libelf 0.189-1
 multilib lib32-libepoxy 1.5.10-1
 multilib lib32-libevent 2.1.12-3
 multilib lib32-libffi 3.4.4-1
-multilib lib32-libgcrypt 1.10.1-2
+multilib lib32-libgcrypt 1.10.2-1
 multilib lib32-libgcrypt15 1.5.6-7
 multilib lib32-libglvnd 1.6.0-1
 multilib lib32-libgpg-error 1.46-1
@@ -14939,7 +14939,7 @@ chaotic-aur guiscrcpy 1:2023.1.1-1
 chaotic-aur guiscrcpy-git 1:2022.7.1.r19.g5edd45e-1
 chaotic-aur gwe 0.15.5-3.1
 chaotic-aur gwenview-git 23.03.70.r7037-1
-chaotic-aur gyroflow-git 1.5.0.r35.g9eb2025e-1
+chaotic-aur gyroflow-git 1.5.0.r38.g4ad5e964-1
 chaotic-aur gzdoom 4.10.0-2
 chaotic-aur haguichi 1.4.5-1.1
 chaotic-aur hakuneko-desktop 6.1.7-2.1
@@ -15417,7 +15417,7 @@ chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangoapp 0.6.9-1
 chaotic-aur lib32-mangohud 0.6.9-1
 chaotic-aur lib32-mangohud-git 0.6.9.r2.g191cf37-1
-chaotic-aur lib32-mesa-tkg-git 23.2.0_devel.169834.3ad751f043f-1
+chaotic-aur lib32-mesa-tkg-git 23.2.0_devel.169840.bfce57c7a5b-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.1
 chaotic-aur lib32-neon 0.32.4-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15781,7 +15781,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.1
 chaotic-aur menulibre 2.2.3-1.1
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.35.1-1
-chaotic-aur mesa-tkg-git 23.2.0_devel.169834.3ad751f043f-1
+chaotic-aur mesa-tkg-git 23.2.0_devel.169840.bfce57c7a5b-1
 chaotic-aur mesen-sx-git 0.4.0.r250.gc85dd78-1
 chaotic-aur mesen-x-git 1.0.1.r177.ge6d75fcf-1
 chaotic-aur meshlab 2022.02-1.1
@@ -23461,13 +23461,13 @@ archlinuxcn htpdate-debug 1.3.7-1
 archlinuxcn httpry 0.1.8-2
 archlinuxcn hunspell-ja-git 1.r1.g9854fc6-2
 archlinuxcn hyper 3.0.2-1
-archlinuxcn hyprland-git r2757.011600ac-1
+archlinuxcn hyprland-git r2766.83f1616a-1
 archlinuxcn hyprland-hidpi-xprop-git r2757.011600ac-1
 archlinuxcn hyprland-hidpi-xprop-git-debug r2757.011600ac-1
 archlinuxcn hyprland-lily-git 0.24.1.r42.g83f1616a-1
 archlinuxcn hyprland-lily-git-debug 0.24.1.r42.g83f1616a-1
 archlinuxcn hyprland-nvidia 0.24.1-1
-archlinuxcn hyprland-nvidia-git r2757.011600ac-1
+archlinuxcn hyprland-nvidia-git r2766.83f1616a-1
 archlinuxcn hyprland-nvidia-hidpi-git r2757.011600ac-1
 archlinuxcn hyprpaper-git r95.10fd31a-1
 archlinuxcn hypseus-singe-git 2.10.3.r5.g9cdda69-2
@@ -24251,10 +24251,10 @@ archlinuxcn linux-vfio 6.2.9.arch1-3
 archlinuxcn linux-vfio-docs 6.2.9.arch1-3
 archlinuxcn linux-vfio-headers 6.2.9.arch1-3
 archlinuxcn linux-wifi-hotspot 4.4.0-1
-archlinuxcn linux-xanmod 6.2.10-1
-archlinuxcn linux-xanmod-headers 6.2.10-1
-archlinuxcn linux-xanmod-lts 6.1.23-1
-archlinuxcn linux-xanmod-lts-headers 6.1.23-1
+archlinuxcn linux-xanmod 6.2.11-1
+archlinuxcn linux-xanmod-headers 6.2.11-1
+archlinuxcn linux-xanmod-lts 6.1.24-1
+archlinuxcn linux-xanmod-lts-headers 6.1.24-1
 archlinuxcn listenbrainz-mpd 2.1.0-1
 archlinuxcn listenbrainz-mpd-debug 2.1.0-1
 archlinuxcn litecli 1.9.0-1
@@ -25792,9 +25792,6 @@ arch4edu gazebo 11.12.0-7
 arch4edu gcc10 10.4.0-1
 arch4edu gcc10-fortran 10.4.0-1
 arch4edu gcc10-libs 10.4.0-1
-arch4edu gcc11 11.3.0-6
-arch4edu gcc11-fortran 11.3.0-6
-arch4edu gcc11-libs 11.3.0-6
 arch4edu gcc5 5.5.0-3
 arch4edu gcc6 6.5.0-7
 arch4edu gcc6-fortran 6.5.0-7
@@ -25827,7 +25824,7 @@ arch4edu guile2.0 2.0.14-6
 arch4edu hadoop 3.3.5-1
 arch4edu hdf4 4.2.15-1
 arch4edu hdf5110 1.10.7-1
-arch4edu hdfview 3.3.0-1
+arch4edu hdfview 3.2.0-1
 arch4edu heasoft 6.31.1-1
 arch4edu hip-runtime-nvidia 5.4.1-2
 arch4edu hipfort 5.4.1-2
@@ -26110,7 +26107,6 @@ arch4edu python-peachpy-git r379.349e8f8-2
 arch4edu python-pep8 1.7.1-3
 arch4edu python-plotly 5.14.1-1
 arch4edu python-portalocker 2.7.0-1
-arch4edu python-progress 1.6-6
 arch4edu python-property-cached 1.6.4-1
 arch4edu python-pybindgen 0.22.1-1
 arch4edu python-pydotplus 2.0.2-2
@@ -26258,7 +26254,7 @@ arch4edu r-crosstalk 1.2.0-7
 arch4edu r-crul 1.3-1
 arch4edu r-cubature 2.0.4.6-1
 arch4edu r-curl 5.0.0-1
-arch4edu r-daewr 1.2.9-1
+arch4edu r-daewr 1.2.7-1
 arch4edu r-data.table 1.14.8-1
 arch4edu r-dbscan 1.1.11-1
 arch4edu r-deldir 1.0.6-4
@@ -26362,7 +26358,7 @@ arch4edu r-httr 1.4.5-1
 arch4edu r-huge 1.3.5-4
 arch4edu r-hypergeo 1.2.13-4
 arch4edu r-ic.infer 1.1.6-6
-arch4edu r-igraph 1.4.2-1
+arch4edu r-igraph 1.4.1-1
 arch4edu r-inline 0.3.19-9
 arch4edu r-interp 1.1.4-3
 arch4edu r-inum 1.0.5-1
@@ -26485,7 +26481,7 @@ arch4edu r-optimx 2022.4.30-1
 arch4edu r-parallelly 1.35.0-1
 arch4edu r-partitions 1.10.7-1
 arch4edu r-party 1.3.13-1
-arch4edu r-partykit 1.2.20-1
+arch4edu r-partykit 1.2.19-1
 arch4edu r-patchwork 1.1.2-1
 arch4edu r-pbapply 1.7.0-3
 arch4edu r-pbivnorm 0.6.0-7
@@ -26522,7 +26518,7 @@ arch4edu r-qcc 2.7-7
 arch4edu r-qgam 1.3.4-4
 arch4edu r-qgraph 1.9.4-1
 arch4edu r-quadprog 1.5.8-4
-arch4edu r-quantmod 0.4.22-1
+arch4edu r-quantmod 0.4.21-1
 arch4edu r-quantreg 5.95-1
 arch4edu r-qvcalc 1.0.2-4
 arch4edu r-r.matlab 3.7.0-1
