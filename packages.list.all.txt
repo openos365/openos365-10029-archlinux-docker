@@ -2037,7 +2037,7 @@ extra lzop 1.04-3
 extra m17n-db 1.8.0-4
 extra m17n-lib 1.8.0-13
 extra maeparser 1.3.1-1
-extra mailcap 2.1.53-1
+extra mailcap 2.1.53-1 [installed]
 extra mailcommon 23.04.0-1
 extra mailimporter 23.04.0-1
 extra malcontent 0.11.1-1
@@ -4131,9 +4131,9 @@ community crash 8.0.2-1
 community crawl-data 0.29.1-2
 community crawl-ncurses 0.29.1-2
 community crawl-tiles 0.29.1-2
-community cri-o 1.26.3-1
-community crictl 1.26.1-1
-community critest 1.26.1-1
+community cri-o 1.27.0-1
+community crictl 1.27.0-1
+community critest 1.27.0-1
 community critter 1.0.2-12
 community criu 3.17.1-1
 community croc 9.6.4-1
@@ -5102,7 +5102,7 @@ community git-sizer 1.5.0-2
 community git-smash 0.1.0-1
 community git-warp-time 0.4.10-1
 community gitea 1.18.5-1
-community github-cli 2.27.0-1
+community github-cli 2.27.0-1 [installed]
 community gitlab 15.11.0-1
 community gitlab-exporter 0.3.0-2
 community gitlab-gitaly 15.11.0-1
@@ -6615,7 +6615,7 @@ community htmlhint 1.1.4-1
 community htmlmin 0.1.12-8
 community htmlq 0.4.0-1
 community httpbin 0.7.0-11
-community httpie 3.2.1-1
+community httpie 3.2.1-2
 community httping 2.9-1
 community httplz 1.12.6-1
 community httptunnel 3.3-8
@@ -6971,20 +6971,20 @@ community ktikz 0.13.2-1
 community ktimetracker 5.0.1-1
 community ktoblzcheck 1.53-3
 community kube 0.9.0-2
-community kube-apiserver 1.26.3-1
-community kube-controller-manager 1.26.3-1
+community kube-apiserver 1.27.1-1
+community kube-controller-manager 1.27.1-1
 community kube-linter 0.6.3-1
-community kube-proxy 1.26.3-1
-community kube-scheduler 1.26.3-1
-community kubeadm 1.26.3-1
+community kube-proxy 1.27.1-1
+community kube-scheduler 1.27.1-1
+community kubeadm 1.27.1-1
 community kubeconform 0.5.0-1
-community kubectl 1.26.3-1
+community kubectl 1.27.1-1
 community kubectl-cert-manager 1.9.0-1
 community kubectl-ingress-nginx 1.0.4-2
 community kubectx 0.9.4-1
-community kubelet 1.26.3-1
+community kubelet 1.27.1-1
 community kubeone 1.6.0-1
-community kubernetes-control-plane-common 1.26.3-1
+community kubernetes-control-plane-common 1.27.1-1
 community kubeseal 0.19.3-1
 community kubie 0.19.3-1
 community kubo 0.19.1-1
@@ -9611,7 +9611,7 @@ community python-contourpy 1.0.7-1
 community python-cookiecutter 2.1.1-2
 community python-cooldict 1.04-1
 community python-copr 1.123-2
-community python-coverage 6.5.0-2
+community python-coverage 6.5.0-4
 community python-coverage-conditional-plugin 0.8.0-1
 community python-cppheaderparser 2.7.4-6
 community python-cpplint 1.6.1-2
@@ -10474,7 +10474,6 @@ community python-pychm 0.8.6-6
 community python-pyclibrary 0.2.1-1
 community python-pyclipper 1.3.0.post4-3
 community python-pycodestyle 2.10.0-1
-community python-pycontracts 1.8.14-6
 community python-pycosat 0.6.4-1
 community python-pycountry 22.3.5-1
 community python-pycryptodome 3.17.0-1
@@ -11302,7 +11301,7 @@ community razercfg 0.42-5
 community rbutil 1.5.1-1
 community rbw 1.7.1-1
 community rccl 5.4.3-1
-community rclone 1.62.2-1
+community rclone 1.62.2-1 [installed]
 community rdesktop 1.9.0-2
 community rdma-core 44.0-1
 community reactphysics3d 0.9.0-1
@@ -13964,7 +13963,7 @@ chaotic-aur arch-update 1.5.3-1
 chaotic-aur archinstall-git 2.4.0.dev0-1.2
 chaotic-aur archlinux-appstream-data-pamac 1:20230421-1
 chaotic-aur archlinux-java-run 9-1.1
-chaotic-aur ardour-git 7.3.r285.g82447431f4-1
+chaotic-aur ardour-git 7.3.r286.g595e2e2914-1
 chaotic-aur ares-emu 132-1
 chaotic-aur ares-emu-git 132.r79.gb7da32113-1
 chaotic-aur ark-git 23.03.70_r5003.gaaeebe0c-1
@@ -14942,7 +14941,7 @@ chaotic-aur gruvbox-material-gtk-theme-git r20.84e977222-1
 chaotic-aur gruvbox-material-icon-theme-git r20.84e977222-1
 chaotic-aur grype-bin 0.61.1-1
 chaotic-aur gsettings-desktop-schemas-git 44.0.r3.g16b04aa-1
-chaotic-aur gst-plugin-pipewire-common-git 0.3.70.r15.gf7b57d87-1
+chaotic-aur gst-plugin-pipewire-common-git 0.3.70.r21.g78e54b1b-1
 chaotic-aur gstreamer0.10 0.10.36-20
 chaotic-aur gstreamer0.10-base 0.10.36-13
 chaotic-aur gstreamer0.10-base-plugins 0.10.36-13
@@ -16340,8 +16339,8 @@ chaotic-aur pimcommon-git 5.22.49_r1978.gfa99d548-1
 chaotic-aur pingu 0.0.5-1
 chaotic-aur pip-tools 6.13.0-1
 chaotic-aur pipe-viewer-git 0.4.5.r6.g69ace04-1
-chaotic-aur pipewire-common-alsa-git 0.3.70.r17.gc20e7788-1
-chaotic-aur pipewire-common-docs-git 0.3.70.r17.gc20e7788-1
+chaotic-aur pipewire-common-alsa-git 0.3.70.r21.g78e54b1b-1
+chaotic-aur pipewire-common-docs-git 0.3.70.r21.g78e54b1b-1
 chaotic-aur pipewire-common-git 0.3.70.r15.gf7b57d87-1
 chaotic-aur pipewire-common-jack-git 0.3.70.r15.gf7b57d87-1
 chaotic-aur pipewire-common-pulse-git 0.3.70.r17.gc20e7788-1
@@ -24899,7 +24898,7 @@ archlinuxcn python-mmpose 1.0.0-1
 archlinuxcn python-mmpycocotools 12.0.3-4
 archlinuxcn python-mmpycocotools-debug 12.0.3-4
 archlinuxcn python-mmsegmentation 1:0.30.0-1
-archlinuxcn python-modin 0.20.0-1
+archlinuxcn python-modin 0.20.1-1
 archlinuxcn python-monai 1.1.0-1
 archlinuxcn python-motor 3.1.2-1
 archlinuxcn python-multimethod 1.9.1-1
@@ -25615,8 +25614,8 @@ archlinuxcn ydcv-rs-git 0.4.7.157-1
 archlinuxcn ydotool-git 1.0.4.r0.g57ba7d0-1
 archlinuxcn ydotool-git-debug 1.0.4.r0.g57ba7d0-1
 archlinuxcn ykdl-git 1.8.1.post1.r4.082ab8c-1
-archlinuxcn yosys-git 0.28+6.r12240.51dd02902-1
-archlinuxcn yosys-git-debug 0.28+6.r12240.51dd02902-1
+archlinuxcn yosys-git 0.28+6.r12242.cee3cb31b-1
+archlinuxcn yosys-git-debug 0.28+6.r12242.cee3cb31b-1
 archlinuxcn youtube-dl-git 2021.12.17.r217.211cbfd5d4-1
 archlinuxcn yubico-piv-tool 2.3.1-1
 archlinuxcn yubico-piv-tool-debug 2.3.1-1
@@ -26032,7 +26031,7 @@ arch4edu python-gensim 4.3.0-1
 arch4edu python-glog 0.3.1-3
 arch4edu python-gpustat 1:1.1-1
 arch4edu python-grip 4.6.1-1
-arch4edu python-ibm-cloud-sdk-core 3.16.5-1
+arch4edu python-ibm-cloud-sdk-core 3.16.0-1
 arch4edu python-ibm-platform-services 0.31.1-1
 arch4edu python-imagecodecs 2023.3.16-3
 arch4edu python-imageio 2.27.0-1
@@ -26570,7 +26569,7 @@ arch4edu r-systemfonts 1.0.4-2
 arch4edu r-tensora 0.36.2-4
 arch4edu r-testthat 3.1.7-4
 arch4edu r-textshaping 0.3.6-2
-arch4edu r-th.data 1.1.2-4
+arch4edu r-th.data 1.1.2-1
 arch4edu r-threejs 0.3.3-4
 arch4edu r-tibble 3.2.1-1
 arch4edu r-tidyr 1.3.0-1
@@ -26876,7 +26875,7 @@ arch4edu shadowsocks-rust 1.15.3-1
 arch4edu shellcheck-bin 0.9.0-1
 arch4edu shntool 3.0.10-7
 arch4edu showme 1.6-8
-arch4edu sioyek 2.0.0-2
+arch4edu sioyek 2.0.0-1
 arch4edu sip4 4.19.25-4
 arch4edu spek 0.8.5-2
 arch4edu spread-sheet-widget 0.8-1
