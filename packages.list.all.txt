@@ -1366,9 +1366,9 @@ extra lib32-rust-libs 1:1.69.0-2
 extra libabw 0.1.3-3
 extra libaccounts-glib 1.26-1
 extra libaccounts-qt 1.16-3
-extra libadwaita 1:1.3.1-1
-extra libadwaita-demos 1:1.3.1-1
-extra libadwaita-docs 1:1.3.1-1
+extra libadwaita 1:1.3.2-1
+extra libadwaita-demos 1:1.3.2-1
+extra libadwaita-docs 1:1.3.2-1
 extra libakonadi 23.04.0-1
 extra libao 1.2.2-6
 extra libappimage 1.0.4.5-4
@@ -3746,7 +3746,7 @@ community blueman 2.3.5-1
 community blueprint-compiler 0.6.0-1
 community bluez-tools 0.2.0-5
 community blur-effect 1.1.3-2
-community bmake 20230321-1
+community bmake 20230414-1
 community bmkdep 20140112-4
 community bmon 4.0-4
 community bmusb 0.7.6-2
@@ -8495,7 +8495,7 @@ community packer 1.8.6-1
 community packeth 2.1-2
 community pacman-bintrans 0.4.0-1
 community pacman-bintrans-tools 0.4.0-1
-community pacman-contrib 1.9.0-1
+community pacman-contrib 1.9.0-1 [installed]
 community pacmanlogviewer 1.4.3-3
 community pacoloco 1.3-1
 community pacparser 1.4.1-1
@@ -11301,7 +11301,7 @@ community razercfg 0.42-5
 community rbutil 1.5.1-1
 community rbw 1.7.1-1
 community rccl 5.4.3-1
-community rclone 1.62.2-1
+community rclone 1.62.2-1 [installed]
 community rdesktop 1.9.0-2
 community rdma-core 44.0-1
 community reactphysics3d 0.9.0-1
@@ -12428,7 +12428,7 @@ community tectonic 0.12.0-2
 community teensy_loader_cli 2.2-2
 community teeworlds 0.7.5-2
 community tekton-cli 0.29.1-1
-community telegram-desktop 4.8.0-1
+community telegram-desktop 4.8.1-1
 community telegram-qt 0.1.0-6
 community telepathy-morse 0.1.0-3
 community tellico 3.4.6-1
@@ -23415,8 +23415,8 @@ archlinuxcn ghcup-hs-bin 0.1.19.2-1
 archlinuxcn ghcup-hs-bin-debug 0.1.19.2-1
 archlinuxcn gimp-devel 2.99.14-3
 archlinuxcn gimp-devel-debug 2.99.14-3
-archlinuxcn gimp-git 2:49839.b557a8e581-1
-archlinuxcn gimp-git-debug 2:49839.b557a8e581-1
+archlinuxcn gimp-git 2:49844.82e201f93b-1
+archlinuxcn gimp-git-debug 2:49844.82e201f93b-1
 archlinuxcn gimp-plugin-bimp 2.6-2
 archlinuxcn gimp-plugin-bimp-debug 2.6-2
 archlinuxcn git-cinnabar 0.6.1-1
@@ -23634,7 +23634,7 @@ archlinuxcn juicefs-oss 1.0.4-1
 archlinuxcn juicefs-oss-debug 1.0.4-1
 archlinuxcn julia-git 1:1.10.0.DEV.1098.ga34261f526c-2
 archlinuxcn julia-git-abstractalgebra-git 0.29.4.0.4.ge9b3240ae-1
-archlinuxcn julia-git-abstractffts-git 1.3.1.0.4.ga25656d-1
+archlinuxcn julia-git-abstractffts-git 1.3.1.0.5.g09d703a-1
 archlinuxcn julia-git-abstracttrees-git 0.4.3.0.19.g8be8049-1
 archlinuxcn julia-git-acl_jll-git 2.3.1+0.0.1.g53e7115-2
 archlinuxcn julia-git-adapt-git 3.6.1-1
@@ -23700,7 +23700,7 @@ archlinuxcn julia-git-commonsubexpressions-git 0.3.0-8
 archlinuxcn julia-git-compat-git 4.6.1-1
 archlinuxcn julia-git-computationalresources-git 0.3.2.0.2.g5950dbb-6
 archlinuxcn julia-git-conda-git 1.8.0-1
-archlinuxcn julia-git-constructionbase-git 1.5.1-1
+archlinuxcn julia-git-constructionbase-git 1.5.1.0.5.gad37774-1
 archlinuxcn julia-git-contextvariablesx-git 0.1.3.0.1.gc8ff537-2
 archlinuxcn julia-git-contour-git 0.6.2-2
 archlinuxcn julia-git-coordinatetransformations-git 0.6.2.0.5.g78f5a5c-3
@@ -23823,7 +23823,7 @@ archlinuxcn julia-git-jump-git 1.10.0.0.11.g0c63d61ca8-1
 archlinuxcn julia-git-juniper-git 0.9.0.0.5.g2ab639e-2
 archlinuxcn julia-git-labelledarrays-git 1.14.0.0.8.g9829b9a-1
 archlinuxcn julia-git-lame_jll-git 3.100.1+0.0.2.g188394f-4
-archlinuxcn julia-git-latexify-git 0.15.19-1
+archlinuxcn julia-git-latexify-git 0.16.0-1
 archlinuxcn julia-git-latexstrings-git 1.3.0.0.3.ga84e05a-2
 archlinuxcn julia-git-layoutpointers-git 0.1.14.0.10.g0fbfbda-1
 archlinuxcn julia-git-lazymodules-git 0.3.1-2
@@ -23974,8 +23974,8 @@ archlinuxcn julia-git-stringencodings-git 0.3.6-1
 archlinuxcn julia-git-stringmanipulation-git 0.3.0.0.2.g5502c5d-2
 archlinuxcn julia-git-structarrays-git 0.6.15-1
 archlinuxcn julia-git-structtypes-git 1.10.0.0.4.g4dbad5b-1
-archlinuxcn julia-git-symbolics-git 5.2.0.0.6.gab89cd10-1
-archlinuxcn julia-git-symbolicutils-git 1.0.5-1
+archlinuxcn julia-git-symbolics-git 5.3.0-1
+archlinuxcn julia-git-symbolicutils-git 1.0.5.0.4.g6be690c-1
 archlinuxcn julia-git-tables-git 1.10.1-1
 archlinuxcn julia-git-tabletraits-git 1.0.1.0.5.g239ccf8-6
 archlinuxcn julia-git-tensorcore-git 0.1.1.0.3.g7e9ad32-6
@@ -24578,8 +24578,8 @@ archlinuxcn nspawn 0.6-1
 archlinuxcn ntfs3-dkms 1:5.17-1
 archlinuxcn numix-circle-icon-theme-git 23.04.20.r0.g3f804c0-1
 archlinuxcn numix-icon-theme 23.02.20.r0.g19d352ea7-1
-archlinuxcn nushell-git 0.78.1.r7124.g7413ef282-1
-archlinuxcn nushell-git-debug 0.78.1.r7124.g7413ef282-1
+archlinuxcn nushell-git 0.78.1.r7125.g07598c962-1
+archlinuxcn nushell-git-debug 0.78.1.r7125.g07598c962-1
 archlinuxcn nutstore 5.1.7-1
 archlinuxcn nvchecker-git 1:2.11.r2-1
 archlinuxcn nvidia-beta-dkms 530.41.03-1
@@ -25619,8 +25619,8 @@ archlinuxcn yosys-git-debug 0.28+6.r12242.cee3cb31b-1
 archlinuxcn youtube-dl-git 2021.12.17.r217.211cbfd5d4-1
 archlinuxcn yubico-piv-tool 2.3.1-1
 archlinuxcn yubico-piv-tool-debug 2.3.1-1
-archlinuxcn yuzu-early-access 3528-1
-archlinuxcn yuzu-early-access-debug 3528-1
+archlinuxcn yuzu-early-access 3531-1
+archlinuxcn yuzu-early-access-debug 3531-1
 archlinuxcn yuzu-git r23569.9bf19b04f6-1
 archlinuxcn yuzu-git-debug r23569.9bf19b04f6-1
 archlinuxcn yuzu-mainline-git 1409.r0.g9bf19b04f-1
