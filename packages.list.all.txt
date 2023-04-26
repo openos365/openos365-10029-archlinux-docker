@@ -1014,7 +1014,7 @@ extra icon-naming-utils 0.8.90-5
 extra id3lib 3.8.3-18
 extra ifplugd 0.28-17
 extra ijs 0.35-5
-extra imagemagick 7.1.1.7-1
+extra imagemagick 7.1.1.8-1
 extra imake 1.0.9-1
 extra imath 3.1.7-1 [installed]
 extra imlib2 1.11.0-1
@@ -1544,7 +1544,7 @@ extra libmpeg2 0.5.1-7
 extra libmspack 1:0.11alpha-1
 extra libmspub 0.1.4-13
 extra libmsym 0.2.3-7
-extra libmtp 1.1.20-1
+extra libmtp 1.1.21-1
 extra libmwaw 0.3.21-3
 extra libmwaw-docs 0.3.21-3
 extra libmygpo-qt5 1.1.0-3
@@ -1609,6 +1609,7 @@ extra libqaccessibilityclient 0.4.1-2
 extra libqalculate 4.6.1-1
 extra libqmi 1.32.4-1
 extra libqrtr-glib 1.2.2-2
+extra libquotient 0.7.2-1
 extra libquvi 0.9.4-7
 extra libquvi-scripts 0.9.20131130-5
 extra libqxp 0.0.2-9
@@ -2491,7 +2492,7 @@ extra postgresql-docs 15.2-1
 extra postgresql-libs 15.2-1
 extra postgresql-old-upgrade 14.7-1
 extra potrace 1.16-2
-extra power-profiles-daemon 0.12-1
+extra power-profiles-daemon 0.13-1
 extra powerdevil 5.27.4.1-1
 extra poxml 23.04.0-1
 extra print-manager 23.04.0-1
@@ -7266,7 +7267,6 @@ community libpurple-lurch 0.7.0-1
 community libqb 2.0.3-1
 community libqtshadowsocks 2.1.0-14
 community libqtxdg 3.11.0-1
-community libquotient 0.7.1-1
 community librabbitmq-c 0.11.0-2
 community libratbag 0.17-1
 community librdkafka 2.1.0-1
@@ -14952,7 +14952,7 @@ chaotic-aur gstreamer0.10-base-plugins 0.10.36-13
 chaotic-aur gtg 0.6-6
 chaotic-aur gtk-gnutella 1.2.2-1.1
 chaotic-aur gtk-gnutella-git 1.2.2.r9.g12757e513-1.1
-chaotic-aur gtk-theme-elementary-git 7.2.0.r0.g715f7460-1
+chaotic-aur gtk-theme-elementary-git 7.2.0.r1.g9cea2383-1
 chaotic-aur gtk-theme-windows10-dark-git r169.b2ea44a-1
 chaotic-aur gtk2-patched-filechooser-icon-view 2.24.33-3
 chaotic-aur gtk3-classic 3.24.37-2
@@ -15249,9 +15249,9 @@ chaotic-aur kirigami2-git 5.105.0_r3645.g9bfdd04a-1
 chaotic-aur kitemmodels-git 5.105.0_r643.gbf82e31-1
 chaotic-aur kitemviews-git 5.105.0_r421.g48ed954-1
 chaotic-aur kitinerary-git 5.22.42_r2695.g49b686ba-1
-chaotic-aur kitty-git 1:r12047.g7b6d11fd1-1
-chaotic-aur kitty-shell-integration-git 1:r12047.g7b6d11fd1-1
-chaotic-aur kitty-terminfo-git 1:r12047.g7b6d11fd1-1
+chaotic-aur kitty-git 1:r12048.g019359b21-1
+chaotic-aur kitty-shell-integration-git 1:r12048.g019359b21-1
+chaotic-aur kitty-terminfo-git 1:r12048.g019359b21-1
 chaotic-aur kjobwidgets-git 5.104.0_r465.g5bb73a7-1
 chaotic-aur kjs-git 5.102.0_r388.g6b34482-1
 chaotic-aur kjsembed-git 5.102.0_r361.g457ba7f-1
@@ -15511,7 +15511,7 @@ chaotic-aur libbtbb 2020.12.R1-2
 chaotic-aur libccd 2.1-1
 chaotic-aur libcgroup 2.0-1
 chaotic-aur libcheese-git 44.0.1+r2+gcf234cac-1
-chaotic-aur libclc-git 1:17.0.0_r459056.2b3c13b7166b-1
+chaotic-aur libclc-git 1:17.0.0_r459132.740c0b3a5030-1
 chaotic-aur libcmrt 1.0.6-2.1
 chaotic-aur libcotp 2.0.0-1
 chaotic-aur libcprime 4.4.1-1.1
@@ -16000,7 +16000,7 @@ chaotic-aur ntfs3-dkms 1:5.17-1.1
 chaotic-aur ntfsprogs-ntfs3 2022.10.3-1
 chaotic-aur nuclear-player-bin 1667906953281:2022118_2aafe80b9a7a18d4b506b4f8b92005cc-2
 chaotic-aur numix-circle-icon-theme-git 23.04.20.r0.g3f804c0-1
-chaotic-aur numix-icon-theme-git 23.02.20.r0.g19d352ea7-1
+chaotic-aur numix-icon-theme-git 23.02.20.r4.g29e8869fb-1
 chaotic-aur nushell-git 0.77.0.r6.g24ee381-1
 chaotic-aur nvidia-390xx-dkms 390.157-3
 chaotic-aur nvidia-390xx-settings 390.157-1
@@ -17486,8 +17486,8 @@ chaotic-aur vimix-gtk-themes-git r526.545d2e44-1
 chaotic-aur vimix-icon-theme 2023.01.18-2
 chaotic-aur vimix-icon-theme-git 2023.01.18.r3.g22201c61-1
 chaotic-aur vimv-git r47.3bb51a4-1.1
-chaotic-aur virt-install-git 4.1.0.r35.g102fe521-1
-chaotic-aur virt-manager-git 4.1.0.r35.g102fe521-1
+chaotic-aur virt-install-git 4.1.0.r35.g102fe5216-1
+chaotic-aur virt-manager-git 4.1.0.r35.g102fe5216-1
 chaotic-aur virt-manager-meta 5-4
 chaotic-aur virtualbox-ext-oracle 7.0.8-1
 chaotic-aur visual-studio-code-bin 1.77.3-1
