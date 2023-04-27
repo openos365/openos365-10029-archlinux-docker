@@ -163,9 +163,9 @@ core linux-firmware-qcom 20230210.bf4115c-1
 core linux-firmware-qlogic 20230210.bf4115c-1
 core linux-firmware-whence 20230210.bf4115c-1
 core linux-headers 6.2.12.arch1-1
-core linux-lts 6.1.25-1
-core linux-lts-docs 6.1.25-1
-core linux-lts-headers 6.1.25-1
+core linux-lts 6.1.26-1
+core linux-lts-docs 6.1.26-1
+core linux-lts-headers 6.1.26-1
 core logrotate 3.21.0-2
 core lto-dump 12.2.1-2
 core lvm2 2.03.21-1 [installed]
@@ -2163,7 +2163,7 @@ extra numactl 2.0.16-1
 extra nuspell 5.1.2-2
 extra nvidia 530.41.03-5
 extra nvidia-dkms 530.41.03-1
-extra nvidia-lts 1:530.41.03-5
+extra nvidia-lts 1:530.41.03-6
 extra nvidia-open 530.41.03-5
 extra nvidia-open-dkms 530.41.03-5
 extra nvidia-prime 1.0-4
@@ -3381,7 +3381,7 @@ community 6tunnel 0.13-2
 community 9base 6-8
 community a2jmidid 9-4
 community aarch64-linux-gnu-binutils 2.40-1
-community aarch64-linux-gnu-gcc 12.2.0-1
+community aarch64-linux-gnu-gcc 13.1.0-1
 community aarch64-linux-gnu-gdb 13.1-1
 community aarch64-linux-gnu-glibc 2.37-1
 community aarch64-linux-gnu-linux-api-headers 6.0-1
@@ -3400,7 +3400,7 @@ community acorn 1:8.8.2-1
 community acpi 1.7-3
 community acpi_call 1.2.2-120
 community acpi_call-dkms 1.2.2-1
-community acpi_call-lts 1.2.2-115
+community acpi_call-lts 1.2.2-116
 community acpica 20221020-1
 community acpid 2.0.34-1
 community acpilight 1.2-2
@@ -3551,7 +3551,7 @@ community aria2 1.36.0-1
 community ario 1.6-2
 community arj 3.10.22-13
 community arm-none-eabi-binutils 2.40-1
-community arm-none-eabi-gcc 12.2.0-1
+community arm-none-eabi-gcc 13.1.0-1
 community arm-none-eabi-gdb 13.1-1
 community arm-none-eabi-newlib 4.3.0.20230120-1
 community armagetronad 0.2.9.1.0-4
@@ -3637,7 +3637,7 @@ community aws-c-http 0.7.7-1
 community aws-c-io 0.13.21-1
 community aws-c-mqtt 0.8.7-1
 community aws-c-s3 0.2.6-1
-community aws-c-sdkutils 0.1.7-1
+community aws-c-sdkutils 0.1.9-1
 community aws-checksums 0.1.14-1
 community aws-cli 1.27.89-1
 community aws-cli-v2 2.11.14-1
@@ -11272,7 +11272,7 @@ community r 4.3.0-1
 community r10k 3.15.2-1
 community r2ghidra 5.8.2-1
 community r8168 8.051.02-33
-community r8168-lts 8.051.02-29
+community r8168-lts 8.051.02-30
 community rabbitmq 3.11.9-1
 community rabbitmqadmin 3.11.9-1
 community racket 8.8-1
@@ -12648,7 +12648,7 @@ community towncrier 22.12.0-1
 community toxcore 1:0.2.18-2
 community toxic 0.11.3-3
 community tp_smapi 0.43-473
-community tp_smapi-lts 0.43-311
+community tp_smapi-lts 0.43-312
 community tpacpi-bat 3.1-3
 community tpm2-abrmd 2.4.1-1
 community tpm2-openssl 1.1.1-1
@@ -15636,9 +15636,9 @@ chaotic-aur linux-cachyos-bore 6.2.12-1
 chaotic-aur linux-cachyos-bore-headers 6.2.12-1
 chaotic-aur linux-clear 6.2.13-1
 chaotic-aur linux-clear-headers 6.2.13-1
-chaotic-aur linux-drm-next-docs-git 6.3.r1171877.289af45508ca-1
-chaotic-aur linux-drm-next-git 6.3.r1171877.289af45508ca-1
-chaotic-aur linux-drm-next-headers-git 6.3.r1171877.289af45508ca-1
+chaotic-aur linux-drm-next-docs-git 6.3.r1171883.cf03e2956af3-1
+chaotic-aur linux-drm-next-git 6.3.r1171883.cf03e2956af3-1
+chaotic-aur linux-drm-next-headers-git 6.3.r1171883.cf03e2956af3-1
 chaotic-aur linux-drm-tip-docs-git 6.3.r1173043.b9458e707565-1
 chaotic-aur linux-drm-tip-git 6.3.r1173043.b9458e707565-1
 chaotic-aur linux-drm-tip-headers-git 6.3.r1173043.b9458e707565-1
@@ -15970,7 +15970,7 @@ chaotic-aur nordic-theme 2.2.0-1
 chaotic-aur nordic-theme-git 2.2.0.r48.gd22f8c4-1
 chaotic-aur nordpy 1.3.5-1.1
 chaotic-aur nordvpn-bin 3.16.2-1
-chaotic-aur nordzy-icon-theme-git r474.d2fc0252-1
+chaotic-aur nordzy-icon-theme-git r479.f5f2b755-1
 chaotic-aur normcap 0.4.0-2
 chaotic-aur notable-bin 1.8.4-5
 chaotic-aur notejot 3.5.1-1.1
@@ -28696,7 +28696,7 @@ xerolinux_repo_xl geekbench 6.0.1-1
 xerolinux_repo_xl gitfiend 0.40.6-1
 xerolinux_repo_xl jellyfin-ffmpeg5-bin 5.1.2-9
 xerolinux_repo_xl kde-wallpapers 22.12-1
-xerolinux_repo_xl mercury-browser-bin 111.0.2-1
+xerolinux_repo_xl mercury-browser-bin 112.0.3-1
 xerolinux_repo_xl nerd-fonts-gabmus 2.3.3-1
 xerolinux_repo_xl nerd-fonts-hasklig 2.3.0-1
 xerolinux_repo_xl nerd-fonts-sarasa-mono 2.2.1-1
