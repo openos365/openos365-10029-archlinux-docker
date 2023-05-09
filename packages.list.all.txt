@@ -68,7 +68,7 @@ core glibc 2.37-3 [installed]
 core gmp 6.2.1-2 [installed]
 core gnupg 2.2.41-1 [installed]
 core gnutls 3.8.0-1 [installed]
-core gpgme 1.20.0-2 [installed]
+core gpgme 1.20.0-3 [installed]
 core gpm 1.20.7.r38.ge82d1a6-5 [installed]
 core grep 3.10-1 [installed]
 core groff 1.22.4-10 [installed]
@@ -219,10 +219,12 @@ core python 3.11.3-1 [installed]
 core python-audit 3.1.1-1
 core python-brotli 1.0.9-12
 core python-capng 0.8.3-2
-core python-gpgme 1.20.0-2
+core python-gpgme 1.20.0-3
 core python-libseccomp 2.5.4-2
 core python-tests 3.11.3-1
 core qgpgme 1.20.0-2
+core qgpgme-qt5 1.20.0-3
+core qgpgme-qt6 1.20.0-3
 core readline 8.2.001-2 [installed]
 core reiserfsprogs 3.6.27-4
 core rpcbind 1.2.6-3
@@ -17080,7 +17082,7 @@ chaotic-aur schildichat-desktop 1.11.30.sc.1-1
 chaotic-aur scid 5.0.2-1.2
 chaotic-aur scrub 2.6.1-1
 chaotic-aur sct 1.0.0-1
-chaotic-aur scummvm-git r141768.3094584beb3-1
+chaotic-aur scummvm-git r141896.a75d53a5ec0-1
 chaotic-aur scylla-bin 5.0.1-1
 chaotic-aur sdbus-cpp-doc 1.2.0-2.1
 chaotic-aur sddm-config-editor-git 0.1.r89.g24cb417-1.1
