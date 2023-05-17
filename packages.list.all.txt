@@ -23,7 +23,7 @@ core coreutils 9.3-1 [installed]
 core cracklib 2.9.11-1 [installed]
 core cronie 1.6.1-1
 core cryptsetup 2.6.1-3 [installed]
-core curl 8.0.1-1 [installed]
+core curl 8.1.0-1 [installed]
 core dash 0.5.12-1
 core db 6.2.32-1
 core db5.3 5.3.28-2 [installed]
@@ -104,8 +104,8 @@ core libassuan 2.5.5-2 [installed]
 core libbpf 1.2.0-1 [installed]
 core libcap 2.69-1 [installed]
 core libcap-ng 0.8.3-2 [installed]
-core libcurl-compat 8.0.1-1
-core libcurl-gnutls 8.0.1-1
+core libcurl-compat 8.1.0-1
+core libcurl-gnutls 8.1.0-1
 core libedit 20221030_3.1-1 [installed]
 core libelf 0.189-1 [installed]
 core libevent 2.1.12-4 [installed]
@@ -4223,6 +4223,7 @@ community datamash 1.8-1
 community dateutils 0.4.10-1
 community datovka 4.22.0-1
 community datree 1.8.8-1
+community davix 0.8.4-2
 community dbc-parser-cpp 0.1.1.r88.ca69d0d-1
 community dbeaver 23.0.4-1
 community dbeaver-plugin-apache-poi 4.1.1-4
@@ -13352,7 +13353,7 @@ community xplr 0.21.1-2
 community xpra 4.4.4-2
 community xprintidle 0.2.5-1
 community xreader 3.6.3-1
-community xrootd 5.5.4-2
+community xrootd 5.5.5-1
 community xsecurelock 1.8.0-1
 community xsel 1.2.1-1
 community xsensors 0.80-3
@@ -13502,7 +13503,7 @@ multilib lib32-clang 15.0.7-1
 multilib lib32-cmocka 1.1.7-1
 multilib lib32-colord 1.4.6-1
 multilib lib32-cracklib 2.9.11-1
-multilib lib32-curl 8.0.1-1
+multilib lib32-curl 8.1.0-1
 multilib lib32-dbus 1.14.6-2
 multilib lib32-dbus-glib 0.112-2
 multilib lib32-dconf 0.40.0-3
@@ -13560,8 +13561,8 @@ multilib lib32-libcanberra 1:0.30+r2+gc0620e4-2
 multilib lib32-libcap 2.69-1
 multilib lib32-libcroco 0.6.13-1
 multilib lib32-libcups 2.4.2-2
-multilib lib32-libcurl-compat 8.0.1-1
-multilib lib32-libcurl-gnutls 8.0.1-1
+multilib lib32-libcurl-compat 8.1.0-1
+multilib lib32-libcurl-gnutls 8.1.0-1
 multilib lib32-libdaemon 0.14-8
 multilib lib32-libdatrie 0.2.13-2
 multilib lib32-libdbusmenu-glib 16.04.0-5
@@ -14160,7 +14161,7 @@ chaotic-aur bottles 2:51.6-3
 chaotic-aur boxtron 0.5.4-1.5
 chaotic-aur bpytop-git 1.0.68.r3.gac0f666-1.4
 chaotic-aur brave-bin 1:1.51.114-1
-chaotic-aur brave-nightly-bin 1.53.45-1
+chaotic-aur brave-nightly-bin 1.53.46-1
 chaotic-aur breeze-git 5.27.80_r2584.g4107cc0c-1
 chaotic-aur breeze-gtk-git 5.27.80_r500.g5923854-1
 chaotic-aur breeze-icons-git 5.105.0_r1954.ga3e2231e-1
@@ -17211,7 +17212,7 @@ chaotic-aur systemd-resolvconf-git 253.r64332.5de02fe107-1
 chaotic-aur systemd-sysvcompat-git 253.r64332.5de02fe107-1
 chaotic-aur systemd-ukify-git 253.r64332.5de02fe107-1
 chaotic-aur systemsettings-git 5.27.80_r2859.g61e6b368-1
-chaotic-aur systemtap-git 4.8.83.g4b2da4d24-1
+chaotic-aur systemtap-git 4.8.86.g6036620fa-1
 chaotic-aur systray-x-git 0.9.2.r13.g4b9ebc9-1.2
 chaotic-aur ta-lib 0.4.0-5
 chaotic-aur tabby-bin 1.0.188-1
@@ -22992,8 +22993,8 @@ archlinuxcn adobe-source-han-mono-kr-fonts 1.002-6
 archlinuxcn adobe-source-han-mono-otc-fonts 1.002-6
 archlinuxcn adobe-source-han-mono-tw-fonts 1.002-6
 archlinuxcn aha-git 0.5.23.g482f6df-1
-archlinuxcn alacritty-git 1:0.13.0.2107.ga6488a3e-1
-archlinuxcn alacritty-git-debug 1:0.13.0.2107.ga6488a3e-1
+archlinuxcn alacritty-git 1:0.13.0.2111.g6e7f466c-1
+archlinuxcn alacritty-git-debug 1:0.13.0.2111.g6e7f466c-1
 archlinuxcn alacritty-ligatures-git 0.8.0.1772.g3ed0430-1
 archlinuxcn alsa-ucm-conf-asahi 1-2
 archlinuxcn alvr 19.1.1-2
@@ -23166,7 +23167,7 @@ archlinuxcn chez-scheme 9.5.6-1
 archlinuxcn china-ip-list-git 0.83.78c3d78-1
 archlinuxcn chirp-next 20230515-1
 archlinuxcn chnroutes-alike-git 0.130.2720c1a-1
-archlinuxcn chnroutes2-git 0.32868.62828ce5-1
+archlinuxcn chnroutes2-git 0.32876.2dd2bc51-1
 archlinuxcn chrome-remote-desktop 112.0.5615.18-1
 archlinuxcn chrome-remote-desktop-debug 112.0.5615.18-1
 archlinuxcn chromedriver 111.0.5563.64-1
@@ -23321,7 +23322,7 @@ archlinuxcn emacs-git 30.0.50.166310-1
 archlinuxcn emacs-go-mode-git 1.6.0.r12.g166dfb1e-1
 archlinuxcn emacs-julia-mode-git 1:0.383.gb35e668-1
 archlinuxcn emacs-llvm-mode-git 460869.b2809b4811bd-1
-archlinuxcn emacs-markdown-mode-git 2.5.r72.g5d98592-1
+archlinuxcn emacs-markdown-mode-git 2.5.r75.g1535b95-1
 archlinuxcn emacs-native-comp-git 30.0.50.166310-1
 archlinuxcn emacs-native-comp-pgtk-git 30.0.50.166310-1
 archlinuxcn emacs-org-mode-git 1:9.6.1.r269.gaa2249787-1
@@ -24671,7 +24672,7 @@ archlinuxcn neovide-git 0.10.4.r6.g4b3c234-1
 archlinuxcn neovide-git-debug 0.10.4.r6.g4b3c234-1
 archlinuxcn neovim-coc 0.0.82-5
 archlinuxcn neovim-coc-clangd-git r564.6abad1b-1
-archlinuxcn neovim-git 0.9.0.r655.gd36dd2bae8-1
+archlinuxcn neovim-git 0.9.0.r660.gc9f47fca8b-1
 archlinuxcn neovim-plug 0.11.0-4
 archlinuxcn neovim-remote 2.5.1-2
 archlinuxcn neovim-symlinks 5-1
@@ -24798,8 +24799,8 @@ archlinuxcn ocaml-ppxlib 0.28.0-2
 archlinuxcn ocaml-seq base-10
 archlinuxcn ocrmypdf 14.2.0-1
 archlinuxcn ocserv 1.1.2-4
-archlinuxcn oh-my-posh 16.4.0-1
-archlinuxcn oh-my-posh-debug 16.4.0-1
+archlinuxcn oh-my-posh 16.4.2-1
+archlinuxcn oh-my-posh-debug 16.4.2-1
 archlinuxcn oh-my-zsh-git r6896.7a030f6bd6-1
 archlinuxcn oh-my-zsh-powerline-theme-git 81.56021ec-2
 archlinuxcn okteto 2.15.2-1
@@ -25418,8 +25419,8 @@ archlinuxcn screengrab-git 2.6.0.4.g815ea25-1
 archlinuxcn screengrab-git-debug 2.6.0.4.g815ea25-1
 archlinuxcn scribus-svn 25443-3
 archlinuxcn scribus-svn-debug 25443-3
-archlinuxcn scummvm-git r142151.3eaebb47e29-2
-archlinuxcn scummvm-git-debug r142151.3eaebb47e29-2
+archlinuxcn scummvm-git r142164.df8b73cfa90-1
+archlinuxcn scummvm-git-debug r142164.df8b73cfa90-1
 archlinuxcn sdbus-cpp 1.2.0-2
 archlinuxcn sdbus-cpp-doc 1.2.0-2
 archlinuxcn sddm-git 0.19.0.218.g58a35178-1
@@ -25850,8 +25851,8 @@ archlinuxcn ydcv-rs-git 0.4.7.157-1
 archlinuxcn ydotool-git 1.0.4.r0.g57ba7d0-1
 archlinuxcn ydotool-git-debug 1.0.4.r0.g57ba7d0-1
 archlinuxcn ykdl-git 1.8.1.post1.r39.22689b1-1
-archlinuxcn yosys-git 0.29+11.r12274.acfdc5cc4-1
-archlinuxcn yosys-git-debug 0.29+11.r12274.acfdc5cc4-1
+archlinuxcn yosys-git 0.29+11.r12280.c2285b346-1
+archlinuxcn yosys-git-debug 0.29+11.r12280.c2285b346-1
 archlinuxcn youtube-dl-git 2021.12.17.r222.d1c6c5c4d6-1
 archlinuxcn yubico-piv-tool 2.3.1-1
 archlinuxcn yubico-piv-tool-debug 2.3.1-1
