@@ -15643,6 +15643,7 @@ chaotic-aur librewolf-extension-plasma-integration 1.8.1-2.3
 chaotic-aur librewolf-extension-xdm-browser-monitor 2.2-1.4
 chaotic-aur librewolf-ublock-origin 1.44.4-1
 chaotic-aur librist 0.2.7-1
+chaotic-aur libsavitar 4.13.0-1
 chaotic-aur libscrypt 1.22-1
 chaotic-aur libsdrplay 3.07.1-1.1
 chaotic-aur libsearpc 2:3.3.0-2.3
@@ -16697,6 +16698,7 @@ chaotic-aur python-limits 3.4.0-1
 chaotic-aur python-lyricsgenius 3.0.0-1.3
 chaotic-aur python-manimpango 0.4.3-1.2
 chaotic-aur python-manuf 1.1.5-1.2
+chaotic-aur python-mapbox-earcut 1.0.1-1
 chaotic-aur python-material-color-utilities 0.1.5-1.3
 chaotic-aur python-moviepy 1.0.3-4.3
 chaotic-aur python-multipledispatch 0.6.0-3.3
@@ -16730,10 +16732,13 @@ chaotic-aur python-pychromecast 13.0.7-1.2
 chaotic-aur python-pyclip 0.7.0-3
 chaotic-aur python-pydes 2.0.1-3
 chaotic-aur python-pydub 0.25.1-3.3
+chaotic-aur python-pyglet 2.0.5-1
 chaotic-aur python-pyglm 2.7.0-1.2
+chaotic-aur python-pyinstrument 4.4.0-1
 chaotic-aur python-pykakasi 2.2.1-3
 chaotic-aur python-pympress 1.8.2-2
 chaotic-aur python-pympv 0.7.1-2
+chaotic-aur python-pynest2d 4.12.0-1
 chaotic-aur python-pynput 1.7.6-2.3
 chaotic-aur python-pyo 1.0.5-1.2
 chaotic-aur python-pypdf2 1:2.12.1-3.2
@@ -16774,6 +16779,7 @@ chaotic-aur python-srt 3.5.2-1.3
 chaotic-aur python-steam 1.4.4-1.2
 chaotic-aur python-steamgriddb 1.0.5-1.4
 chaotic-aur python-suntime 1.2.5-1.3
+chaotic-aur python-svg.path 6.2-1
 chaotic-aur python-syncedlyrics 0.5.0-2.2
 chaotic-aur python-telegram-bot 20.3-1
 chaotic-aur python-telegram-send 0.34-2.2
@@ -16781,6 +16787,7 @@ chaotic-aur python-textx 3.1.1-1.2
 chaotic-aur python-thinc 8.1.7-1
 chaotic-aur python-timeago 1.0.16-2.3
 chaotic-aur python-transitions 0.9.0-1.2
+chaotic-aur python-trimesh 3.21.5-1
 chaotic-aur python-tweedledum 1.1.1-3
 chaotic-aur python-types-python-dateutil 2.8.19.13-1
 chaotic-aur python-ufonormalizer 0.6.1-3.2
@@ -17835,7 +17842,7 @@ chaotic-aur zenpower-dkms 0.1.12-2
 chaotic-aur zenpower-dkms-git 46.5e2f56f-1.2
 chaotic-aur zenpower3-dkms 0.2.0-3.1
 chaotic-aur zfs-dkms 2.1.11-1
-chaotic-aur zfs-dkms-git 2:2.1.99.r1922.g82ac409acc-1
+chaotic-aur zfs-dkms-git 2:2.1.99.r1951.ge0d5007bcf-1
 chaotic-aur zfs-utils 2.1.11-1
 chaotic-aur zfs-utils-git 2:2.1.99.r1951.ge0d5007bcf-1
 chaotic-aur zimg-git 3.0.3.132.g71394bd-1
@@ -23550,8 +23557,8 @@ archlinuxcn gdm-plymouth 43.0-1
 archlinuxcn gdm-plymouth-debug 43.0-1
 archlinuxcn gdown 4.7.1-2
 archlinuxcn gdu-diff-git 20221017.063843-2
-archlinuxcn gegl-git 0.4.44.6-1
-archlinuxcn gegl-git-debug 0.4.44.6-1
+archlinuxcn gegl-git 0.4.44.8-1
+archlinuxcn gegl-git-debug 0.4.44.8-1
 archlinuxcn genymotion 3.3.3-1
 archlinuxcn genymotion-debug 3.3.3-1
 archlinuxcn geph4-client 4.8.1-1
@@ -23981,7 +23988,7 @@ archlinuxcn julia-git-jlfzf-git 0.1.2.0.11.gb20b670-3
 archlinuxcn julia-git-jpegturbo-git 0.0.0.0.7.f731e5e-3
 archlinuxcn julia-git-jpegturbo_jll-git 2.1.91+0-1
 archlinuxcn julia-git-json-git 0.21.4-1
-archlinuxcn julia-git-jump-git 1.11.0.0.11.gfb581cf852-1
+archlinuxcn julia-git-jump-git 1.11.0.0.12.ge541fe3250-1
 archlinuxcn julia-git-juniper-git 0.9.0.0.5.g2ab639e-2
 archlinuxcn julia-git-labelledarrays-git 1.14.0.0.8.g9829b9a-1
 archlinuxcn julia-git-lame_jll-git 3.100.1+0.0.2.g188394f-4
@@ -24099,7 +24106,7 @@ archlinuxcn julia-git-relocatablefolders-git 1.0.0.0.4.g2f5313c-2
 archlinuxcn julia-git-requires-git 1.3.0.0.1.g542a641-3
 archlinuxcn julia-git-rmath-git 0.7.1-1
 archlinuxcn julia-git-rmath_jll-git 0.4.0+0-1
-archlinuxcn julia-git-roots-git 2.0.14.0.2.gf18bf40-1
+archlinuxcn julia-git-roots-git 2.0.15-1
 archlinuxcn julia-git-rotations-git 1.5.1-1
 archlinuxcn julia-git-runtimegeneratedfunctions-git 0.5.7-1
 archlinuxcn julia-git-scimlbase-git 1.92.0-1
@@ -24765,8 +24772,8 @@ archlinuxcn ntfysh-bin 2.4.0-2
 archlinuxcn ntfysh-bin-debug 2.4.0-2
 archlinuxcn numix-circle-icon-theme-git 23.05.15.r0.gb920bdc-1
 archlinuxcn numix-icon-theme 23.04.26.r0.g71b89af4f-1
-archlinuxcn nushell-git 0.79.1.r7210.gbf86cd50a-1
-archlinuxcn nushell-git-debug 0.79.1.r7210.gbf86cd50a-1
+archlinuxcn nushell-git 0.80.0.r7212.g8695b5758-1
+archlinuxcn nushell-git-debug 0.80.0.r7212.g8695b5758-1
 archlinuxcn nutstore 5.1.7-1
 archlinuxcn nvchecker-git 1:2.12dev.r9-1
 archlinuxcn nvidia-beta-dkms 530.41.03-1
