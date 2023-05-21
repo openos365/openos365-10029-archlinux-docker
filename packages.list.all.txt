@@ -23,7 +23,7 @@ core coreutils 9.3-1 [installed]
 core cracklib 2.9.11-1 [installed]
 core cronie 1.6.1-1
 core cryptsetup 2.6.1-3 [installed]
-core curl 8.1.0-1 [installed]
+core curl 8.1.0-2 [installed]
 core dash 0.5.12-1
 core db 6.2.32-1
 core db5.3 5.3.28-2 [installed]
@@ -104,8 +104,8 @@ core libassuan 2.5.5-2 [installed]
 core libbpf 1.2.0-1 [installed]
 core libcap 2.69-1 [installed]
 core libcap-ng 0.8.3-2 [installed]
-core libcurl-compat 8.1.0-1
-core libcurl-gnutls 8.1.0-1
+core libcurl-compat 8.1.0-2
+core libcurl-gnutls 8.1.0-2
 core libedit 20221030_3.1-1 [installed]
 core libelf 0.189-1 [installed]
 core libevent 2.1.12-4 [installed]
@@ -4412,7 +4412,7 @@ extra intel-oneapi-mkl 2023.1.0_46342-1
 extra intel-oneapi-openmp 2023.1.0-1
 extra intel-oneapi-tbb 2021.9.0-1
 extra intel-opencl-clang 15.0.0-1
-extra intel-ucode 20230516-1
+extra intel-ucode 20230516.a-1
 extra intel-undervolt 1.7-2
 extra intellij-idea-community-edition 4:2023.1.1-1
 extra inter-font 3.19-3
@@ -5054,7 +5054,7 @@ extra lesspipe 2.07-1
 extra level-zero-headers 1.9.4-1
 extra level-zero-loader 1.9.4-1
 extra leveldb 1.23-3
-extra lf 29-1
+extra lf 30-1
 extra lfs 2.6.0-1
 extra lftp 4.9.2-1
 extra lhapdf 6.5.3-2
@@ -12730,7 +12730,7 @@ extra vapoursynth-plugin-lsmashsource 1:A.5b-2
 extra vapoursynth-plugin-mvtools 23-2
 extra variety 0.8.10-1
 extra varnish 7.3.0-1
-extra vault 1.13.1-1
+extra vault 1.13.2-1
 extra vaultwarden 1.28.1-1
 extra vaultwarden-web 2023.4.2-1
 extra vbam-sdl 2.1.5-2
@@ -15419,7 +15419,7 @@ chaotic-aur la-capitaine-icon-theme 0.6.2-1
 chaotic-aur labplot-git 2.9.0_r11210.gf5676879e-1
 chaotic-aur labwc 0.6.3-1
 chaotic-aur labwc-git 0.6.3.r7.g44645d0-1
-chaotic-aur lagrange 1.15.9-1.2
+chaotic-aur lagrange 1.16.0-1
 chaotic-aur languageclient-neovim 0.1.161-2
 chaotic-aur lanshare 1.2.1-8.3
 chaotic-aur lantern-bin 7.0.3-1.2
@@ -16242,7 +16242,7 @@ chaotic-aur pdfsam 5.1.2-1
 chaotic-aur peazip-gtk2-bin 9.1.0-1
 chaotic-aur peazip-qt5 9.2.0-1
 chaotic-aur pebbles-git r445.5e5e455-1.2
-chaotic-aur pegasus-frontend-git alpha16.r50.g4996c0e8-1
+chaotic-aur pegasus-frontend-git alpha16.r51.g6421d7a7-1
 chaotic-aur pencil 3.1.1-2.2
 chaotic-aur pepper-flash 32.0.0.465-1.1
 chaotic-aur perl-authen-pam 0.16-10
@@ -16813,7 +16813,7 @@ chaotic-aur qytdl 1.6-1.3
 chaotic-aur r8125-dkms 9.011.01-1
 chaotic-aur r8152-dkms 2.16.3.20221209-1
 chaotic-aur r8168-dkms 8.051.02-2
-chaotic-aur radare2-git 5.8.7.r30348.b3ee9670b4-1
+chaotic-aur radare2-git 5.8.7.r30349.482a3a8331-1
 chaotic-aur radeon-profile-daemon-git 20190603.r0.g7923bd6-1
 chaotic-aur radeon-profile-git 20200824.r26.g0d632ba-1.4
 chaotic-aur raider-file-shredder 1.3.1-1.3
@@ -16911,7 +16911,7 @@ chaotic-aur rtw89-dkms-git 1:r468.83f33c8-1
 chaotic-aur ruby-build 20230512-1
 chaotic-aur rubymine 2023.1.1-1
 chaotic-aur rufetch 0.2.2-1
-chaotic-aur ruffle-git 1:r9348.e54f3fef8-1
+chaotic-aur ruffle-git 1:r9359.c230dcf0f-1
 chaotic-aur ruffle-nightly-bin 2023.05.21-1
 chaotic-aur runescape-launcher 2.2.11-1
 chaotic-aur rusnapshot-git 31.e68c28b-1
@@ -28845,7 +28845,7 @@ xerolinux_repo xero-kde-config 23.05-4
 xerolinux_repo xero-xfce-config 23.05-2
 xerolinux_repo xerolinux-mirrorlist 0.1.3-3
 xerolinux_repo xerolinux-rollback-git 0.1.34-1
-xerolinux_repo xerowelcome 1.2.1-5
+xerolinux_repo xerowelcome 1.2.1-6
 xerolinux_repo yay-bin 12.0.4-1
 xerolinux_repo yt-dlg 1.8.5-1
 xerolinux_repo yt-dlp-drop-in 1.1-1
