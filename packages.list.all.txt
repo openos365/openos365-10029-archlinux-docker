@@ -252,8 +252,8 @@ core traceroute 2.1.2-1
 core tzdata 2023c-2 [installed]
 core unixodbc 2.3.11-1
 core usbutils 015-2
-core util-linux 2.38.1-4 [installed]
-core util-linux-libs 2.38.1-4 [installed]
+core util-linux 2.39-1 [installed]
+core util-linux-libs 2.39-1 [installed]
 core vi 1:070224-6
 core which 2.21-6 [installed]
 core wireless-regdb 2023.05.03-1
@@ -2244,7 +2244,7 @@ extra freeverb3 3.2.1-4
 extra freewheeling 0.6.6-4
 extra frei0r-plugins 2.2.0-1
 extra frescobaldi 3.3.0-2
-extra fribidi 1.0.12-1 [installed]
+extra fribidi 1.0.13-1 [installed]
 extra frogatto 1.3.1-40
 extra frogatto-data 1.3.1-5
 extra frotz-dumb 2.54-1
@@ -11849,7 +11849,7 @@ extra sslh 1.22.c-2
 extra sslscan 2.0.16-1
 extra sslsplit 0.5.5-2
 extra ssr 0.6.0-1
-extra sssd 2.9.0-1
+extra sssd 2.9.0-2
 extra sstp-client 1:1.0.18-1
 extra stack 2.7.5-286
 extra stalonetray 0.8.5-1
@@ -13518,7 +13518,7 @@ multilib lib32-fluidsynth 2.3.2-1
 multilib lib32-fontconfig 2:2.14.2-1
 multilib lib32-freeglut 3.4.0-1
 multilib lib32-freetype2 2.13.0-1
-multilib lib32-fribidi 1.0.12-1
+multilib lib32-fribidi 1.0.13-1
 multilib lib32-gamemode 1.7-1
 multilib lib32-gdk-pixbuf2 2.42.10-2
 multilib lib32-gettext 0.21.1-1
@@ -17030,7 +17030,7 @@ chaotic-aur spectral-matrix-git 218.r648.g30028a2-1.4
 chaotic-aur speedtest++ 1.14.r71.0f63cfb-1.2
 chaotic-aur spice-guest-tools-windows 0.141-1
 chaotic-aur spicetify-cli 2.18.1-1
-chaotic-aur spicetify-cli-git 2.18.1.r14.g915c5d7-1
+chaotic-aur spicetify-cli-git 2.18.1.r16.g173d903-1
 chaotic-aur spirv-cross 2023.01.17-1
 chaotic-aur spirv-tools-tkg-git 2023.3.rc1.r0.ge7c6084fd-1
 chaotic-aur split2flac 20200508-1
@@ -22103,7 +22103,7 @@ blackarch sdnpwn 67.c4809da-2
 blackarch sea 103.9aca1c8-1
 blackarch search1337 1:11.bf03ec9-1
 blackarch seat 0.3-3
-blackarch seclists 1595.7fa58a2-1
+blackarch seclists 1614.39657bc-1
 blackarch second-order v3.2.r0.g242569b-1
 blackarch second-order-debug v3.2.r0.g242569b-1
 blackarch secretfinder 1:14.a0283cb-3
@@ -22156,15 +22156,15 @@ blackarch shhgit 66.53e656c-1
 blackarch shhgit-debug 66.53e656c-1
 blackarch shiboken 1.2.4-5
 blackarch shitflood 14.e74fc42-1
-blackarch shocker 64.d3f7603-1
+blackarch shocker 65.65d4d76-1
 blackarch shodanhat 13.e5e7e68-4
 blackarch shootback 83.cab462c-1
 blackarch shortfuzzy 0.1-6
 blackarch shosubgo 2.0.r19.g6e8d48c-1
 blackarch shosubgo-debug 2.0.r19.g6e8d48c-1
 blackarch shreder 87.814adb4-1
-blackarch shuffledns 227.a2ae07f-1
-blackarch shuffledns-debug 227.a2ae07f-1
+blackarch shuffledns 301.db34c66-1
+blackarch shuffledns-debug 301.db34c66-1
 blackarch sickle 73.e14c0bb-4
 blackarch sidguesser 1.0.5-5
 blackarch siege 4.1.6-1
@@ -22182,7 +22182,7 @@ blackarch simple-lan-scan 1.0-6
 blackarch simpleemailspoofer 54.7075f0c-1
 blackarch simplify 1.3.0-1
 blackarch simplyemail 1:1.4.10.r7.6a42d37-2
-blackarch simtrace2 1071.773d314-1
+blackarch simtrace2 1075.749dcdc-1
 blackarch sinfp 1.24-6
 blackarch sip5 5.5.0-1
 blackarch siparmyknife 11232011-13
@@ -22190,8 +22190,9 @@ blackarch sipbrute 11.5be2fdd-3
 blackarch sipcrack 0.2-6
 blackarch sipffer 1:29.efc3ff1-1
 blackarch sipi 13.58f0dcc-2
-blackarch sipp 1331.f44d0cf-1
-blackarch sippts 492.72c87f3-1
+blackarch sipp 1368.1126a8b-1
+blackarch sipp-debug 1368.1126a8b-1
+blackarch sippts 494.6dcaa78-1
 blackarch sipsak 1:0.9.8.1-1
 blackarch sipscan 1:0.1-7
 blackarch sipshock 7.6ab5591-7
@@ -22212,7 +22213,7 @@ blackarch slackpirate 142.9788be6-4
 blackarch sleuthkit 4.12.0-1
 blackarch sleuthkit-java 4.11.1-1
 blackarch sleuthql 9.29fc878-4
-blackarch slither 1:3367.0ec487460-2
+blackarch slither 1:3664.79ff12a5e-1
 blackarch sloth-fuzzer 39.9f7f59a-1
 blackarch slowhttptest 1.9.0-1
 blackarch slowloris 0.7-8
@@ -22310,7 +22311,7 @@ blackarch sploitego 153.d9568dc-4
 blackarch spoofcheck 16.8cce591-3
 blackarch spooftooph 0.5.2-4
 blackarch spookflare 24.19491b5-4
-blackarch spotbugs 16957.73d952249-1
+blackarch spotbugs 16987.894e76186-1
 blackarch spray365 42.58fd193-3
 blackarch spraycharles 198.041a598-5
 blackarch sprayhound 0.0.3-2
@@ -22355,8 +22356,8 @@ blackarch ssllabs-scan 250.7a9f44e-1
 blackarch sslmap 0.2.0-3
 blackarch sslnuke 5.c5faeaa-2
 blackarch sslscan 2.0.16-1
-blackarch sslscan2 649.bc46606-1
-blackarch sslscan2-debug 649.bc46606-1
+blackarch sslscan2 655.b31459e-1
+blackarch sslscan2-debug 655.b31459e-1
 blackarch sslsniff 0.8-5
 blackarch sslsplit 0.5.2-1
 blackarch sslstrip 0.9-11
@@ -22390,7 +22391,8 @@ blackarch stomper 61.842ed23-3
 blackarch stompy 0.0.4-3
 blackarch stoq 769.8bfc78b-2
 blackarch storm-ring 0.1-5
-blackarch stowaway v2.1.r1.g366d6a5-1
+blackarch stowaway v2.1.r4.gfe90f32-1
+blackarch stowaway-debug v2.1.r4.gfe90f32-1
 blackarch strace 6.3-1
 blackarch streamfinder 1.2-1
 blackarch striker 85.87c184d-4
@@ -22401,14 +22403,14 @@ blackarch stunnel 5.69-1
 blackarch sub7 2.2-4
 blackarch subbrute 1.2.1-3
 blackarch subdomainer 1.2-4
-blackarch subfinder 1257.bf74523-1
-blackarch subfinder-debug 1257.bf74523-1
+blackarch subfinder 1277.5aca90d-1
+blackarch subfinder-debug 1277.5aca90d-1
 blackarch subjack 182.49c51e5-3
 blackarch subjs 45.76ce9ec-1
 blackarch sublert 67.56d2a12-3
 blackarch sublist3r 138.729d649-4
 blackarch subover 71.3d258e2-4
-blackarch subscraper 2:12.b736b01-2
+blackarch subscraper 2:13.f6e0a4c-1
 blackarch subterfuge 2:64.69dda99-1
 blackarch sucrack 1.2.3-7
 blackarch suid3num 60.2241c9c-2
@@ -22416,8 +22418,8 @@ blackarch sulley 4:1.0.bff0dd1-1
 blackarch superscan 4.1-3
 blackarch suricata 6.0.10-1
 blackarch suricata-debug 6.0.10-1
-blackarch suricata-verify 958.494b9d59-1
-blackarch svn-extractor 43.1de6adb-2
+blackarch suricata-verify 971.07491caa-1
+blackarch svn-extractor 44.43b3247-1
 blackarch swaks 20201014.0-1
 blackarch swamp 59.3c8be65-1
 blackarch swap-digger 51.4d18ce0-1
@@ -22472,8 +22474,8 @@ blackarch terminus-font-dv1-ij1-ll2-td1-otb 4.48-1
 blackarch terminus-font-ttf 4.49.1-1
 blackarch testdisk 7.1-5
 blackarch testssl.sh 3.0.8-2
-blackarch tfsec v0.63.1.r380.gfbca9334c-1
-blackarch tfsec-debug v0.63.1.r380.gfbca9334c-1
+blackarch tfsec v0.63.1.r381.g30a01b936-1
+blackarch tfsec-debug v0.63.1.r381.g30a01b936-1
 blackarch tftp-bruteforce 0.1-10
 blackarch tftp-fuzz 1:1337-4
 blackarch tftp-proxy 0.1-3
@@ -22487,9 +22489,9 @@ blackarch thcrut 1.2.5-1
 blackarch thedorkbox 7.43852d3-2
 blackarch thefatrat 813.b0586d0-1
 blackarch thefuzz 160.b4c2c80-1
-blackarch theharvester 3231.caf21cb-1
+blackarch theharvester 3251.cf18f07-1
 blackarch themole 0.3-7
-blackarch thezoo 219.7f7e884-1
+blackarch thezoo 222.398d839-1
 blackarch threatspec 0.5.0-3
 blackarch thumbcacheviewer 1.0.3.7-1
 blackarch tidos-framework v2.0.beta2.r22.g4098187-3
@@ -22503,15 +22505,15 @@ blackarch tinfoleak2 41.c45c33e-7
 blackarch tinyproxy 1.11.1-2
 blackarch tls-attacker 1:6653.742394f9b-1
 blackarch tls-fingerprinting 257.4b6e878-1
-blackarch tls-map v2.1.0.r54.g13b6ecf-1
+blackarch tls-map v2.1.0.r65.ge17049e-1
 blackarch tls-prober 286.72b1029-1
 blackarch tlsenum 78.787c88b-3
 blackarch tlsfuzzer 1427.d0d14c2-1
 blackarch tlshelpers 21.6e422be-1
 blackarch tlspretense 1:v0.6.2.r22.g0a5faf4-6
 blackarch tlssled 1.3-6
-blackarch tlsx v1.0.6.r3.g55ee7ec-1
-blackarch tlsx-debug v1.0.6.r3.g55ee7ec-1
+blackarch tlsx v1.0.9.r0.gdb4f790-1
+blackarch tlsx-debug v1.0.9.r0.gdb4f790-1
 blackarch tnscmd 1.3-7
 blackarch toilet 0.3-1
 blackarch token-hunter 343.3358a33-2
@@ -22536,8 +22538,8 @@ blackarch treasure 1:2.b3249be-1
 blackarch trevorspray 111.70aca7b-2
 blackarch trid 2.24-6
 blackarch trid-defs 2022.20.29-1
-blackarch trinity 5188.ca07c86b-1
-blackarch trinity-debug 5188.ca07c86b-1
+blackarch trinity 5190.3cebd54d-1
+blackarch trinity-debug 5190.3cebd54d-1
 blackarch triton 1:4080.c344d782-2
 blackarch triton-debug 1:4080.c344d782-2
 blackarch trivy 0.41.0-1
@@ -22633,7 +22635,7 @@ blackarch vault-scanner 299.0303cf4-4
 blackarch vba2graph 29.fcf96ef-2
 blackarch vbrute 1.11dda8b-4
 blackarch vbscan 1:39.2b1ce48-3
-blackarch vbsmin v1.1.0.r50.g2aa5c92-1
+blackarch vbsmin v1.1.0.r59.g197cb65-1
 blackarch vcsmap 47.3889964-12
 blackarch vega 1.0-9
 blackarch veil 5:297.d8acd4c-2
@@ -22696,12 +22698,13 @@ blackarch waybackurls 11.89da10c-1
 blackarch wcc 83.8254480-1
 blackarch wcc-debug 83.8254480-1
 blackarch wce 1.41beta-2
-blackarch wcvs 1.1.0.r0.ga9ae886-1
+blackarch wcvs 1.1.0.r9.gd6e4b4f-1
+blackarch wcvs-debug 1.1.0.r9.gd6e4b4f-1
 blackarch web-soul 2-6
 blackarch web2ldap 1.7.6-1
 blackarch webacoo 0.2.3-11
-blackarch webanalyze 108.6a48cd0-1
-blackarch webanalyze-debug 108.6a48cd0-1
+blackarch webanalyze 110.644151f-1
+blackarch webanalyze-debug 110.644151f-1
 blackarch webborer 173.b323cf4-1
 blackarch webenum 21.24b43b4-1
 blackarch webexploitationtool 155.85bcf0e-2
@@ -22726,17 +22729,17 @@ blackarch weeman 91.53c2efa-1
 blackarch weevely 883.0bae932-2
 blackarch weirdaal 331.c14e36d-4
 blackarch wepbuster 1.0_beta_0.7-6
-blackarch wesng 283.13851e9-1
+blackarch wesng 286.e8c3cb5-1
 blackarch wfuzz 1155.1b695ee-5
 blackarch whapa 361.248b6e8-2
 blackarch whapa-debug 361.248b6e8-2
 blackarch whatbreach 42.dad6b9f-3
 blackarch whatportis 54.59a1718-3
-blackarch whatsmyname 2034.7e6ac66-1
+blackarch whatsmyname 2035.008f67c-1
 blackarch whatwaf 392.b14e866-4
 blackarch whatweb 4910.efee4d80-2
 blackarch whichcdn 22.5fc6ddd-7
-blackarch whispers 2.1.5.r38.g1ef441f-1
+blackarch whispers 2.1.5.r39.g914d29e-1
 blackarch whitewidow 605.4f27bfe-12
 blackarch wi-feye 1.1-2
 blackarch wifi-autopwner 36.faa4d01-1
@@ -22747,7 +22750,7 @@ blackarch wifi-radar 2.0.s10-1
 blackarch wifibroot 84.d0cd2cc-2
 blackarch wifichannelmonitor 1.70-1
 blackarch wificurse 0.3.9-5
-blackarch wifijammer 96.9add021-1
+blackarch wifijammer 100.be05dab-1
 blackarch wifiphisher 1:798.bc4a077-3
 blackarch wifiscanmap 135.9adcd08-3
 blackarch wifitap 2b16088-9
@@ -22765,7 +22768,7 @@ blackarch windowsspyblocker 4.38.0-1
 blackarch winexe 1.00-5
 blackarch winfo 2.0-5
 blackarch winhex 20.4-1
-blackarch winpwn 402.1c71a13-1
+blackarch winpwn 403.3bada5f-1
 blackarch winregfs 153.7567c83-1
 blackarch winregfs-debug 153.7567c83-1
 blackarch winrelay 2.0-1
@@ -22879,10 +22882,10 @@ blackarch zackattack 5.1f96c14-8
 blackarch zaproxy 2.12.0-1
 blackarch zarp 0.1.8-6
 blackarch zdns 249.bfbfae2-1
-blackarch zeek 14921.2044cf661-1
-blackarch zeek-aux 555.444a6fb-1
-blackarch zeek-aux-debug 555.444a6fb-1
-blackarch zeek-debug 14921.2044cf661-1
+blackarch zeek 15030.2e586b506-1
+blackarch zeek-aux 559.c49ecd0-1
+blackarch zeek-aux-debug 559.c49ecd0-1
+blackarch zeek-debug 15030.2e586b506-1
 blackarch zelos 272.506554d-4
 blackarch zelos-debug 272.506554d-4
 blackarch zeratool 46.cb70d53-2
@@ -22890,8 +22893,8 @@ blackarch zerowine 0.0.2-8
 blackarch zeus 111.97db152-4
 blackarch zeus-scanner 414.21b8756-5
 blackarch zgrab 804.59a517f-1
-blackarch zgrab2 583.d5532ce-1
-blackarch zgrab2-debug 583.d5532ce-1
+blackarch zgrab2 587.911c86f-1
+blackarch zgrab2-debug 587.911c86f-1
 blackarch zipdump 0.0.21-1
 blackarch zipexec 19.f8d661f-1
 blackarch zirikatu 7.afe1d9c-1
@@ -23117,8 +23120,8 @@ archlinuxcn chromedriver-debug 111.0.5563.64-1
 archlinuxcn chromium-extension-violentmonkey-git 2853.e72da046-2
 archlinuxcn chromium-ublock-origin-git 2:1.49.3b16.4.gbd1520ec9-1
 archlinuxcn ciel 3.1.3-1
-archlinuxcn citra-canary-git 2:2495.r0.g84fd96539-1
-archlinuxcn citra-canary-git-debug 2:2495.r0.g84fd96539-1
+archlinuxcn citra-canary-git 2:2496.r0.g399ed10f3-1
+archlinuxcn citra-canary-git-debug 2:2496.r0.g399ed10f3-1
 archlinuxcn citra-git r9571.fa8c530e1-1
 archlinuxcn citra-git-debug r9571.fa8c530e1-1
 archlinuxcn clang-git 17.0.0_r453901.b9337b108ec8f-1
@@ -24459,9 +24462,9 @@ archlinuxcn linux-mainline-headers 6.4rc3-1
 archlinuxcn linux-mbp 5.5.13-1
 archlinuxcn linux-mbp-docs 5.5.13-1
 archlinuxcn linux-mbp-headers 5.5.13-1
-archlinuxcn linux-next-git 20230519.r0.gdbd91ef4e91c-1
-archlinuxcn linux-next-git-docs 20230519.r0.gdbd91ef4e91c-1
-archlinuxcn linux-next-git-headers 20230519.r0.gdbd91ef4e91c-1
+archlinuxcn linux-next-git 20230522.r0.g9f258af06b62-1
+archlinuxcn linux-next-git-docs 20230522.r0.g9f258af06b62-1
+archlinuxcn linux-next-git-headers 20230522.r0.g9f258af06b62-1
 archlinuxcn linux-vfio 6.2.13.arch1-5
 archlinuxcn linux-vfio-docs 6.2.13.arch1-5
 archlinuxcn linux-vfio-headers 6.2.13.arch1-5
@@ -25356,7 +25359,7 @@ archlinuxcn rust-std-nightly-x86_64-unknown-linux-musl 4:1.71.0_20230520-4
 archlinuxcn rustfmt-nightly 4:1.71.0_20230520-4
 archlinuxcn rustpython-git r8267.6b68848f-1
 archlinuxcn rxvt-unicode-better-wheel-scrolling 9.22-5.1
-archlinuxcn ryujinx-git r2813.ac66643346-1
+archlinuxcn ryujinx-git r2814.b53e7ffd46-1
 archlinuxcn safeeyes-git 2.1.5.r18.g684d162-1
 archlinuxcn sasm 3.14.0-2
 archlinuxcn sasm-debug 3.14.0-2
@@ -27793,7 +27796,7 @@ arcolinux_repo_3party fonts-tlwg 0.7.3-1
 arcolinux_repo_3party freedownloadmanager 6.19.1.5263-2
 arcolinux_repo_3party fundle-git 20181111-1
 arcolinux_repo_3party fvwm3-git 1.0.6a.r15.g79e445d6-1
-arcolinux_repo_3party g4music 1.11-1
+arcolinux_repo_3party g4music 1.12-1
 arcolinux_repo_3party game-devices-udev 0.21-1
 arcolinux_repo_3party gamehub-bin 0.16.3.2-1
 arcolinux_repo_3party gammy 0.9.64-4
@@ -28019,7 +28022,7 @@ arcolinux_repo_3party olivia r847.e66086d-1
 arcolinux_repo_3party ookla-speedtest-bin 1.2.0-1
 arcolinux_repo_3party openbox-arc-git 20230503.r21.5ebdb7f-1
 arcolinux_repo_3party openbox-themes-pambudi-git r32.8bdf5de-1
-arcolinux_repo_3party openrgb 0.8-1
+arcolinux_repo_3party openrgb 0.8-2
 arcolinux_repo_3party optimus-manager 1.4-5
 arcolinux_repo_3party optimus-manager-qt 1.6.9-1
 arcolinux_repo_3party oranchelo-icon-theme-git 0.9.0.r0.g9cd0535-1
@@ -28058,7 +28061,7 @@ arcolinux_repo_3party phoronix-test-suite 10.8.4-1
 arcolinux_repo_3party picom-git 1857_9.rc1.179.g3aed559_2023.05.08-1
 arcolinux_repo_3party picom-ibhagwan-git 1578_Next.297.gc4107bb_2021.11.03-1
 arcolinux_repo_3party picom-jonaburg-git 0.1-5
-arcolinux_repo_3party pikaur-git 1.15.1.r0.gf1ac3a0-1
+arcolinux_repo_3party pikaur-git 1.15.2.r2.gf793c75-1
 arcolinux_repo_3party pipes.sh 1.3.0-1
 arcolinux_repo_3party plata-theme 0.9.9-1
 arcolinux_repo_3party playonlinux 4.4+29+gd0ae9ce6-2
