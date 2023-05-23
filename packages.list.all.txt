@@ -23,7 +23,7 @@ core coreutils 9.3-1 [installed]
 core cracklib 2.9.11-1 [installed]
 core cronie 1.6.1-1
 core cryptsetup 2.6.1-3 [installed]
-core curl 8.1.0-2 [installed]
+core curl 8.1.1-1 [installed]
 core dash 0.5.12-1
 core db 6.2.32-1
 core db5.3 5.3.28-2 [installed]
@@ -104,8 +104,8 @@ core libassuan 2.5.5-2 [installed]
 core libbpf 1.2.0-1 [installed]
 core libcap 2.69-1 [installed]
 core libcap-ng 0.8.3-2 [installed]
-core libcurl-compat 8.1.0-2
-core libcurl-gnutls 8.1.0-2
+core libcurl-compat 8.1.1-1
+core libcurl-gnutls 8.1.1-1
 core libedit 20221030_3.1-1 [installed]
 core libelf 0.189-1 [installed]
 core libevent 2.1.12-4 [installed]
@@ -11582,7 +11582,7 @@ extra seqdiag 3.0.0-2
 extra sequoia-chameleon-gnupg 0.2.0-2
 extra sequoia-keyring-linter 1.0.0-1
 extra sequoia-sop 0.27.3-1
-extra sequoia-sq 0.30.0-2
+extra sequoia-sq 0.30.0-3
 extra sequoia-sqv 1.1.0-1
 extra sequoia-wot 0.8.1-3
 extra ser2net 4.3.12-1
@@ -13504,7 +13504,7 @@ multilib lib32-clang 15.0.7-1
 multilib lib32-cmocka 1.1.7-1
 multilib lib32-colord 1.4.6-1
 multilib lib32-cracklib 2.9.11-1
-multilib lib32-curl 8.1.0-2
+multilib lib32-curl 8.1.1-1
 multilib lib32-dbus 1.14.6-2
 multilib lib32-dbus-glib 0.112-2
 multilib lib32-dconf 0.40.0-3
@@ -13562,8 +13562,8 @@ multilib lib32-libcanberra 1:0.30+r2+gc0620e4-2
 multilib lib32-libcap 2.69-1
 multilib lib32-libcroco 0.6.13-1
 multilib lib32-libcups 2.4.2-2
-multilib lib32-libcurl-compat 8.1.0-2
-multilib lib32-libcurl-gnutls 8.1.0-2
+multilib lib32-libcurl-compat 8.1.1-1
+multilib lib32-libcurl-gnutls 8.1.1-1
 multilib lib32-libdaemon 0.14-8
 multilib lib32-libdatrie 0.2.13-2
 multilib lib32-libdbusmenu-glib 16.04.0-5
@@ -14297,7 +14297,7 @@ chaotic-aur clash-premium-bin 2023.05.19-1
 chaotic-aur clash-verge 1.3.1-2.2
 chaotic-aur clasp-cl-git 2.2.0_175_g5c9f7ed83-1
 chaotic-aur clementine-git 1.4.0rc1.r875.g351a5e254.0.g351a5e254-1.2
-chaotic-aur clifm-git 1.12.r31.g7dd3b4e6-1
+chaotic-aur clifm-git 1.12.r35.g06d700cd-1
 chaotic-aur clight 4.9-1
 chaotic-aur clightd 5.7-1
 chaotic-aur clion 1:2023.1.3-1
@@ -15513,7 +15513,7 @@ chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangoapp 0.6.9.1-2
 chaotic-aur lib32-mangohud 0.6.9.1-2
 chaotic-aur lib32-mangohud-git 0.6.9.1.r53.gaf92f28-1
-chaotic-aur lib32-mesa-tkg-git 23.2.0_devel.171568.c06a18ad9a5-1
+chaotic-aur lib32-mesa-tkg-git 23.2.0_devel.171570.c07b8a54c5f-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15568,7 +15568,7 @@ chaotic-aur libbtbb 2020.12.R1-2.2
 chaotic-aur libccd 2.1-1
 chaotic-aur libcgroup 2.0-1
 chaotic-aur libcheese-git 44.0.1+r3+gab37580f-1.2
-chaotic-aur libclc-git 1:17.0.0_r461893.dd00421c6071-1
+chaotic-aur libclc-git 1:17.0.0_r461901.7586aeab7ad3-1
 chaotic-aur libcmrt 1.0.6-2.3
 chaotic-aur libcotp 2.0.0-1
 chaotic-aur libcprime 4.4.1-1.3
@@ -15867,7 +15867,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.3
 chaotic-aur menulibre 1:2.2.3-2
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.35.1-1
-chaotic-aur mesa-tkg-git 23.2.0_devel.171568.c06a18ad9a5-1
+chaotic-aur mesa-tkg-git 23.2.0_devel.171570.c07b8a54c5f-1
 chaotic-aur mesen2-git r2693.607d9219-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -17194,7 +17194,7 @@ chaotic-aur themix-theme-materia-git 20210322.r52.g6e585038-1.2
 chaotic-aur themix-theme-oomox-git 1.12.4.r6.g71d8d5a9-1.2
 chaotic-aur thingy 1.1.0-1.2
 chaotic-aur thonny 4.0.2-1.3
-chaotic-aur thonny-git r4770.2bb80e12-1
+chaotic-aur thonny-git r4771.53f43d58-1
 chaotic-aur thorium-bin 2.2.0-1
 chaotic-aur threadweaver-git 5.105.0_r568.g2a600a4-1
 chaotic-aur threema-web 2.5.1-1
@@ -28277,7 +28277,6 @@ arcolinux_repo_3party upd72020x-fw 1.0.0-1
 arcolinux_repo_3party urxvt-fullscreen 1-1
 arcolinux_repo_3party urxvt-resize-font-git 27.b593580-1
 arcolinux_repo_3party v4l2loopback-dc-dkms 1:2.0.0-1
-arcolinux_repo_3party variety 0.8.9-4
 arcolinux_repo_3party ventoy-bin 1.0.91-1
 arcolinux_repo_3party vicious 2.6.0-1
 arcolinux_repo_3party vimix-cursors 2020.02.24-5
