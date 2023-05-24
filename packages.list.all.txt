@@ -469,7 +469,7 @@ extra arch-audit 0.1.20-1
 extra arch-audit-gtk 0.3.1-1
 extra arch-hs 0.11.0.0-42
 extra arch-install-scripts 28-1 [installed]
-extra arch-rebuild-order 0.3.1-1
+extra arch-rebuild-order 0.4.1-1
 extra arch-release-promotion 0.2.2-3
 extra arch-repro-status 1.3.7-1
 extra arch-signoff 0.5.2-3
@@ -1304,7 +1304,7 @@ extra cyrus-sasl 2.1.28-2
 extra cyrus-sasl-gssapi 2.1.28-2
 extra cyrus-sasl-ldap 2.1.28-2
 extra cyrus-sasl-sql 2.1.28-2
-extra cython 0.29.34-3
+extra cython 0.29.35-1
 extra d-containers 0.8.0-9
 extra d-feet 0.3.16-3
 extra d-mir-core 1.1.14-11
@@ -1554,7 +1554,7 @@ extra dog 0.1.0-4
 extra doge 3.6.0-2
 extra dokuwiki 20230404-1
 extra dolphin 23.04.1-1
-extra dolphin-emu 1:5.0.r18498.46b99671d9-2
+extra dolphin-emu 1:5.0.r19368.dadbeb4bae-1
 extra dolphin-plugins 23.04.1-1
 extra dolt 1.1.2-1
 extra dontpanic 1.02-2
@@ -2432,7 +2432,7 @@ extra geoclue 2.7.0-1
 extra geocode-glib 3.26.4-3
 extra geocode-glib-2 3.26.4-3
 extra geocode-glib-common 3.26.4-3
-extra geogebra 6.0.778.0-1
+extra geogebra 6.0.779.0-1
 extra geogram 1.8.3-1
 extra geoip 1.6.12-2
 extra geoip-database 20230519-1
@@ -4408,7 +4408,7 @@ extra intel-oneapi-compiler-shared 2023.1.0-1
 extra intel-oneapi-compiler-shared-runtime 2023.1.0-1
 extra intel-oneapi-compiler-shared-runtime-libs 2023.1.0-1
 extra intel-oneapi-dev-utilities 2021.9.0_44447-2
-extra intel-oneapi-dpcpp-cpp 2023.0.0-2
+extra intel-oneapi-dpcpp-cpp 2023.1.0-1
 extra intel-oneapi-dpcpp-debugger 2023.1.0_43513-1
 extra intel-oneapi-mkl 2023.1.0_46342-1
 extra intel-oneapi-openmp 2023.1.0-1
@@ -5547,7 +5547,7 @@ extra libre 3.1.0-1
 extra libre-graph-api 1.0.4-1
 extra librecad 2.2.0-1
 extra libredefender 0.6.0-2
-extra libreoffice-extension-texmaths 0.51-1
+extra libreoffice-extension-texmaths 0.51.1-1
 extra libreoffice-extension-writer2latex 1.6.1-2
 extra libreoffice-fresh 7.5.3-2
 extra libreoffice-fresh-af 7.5.3-1
@@ -6005,7 +6005,7 @@ extra libxfont2 2.0.6-2
 extra libxft 2.3.8-1 [installed]
 extra libxi 1.8.1-1 [installed]
 extra libxinerama 1.1.5-1
-extra libxisf 0.2.4-1
+extra libxisf 0.2.5-1
 extra libxkbcommon 1.5.0-1 [installed]
 extra libxkbcommon-doc 1.5.0-1
 extra libxkbcommon-x11 1.5.0-1 [installed]
@@ -10402,6 +10402,7 @@ extra python-webcolors 1.13-2
 extra python-webencodings 0.5.1-10
 extra python-webob 1.8.7-6
 extra python-webob-docs 1.8.7-6
+extra python-webrtcvad 2.0.10-3
 extra python-websocket-client 1.5.2-1
 extra python-websockets 10.4-3
 extra python-webtest 3.0.0-5
@@ -14208,7 +14209,7 @@ chaotic-aur calcmysky 0.3.0-1.2
 chaotic-aur calendarsupport-git 5.22.40_r790.g9a3eea6-1
 chaotic-aur callaudiod 0.1.7-1
 chaotic-aur calligra-git 3.3.89_r101964.gbc66e4b610b-1
-chaotic-aur candy-icons-git r1003.b6fde4c-1
+chaotic-aur candy-icons-git r1011.6a35be5-1
 chaotic-aur canta-gtk-theme-git 2021.09.08.r6.332fdec-1
 chaotic-aur canta-icon-theme 2021.09.08-1
 chaotic-aur canta-icon-theme-git 2021.09.08.r6.332fdec-1
@@ -14415,7 +14416,7 @@ chaotic-aur deluge-git 1:2.1.1.dev52.g366cded7b-1.2
 chaotic-aur dendrite 0.12.0-2
 chaotic-aur denise 2.0-1
 chaotic-aur densify 0.3.1-3.3
-chaotic-aur depot-tools-git r9600.05ebc9e3e-1
+chaotic-aur depot-tools-git r9601.1affd9c35-1
 chaotic-aur deskreen 2.0.4-3
 chaotic-aur desmume-git 0.9.11.r1909.3cefa5d78-1
 chaotic-aur detwinner 0.4.2-2.1
@@ -14575,7 +14576,7 @@ chaotic-aur ferdium-bin 6.2.7-1
 chaotic-aur ferdium-nightly-bin 6.3.0.nightly.8-1
 chaotic-aur ff2mpv-native-messaging-host-git r70.6ca0eb0-1.2
 chaotic-aur ffmpeg-full 6.0-2
-chaotic-aur ffmpeg-git 6.1.r110759.gd815584755-1
+chaotic-aur ffmpeg-git 6.1.r110760.g0bce5590c3-1
 chaotic-aur ffmpeg-obs 6.0.r12.ga6dc929-4
 chaotic-aur ffmpegthumbs-git 23.07.70.r261-1
 chaotic-aur ffsend-bin 0.2.76-1.1
@@ -15018,7 +15019,7 @@ chaotic-aur gruvbox-material-gtk-theme-git r22.558c2e174-1
 chaotic-aur gruvbox-material-icon-theme-git r22.558c2e174-1
 chaotic-aur grype-bin 0.62.1-1
 chaotic-aur gsettings-desktop-schemas-git 44.0.r5.g8527b47-1
-chaotic-aur gst-plugin-pipewire-common-git 0.3.71.r42.g5fcc0e11-1
+chaotic-aur gst-plugin-pipewire-common-git 0.3.71.r43.ga5b84565-1
 chaotic-aur gstreamer0.10 0.10.36-20
 chaotic-aur gstreamer0.10-base 0.10.36-13
 chaotic-aur gstreamer0.10-base-plugins 0.10.36-13
@@ -15584,7 +15585,7 @@ chaotic-aur libbtbb 2020.12.R1-2.2
 chaotic-aur libccd 2.1-1
 chaotic-aur libcgroup 2.0-1
 chaotic-aur libcheese-git 44.0.1+r3+gab37580f-1.2
-chaotic-aur libclc-git 1:17.0.0_r462083.81fb5a0e1cf8-1
+chaotic-aur libclc-git 1:17.0.0_r462124.b4b9ed75d363-1
 chaotic-aur libcmrt 1.0.6-2.3
 chaotic-aur libcotp 2.0.0-1
 chaotic-aur libcprime 4.4.1-1.3
@@ -16364,15 +16365,15 @@ chaotic-aur pimcommon-git 5.22.49_r1978.gfa99d548-1
 chaotic-aur pingu 0.0.5-1
 chaotic-aur pip-tools 6.13.0-1.3
 chaotic-aur pipe-viewer-git 0.4.6.r0.g79df93f-1
-chaotic-aur pipewire-common-alsa-git 0.3.71.r42.g5fcc0e11-1
-chaotic-aur pipewire-common-docs-git 0.3.71.r42.g5fcc0e11-1
-chaotic-aur pipewire-common-git 0.3.71.r42.g5fcc0e11-1
-chaotic-aur pipewire-common-jack-git 0.3.71.r42.g5fcc0e11-1
-chaotic-aur pipewire-common-pulse-git 0.3.71.r42.g5fcc0e11-1
-chaotic-aur pipewire-common-roc-git 0.3.71.r42.g5fcc0e11-1
-chaotic-aur pipewire-common-v4l2-git 0.3.71.r42.g5fcc0e11-1
-chaotic-aur pipewire-common-x11-bell-git 0.3.71.r42.g5fcc0e11-1
-chaotic-aur pipewire-common-zeroconf-git 0.3.71.r42.g5fcc0e11-1
+chaotic-aur pipewire-common-alsa-git 0.3.71.r43.ga5b84565-1
+chaotic-aur pipewire-common-docs-git 0.3.71.r43.ga5b84565-1
+chaotic-aur pipewire-common-git 0.3.71.r43.ga5b84565-1
+chaotic-aur pipewire-common-jack-git 0.3.71.r43.ga5b84565-1
+chaotic-aur pipewire-common-pulse-git 0.3.71.r43.ga5b84565-1
+chaotic-aur pipewire-common-roc-git 0.3.71.r43.ga5b84565-1
+chaotic-aur pipewire-common-v4l2-git 0.3.71.r43.ga5b84565-1
+chaotic-aur pipewire-common-x11-bell-git 0.3.71.r43.ga5b84565-1
+chaotic-aur pipewire-common-zeroconf-git 0.3.71.r43.ga5b84565-1
 chaotic-aur pix 2.8.9-1.3
 chaotic-aur pixelorama 0.10.3-1.1
 chaotic-aur pixelorama-git 2226.de7ef580-1
@@ -16616,7 +16617,7 @@ chaotic-aur python-fangfrisch 1.6.1-2
 chaotic-aur python-fasm-git 0.0.2.r100.gffafe82-1.3
 chaotic-aur python-ffmpeg 0.2.0-5.2
 chaotic-aur python-flask-limiter 3.3.1-1
-chaotic-aur python-fonttools-git 4.39.4.r22.g53712dc-1
+chaotic-aur python-fonttools-git 4.39.4.r39.g8ae33a7-1
 chaotic-aur python-freetype-py 2.4.0-1
 chaotic-aur python-gbinder 1.1.1-3
 chaotic-aur python-gevent-eventemitter 2.1-3.3
@@ -17007,7 +17008,7 @@ chaotic-aur siril-git 1.2.0.5937.b4a13643a-1
 chaotic-aur sirula-git r67.70b5ce1-1.3
 chaotic-aur skeuos-gtk 20220629-1
 chaotic-aur skippy-xd-git v2023.03.10.80.g12a10ed-1
-chaotic-aur skypeforlinux-stable-bin 8.97.0.404-1
+chaotic-aur skypeforlinux-stable-bin 8.98.0.206-1
 chaotic-aur slack-desktop 4.32.122-1
 chaotic-aur slack-electron 4.32.122-1
 chaotic-aur slack-term 0.5.0-2
@@ -17578,7 +17579,7 @@ chaotic-aur whatsapp-for-linux 1.6.2-1
 chaotic-aur whatsie-git v4.14.1.r311.906ca7e-1
 chaotic-aur whitesur-cursor-theme-git r7.5c94e8c-1
 chaotic-aur whitesur-gtk-theme-git 2023.04.26.r22.g6690dfc-1
-chaotic-aur whitesur-icon-theme-git r401.13d2d0fa-1
+chaotic-aur whitesur-icon-theme-git r402.3d5f64ca-1
 chaotic-aur whitesur-kde-theme-git r106.b502d15-1
 chaotic-aur whitesur-kvantum-theme-git r106.b502d15-1
 chaotic-aur whoogle 0.8.2-1
@@ -25283,8 +25284,8 @@ archlinuxcn qxmpp 1.5.2-1
 archlinuxcn qxmpp-debug 1.5.2-1
 archlinuxcn qxmpp-doc 1.5.2-1
 archlinuxcn radian 0.6.5-2
-archlinuxcn raine-git 2510.90c8e57f-1
-archlinuxcn raine-git-debug 2510.90c8e57f-1
+archlinuxcn raine-git 2514.248c174e-1
+archlinuxcn raine-git-debug 2514.248c174e-1
 archlinuxcn rait 4.3.1-1
 archlinuxcn rambox-bin 0.8.0-2
 archlinuxcn rar 6.21.0-1
