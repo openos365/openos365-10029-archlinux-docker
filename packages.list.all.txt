@@ -34,7 +34,7 @@ core debuginfod 0.189-1
 core device-mapper 2.03.21-1 [installed]
 core dhcpcd 10.0.1-1
 core dialog 1:1.3_20230209-1
-core diffutils 3.9-1 [installed]
+core diffutils 3.10-1 [installed]
 core ding-libs 0.6.2-1
 core dmraid 1.0.0.rc16.3-14 [installed]
 core dnssec-anchors 20190629-3 [installed]
@@ -203,7 +203,7 @@ core pacman 6.0.2-7 [installed]
 core pacman-mirrorlist 20230410-1 [installed]
 core pam 1.5.3-1 [installed]
 core pambase 20221020-1 [installed]
-core patch 2.7.6-9 [installed]
+core patch 2.7.6-10 [installed]
 core pciutils 3.10.0-1 [installed]
 core pcre 8.45-3 [installed]
 core pcre2 10.42-2 [installed]
@@ -13980,7 +13980,7 @@ chaotic-aur amarok 2.9.71-2.4
 chaotic-aur amber-theme-git r219.257f657-1
 chaotic-aur amberol 0.10.3-1
 chaotic-aur amberol-git 0.10.3.r1.g695d24f-1
-chaotic-aur amd-ucode-git 20230523.1ba3519e-1
+chaotic-aur amd-ucode-git 20230523.1ba3519-1
 chaotic-aur amdfand-bin 1.0.13-4
 chaotic-aur amdgpu-fan 0.1.0-4
 chaotic-aur amdguid-glow-bin 1.0.11-3
@@ -14416,7 +14416,7 @@ chaotic-aur deluge-git 1:2.1.1.dev52.g366cded7b-1.2
 chaotic-aur dendrite 0.12.0-2
 chaotic-aur denise 2.0-1
 chaotic-aur densify 0.3.1-3.3
-chaotic-aur depot-tools-git r9601.1affd9c35-1
+chaotic-aur depot-tools-git r9602.456d085e7-1
 chaotic-aur deskreen 2.0.4-3
 chaotic-aur desmume-git 0.9.11.r1909.3cefa5d78-1
 chaotic-aur detwinner 0.4.2-2.1
@@ -14898,13 +14898,13 @@ chaotic-aur godot-mono 3.5.1-1
 chaotic-aur goland 2023.1.2-1
 chaotic-aur goland-jre 2023.1.2-1
 chaotic-aur goldendict-git 1:1.5.0rc2.r627.g0252e7bf-1
-chaotic-aur goldendict-webengine-pr-git 22.12.02.r58.gb80eb460-1
+chaotic-aur goldendict-webengine-pr-git 22.12.02.r58.gecb711aa-1
 chaotic-aur goocanvas2 2.0.4-9.3
 chaotic-aur goodvibes 0.7.6-1.2
 chaotic-aur goodvibes-git 0.7.6.r68.g36a9299-1.2
 chaotic-aur googerteller-git r41.9eb0527-1
 chaotic-aur google-chrome 113.0.5672.126-1
-chaotic-aur google-chrome-beta 114.0.5735.35-1
+chaotic-aur google-chrome-beta 114.0.5735.45-1
 chaotic-aur google-chrome-dev 115.0.5773.4-1
 chaotic-aur google-cloud-cli 430.0.0-1
 chaotic-aur google-earth-pro 7.3.6.9345-1
@@ -15065,7 +15065,7 @@ chaotic-aur headset-bin 3.3.3-1.1
 chaotic-aur health 0.94.0-4
 chaotic-aur heimdall-grimler-git 2.0.2.r0.02b577e-2.1
 chaotic-aur heimer 4.1.0-1
-chaotic-aur helix-git 23.05.53.g8e2660b5c-1
+chaotic-aur helix-git 23.05.53.g8e2660b5cc-1
 chaotic-aur helvum-git 0.4.0.r1.g84570f4-1.2
 chaotic-aur heroic-games-launcher-bin 2.7.1-1
 chaotic-aur heroic-games-launcher-git 2.7.1.r13.g036e54d74-1
@@ -15551,7 +15551,7 @@ chaotic-aur lib32-serd 0.30.16-1
 chaotic-aur lib32-shaderc 2023.3-1
 chaotic-aur lib32-sord 0.16.14-1
 chaotic-aur lib32-spandsp 0.0.6-4
-chaotic-aur lib32-spirv-tools-tkg-git 2023.3.rc1.r0.ge7c6084fd-1
+chaotic-aur lib32-spirv-tools-tkg-git 2023.3.rc1.r6.gf29e11dcb-1
 chaotic-aur lib32-sratom 0.6.14-1.1
 chaotic-aur lib32-srt 1.5.1-1
 chaotic-aur lib32-unixodbc 2.3.11-1
@@ -15585,7 +15585,7 @@ chaotic-aur libbtbb 2020.12.R1-2.2
 chaotic-aur libccd 2.1-1
 chaotic-aur libcgroup 2.0-1
 chaotic-aur libcheese-git 44.0.1+r3+gab37580f-1.2
-chaotic-aur libclc-git 1:17.0.0_r462127.6e88276411c6-1
+chaotic-aur libclc-git 1:17.0.0_r462140.5f8464190139-1
 chaotic-aur libcmrt 1.0.6-2.3
 chaotic-aur libcotp 2.0.0-1
 chaotic-aur libcprime 4.4.1-1.3
@@ -15595,7 +15595,7 @@ chaotic-aur libdrm-git 2.4.115.r11.g98e1db50-1
 chaotic-aur libeb 4.4.3-10
 chaotic-aur libelectron 1.0.11-1
 chaotic-aur libffi7 3.3-2
-chaotic-aur libfprint-git 1:1.94.5.r29.g6ed1b70-1
+chaotic-aur libfprint-git 1:1.94.5.r29.g6ed1b707-1
 chaotic-aur libfpx 1.3.1.10-5
 chaotic-aur libgaminggear 0.15.1-8.3
 chaotic-aur libgbinder 1.1.34-1
@@ -15716,15 +15716,15 @@ chaotic-aur linux-drm-next-headers-git 6.4.r1185486.33a86170888b-1
 chaotic-aur linux-drm-tip-docs-git 6.4.r1186270.6a2b82451947-1
 chaotic-aur linux-drm-tip-git 6.4.r1186270.6a2b82451947-1
 chaotic-aur linux-drm-tip-headers-git 6.4.r1186270.6a2b82451947-1
-chaotic-aur linux-firmware-bnx2x-git 20230523.1ba3519e-1
-chaotic-aur linux-firmware-git 20230523.1ba3519e-1
-chaotic-aur linux-firmware-liquidio-git 20230523.1ba3519e-1
-chaotic-aur linux-firmware-marvell-git 20230523.1ba3519e-1
-chaotic-aur linux-firmware-mellanox-git 20230523.1ba3519e-1
-chaotic-aur linux-firmware-nfp-git 20230523.1ba3519e-1
-chaotic-aur linux-firmware-qcom-git 20230523.1ba3519e-1
-chaotic-aur linux-firmware-qlogic-git 20230523.1ba3519e-1
-chaotic-aur linux-firmware-whence-git 20230523.1ba3519e-1
+chaotic-aur linux-firmware-bnx2x-git 20230523.1ba3519-1
+chaotic-aur linux-firmware-git 20230523.1ba3519-1
+chaotic-aur linux-firmware-liquidio-git 20230523.1ba3519-1
+chaotic-aur linux-firmware-marvell-git 20230523.1ba3519-1
+chaotic-aur linux-firmware-mellanox-git 20230523.1ba3519-1
+chaotic-aur linux-firmware-nfp-git 20230523.1ba3519-1
+chaotic-aur linux-firmware-qcom-git 20230523.1ba3519-1
+chaotic-aur linux-firmware-qlogic-git 20230523.1ba3519-1
+chaotic-aur linux-firmware-whence-git 20230523.1ba3519-1
 chaotic-aur linux-git v6.4.rc1.r111.47a2ee5d4a0b-1
 chaotic-aur linux-git-docs 6.2.r0.gc9c3395d5e3d-1
 chaotic-aur linux-git-headers v6.4.rc1.r111.47a2ee5d4a0b-1
@@ -16617,7 +16617,7 @@ chaotic-aur python-fangfrisch 1.6.1-2
 chaotic-aur python-fasm-git 0.0.2.r100.gffafe82-1.3
 chaotic-aur python-ffmpeg 0.2.0-5.2
 chaotic-aur python-flask-limiter 3.3.1-1
-chaotic-aur python-fonttools-git 4.39.4.r46.g6b20edf-1
+chaotic-aur python-fonttools-git 4.39.4.r47.g47813b2-1
 chaotic-aur python-freetype-py 2.4.0-1
 chaotic-aur python-gbinder 1.1.1-3
 chaotic-aur python-gevent-eventemitter 2.1-3.3
@@ -17053,7 +17053,7 @@ chaotic-aur spice-guest-tools-windows 0.141-1
 chaotic-aur spicetify-cli 2.18.1-1
 chaotic-aur spicetify-cli-git 2.18.1.r20.gc272c7e-1
 chaotic-aur spirv-cross 2023.01.17-1
-chaotic-aur spirv-tools-tkg-git 2023.3.rc1.r0.ge7c6084fd-1
+chaotic-aur spirv-tools-tkg-git 2023.3.rc1.r6.gf29e11dcb-1
 chaotic-aur split2flac 20200508-1
 chaotic-aur spot-client 0.4.0-1
 chaotic-aur spot-client-git 0.3.3.r0.g8fe75ea-1.5
@@ -17114,8 +17114,8 @@ chaotic-aur supertuxkart-git 23148+18575-1
 chaotic-aur surf-git 2.1.r10.g665a709-1.3
 chaotic-aur surfn-icons-git 1:22.10.01.r15.g36252913-1
 chaotic-aur svt-av1-git 1.5.0.r4.g0482fa7b-1
-chaotic-aur sway-git r7134.48d6eda3-1
-chaotic-aur sway-git-debug r7134.48d6eda3-1
+chaotic-aur sway-git r7134.48d6eda3c-1
+chaotic-aur sway-git-debug r7134.48d6eda3c-1
 chaotic-aur sway-launcher-desktop 1.6.0-1
 chaotic-aur swaybg-git r128.a67361e-1
 chaotic-aur swayfx 0.3-1
