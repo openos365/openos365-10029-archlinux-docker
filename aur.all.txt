@@ -10207,6 +10207,7 @@ cheatsheet-git
 check-broken-packages-pacman-hook-git
 check-cve-2019-19781
 check-git
+check-link-consistency-git
 check-manifest
 check-nwc-health
 check-pacman-mtree
@@ -13907,6 +13908,7 @@ cutefish-wallpapers-git
 cutegram
 cutegram-git
 cutehmi-external-meta
+cutekit-git
 cutelogger
 cutelyst
 cutelyst-git
@@ -41348,6 +41350,7 @@ libime-git
 libime-jyutping
 libime-jyutping-git
 libimobiledevice-git
+libimobiledevice-glue
 libimobiledevice-glue-git
 libindi-asi
 libindi-astrolink4
@@ -68343,6 +68346,7 @@ python-application
 python-applicationinsights
 python-apply_defaults
 python-apprise
+python-apricot-select
 python-april
 python-aprs
 python-apscheduler
@@ -69386,6 +69390,7 @@ python-ctap-keyring-device
 python-ctc-segmentation
 python-ctc-segmentation-git
 python-ctfcli
+python-ctgan
 python-ctypescrypto
 python-ctypescrypto-git
 python-cu2qu
@@ -69526,6 +69531,7 @@ python-decord
 python-decrunch-git
 python-deemix
 python-deepdiff
+python-deepecho
 python-deepl
 python-deepmultilingualpunctuation
 python-deeppavlov
@@ -73215,6 +73221,7 @@ python-py-pde
 python-py-pol
 python-py-pretty
 python-py-radix
+python-py-serializable
 python-py-slvs
 python-py-slvs-git
 python-py-spin
@@ -74372,6 +74379,7 @@ python-rcssmin
 python-rdbtools
 python-rdflib-jsonld
 python-rdkit-git
+python-rdt
 python-re2
 python-readabilipy
 python-readability-lxml
@@ -74734,8 +74742,10 @@ python-sdds
 python-sdepy
 python-sdf
 python-sdf-timing-git
+python-sdmetrics
 python-sdnotify
 python-sds011
+python-sdv
 python-seaborn
 python-seabreeze
 python-seafobj
@@ -75313,6 +75323,7 @@ python-subprocess32
 python-subprocrunner
 python-subsync
 python-subunit2sql
+python-succulent
 python-suds
 python-suds-jurko
 python-summa-git
@@ -104143,6 +104154,7 @@ uboot-odroid-c4
 uboot-raspberrypi4-rc
 uboot-riscv64-qemu
 uboot-rockpro64
+uboot-rockpro64-foss
 uboot-sunxi
 uboot-tinkerboard
 uboot-tinkerboard-bin
