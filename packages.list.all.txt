@@ -23,7 +23,7 @@ core coreutils 9.3-1 [installed]
 core cracklib 2.9.11-1 [installed]
 core cronie 1.6.1-1
 core cryptsetup 2.6.1-3 [installed]
-core curl 8.1.1-2 [installed]
+core curl 8.1.2-1 [installed]
 core dash 0.5.12-1
 core db 6.2.32-1
 core db5.3 5.3.28-2 [installed]
@@ -104,8 +104,8 @@ core libassuan 2.5.5-2 [installed]
 core libbpf 1.2.0-1 [installed]
 core libcap 2.69-1 [installed]
 core libcap-ng 0.8.3-2 [installed]
-core libcurl-compat 8.1.1-2
-core libcurl-gnutls 8.1.1-2
+core libcurl-compat 8.1.2-1
+core libcurl-gnutls 8.1.2-1
 core libedit 20221030_3.1-1 [installed]
 core libelf 0.189-1 [installed]
 core libevent 2.1.12-4 [installed]
@@ -4588,7 +4588,7 @@ extra jupyter-server-fileid 0.9.0-1
 extra jupyter-server-mathjax 0.2.6-2
 extra jupyter-server-ydoc 0.8.0-5
 extra jupyter-widgetsnbextension 1:4.0.7-2
-extra jupyterlab 4.0.0-2
+extra jupyterlab 4.0.1-1
 extra jupyterlab-widgets 3.0.7-2
 extra jupyterlab_pygments 0.2.2-2
 extra just 1.13.0-1
@@ -13523,7 +13523,7 @@ multilib lib32-clang 15.0.7-1
 multilib lib32-cmocka 1.1.7-1
 multilib lib32-colord 1.4.6-1
 multilib lib32-cracklib 2.9.11-1
-multilib lib32-curl 8.1.1-1
+multilib lib32-curl 8.1.2-1
 multilib lib32-dbus 1.14.6-2
 multilib lib32-dbus-glib 0.112-2
 multilib lib32-dconf 0.40.0-3
@@ -13581,8 +13581,8 @@ multilib lib32-libcanberra 1:0.30+r2+gc0620e4-2
 multilib lib32-libcap 2.69-1
 multilib lib32-libcroco 0.6.13-1
 multilib lib32-libcups 2.4.2-2
-multilib lib32-libcurl-compat 8.1.1-1
-multilib lib32-libcurl-gnutls 8.1.1-1
+multilib lib32-libcurl-compat 8.1.2-1
+multilib lib32-libcurl-gnutls 8.1.2-1
 multilib lib32-libdaemon 0.14-8
 multilib lib32-libdatrie 0.2.13-2
 multilib lib32-libdbusmenu-glib 16.04.0-5
@@ -15728,9 +15728,9 @@ chaotic-aur linux-clear-headers 6.3.2-1
 chaotic-aur linux-drm-next-docs-git 6.4.r1185643.85d712f033d2-1
 chaotic-aur linux-drm-next-git 6.4.r1185643.85d712f033d2-1
 chaotic-aur linux-drm-next-headers-git 6.4.r1185643.85d712f033d2-1
-chaotic-aur linux-drm-tip-docs-git 6.4.r1186618.cf59b48ea3c0-1
-chaotic-aur linux-drm-tip-git 6.4.r1186618.cf59b48ea3c0-1
-chaotic-aur linux-drm-tip-headers-git 6.4.r1186618.cf59b48ea3c0-1
+chaotic-aur linux-drm-tip-docs-git 6.4.r1186619.0ae4ee2c7359-1
+chaotic-aur linux-drm-tip-git 6.4.r1186619.0ae4ee2c7359-1
+chaotic-aur linux-drm-tip-headers-git 6.4.r1186619.0ae4ee2c7359-1
 chaotic-aur linux-firmware-bnx2x-git 20230530.1f9667e-1
 chaotic-aur linux-firmware-git 20230530.1f9667e-1
 chaotic-aur linux-firmware-liquidio-git 20230530.1f9667e-1
@@ -17522,7 +17522,7 @@ chaotic-aur vkbasalt-cli 3.1.1-1.5
 chaotic-aur vkd3d-proton-mingw-git 2.9.r16.g5f8106a4-1
 chaotic-aur vkd3d-proton-tkg-git 1.1.r3440.g5f8106a4-1
 chaotic-aur vkd3d-tkg-git 1.6.r86.gf9e7cb63-1
-chaotic-aur vlang-git 0.3.4.r130.g05b832a317-1
+chaotic-aur vlang-git 0.3.4.r137.g4dc338863c-1
 chaotic-aur vlc-git 4.0.0.r23113.gf7bb59d9f5-1.2
 chaotic-aur vmaf-git 2.3.1.r128.g5ee0051c-1
 chaotic-aur vmware-keymaps 1.0-3.1
@@ -23558,8 +23558,8 @@ archlinuxcn ghcup-hs-bin 0.1.19.2-1
 archlinuxcn ghcup-hs-bin-debug 0.1.19.2-1
 archlinuxcn gimp-devel 2.99.14-3
 archlinuxcn gimp-devel-debug 2.99.14-3
-archlinuxcn gimp-git 2:50044.94572ba6eb-2
-archlinuxcn gimp-git-debug 2:50044.94572ba6eb-2
+archlinuxcn gimp-git 2:50045.01785632cc-1
+archlinuxcn gimp-git-debug 2:50045.01785632cc-1
 archlinuxcn gimp-plugin-bimp 2.6-2
 archlinuxcn gimp-plugin-bimp-debug 2.6-2
 archlinuxcn git-cinnabar 0.6.1-2
@@ -23930,7 +23930,7 @@ archlinuxcn julia-git-gsl-git 1.0.1.0.10.gac91f68-1
 archlinuxcn julia-git-gsl_jll-git 2.7.2+0-2
 archlinuxcn julia-git-harfbuzz_jll-git 2.8.1+1-3
 archlinuxcn julia-git-hcubature-git 1.5.1.0.2.ga86ec60-2
-archlinuxcn julia-git-hdf5-git 1:0.16.15-2
+archlinuxcn julia-git-hdf5-git 1:0.16.15.0.2.gcfba7062-1
 archlinuxcn julia-git-hdf5_jll-git 5.0.v1.14.0+0-1
 archlinuxcn julia-git-hostcpufeatures-git 0.1.14.0.8.gcc4fe3d-1
 archlinuxcn julia-git-http-git 1.9.5.0.4.g4a5ab106-1
@@ -23977,7 +23977,7 @@ archlinuxcn julia-git-jlfzf-git 0.1.2.0.11.gb20b670-3
 archlinuxcn julia-git-jpegturbo-git 0.0.0.0.7.f731e5e-3
 archlinuxcn julia-git-jpegturbo_jll-git 2.1.91+0-1
 archlinuxcn julia-git-json-git 0.21.4-1
-archlinuxcn julia-git-jump-git 1.11.1.0.20.g8068620e5a-1
+archlinuxcn julia-git-jump-git 1.11.1.0.21.gb4811a81c4-1
 archlinuxcn julia-git-juniper-git 0.9.0.0.7.g6253234-1
 archlinuxcn julia-git-labelledarrays-git 1.14.0.0.8.g9829b9a-1
 archlinuxcn julia-git-lame_jll-git 3.100.1+0.0.2.g188394f-4
@@ -24622,8 +24622,8 @@ archlinuxcn mosh-git-debug 1:1.4.0.r3.gc16108f-1
 archlinuxcn motrix 1.8.19-4
 archlinuxcn motrix-debug 1.8.19-4
 archlinuxcn mpdscribble 0.24-2
-archlinuxcn mpv-git 0.35.0_418_gbc28dce303-2
-archlinuxcn mpv-git-debug 0.35.0_418_gbc28dce303-2
+archlinuxcn mpv-git 0.35.0_419_gf79458476b-1
+archlinuxcn mpv-git-debug 0.35.0_419_gf79458476b-1
 archlinuxcn mpv-mpvacious 0.23-1
 archlinuxcn mpv-osc-modern-git r73.61a6957-1
 archlinuxcn mpv-osc-thumbfast-git r122.8aa6faf-1
@@ -25862,10 +25862,10 @@ archlinuxcn yubico-piv-tool 2.3.1-1
 archlinuxcn yubico-piv-tool-debug 2.3.1-1
 archlinuxcn yuzu-early-access 3621-1
 archlinuxcn yuzu-early-access-debug 3621-1
-archlinuxcn yuzu-git r23828.53fd08b360-2
-archlinuxcn yuzu-git-debug r23828.53fd08b360-2
-archlinuxcn yuzu-mainline-git 1451.r0.gb557e0279-1
-archlinuxcn yuzu-mainline-git-debug 1451.r0.gb557e0279-1
+archlinuxcn yuzu-git r23830.810d19b6be-1
+archlinuxcn yuzu-git-debug r23830.810d19b6be-1
+archlinuxcn yuzu-mainline-git 1452.r0.g409dba289-1
+archlinuxcn yuzu-mainline-git-debug 1452.r0.g409dba289-1
 archlinuxcn zafiro-icon-theme 1.3-3
 archlinuxcn zarchive-git 0.1.2.r0.gd2c7177-2
 archlinuxcn zchunk 1.3.0-1
