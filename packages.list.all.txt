@@ -389,7 +389,7 @@ extra almanah 0.12.3-5
 extra alot 0.10-6
 extra alpine-chroot-install 0.14.0-3
 extra alpine-keyring 2.4-1
-extra alsa-card-profiles 1:0.3.71-1
+extra alsa-card-profiles 1:0.3.71-2
 extra alsa-firmware 1.2.4-3
 extra alsa-lib 1.2.9-1 [installed]
 extra alsa-oss 1.1.8-5
@@ -2886,7 +2886,7 @@ extra gst-plugin-gtk 1.22.3-2
 extra gst-plugin-libcamera 0.0.5-1
 extra gst-plugin-msdk 1.22.3-2
 extra gst-plugin-opencv 1.22.3-2
-extra gst-plugin-pipewire 1:0.3.71-1
+extra gst-plugin-pipewire 1:0.3.71-2
 extra gst-plugin-qml6 1.22.3-2
 extra gst-plugin-qmlgl 1.22.3-2
 extra gst-plugin-qsv 1.22.3-2
@@ -5511,7 +5511,7 @@ extra libphobos 1:2.103.1-1
 extra libphonenumber 1:8.13.4-2
 extra libpillowfight 0.3.0-8
 extra libpinyin 2.8.1-1
-extra libpipewire 1:0.3.71-1
+extra libpipewire 1:0.3.71-2
 extra libplacebo 5.229.2-2
 extra libplist 2.3.0-2 [installed]
 extra libpng 1.6.39-1 [installed]
@@ -8284,17 +8284,17 @@ extra pinyin-data 0.13.0-1
 extra pipe-rename 1.6.2-1
 extra piper 0.7-2
 extra pipesocks 2.3-4
-extra pipewire 1:0.3.71-1
-extra pipewire-alsa 1:0.3.71-1
-extra pipewire-audio 1:0.3.71-1
-extra pipewire-docs 1:0.3.71-1
-extra pipewire-jack 1:0.3.71-1
+extra pipewire 1:0.3.71-2
+extra pipewire-alsa 1:0.3.71-2
+extra pipewire-audio 1:0.3.71-2
+extra pipewire-docs 1:0.3.71-2
+extra pipewire-jack 1:0.3.71-2
 extra pipewire-media-session 1:0.4.2-2
-extra pipewire-pulse 1:0.3.71-1
-extra pipewire-roc 1:0.3.71-1
-extra pipewire-v4l2 1:0.3.71-1
-extra pipewire-x11-bell 1:0.3.71-1
-extra pipewire-zeroconf 1:0.3.71-1
+extra pipewire-pulse 1:0.3.71-2
+extra pipewire-roc 1:0.3.71-2
+extra pipewire-v4l2 1:0.3.71-2
+extra pipewire-x11-bell 1:0.3.71-2
+extra pipewire-zeroconf 1:0.3.71-2
 extra piping-server 0.16.0-1
 extra pitivi 2023.03-2
 extra pius 3.0.0-5
@@ -13629,7 +13629,7 @@ multilib lib32-libogg 1.3.5-1
 multilib lib32-libpcap 1.10.4-1
 multilib lib32-libpciaccess 0.17-1
 multilib lib32-libpgm 5.3.128-2
-multilib lib32-libpipewire 1:0.3.71-1
+multilib lib32-libpipewire 1:0.3.71-2
 multilib lib32-libpng 1.6.39-1
 multilib lib32-libpng12 1.2.59-2
 multilib lib32-libproxy 0.4.18-1
@@ -13726,9 +13726,9 @@ multilib lib32-pango 1:1.50.14-1
 multilib lib32-pcre 8.45-3
 multilib lib32-pcre2 10.42-1
 multilib lib32-pcsclite 1.9.9-3
-multilib lib32-pipewire 1:0.3.71-1
-multilib lib32-pipewire-jack 1:0.3.71-1
-multilib lib32-pipewire-v4l2 1:0.3.71-1
+multilib lib32-pipewire 1:0.3.71-2
+multilib lib32-pipewire-jack 1:0.3.71-2
+multilib lib32-pipewire-v4l2 1:0.3.71-2
 multilib lib32-pixman 0.42.2-1
 multilib lib32-polkit 122-1
 multilib lib32-popt 1.19-1
@@ -14050,7 +14050,7 @@ chaotic-aur arch-update 1.5.3-1.3
 chaotic-aur archinstall-git 2.5.6.r16.5276d953-1.1
 chaotic-aur archiso-git 71.r0.gc50ffaf-1
 chaotic-aur archlinux-java-run 9-1.1
-chaotic-aur ardour-git 7.4.r167.g193b35e885-1
+chaotic-aur ardour-git 7.4.r168.g8f1d188bf3-1
 chaotic-aur ares-emu 132-2
 chaotic-aur ares-emu-git 132.r121.g4c3786b06-1
 chaotic-aur ark-git 23.03.70_r5003.gaaeebe0c-1
@@ -14207,7 +14207,7 @@ chaotic-aur budgie-genmon-git 5.1.0.r41.gd8f2540-1
 chaotic-aur budgie-network-applet 2.2-1.4
 chaotic-aur budgie-screenshot-applet 0.4.3.r0.gd92b06c-3.1
 chaotic-aur budgie-sntray-git 0.4.13.1.r3.ga5028a3-1.3
-chaotic-aur bulky 2.7-1.3
+chaotic-aur bulky 2.8-1
 chaotic-aur burpsuite 2023.5.1-1
 chaotic-aur buttercup-desktop 2.20.2-1
 chaotic-aur buttermanager 2.5.0-1.3
@@ -14850,7 +14850,7 @@ chaotic-aur gimp-plugin-normalmap 1.2.3-2.3
 chaotic-aur gis-weather 0.8.4.1-1.3
 chaotic-aur gis-weather-git 0.8.2.76-1.3
 chaotic-aur git-cinnabar 0.6.1-1
-chaotic-aur git-cola 4.2.1-2
+chaotic-aur git-cola 4.2.1-3
 chaotic-aur git-credential-manager-core-bin 2.1.2-1
 chaotic-aur git-fixup-git v1.5.0.r8.g76c688c-1.1
 chaotic-aur git-git 2.41.0.rc2.r0.g79bdd48716-1
@@ -15084,7 +15084,7 @@ chaotic-aur headset-bin 3.3.3-1.1
 chaotic-aur health 0.94.0-4
 chaotic-aur heimdall-grimler-git 2.0.2.r0.02b577e-2.1
 chaotic-aur heimer 4.1.0-1
-chaotic-aur helix-git 23.05.76.gd51112227-1
+chaotic-aur helix-git 23.05.76.gd511122279-1
 chaotic-aur helvum-git 0.4.0.r1.g84570f4-1.2
 chaotic-aur heroic-games-launcher-bin 2.8.0-1
 chaotic-aur heroic-games-launcher-git 2.8.0.r1.g10523f462-1
@@ -15476,7 +15476,7 @@ chaotic-aur lean4-git 4.0.0.m5.r1612.gefe75b2b16-1
 chaotic-aur ledger-live 2.57.0-1
 chaotic-aur ledger-udev 1-8
 chaotic-aur leftwm 0.4.1-2
-chaotic-aur leftwm-git 0.4.0.r67.g1130edc9-1
+chaotic-aur leftwm-git 0.4.0.r68.g415dd081-1
 chaotic-aur leftwm-theme-git r94.6825f36-1
 chaotic-aur legendary 0.20.32-2
 chaotic-aur lemurs-git 0.3.1.r34.g961524b-1
@@ -15549,7 +15549,7 @@ chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangoapp 0.6.9.1-2
 chaotic-aur lib32-mangohud 0.6.9.1-2
 chaotic-aur lib32-mangohud-git 0.6.9.1.r68.g0ae2e42-1
-chaotic-aur lib32-mesa-tkg-git 23.2.0_devel.171994.7836260af8f-1
+chaotic-aur lib32-mesa-tkg-git 23.2.0_devel.171996.7e8e7f08237-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15776,8 +15776,8 @@ chaotic-aur linux-tkg-bmq-generic_v3 6.3.5-273
 chaotic-aur linux-tkg-bmq-generic_v3-headers 6.3.5-273
 chaotic-aur linux-tkg-bmq-headers 6.3.4-273
 chaotic-aur linux-tkg-cfs 6.3.4-273
-chaotic-aur linux-tkg-cfs-generic_v3 6.3.4-273
-chaotic-aur linux-tkg-cfs-generic_v3-headers 6.3.4-273
+chaotic-aur linux-tkg-cfs-generic_v3 6.3.5-273
+chaotic-aur linux-tkg-cfs-generic_v3-headers 6.3.5-273
 chaotic-aur linux-tkg-cfs-headers 6.3.4-273
 chaotic-aur linux-tkg-cfs-lto_v3 6.3.3-273
 chaotic-aur linux-tkg-cfs-lto_v3-headers 6.3.3-273
@@ -15904,7 +15904,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.3
 chaotic-aur menulibre 1:2.2.3-2
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.35.1-1
-chaotic-aur mesa-tkg-git 23.2.0_devel.171994.7836260af8f-1
+chaotic-aur mesa-tkg-git 23.2.0_devel.171996.7e8e7f08237-1
 chaotic-aur mesen2-git r2693.607d9219-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -16028,7 +16028,7 @@ chaotic-aur networkmanager-dmenu-git r172.18440df-1
 chaotic-aur networkmanager-iwd 1.42.6-1
 chaotic-aur networkmanager-qt-git 5.105.0_r1185.g03448fe-1
 chaotic-aur newaita-icons-git r929.c2b596b09-1
-chaotic-aur nextcloud-client-git 3.6.0.r1531.g5e554b2c8-1
+chaotic-aur nextcloud-client-git 3.6.0.r1535.g91ccd9099-1
 chaotic-aur nextdns-unprivileged 1.39.4-1
 chaotic-aur nextpnr-git 0.6.r13.g119b47ac-1
 chaotic-aur nghttp2 1.53.0-2
@@ -16776,7 +16776,7 @@ chaotic-aur q-zandronum 1.2.1-1.2
 chaotic-aur q4wine-git 1.3.13.4.g82ced8e-1.2
 chaotic-aur qbe-git r1333.e493a7f-1
 chaotic-aur qbittorrent-enhanced 4.5.3.10-1
-chaotic-aur qbittorrent-enhanced-git 4.5.3.10.r1.g90f5a8908-1
+chaotic-aur qbittorrent-enhanced-git 4.5.3.10.r2.g3da921aa3-1
 chaotic-aur qbittorrent-enhanced-qt5 4.5.3.10-1
 chaotic-aur qbittorrent-git 1:4.6.0beta1.r2.gecc08dee0-1
 chaotic-aur qbittorrent-nox-git 1:4.6.0beta1.r2.gecc08dee0-1
@@ -17137,7 +17137,7 @@ chaotic-aur superslicer-profiles-git r45.4dd0917-1
 chaotic-aur supertuxkart-git 23148+18575-1
 chaotic-aur surf-git 2.1.r10.g665a709-1.3
 chaotic-aur surfn-icons-git 1:22.10.01.r15.g36252913-1
-chaotic-aur svt-av1-git 1.5.0.r12.g0f8b3a81-1
+chaotic-aur svt-av1-git 1.5.0.r13.g3f2c2847-1
 chaotic-aur sway-git r7134.48d6eda3c-1
 chaotic-aur sway-git-debug r7134.48d6eda3c-1
 chaotic-aur sway-launcher-desktop 1.6.0-1
@@ -17369,7 +17369,7 @@ chaotic-aur ttf-font-awesome-4 4.7.0-5
 chaotic-aur ttf-freebanglafont 20130212-5
 chaotic-aur ttf-gelasio-ib 1.007-1
 chaotic-aur ttf-geosans-light 1.0-3
-chaotic-aur ttf-google-fonts-git 1:r5386.a7bc06df7-1
+chaotic-aur ttf-google-fonts-git 1:r5392.a00d003f2-1
 chaotic-aur ttf-heuristica 1.0.2-5
 chaotic-aur ttf-impallari-cantora 1.001-7
 chaotic-aur ttf-iosevka 24.1.0-1
@@ -24659,8 +24659,8 @@ archlinuxcn mumps-seq 5.6.0-1
 archlinuxcn mumps-seq-debug 5.6.0-1
 archlinuxcn munt-git 2287.813e8f0e-1
 archlinuxcn munt-git-debug 2287.813e8f0e-1
-archlinuxcn musescore-git 1:30817.cf13ccc9dc-1
-archlinuxcn musescore-git-debug 1:30817.cf13ccc9dc-1
+archlinuxcn musescore-git 1:30835.26a694475c-1
+archlinuxcn musescore-git-debug 1:30835.26a694475c-1
 archlinuxcn mycli 1.26.1-2
 archlinuxcn mysql 8.0.33-1
 archlinuxcn mysql-clients 8.0.33-1
@@ -25754,8 +25754,8 @@ archlinuxcn virtualbox-svn 99981-2
 archlinuxcn virtualbox-svn-debug 99981-2
 archlinuxcn vita3k-git r2795.ec8bbf84-2
 archlinuxcn vitetris 0.59.1-1
-archlinuxcn vlc-git 4.0.0.r24036.ge2cbf72fd77-1
-archlinuxcn vlc-git-debug 4.0.0.r24036.ge2cbf72fd77-1
+archlinuxcn vlc-git 4.0.0.r24044.g923fc85ac9e-1
+archlinuxcn vlc-git-debug 4.0.0.r24044.g923fc85ac9e-1
 archlinuxcn vmessconv 0.3.4-2
 archlinuxcn vmessping 0.3.4-2
 archlinuxcn vmessspeed 0.3.4-2
