@@ -2661,6 +2661,7 @@ extra gnome-session 44.0-1
 extra gnome-settings-daemon 44.1-1
 extra gnome-shell 1:44.1-3
 extra gnome-shell-extension-appindicator 53-1
+extra gnome-shell-extension-arc-menu 45-1
 extra gnome-shell-extension-dash-to-panel 56-3
 extra gnome-shell-extension-gtile 52-1
 extra gnome-shell-extensions 44.0-1
@@ -12740,7 +12741,7 @@ extra uwsgi-plugin-zabbix 2.0.21-7
 extra uwsgitop 0.11-6
 extra uwufetch 2.1-1
 extra v2ray 5.5.0-1
-extra v2ray-domain-list-community 20230529115309-1
+extra v2ray-domain-list-community 20230601044045-1
 extra v2ray-geoip 202305250042-1
 extra v4l-utils 1.24.1-2 [installed]
 extra v4l2loopback-dkms 0.12.7-2
@@ -14943,7 +14944,7 @@ chaotic-aur gotop 4.2.0-1
 chaotic-aur goverlay-git 0.9.1.r2.gbe1867a-2
 chaotic-aur goxlr-utility 0.11.1-1
 chaotic-aur gpredict 2.2.1-2.3
-chaotic-aur gpt4all-chat-git r876.27e80e1-1
+chaotic-aur gpt4all-chat-git r877.682a383-1
 chaotic-aur gr-foo-git r169.cc8bfc6-1.3
 chaotic-aur gr-ieee802-11-git r356.56d8c5c-1.3
 chaotic-aur gr-limesdr-git r85.57fc840-1.2
@@ -15241,7 +15242,7 @@ chaotic-aur jre 20-1
 chaotic-aur jre8 8u361-1
 chaotic-aur jrosetta 1.0.4-5.1
 chaotic-aur juliaup 1.10.0-1
-chaotic-aur juno-theme-git r194.d2101b2-1
+chaotic-aur juno-theme-git r195.1659bbf-1
 chaotic-aur jupyter-metakernel 0.29.4-1.3
 chaotic-aur k3s-bin 1.27.1+k3s1-1
 chaotic-aur kaccounts-integration-git 20.12.0_r1345.gadcbe5f-1
@@ -15558,7 +15559,7 @@ chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangoapp 0.6.9.1-2
 chaotic-aur lib32-mangohud 0.6.9.1-2
 chaotic-aur lib32-mangohud-git 0.6.9.1.r68.g0ae2e42-1
-chaotic-aur lib32-mesa-tkg-git 23.2.0_devel.172047.457f9ee1918-1
+chaotic-aur lib32-mesa-tkg-git 23.2.0_devel.172048.539f2419ae5-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15913,13 +15914,13 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.3
 chaotic-aur menulibre 1:2.2.3-2
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.35.1-1
-chaotic-aur mesa-tkg-git 23.2.0_devel.172047.457f9ee1918-1
+chaotic-aur mesa-tkg-git 23.2.0_devel.172048.539f2419ae5-1
 chaotic-aur mesen2-git r2693.607d9219-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
 chaotic-aur messagelib-git 5.22.41_r6933.gaab499eb2-1
 chaotic-aur metadata-cleaner 2.5.1-1.2
-chaotic-aur metals 0.11.11-1.2
+chaotic-aur metals 0.11.12-1
 chaotic-aur meteo-gtk 0.9.9.1-1.3
 chaotic-aur meteo-qt-git 3.3-1.2
 chaotic-aur metronome 1.0.0-1.3
@@ -15996,9 +15997,9 @@ chaotic-aur munt-smf2wav 2.7.0-4
 chaotic-aur muparserx 4.0.12-1
 chaotic-aur museeks-bin 0.13.1-1.1
 chaotic-aur musikcube 3.0.1-1
-chaotic-aur mutter-docs-git 44.1+r112+g2b58efbcb-1
+chaotic-aur mutter-docs-git 44.1+r113+g9a6ee5d7c-1
 chaotic-aur mutter-dynamic-buffering 44.1+r2+g82bd40dcb-2
-chaotic-aur mutter-git 44.1+r112+g2b58efbcb-1
+chaotic-aur mutter-git 44.1+r113+g9a6ee5d7c-1
 chaotic-aur mutter-performance 1:44.1+r5+g4f8bdda42-2
 chaotic-aur mutter-performance-docs 1:44.1+r5+g4f8bdda42-2
 chaotic-aur mutter-rounded 42.3-1.1
@@ -16262,7 +16263,7 @@ chaotic-aur pamac-tray-icon-plasma 0.1.3-1.3
 chaotic-aur paper-icon-theme-git 832.aa3e8af7-1.3
 chaotic-aur papirus-folders 1.12.0-1.1
 chaotic-aur papirus-folders-gui 1.5-2.1
-chaotic-aur papirus-icon-theme-git 1:20230301.r26.g0e1e99b5ae-1
+chaotic-aur papirus-icon-theme-git 1:20230601.r0.g0e1e99b5ae-1
 chaotic-aur papirus-libreoffice-theme 1:20170228-4
 chaotic-aur paq8o 9-1
 chaotic-aur parlatype 3.1-2.3
@@ -17116,7 +17117,7 @@ chaotic-aur steamtinkerlaunch 12.12-1.2
 chaotic-aur stellarium 23.1-2.2
 chaotic-aur sticky-git 1.14.r4.g7760fb1-1.2
 chaotic-aur stilo-themes-git 4.0.r0.gf21dee1-1
-chaotic-aur stockfish-git r5723.g7e9b131ef-1
+chaotic-aur stockfish-git r5726.gd99942f25-1
 chaotic-aur storcli 007.2405.0000.0000-1
 chaotic-aur strawberry-full-git 1.0.17.r112.ga5a29f7a-1
 chaotic-aur strawberry-git 1.0.17.r112.ga5a29f7a-1
@@ -17146,7 +17147,7 @@ chaotic-aur superslicer-profiles-git r45.4dd0917-1
 chaotic-aur supertuxkart-git 23148+18575-1
 chaotic-aur surf-git 2.1.r10.g665a709-1.3
 chaotic-aur surfn-icons-git 1:22.10.01.r15.g36252913-1
-chaotic-aur svt-av1-git 1.5.0.r14.g01d64a86-1
+chaotic-aur svt-av1-git 1.5.0.r15.g6f3651c7-1
 chaotic-aur sway-git r7134.48d6eda3c-1
 chaotic-aur sway-git-debug r7134.48d6eda3c-1
 chaotic-aur sway-launcher-desktop 1.6.0-1
@@ -28797,7 +28798,7 @@ xerolinux_repo spotify-adblock 1:1.0.2-1
 xerolinux_repo spotify-adblock-git 1:1.0.2.r4.g22847a7-1
 xerolinux_repo statusnotifier 1.0.0-1
 xerolinux_repo sublime-text-4 4.4143-4
-xerolinux_repo sweet-cursors-theme-git r271.e548eef-1
+xerolinux_repo sweet-cursors-theme-git r318.4bef7f0-1
 xerolinux_repo sweet-folders-icons-git r14.b2192ff-1
 xerolinux_repo sweet-kvantum-theme-git r318.4bef7f0-1
 xerolinux_repo syngestures 1.0-4
