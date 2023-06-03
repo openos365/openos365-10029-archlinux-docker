@@ -909,7 +909,7 @@ extra canto-daemon 0.9.8-4
 extra cantor 23.04.1-1
 extra caph 1.1-7
 extra capitaine-cursors 4-2
-extra capnet-assist 2.4.3-1
+extra capnet-assist 2.4.4-1
 extra capnproto 0.10.4-1
 extra caprine 2.57.4-2
 extra caps 0.9.26-2
@@ -1734,7 +1734,7 @@ extra emacs-python-mode 6.3.0-1
 extra emacs-slime 2.28-1
 extra embree 4.1.0-1
 extra embree3 3.13.5-2
-extra emby-server 4.7.12.0-1
+extra emby-server 4.7.13.0-1
 extra emby-theater 3.0.19-3
 extra emovix 0.9.0-8
 extra emptyepsilon 2022.10.28-1
@@ -7435,27 +7435,27 @@ extra pangomm-2.48 2.50.1-1
 extra pangomm-2.48-docs 2.50.1-1
 extra pangomm-docs 2.46.3-1
 extra pantheon-applications-menu 2.11.1-2
-extra pantheon-calculator 2.0.1-1
+extra pantheon-calculator 2.0.2-1
 extra pantheon-calendar 6.1.2-1
-extra pantheon-camera 6.2.1-2
+extra pantheon-camera 6.2.2-1
 extra pantheon-code 7.0.0-1
-extra pantheon-default-settings 7.0.1-1
+extra pantheon-default-settings 7.0.2-1
 extra pantheon-files 6.3.1-1
 extra pantheon-geoclue2-agent 1.0.6-1
 extra pantheon-mail 7.1.0-1
-extra pantheon-music 7.0.1-1
+extra pantheon-music 7.1.0-1
 extra pantheon-notifications 6.0.3-1
 extra pantheon-onboarding 7.1.0-1
 extra pantheon-photos 2.8.0-2
 extra pantheon-polkit-agent 1.0.5-1
 extra pantheon-print 0.1.3-2
-extra pantheon-screenshot 6.0.3-1
+extra pantheon-screenshot 6.0.4-1
 extra pantheon-session 6.0.0-4
 extra pantheon-settings-daemon 1.2.0-2
 extra pantheon-shortcut-overlay 2.0.1-1
 extra pantheon-sideload 6.2.0-2
 extra pantheon-terminal 6.1.2-1
-extra pantheon-videos 2.9.0-1
+extra pantheon-videos 2.9.1-1
 extra paperkey 1.6-3
 extra paperwork 2.1.2-2
 extra papilo 2.1.2-2
@@ -8938,7 +8938,7 @@ extra python-django-gravatar 1.4.4-6
 extra python-django-guardian 2.4.0-4
 extra python-django-haystack 3.2.1-3
 extra python-django-mailman3 1.3.9-2
-extra python-django-modeltranslation 0.18.9-2
+extra python-django-modeltranslation 0.18.10-1
 extra python-django-picklefield 3.1.0-2
 extra python-django-q 1.3.9-7
 extra python-django-rest-framework 3.14.0-2
@@ -10353,7 +10353,7 @@ extra python-txtorcon 23.0.0-1
 extra python-typed-ast 1.5.4-2
 extra python-typeguard 4.0.0-1
 extra python-typer 0.9.0-1
-extra python-typing_extensions 4.6.2-1 [installed]
+extra python-typing_extensions 4.6.3-1 [installed]
 extra python-typing_inspect 0.8.0-3
 extra python-typogrify 2.0.7-14
 extra python-tzlocal 1:5.0.1-1
@@ -10891,9 +10891,9 @@ extra restinio 0.6.17-1
 extra retext 8.0.0-2
 extra retro-gtk 1.0.2-1
 extra retroarch 1.15.0-3
-extra retroarch-assets-glui 1:451-1
-extra retroarch-assets-ozone 1:451-1
-extra retroarch-assets-xmb 1:451-1
+extra retroarch-assets-glui 1:457-1
+extra retroarch-assets-ozone 1:457-1
+extra retroarch-assets-xmb 1:457-1
 extra reuse 1.1.2-2
 extra rev-plugins 0.8.1-2
 extra revive 1.3.1-1
@@ -11555,7 +11555,7 @@ extra scaleway-cli 2.14.0-1
 extra scanmem 0.17-7
 extra scantailor-advanced 1.0.16-5
 extra scapy 2.5.0-3
-extra sccache 0.5.0-3
+extra sccache 0.5.1-1
 extra scdoc 1.11.2-5
 extra scenarist 0.7.2.rc15-1
 extra schedtool 1.3.0-7
@@ -12011,7 +12011,7 @@ extra switchboard-plug-online-accounts 6.5.2-1
 extra switchboard-plug-parental-controls 6.0.1-1
 extra switchboard-plug-power 2.7.0-1
 extra switchboard-plug-printers 2.2.1-1
-extra switchboard-plug-security-privacy 2.4.1-1
+extra switchboard-plug-security-privacy 7.0.0-1
 extra switchboard-plug-sharing 2.1.6-1
 extra switchboard-plug-sound 2.3.2-1
 extra switchboard-plug-user-accounts 2.4.3-2
@@ -12429,9 +12429,9 @@ extra todoman 4.2.1-2
 extra tokei 12.1.2-1
 extra tokodon 23.04.1-1
 extra tolua++ 1.0.93-4
-extra tomcat-native 2.0.3-1
-extra tomcat10 10.1.9-1
-extra tomcat8 8.5.89-1
+extra tomcat-native 2.0.4-1
+extra tomcat10 10.1.10-1
+extra tomcat8 8.5.90-1
 extra tomcat9 9.0.75-1
 extra toml-bombadil 3.1.0-2
 extra tomlplusplus 3.3.0-1
@@ -17658,8 +17658,8 @@ chaotic-aur wlogout 1.1.1-3.3
 chaotic-aur wlr-randr 0.3.0-1
 chaotic-aur wlr-randr-git 0.3.0+1+gb9fad41-1
 chaotic-aur wlrobs-hg r63.a48763b63f96-1.3
-chaotic-aur wlroots-git 0.17.0.r6339.a2f94b500-1
-chaotic-aur wlroots-git-debug 0.17.0.r6339.a2f94b500-1
+chaotic-aur wlroots-git 0.17.0.r6341.b61d5922f-1
+chaotic-aur wlroots-git-debug 0.17.0.r6341.b61d5922f-1
 chaotic-aur wlsunset 0.3.0-1
 chaotic-aur wluma 4.2.0-1
 chaotic-aur wmenu 0.1.3-2
