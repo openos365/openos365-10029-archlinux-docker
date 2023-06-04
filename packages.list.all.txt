@@ -1470,7 +1470,7 @@ extra dgedit 0.10.0-2
 extra dgen-sdl 1.33-4
 extra dhall 1.41.2-65
 extra dhall-bash 1.0.40-170
-extra dhall-docs 1.0.10-108
+extra dhall-docs 1.0.11-1
 extra dhall-json 1.7.11-74
 extra dhall-lsp-server 1.1.2-88
 extra dhall-yaml 1.2.11-74
@@ -3399,7 +3399,7 @@ extra haskell-hackage-db 2.1.3-2
 extra haskell-hackage-security 0.6.2.3-36
 extra haskell-haddock-library 1.10.0-218
 extra haskell-hadrian 0.1.0.0-91
-extra haskell-hakyll 4.15.1.1-270
+extra haskell-hakyll 4.15.1.1-271
 extra haskell-half 0.3.1-129
 extra haskell-happstack-server 7.8.0.2-8
 extra haskell-hashable 1.4.2.0-17
@@ -3606,7 +3606,7 @@ extra haskell-loch-th 0.2.2-19
 extra haskell-logging-facade 0.3.1-130
 extra haskell-logict 0.7.1.0-203
 extra haskell-loop 0.3.0-224
-extra haskell-lpeg 1.0.3-27
+extra haskell-lpeg 1.0.4-1
 extra haskell-lrucache 1.2.0.1-23
 extra haskell-lsp 1.6.0.0-25
 extra haskell-lsp-test 0.14.1.0-29
@@ -3673,7 +3673,7 @@ extra haskell-mueval 0.9.3-163
 extra haskell-multimap 1.2.1-1
 extra haskell-multistate 0.8.0.4-54
 extra haskell-murmur-hash 0.1.0.10-2
-extra haskell-mustache 2.4.1-147
+extra haskell-mustache 2.4.2-1
 extra haskell-mutable-containers 0.3.4.1-39
 extra haskell-mwc-random 0.15.0.2-87
 extra haskell-mysql 0.2.1-64
@@ -3723,10 +3723,10 @@ extra haskell-optparse-simple 0.1.1.4-241
 extra haskell-ordered-containers 0.2.3-1
 extra haskell-ormolu 0.3.0.0-60
 extra haskell-pager 0.1.1.0-1
-extra haskell-pandoc 3.0.1-40
-extra haskell-pandoc-lua-engine 0.1-50
+extra haskell-pandoc 3.1-1
+extra haskell-pandoc-lua-engine 0.1.1-2
 extra haskell-pandoc-lua-marshal 0.2.2-5
-extra haskell-pandoc-server 0.1-57
+extra haskell-pandoc-server 0.1-58
 extra haskell-pandoc-types 1.23-20
 extra haskell-pango 0.13.8.2-49
 extra haskell-panic 0.4.0.1-24
@@ -7425,9 +7425,9 @@ extra pam_mount 2.19-2
 extra pam_wrapper 1.1.4-4
 extra pamixer 1.6-2
 extra pan 0.154-1
-extra pandoc-cli 0.1-63
-extra pandoc-crossref 0.3.15.2-20
-extra pandoc-plot 1.6.2-12
+extra pandoc-cli 0.1-65
+extra pandoc-crossref 0.3.15.2-21
+extra pandoc-plot 1.6.2-13
 extra pango 1:1.50.14-1 [installed]
 extra pango-docs 1:1.50.14-1
 extra pango-perl 1.227-15
@@ -9559,7 +9559,7 @@ extra python-opengl 3.1.6-2
 extra python-openid 3.2.0-6
 extra python-openpyxl 3.1.2-2
 extra python-openstackclient 6.2.0-2
-extra python-openstackdocstheme 3.1.0-2
+extra python-openstackdocstheme 3.1.1-1
 extra python-openstacksdk 1.0.1-2
 extra python-opentracing 2.4.0-5
 extra python-opt_einsum 3.3.0-6
@@ -11886,7 +11886,7 @@ extra sslsplit 0.5.5-2
 extra ssr 0.6.0-1
 extra sssd 2.9.0-2
 extra sstp-client 1:1.0.18-1
-extra stack 2.7.5-292
+extra stack 2.7.5-293
 extra stalonetray 0.8.5-1
 extra stardict 3.0.6.2-1
 extra starship 1.14.2-1
@@ -13951,7 +13951,7 @@ archcraft wf-config 0.7.1-3
 archcraft wlogout 1.1.1-3
 archcraft wlr-randr 0.2.0-2
 archcraft xfce-polkit 0.3-1
-archcraft yay 12.0.4-1 [installed]
+archcraft yay 12.0.4-1
 chaotic-aur 1password 8.10.7-41
 chaotic-aur 2bwm-git 0.3.r18.g3e20bc1-1
 chaotic-aur 7-zip 22.01-2
@@ -14815,7 +14815,7 @@ chaotic-aur fxload 2008_10_13-6
 chaotic-aur fzf-tab-bin-git r236.5a81e13-1
 chaotic-aur fzf-tab-git r236.5a81e13-1
 chaotic-aur g4music 1.13-1
-chaotic-aur g4music-git 1.13.r33.gc3df679-1
+chaotic-aur g4music-git 1.13.r34.g669d048-1
 chaotic-aur gaiasky 2:3.4.2.041928e7c-1
 chaotic-aur gajim-git 1:r21087.d639b32d8-1
 chaotic-aur gala-git 7.0.3.r21.d408d394-1
@@ -17799,7 +17799,7 @@ chaotic-aur yaru-sound-theme 23.04.4-1
 chaotic-aur yaru-unity-theme 23.04.4-1
 chaotic-aur yaru-xfwm4-theme 23.04.4-1
 chaotic-aur yaup-git 0.1.r4.g7ee3fdb-1.4
-chaotic-aur yay 12.0.5-1 [installed: 12.0.4-1]
+chaotic-aur yay 12.0.5-1
 chaotic-aur yay-git 12.0.5.r15.g12282fb-1
 chaotic-aur yin-yang-git 3.2.4.r5.gc0eb2b0-1
 chaotic-aur yosys-git 0.29+44.r12304.88c849d11-1
@@ -22945,7 +22945,7 @@ blackarch yasca 2.1-3
 blackarch yasuo 121.994dcb1-9
 blackarch yate-bts 6.1.0-1
 blackarch yawast 1072.5e9e7a3-7
-blackarch yay 12.0.5-1 [installed: 12.0.4-1]
+blackarch yay 12.0.5-1
 blackarch yay-debug 12.0.5-1
 blackarch ycrawler 0.1-6
 blackarch yersinia 0.8.2-1
@@ -25896,7 +25896,7 @@ archlinuxcn xtl 0.7.5-1
 archlinuxcn xwinwrap-git r5.ec32e9b-2
 archlinuxcn yacd 0.3.8-1
 archlinuxcn yandex-browser-beta 23.3.1.906_1-3
-archlinuxcn yay 12.0.5-1 [installed: 12.0.4-1]
+archlinuxcn yay 12.0.5-1
 archlinuxcn yay-debug 12.0.5-1
 archlinuxcn yay-git 12.0.5.r15.g12282fb-1
 archlinuxcn ydcv-rs-git 0.4.7.157-1
@@ -27220,7 +27220,7 @@ arch4edu wxwidgets-gtk2 3.2.2.1-1
 arch4edu xalan-java 2.7.2-3
 arch4edu xerces2-java 2.12.2-1
 arch4edu xflr5 6.57.r1431-1
-arch4edu yay 12.0.5-1 [installed: 12.0.4-1]
+arch4edu yay 12.0.5-1
 arch4edu ycm-generator-git r128.b501516-1
 arch4edu zoom 5.14.7-1
 arch4edu zotero 6.0.26-1
@@ -27285,7 +27285,7 @@ endeavouros welcome 3.64-1
 endeavouros wgetpaste-eos 2.33-1
 endeavouros worm 0.3.2-1
 endeavouros yad 12.3-1.1
-endeavouros yay 12.0.5-1 [installed: 12.0.4-1]
+endeavouros yay 12.0.5-1
 endeavouros zfs-dkms 2.1.11-1
 endeavouros zfs-utils 2.1.11-1
 garuda alsa-support 1-1
@@ -27817,7 +27817,7 @@ arcolinux_repo_3party btrfs-du 0.0.7-2
 arcolinux_repo_3party btrfsmaintenance 0.5-2
 arcolinux_repo_3party btrfsmaintenance-git 0.5.r0.gbe42cb6-2
 arcolinux_repo_3party bumblebee-status 2.1.6-1
-arcolinux_repo_3party bumblebee-status-git r2744.1dd39a4-1
+arcolinux_repo_3party bumblebee-status-git r2753.7cda35c-1
 arcolinux_repo_3party byte 0.4.2-1
 arcolinux_repo_3party c-lolcat 1.4-1
 arcolinux_repo_3party caffeine-ng 4.2.0-1
@@ -27865,7 +27865,7 @@ arcolinux_repo_3party faba-icon-theme-git 4.3.r0.g6d7ebd2-1
 arcolinux_repo_3party faba-mono-icons-git r106.2006c52-1
 arcolinux_repo_3party fancontrol-gui-git v0.8.r23.g5bfa8fa-1
 arcolinux_repo_3party fastfetch 1.11.1-1
-arcolinux_repo_3party fastfetch-git 1.11.0.r35.gb89ace7-1
+arcolinux_repo_3party fastfetch-git 1.11.1.r63.g50518242-1
 arcolinux_repo_3party filebot 5.0.3-1
 arcolinux_repo_3party find-the-command-git 2.0.1.r0.gfecba1a-1
 arcolinux_repo_3party fingerprint-gui 1.09-7
@@ -28421,7 +28421,7 @@ arcolinux_repo_3party xmonad-log 0.1.0-3
 arcolinux_repo_3party xsnow-bin 3.5.2-1
 arcolinux_repo_3party xstarter 0.8.1-1
 arcolinux_repo_3party xtitle-git 47-1
-arcolinux_repo_3party yay 12.0.5-1 [installed: 12.0.4-1]
+arcolinux_repo_3party yay 12.0.5-1
 arcolinux_repo_3party yay-bin 12.0.5-1
 arcolinux_repo_3party yay-git 12.0.5.r9.g1335e9b-1
 arcolinux_repo_3party yin-yang-git 3.2.4.r11.g0cd2fb2-1
