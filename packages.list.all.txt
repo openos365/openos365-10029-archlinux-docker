@@ -144,8 +144,8 @@ core libtool 2.4.7+4+g1ec8fa28-3 [installed]
 core libunistring 1.1-2 [installed]
 core libusb 1.0.26-2 [installed]
 core libverto 0.3.2-4 [installed]
-core libxcrypt 4.4.33-1 [installed]
-core libxcrypt-compat 4.4.33-1
+core libxcrypt 4.4.34-1 [installed]
+core libxcrypt-compat 4.4.34-1
 core libxml2 2.10.4-4 [installed]
 core libxml2-docs 2.10.4-4
 core licenses 20220125-2 [installed]
@@ -239,11 +239,11 @@ core sqlite-tcl 3.42.0-1
 core sudo 1.9.13.p3-1 [installed]
 core sysfsutils 2.1.1-1
 core syslinux 6.04.pre2.r11.gbf6db5b4-3
-core systemd 253.4-1 [installed]
-core systemd-libs 253.4-1 [installed]
-core systemd-resolvconf 253.4-1
-core systemd-sysvcompat 253.4-1 [installed]
-core systemd-ukify 253.4-1
+core systemd 253.5-1 [installed]
+core systemd-libs 253.5-1 [installed]
+core systemd-resolvconf 253.5-1
+core systemd-sysvcompat 253.5-1 [installed]
+core systemd-ukify 253.5-1
 core tar 1.34-2 [installed]
 core texinfo 7.0.3-1 [installed]
 core thin-provisioning-tools 1.0.4-1 [installed]
@@ -3011,7 +3011,7 @@ extra handbrake 1.6.1-2
 extra handbrake-cli 1.6.1-2
 extra handlr 0.6.4-2
 extra happy 1.20.1.1-1
-extra haproxy 2.7.8-1
+extra haproxy 2.8.0-1
 extra harfbuzz 7.3.0-1 [installed]
 extra harfbuzz-cairo 7.3.0-1
 extra harfbuzz-docs 7.3.0-1
@@ -4732,7 +4732,7 @@ extra kea 2.2.0-7
 extra kea-devel-docs 1.5.0-2
 extra kea-docs 2.2.0-7
 extra keditbookmarks 23.04.1-1
-extra keepalived 2.2.7-3
+extra keepalived 2.2.8-1
 extra keepass 2.54-1
 extra keepass-plugin-keeagent 0.12.1-3
 extra keepassxc 2.7.5-2
@@ -12479,7 +12479,7 @@ extra transmission-remote-gtk 1.5.1-1
 extra trash-cli 0.23.2.13.2-2
 extra trayer 1.1.8-3
 extra tre 0.8.0-6
-extra tree 2.1.0-1
+extra tree 2.1.1-1
 extra tree-sitter 0.20.8-3
 extra treeify r7958.90292b20-2
 extra trippy 0.8.0-1
@@ -13390,7 +13390,7 @@ extra xxhash 0.8.1-4 [installed]
 extra xxkb 1.11.1-3
 extra yabause-gtk 0.9.15-3
 extra yabause-qt 0.9.15-3
-extra yad 12.3-1
+extra yad 13.0-1
 extra yadm 3.2.2-1
 extra yaegi 0.15.1-1
 extra yajl 2.1.0-5
@@ -13691,8 +13691,8 @@ multilib lib32-libx11 1.8.4-1
 multilib lib32-libxau 1.0.11-1
 multilib lib32-libxcb 1.15-2
 multilib lib32-libxcomposite 0.4.6-1
-multilib lib32-libxcrypt 4.4.33-1
-multilib lib32-libxcrypt-compat 4.4.33-1
+multilib lib32-libxcrypt 4.4.34-1
+multilib lib32-libxcrypt-compat 4.4.34-1
 multilib lib32-libxcursor 1.2.1-2
 multilib lib32-libxdamage 1.1.6-1
 multilib lib32-libxdmcp 1.1.4-1
@@ -13772,7 +13772,7 @@ multilib lib32-smpeg 2.0.0-1
 multilib lib32-speex 1.2.1-1
 multilib lib32-speexdsp 1.2.1-1
 multilib lib32-sqlite 3.42.0-1
-multilib lib32-systemd 253.4-1
+multilib lib32-systemd 253.5-1
 multilib lib32-taglib 1.13-2
 multilib lib32-tcl 8.6.13-1
 multilib lib32-tdb 1.4.8-1
@@ -16822,7 +16822,7 @@ chaotic-aur qnapi-git 0.2.3snapshot.r5.gd4e0378-1.3
 chaotic-aur qogir-gtk-theme 2023.05.24-1
 chaotic-aur qogir-gtk-theme-git 2023.05.24.r2.g4eaa372-1
 chaotic-aur qogir-gtk2-theme 2023.02.27-6
-chaotic-aur qogir-icon-theme-git 2023.02.23.r22.gfff0c7f3-1
+chaotic-aur qogir-icon-theme-git 2023.06.05.r3.gc63aafd7-1
 chaotic-aur qogir-kde-theme-git r91.0894851-1
 chaotic-aur qomui 0.8.2-2.3
 chaotic-aur qomui-git 0.8.2.r22.23650ab-3.3
