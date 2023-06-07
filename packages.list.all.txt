@@ -5094,8 +5094,8 @@ extra libalkimia 8.1.1-1
 extra libantlr3c 3.5.3-1
 extra libao 1.2.2-6
 extra libappimage 1.0.4.5-4
-extra libappindicator-gtk2 12.10.0.r298-1
-extra libappindicator-gtk3 12.10.0.r298-1
+extra libappindicator-gtk2 12.10.0.r298-2
+extra libappindicator-gtk3 12.10.0.r298-2
 extra libass 0.17.1-1 [installed]
 extra libasyncns 1:0.8+r3+g68cd5af-2 [installed]
 extra libatasmart 0.19-6 [installed]
@@ -5958,7 +5958,7 @@ extra libuv 1.44.2-1 [installed]
 extra libva 2.18.0-1 [installed]
 extra libva-intel-driver 2.4.1-2
 extra libva-mesa-driver 23.1.1-1
-extra libva-utils 2.18.1-1
+extra libva-utils 2.18.2-1
 extra libva-vdpau-driver 0.7.4-6
 extra libvarlink 23-1
 extra libvdpau 1.5-1 [installed]
@@ -14206,7 +14206,7 @@ chaotic-aur boston-icon-theme 2.0-1
 chaotic-aur bottles 2:51.6-3
 chaotic-aur boxtron 0.5.4-1.5
 chaotic-aur bpytop-git 1.0.68.r3.gac0f666-1.4
-chaotic-aur brave-bin 1:1.52.117-1
+chaotic-aur brave-bin 1:1.52.122-1
 chaotic-aur brave-nightly-bin 1.54.30-1
 chaotic-aur breeze-git 5.27.80_r2584.g4107cc0c-1
 chaotic-aur breeze-gtk-git 5.27.80_r500.g5923854-1
@@ -15570,7 +15570,7 @@ chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangoapp 0.6.9.1-2
 chaotic-aur lib32-mangohud 0.6.9.1-2
-chaotic-aur lib32-mesa-tkg-git 23.2.0_devel.172371.bfed41d3229-1
+chaotic-aur lib32-mesa-tkg-git 23.2.0_devel.172372.580a8a8b1e4-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15926,7 +15926,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.3
 chaotic-aur menulibre 1:2.2.3-2
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.35.1-1
-chaotic-aur mesa-tkg-git 23.2.0_devel.172371.bfed41d3229-1
+chaotic-aur mesa-tkg-git 23.2.0_devel.172372.580a8a8b1e4-1
 chaotic-aur mesen2-git r2693.607d9219-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -23832,7 +23832,7 @@ archlinuxcn jtdxhamlib-static 159-3
 archlinuxcn jtdxhamlib-static-debug 159-3
 archlinuxcn juicefs-oss 1.0.4-1
 archlinuxcn juicefs-oss-debug 1.0.4-1
-archlinuxcn julia-git 1:1.10.0.DEV.1439.g112554e1a53-1
+archlinuxcn julia-git 1:1.10.0.DEV.1447.gdbd82a4dbab-1
 archlinuxcn julia-git-abstractalgebra-git 0.30.9-1
 archlinuxcn julia-git-abstractffts-git 1.3.1.0.5.g09d703a-1
 archlinuxcn julia-git-abstracttrees-git 0.4.3.0.19.g8be8049-1
@@ -23853,7 +23853,7 @@ archlinuxcn julia-git-arrayinterfaceoffsetarrays-git 6.0.25-1
 archlinuxcn julia-git-arrayinterfacestaticarrays-git 6.0.25-1
 archlinuxcn julia-git-arrayinterfacestaticarrayscore-git 6.0.25-1
 archlinuxcn julia-git-arrayinterfacetracker-git 6.0.25-1
-archlinuxcn julia-git-arrow-git 1:2.6.0.0.0.5.g2d1114e-1
+archlinuxcn julia-git-arrow-git 1:2.6.1.0.0.rc1-1
 archlinuxcn julia-git-asl_jll-git 0.1.3+0-3
 archlinuxcn julia-git-attr_jll-git 2.4.48+0.0.1.gcf6fa78-2
 archlinuxcn julia-git-axisalgorithms-git 1.0.1-3
@@ -23923,7 +23923,7 @@ archlinuxcn julia-git-diffresults-git 1.0.3+docs.0.6.g724a23d-1
 archlinuxcn julia-git-diffrules-git 1.15.1-1
 archlinuxcn julia-git-distances-git 0.10.8-1
 archlinuxcn julia-git-distributions-git 0.25.95.0.1.g2dee35e1-1
-archlinuxcn julia-git-docs 1:1.10.0.DEV.1439.g112554e1a53-1
+archlinuxcn julia-git-docs 1:1.10.0.DEV.1447.gdbd82a4dbab-1
 archlinuxcn julia-git-docstringextensions-git 0.9.3.0.19.ga970c7d-1
 archlinuxcn julia-git-dualnumbers-git 0.6.8.0.2.g85bc6b2-1
 archlinuxcn julia-git-earcut_jll-git 2.2.4+0-2
@@ -24007,19 +24007,19 @@ archlinuxcn julia-git-interpolations-git 0.14.7.0.9.g2c383dd-1
 archlinuxcn julia-git-intervalsets-git 0.7.4.0.7.g6027f24-1
 archlinuxcn julia-git-inversefunctions-git 0.1.9-1
 archlinuxcn julia-git-invertedindices-git 1.3.0-1
-archlinuxcn julia-git-ipopt-git 1.4.0-2
-archlinuxcn julia-git-ipopt_jll-git 300.1400.1200+0-1
+archlinuxcn julia-git-ipopt-git 1.4.0.0.1.gf66f888-1
+archlinuxcn julia-git-ipopt_jll-git 300.1400.1201+0-1
 archlinuxcn julia-git-irrationalconstants-git 0.2.2.0.2.g8dd67e8-1
 archlinuxcn julia-git-iteratorinterfaceextensions-git 1.0.0.0.22.g4852e0f-6
 archlinuxcn julia-git-itertools-git 1.7.0.0.13.g004d3cd-2
 archlinuxcn julia-git-jlarrays-git 8.7.1-1
 archlinuxcn julia-git-jld-git 0.13.3-1
-archlinuxcn julia-git-jld2-git 0.4.31.0.6.g30dd578-1
+archlinuxcn julia-git-jld2-git 0.4.31.0.8.g9c99348-1
 archlinuxcn julia-git-jlfzf-git 0.1.2.0.11.gb20b670-3
 archlinuxcn julia-git-jpegturbo-git 0.0.0.0.7.f731e5e-3
 archlinuxcn julia-git-jpegturbo_jll-git 2.1.91+0-1
 archlinuxcn julia-git-json-git 0.21.4-1
-archlinuxcn julia-git-jump-git 1.11.1.0.29.g19ab5d6c7c-1
+archlinuxcn julia-git-jump-git 1.11.1.0.32.g527e6f568a-1
 archlinuxcn julia-git-juniper-git 0.9.0.0.7.g6253234-1
 archlinuxcn julia-git-labelledarrays-git 1.14.0.0.8.g9829b9a-1
 archlinuxcn julia-git-lame_jll-git 3.100.1+0.0.2.g188394f-4
@@ -24060,7 +24060,7 @@ archlinuxcn julia-git-macrotools-git 0.5.10.0.12.gd1937f9-2
 archlinuxcn julia-git-manualmemory-git 0.1.8.0.12.g7f73b40-1
 archlinuxcn julia-git-mappedarrays-git 0.4.1.0.7.g9b1842e-1
 archlinuxcn julia-git-mat-git 0.10.4-1
-archlinuxcn julia-git-mathoptinterface-git 1.17.0.0.4.g32dbf6056-1
+archlinuxcn julia-git-mathoptinterface-git 1.17.1-1
 archlinuxcn julia-git-mathprogbase-git 0.7.8-3
 archlinuxcn julia-git-mbedtls-git 1.1.7.0.3.ge84f973-1
 archlinuxcn julia-git-measures-git 0.3.1.0.6.g4a93a74-2
@@ -24140,9 +24140,9 @@ archlinuxcn julia-git-rmath_jll-git 0.4.0+0-1
 archlinuxcn julia-git-roots-git 2.0.17.0.2.ge0e9fdd-1
 archlinuxcn julia-git-rotations-git 1.5.1-1
 archlinuxcn julia-git-runtimegeneratedfunctions-git 0.5.11-1
-archlinuxcn julia-git-scimlbase-git 1.92.3.0.4.g8d60b183-1
+archlinuxcn julia-git-scimlbase-git 1.92.4-1
 archlinuxcn julia-git-scratch-git 1.2.0.0.7.gb00c915-1
-archlinuxcn julia-git-sentinelarrays-git 1.4.0-1
+archlinuxcn julia-git-sentinelarrays-git 1.4.0.0.1.g54fab55-1
 archlinuxcn julia-git-setfield-git 1.1.1.0.3.ge17539a-2
 archlinuxcn julia-git-shiftedarrays-git 2.0.0.0.6.g3eecdbc-2
 archlinuxcn julia-git-showoff-git 1.0.2.0.6.g03f76bb-4
@@ -24174,7 +24174,7 @@ archlinuxcn julia-git-stringencodings-git 0.3.6-1
 archlinuxcn julia-git-stringmanipulation-git 0.3.0.0.2.g5502c5d-2
 archlinuxcn julia-git-structarrays-git 0.6.15-1
 archlinuxcn julia-git-structtypes-git 1.10.0.0.5.g9cca137-1
-archlinuxcn julia-git-symbolics-git 5.5.0.0.1.g962e2b43-1
+archlinuxcn julia-git-symbolics-git 5.5.0.0.1.g962e2b43-2
 archlinuxcn julia-git-symbolicutils-git 1.0.5.0.7.g6fbc47c-1
 archlinuxcn julia-git-tables-git 1.10.1.0.1.gdac28d9-1
 archlinuxcn julia-git-tabletraits-git 1.0.1.0.5.g239ccf8-6
@@ -24224,7 +24224,7 @@ archlinuxcn julia-git-xorg_xkeyboard_config_jll-git 2.27.0+3.0.2.g336953f-5
 archlinuxcn julia-git-xorg_xtrans_jll-git 1.4.0+2.0.2.g81192c3-5
 archlinuxcn julia-git-xslt_jll-git 1.1.34+0-5
 archlinuxcn julia-git-xz_jll-git 5.2.9+0-1
-archlinuxcn julia-git-yaml-git 0.4.8.0.1.g8a65338-1
+archlinuxcn julia-git-yaml-git 0.4.9-1
 archlinuxcn julia-git-zeromq_jll-git 4.3.4+0-9
 archlinuxcn julia-git-zmq-git 1.2.1.0.20.gf71c1fc-1
 archlinuxcn julia-git-zstd_jll-git 1.5.5+0-1
