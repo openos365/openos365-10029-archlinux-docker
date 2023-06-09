@@ -126,7 +126,7 @@ core libmpc 1.3.1-1 [installed]
 core libnetfilter_conntrack 1.0.9-1 [installed]
 core libnfnetlink 1.0.2-1 [installed]
 core libnftnl 1.2.5-1 [installed]
-core libnghttp2 1.54.0-1 [installed: 1.53.0-1]
+core libnghttp2 1.54.0-1 [installed]
 core libnl 3.7.0-3 [installed]
 core libnsl 2.0.0-3 [installed]
 core libp11-kit 0.24.1-1 [installed]
@@ -144,7 +144,7 @@ core libtool 2.4.7+4+g1ec8fa28-3 [installed]
 core libunistring 1.1-2 [installed]
 core libusb 1.0.26-2 [installed]
 core libverto 0.3.2-4 [installed]
-core libxcrypt 4.4.35-1 [installed: 4.4.34-1]
+core libxcrypt 4.4.35-1 [installed]
 core libxcrypt-compat 4.4.35-1
 core libxml2 2.10.4-4 [installed]
 core libxml2-docs 2.10.4-4
@@ -13649,7 +13649,7 @@ multilib lib32-libmikmod 3.3.11.1-6
 multilib lib32-libmodplug 0.8.9.0-4
 multilib lib32-libndp 1.8-1
 multilib lib32-libnewt 0.52.23-1
-multilib lib32-libnghttp2 1.53.0-1
+multilib lib32-libnghttp2 1.54.0-1
 multilib lib32-libnl 3.7.0-1
 multilib lib32-libnm 1.42.6-1
 multilib lib32-libnsl 2.0.0-2
@@ -13699,8 +13699,8 @@ multilib lib32-libx11 1.8.5-1
 multilib lib32-libxau 1.0.11-1
 multilib lib32-libxcb 1.15-2
 multilib lib32-libxcomposite 0.4.6-1
-multilib lib32-libxcrypt 4.4.34-1
-multilib lib32-libxcrypt-compat 4.4.34-1
+multilib lib32-libxcrypt 4.4.35-1
+multilib lib32-libxcrypt-compat 4.4.35-1
 multilib lib32-libxcursor 1.2.1-2
 multilib lib32-libxdamage 1.1.6-1
 multilib lib32-libxdmcp 1.1.4-1
@@ -14133,7 +14133,7 @@ chaotic-aur ayatana-indicator-datetime 22.9.1-1
 chaotic-aur ayatana-indicator-keyboard 22.9.1-1
 chaotic-aur ayatana-indicator-messages 22.9.0-1.1
 chaotic-aur ayatana-indicator-notifications 22.9.0-1
-chaotic-aur ayatana-indicator-power 22.9.5-1
+chaotic-aur ayatana-indicator-power 23.6.0-1
 chaotic-aur ayatana-indicator-session 22.9.2-1
 chaotic-aur ayatana-indicator-sound 22.9.2-1
 chaotic-aur azote 1.12.0-1
@@ -15211,7 +15211,7 @@ chaotic-aur itch-setup-bin 1.26.0-1
 chaotic-aur itcl3 3.4.4-1
 chaotic-aur itk-snap-bin 4.0.0-2
 chaotic-aur j9-git r4387.a6f48f96-1.2
-chaotic-aur jackett 0.21.177-1
+chaotic-aur jackett 0.21.185-1
 chaotic-aur jade-application-kit 3.5.7-2.3
 chaotic-aur jameica 2.10.4-1.2
 chaotic-aur jamesdsp 2.4-2
@@ -15633,7 +15633,7 @@ chaotic-aur libbtbb 2020.12.R1-2.2
 chaotic-aur libccd 2.1-1
 chaotic-aur libcgroup 2.0-1
 chaotic-aur libcheese-git 44.0.1+r3+gab37580f-1.2
-chaotic-aur libclc-git 1:17.0.0_r463788.f6c8a8e9cb7d-1
+chaotic-aur libclc-git 1:17.0.0_r463792.ecbd37d5a336-1
 chaotic-aur libcmrt 1.0.6-2.3
 chaotic-aur libcotp 2.0.0-1
 chaotic-aur libcprime 4.4.1-1.3
@@ -17602,7 +17602,7 @@ chaotic-aur waterfox-g3-bin 2.6-1.3
 chaotic-aur waterfox-g4-bin 1.5-0.3
 chaotic-aur wavebox-beta 10.114.17_3-1
 chaotic-aur wavesurfer 1.8.8p5-4
-chaotic-aur waybar-experimental-git 0.9.18.r18.gc5379fa5-1
+chaotic-aur waybar-experimental-git 0.9.18.r20.g9f38631c-1
 chaotic-aur waybar-hyprland-git 0.9.18.r18.gc5379fa5-1
 chaotic-aur waydroid 1.4.1-1
 chaotic-aur waydroid-git 1.4.1.r0.g7ce2e28-1.2
@@ -23649,8 +23649,8 @@ archlinuxcn goland 2023.1.2-1
 archlinuxcn goland-jre 2023.1.2-1
 archlinuxcn goldendict-git 1:1.5.0.r2.g4723dac2-1
 archlinuxcn goldendict-git-debug 1:1.5.0.r2.g4723dac2-1
-archlinuxcn goldendict-ng-git 23.06.02.alpha.230607.cc4700ae.r8.g5fd92610-2
-archlinuxcn goldendict-ng-git-debug 23.06.02.alpha.230607.cc4700ae.r8.g5fd92610-2
+archlinuxcn goldendict-ng-git 23.06.02.alpha.230609.0b21ad8a.r0.g67ed24c6-1
+archlinuxcn goldendict-ng-git-debug 23.06.02.alpha.230609.0b21ad8a.r0.g67ed24c6-1
 archlinuxcn goocanvas2 2.0.4-10
 archlinuxcn goocanvas2-debug 2.0.4-10
 archlinuxcn google-authenticator-libpam-git 1.09.r14.g366ace3-1
@@ -24248,8 +24248,8 @@ archlinuxcn kate-git 23.07.70_r20729.gee80aa396-1
 archlinuxcn kate-git-debug 23.07.70_r20729.gee80aa396-1
 archlinuxcn kazam 1.4.5-12
 archlinuxcn kcm-colorful-git 1.0.5.r0.g411e8c9-1
-archlinuxcn kdeconnect-git 21.07.80.r570.3cb40eab-1
-archlinuxcn kdeconnect-git-debug 21.07.80.r570.3cb40eab-1
+archlinuxcn kdeconnect-git 21.07.80.r572.4ef7c262-1
+archlinuxcn kdeconnect-git-debug 21.07.80.r572.4ef7c262-1
 archlinuxcn kdenlive-git 23.07.70.r18184-1
 archlinuxcn kdenlive-git-debug 23.07.70.r18184-1
 archlinuxcn kdeplasma-applets-fokus 1.5.5-2
@@ -24478,8 +24478,8 @@ archlinuxcn libindi-asi-debug 2.0.2-1
 archlinuxcn libinput-gestures 2.74-1
 archlinuxcn libjwt 1.15.3-1
 archlinuxcn libjwt-debug 1.15.3-1
-archlinuxcn libllvmextra_jll-git v5.2.0.r0.gd3d1d89-1
-archlinuxcn libllvmextra_jll-git-debug v5.2.0.r0.gd3d1d89-1
+archlinuxcn libllvmextra_jll-git v5.2.0.r0.gd3d1d89-2
+archlinuxcn libllvmextra_jll-git-debug v5.2.0.r0.gd3d1d89-2
 archlinuxcn liblxqt-git 1:1.3.0.1.gfae2576-1
 archlinuxcn liblxqt-git-debug 1:1.3.0.1.gfae2576-1
 archlinuxcn libmysqlclient 8.0.33-1
@@ -24572,9 +24572,9 @@ archlinuxcn linux-mainline-headers 6.4rc5-1
 archlinuxcn linux-mbp 5.5.13-1
 archlinuxcn linux-mbp-docs 5.5.13-1
 archlinuxcn linux-mbp-headers 5.5.13-1
-archlinuxcn linux-next-git 20230607.r0.gabbd8bb42915-1
-archlinuxcn linux-next-git-docs 20230607.r0.gabbd8bb42915-1
-archlinuxcn linux-next-git-headers 20230607.r0.gabbd8bb42915-1
+archlinuxcn linux-next-git 20230609.r0.g53ab6975c12d-1
+archlinuxcn linux-next-git-docs 20230609.r0.g53ab6975c12d-1
+archlinuxcn linux-next-git-headers 20230609.r0.g53ab6975c12d-1
 archlinuxcn linux-vfio 6.2.13.arch1-9
 archlinuxcn linux-vfio-docs 6.2.13.arch1-9
 archlinuxcn linux-vfio-headers 6.2.13.arch1-9
@@ -25435,8 +25435,8 @@ archlinuxcn rpcs3-git-debug 0.0.28.15157.6aff2803e5-1
 archlinuxcn rr-git 5.6.0.r197.g6424ba4c-1
 archlinuxcn rssdrop 26.4614df7-1
 archlinuxcn rstudio-desktop-bin 2023.03.1.446-1
-archlinuxcn rstudio-desktop-git 40670.e6198ddd38-1
-archlinuxcn rstudio-desktop-git-debug 40670.e6198ddd38-1
+archlinuxcn rstudio-desktop-git 40686.cf6f7055bd-1
+archlinuxcn rstudio-desktop-git-debug 40686.cf6f7055bd-1
 archlinuxcn rtl8821cu-dkms-git 1:5.4.1.145.8c2226a-1
 archlinuxcn rua 0.19.6-1
 archlinuxcn rua-debug 0.19.6-1
@@ -25475,7 +25475,7 @@ archlinuxcn rust-std-nightly-x86_64-unknown-linux-musl 4:1.72.0_20230604-4
 archlinuxcn rustfmt-nightly 4:1.72.0_20230604-4
 archlinuxcn rustpython-git r8267.6b68848f-1
 archlinuxcn rxvt-unicode-better-wheel-scrolling 9.22-5.1
-archlinuxcn ryujinx-git r2871.2cdcfe46d8-1
+archlinuxcn ryujinx-git r2872.0003a7c118-1
 archlinuxcn safeeyes-git 2.1.5.r18.g684d162-1
 archlinuxcn sasm 3.14.0-2
 archlinuxcn sasm-debug 3.14.0-2
