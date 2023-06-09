@@ -126,7 +126,7 @@ core libmpc 1.3.1-1 [installed]
 core libnetfilter_conntrack 1.0.9-1 [installed]
 core libnfnetlink 1.0.2-1 [installed]
 core libnftnl 1.2.5-1 [installed]
-core libnghttp2 1.53.0-1 [installed]
+core libnghttp2 1.54.0-1 [installed: 1.53.0-1]
 core libnl 3.7.0-3 [installed]
 core libnsl 2.0.0-3 [installed]
 core libp11-kit 0.24.1-1 [installed]
@@ -144,8 +144,8 @@ core libtool 2.4.7+4+g1ec8fa28-3 [installed]
 core libunistring 1.1-2 [installed]
 core libusb 1.0.26-2 [installed]
 core libverto 0.3.2-4 [installed]
-core libxcrypt 4.4.34-1 [installed]
-core libxcrypt-compat 4.4.34-1
+core libxcrypt 4.4.35-1 [installed: 4.4.34-1]
+core libxcrypt-compat 4.4.35-1
 core libxml2 2.10.4-4 [installed]
 core libxml2-docs 2.10.4-4
 core licenses 20220125-2 [installed]
@@ -3404,7 +3404,7 @@ extra haskell-hackage-db 2.1.3-4
 extra haskell-hackage-security 0.6.2.3-38
 extra haskell-haddock-library 1.10.0-220
 extra haskell-hadrian 0.1.0.0-96
-extra haskell-hakyll 4.15.1.1-282
+extra haskell-hakyll 4.15.1.1-283
 extra haskell-half 0.3.1-130
 extra haskell-happstack-server 7.8.0.2-9
 extra haskell-hashable 1.4.2.0-19
@@ -3473,20 +3473,22 @@ extra haskell-hs-bibutils 6.10.0.0-129
 extra haskell-hscolour 1.24.4-23
 extra haskell-hsini 0.5.1.2-29
 extra haskell-hslogger 1.3.1.0-208
-extra haskell-hslua 2.2.1-48
-extra haskell-hslua-aeson 2.2.1-48
-extra haskell-hslua-classes 2.3.0-5
-extra haskell-hslua-core 2.2.1-56
-extra haskell-hslua-list 1.1.1-11
-extra haskell-hslua-marshalling 2.2.1-50
-extra haskell-hslua-module-doclayout 1.0.4-99
-extra haskell-hslua-module-path 1.0.3-57
-extra haskell-hslua-module-system 1.0.3-16
-extra haskell-hslua-module-text 1.0.3.1-21
-extra haskell-hslua-module-version 1.0.3-54
-extra haskell-hslua-module-zip 1.0.0-24
-extra haskell-hslua-objectorientation 2.2.1-45
-extra haskell-hslua-packaging 2.2.1-41
+extra haskell-hslua 2.3.0-2
+extra haskell-hslua-aeson 2.3.0-2
+extra haskell-hslua-classes 2.3.0-7
+extra haskell-hslua-core 2.3.1-1
+extra haskell-hslua-list 1.1.1-13
+extra haskell-hslua-marshalling 2.3.0-2
+extra haskell-hslua-module-doclayout 1.1.0-3
+extra haskell-hslua-module-path 1.1.0-2
+extra haskell-hslua-module-system 1.1.0-2
+extra haskell-hslua-module-text 1.1.0-2
+extra haskell-hslua-module-version 1.1.0-2
+extra haskell-hslua-module-zip 1.1.0-2
+extra haskell-hslua-objectorientation 2.3.0-2
+extra haskell-hslua-packaging 2.3.0-2
+extra haskell-hslua-repl 0.1.1-1
+extra haskell-hslua-typing 0.1.0-2
 extra haskell-hsopenssl 0.11.7.5-8
 extra haskell-hsopenssl-x509-system 0.1.0.4-31
 extra haskell-hspec 2.10.9-20
@@ -3612,7 +3614,7 @@ extra haskell-loch-th 0.2.2-19
 extra haskell-logging-facade 0.3.1-132
 extra haskell-logict 0.7.1.0-205
 extra haskell-loop 0.3.0-225
-extra haskell-lpeg 1.0.4-2
+extra haskell-lpeg 1.0.4-4
 extra haskell-lrucache 1.2.0.1-23
 extra haskell-lsp 1.6.0.0-27
 extra haskell-lsp-test 0.14.1.0-32
@@ -3620,8 +3622,8 @@ extra haskell-lsp-test0.14.0 0.14.0.2-35
 extra haskell-lsp-types 1.6.0.0-26
 extra haskell-lsp-types1.4 1.4.0.1-29
 extra haskell-lsp1.4 1.4.0.0-37
-extra haskell-lua 2.2.1-29
-extra haskell-lua-arbitrary 1.0.1.1-3
+extra haskell-lua 2.3.1-1
+extra haskell-lua-arbitrary 1.0.1.1-5
 extra haskell-lucid 2.11.20230408-4
 extra haskell-lukko 0.1.1.3-156
 extra haskell-lumberjack 1.0.2.0-22
@@ -3729,10 +3731,10 @@ extra haskell-optparse-simple 0.1.1.4-246
 extra haskell-ordered-containers 0.2.3-1
 extra haskell-ormolu 0.3.0.0-62
 extra haskell-pager 0.1.1.0-4
-extra haskell-pandoc 3.1.2-1
-extra haskell-pandoc-lua-engine 0.1.1-13
-extra haskell-pandoc-lua-marshal 0.2.2-7
-extra haskell-pandoc-server 0.1-68
+extra haskell-pandoc 3.1.2-2
+extra haskell-pandoc-lua-engine 0.2-1
+extra haskell-pandoc-lua-marshal 0.2.2-9
+extra haskell-pandoc-server 0.1-69
 extra haskell-pandoc-types 1.23-22
 extra haskell-pango 0.13.8.2-50
 extra haskell-panic 0.4.0.1-24
@@ -3971,12 +3973,12 @@ extra haskell-tasty-discover 5.0.0-30
 extra haskell-tasty-expected-failure 0.12.3-298
 extra haskell-tasty-golden 2.3.5-64
 extra haskell-tasty-hedgehog 1.3.1.0-58
-extra haskell-tasty-hslua 1.0.2-93
+extra haskell-tasty-hslua 1.1.0-2
 extra haskell-tasty-hspec 1.2.0.3-6
 extra haskell-tasty-hunit 0.10.0.3-429
 extra haskell-tasty-inspection-testing 0.2-70
 extra haskell-tasty-kat 0.0.3-148
-extra haskell-tasty-lua 1.0.2-61
+extra haskell-tasty-lua 1.1.0-2
 extra haskell-tasty-quickcheck 0.10.2-264
 extra haskell-tasty-rerun 1.1.18-149
 extra haskell-tasty-silver 3.3.1.1-76
@@ -4243,7 +4245,7 @@ extra hsa-amd-aqlprofile-bin 5.4.3-2
 extra hsa-rocr 5.4.3-1
 extra hsakmt-roct 5.4.3-1
 extra hsetroot 1.0.5-1
-extra hslua-cli 1.2.0-19
+extra hslua-cli 1.4.1-2
 extra hspell 1.4-4
 extra hss 1.9-1
 extra html-xml-utils 8.6-1
@@ -7428,9 +7430,9 @@ extra pam_mount 2.19-2
 extra pam_wrapper 1.1.4-4
 extra pamixer 1.6-2
 extra pan 0.154-1
-extra pandoc-cli 0.1-75
-extra pandoc-crossref 0.3.15.2-31
-extra pandoc-plot 1.7.0-9
+extra pandoc-cli 0.1.1-1
+extra pandoc-crossref 0.3.15.2-32
+extra pandoc-plot 1.7.0-10
 extra pango 1:1.50.14-1 [installed]
 extra pango-docs 1:1.50.14-1
 extra pango-perl 1.227-15
@@ -15575,7 +15577,7 @@ chaotic-aur lib32-lilv 0.24.20-1.2
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangoapp 0.6.9.1-2
-chaotic-aur lib32-mesa-tkg-git 23.2.0_devel.172566.085f6ec6ebc-1
+chaotic-aur lib32-mesa-tkg-git 23.2.0_devel.172567.25de091753e-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15930,7 +15932,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.3
 chaotic-aur menulibre 1:2.2.3-2
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.35.1-1
-chaotic-aur mesa-tkg-git 23.2.0_devel.172566.085f6ec6ebc-1
+chaotic-aur mesa-tkg-git 23.2.0_devel.172567.25de091753e-1
 chaotic-aur mesen2-git r2693.607d9219-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -24248,8 +24250,8 @@ archlinuxcn kazam 1.4.5-12
 archlinuxcn kcm-colorful-git 1.0.5.r0.g411e8c9-1
 archlinuxcn kdeconnect-git 21.07.80.r570.3cb40eab-1
 archlinuxcn kdeconnect-git-debug 21.07.80.r570.3cb40eab-1
-archlinuxcn kdenlive-git 23.07.70.r18183-1
-archlinuxcn kdenlive-git-debug 23.07.70.r18183-1
+archlinuxcn kdenlive-git 23.07.70.r18184-1
+archlinuxcn kdenlive-git-debug 23.07.70.r18184-1
 archlinuxcn kdeplasma-applets-fokus 1.5.5-2
 archlinuxcn kdiskmark-git 3.1.3.r16.g45566f4-1
 archlinuxcn kdiskmark-git-debug 3.1.3.r16.g45566f4-1
@@ -24264,7 +24266,7 @@ archlinuxcn kicad-git 7.99.0.r1364.g3667e4f6b2-1
 archlinuxcn kicad-git-debug 7.99.0.r1364.g3667e4f6b2-1
 archlinuxcn kicad-library-3d-git 7.0.5.r6.g80170e2e1-1
 archlinuxcn kicad-library-digikey-git r231.d4bd68f-1
-archlinuxcn kicad-library-git 7.0.5.r16.g5d1f00262-1
+archlinuxcn kicad-library-git 7.0.5.r16.g5d1f00262-2
 archlinuxcn kindlegen 2.9-5
 archlinuxcn kitemmodels-git 5.240.0_r654.gd2ccebb-1
 archlinuxcn kitemmodels-git-debug 5.240.0_r654.gd2ccebb-1
@@ -24279,8 +24281,8 @@ archlinuxcn kmonad-git 0.4.1.r345.ga22e0ba-1
 archlinuxcn kmonad-git-debug 0.4.1.r345.ga22e0ba-1
 archlinuxcn kmozillahelper 1:5.0.6-1
 archlinuxcn kodi-standalone-service 1.136-1
-archlinuxcn konsole-git 21.11.90.r1069.g3dd9711f5-1
-archlinuxcn konsole-git-debug 21.11.90.r1069.g3dd9711f5-1
+archlinuxcn konsole-git 21.11.90.r1070.g73d067991-1
+archlinuxcn konsole-git-debug 21.11.90.r1070.g73d067991-1
 archlinuxcn konsole-nord-git r13.1c86e23-1
 archlinuxcn konsole-snazzy-git r3.113050d-2
 archlinuxcn konsole-tomorrow-theme-git r1.6f43a05-2
