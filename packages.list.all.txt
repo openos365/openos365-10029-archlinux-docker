@@ -195,8 +195,8 @@ core nspr 4.35-1 [installed]
 core nss 3.90-1 [installed]
 core openldap 2.6.4-2
 core openresolv 3.13.1-1
-core openssh 9.3p1-1 [installed]
-core openssl 3.0.9-1 [installed]
+core openssh 9.3p1-2 [installed]
+core openssl 3.1.1-1 [installed]
 core openssl-1.1 1.1.1.u-1
 core p11-kit 0.24.1-1 [installed]
 core pacman 6.0.2-7 [installed]
@@ -2242,7 +2242,7 @@ extra freeipmi 1.6.11-1
 extra freeorion 0.5-2
 extra freepats-general-midi 20221026-1
 extra freeplane 1.11.4-1
-extra freeradius 3.2.3-1
+extra freeradius 3.2.3-2
 extra freerdp 2:2.10.0-3
 extra freetds 1.3.18-1
 extra freetype2 2.13.0-1 [installed]
@@ -8423,14 +8423,14 @@ extra posix-software-development 2017-3
 extra posix-user-portability 2017-3
 extra posix-xsi 2017-3
 extra posterazor 1.9.7.pre-3
-extra postfix 3.8.1-1
-extra postfix-cdb 3.8.1-1
-extra postfix-ldap 3.8.1-1
-extra postfix-lmdb 3.8.1-1
-extra postfix-mysql 3.8.1-1
-extra postfix-pcre 3.8.1-1
-extra postfix-pgsql 3.8.1-1
-extra postfix-sqlite 3.8.1-1
+extra postfix 3.8.1-2
+extra postfix-cdb 3.8.1-2
+extra postfix-ldap 3.8.1-2
+extra postfix-lmdb 3.8.1-2
+extra postfix-mysql 3.8.1-2
+extra postfix-pcre 3.8.1-2
+extra postfix-pgsql 3.8.1-2
+extra postfix-sqlite 3.8.1-2
 extra postfixadmin 3.3.13-1
 extra postfwd 2.03-1
 extra postgis 3.3.2-3
@@ -12784,7 +12784,7 @@ extra vapoursynth-plugin-lsmashsource 1:A.5b-2
 extra vapoursynth-plugin-mvtools 23-2
 extra variety 0.8.10-1
 extra varnish 7.3.0-1
-extra vault 1.13.2-1
+extra vault 1.13.3-1
 extra vaultwarden 1.28.1-1
 extra vaultwarden-web 2023.5.0-1
 extra vbam-sdl 2.1.5-2
@@ -13749,7 +13749,7 @@ multilib lib32-ocl-icd 2.3.1-1
 multilib lib32-openal 1.23.1-1
 multilib lib32-opencl-mesa 23.1.2-1
 multilib lib32-opencl-nvidia 530.41.03-1
-multilib lib32-openssl 1:3.0.9-1
+multilib lib32-openssl 1:3.1.1-1
 multilib lib32-openssl-1.1 1.1.1.u-1
 multilib lib32-opus 1.4-1
 multilib lib32-orc 0.4.34-1
@@ -14756,7 +14756,7 @@ chaotic-aur firejail-git 0.9.72.r9418.a7dff2521-1
 chaotic-aur firejail-pacman-hook 1-2.3
 chaotic-aur firetools-git 0.9.72.r3.g81ca775-1.2
 chaotic-aur fish-autopair 1.0.4-1
-chaotic-aur fish-git 2:3.6.1.r590.g516b8da30-1
+chaotic-aur fish-git 2:3.6.1.r591.gcbf9a3bbb-1
 chaotic-aur fish-systemd-git r10.4e922a2-2
 chaotic-aur fityk 1.3.2-1.3
 chaotic-aur flacon 10.0.0-1.2
@@ -17072,7 +17072,7 @@ chaotic-aur siril 1.0.6-1.3
 chaotic-aur siril-git 1.2.0.6004.403405e3e-1
 chaotic-aur sirula-git r67.70b5ce1-1.3
 chaotic-aur skeuos-gtk 20220629-1
-chaotic-aur skippy-xd-git v2023.03.10.88.g219d91f-1
+chaotic-aur skippy-xd-git v2023.03.10.91.g5688bc4-1
 chaotic-aur skypeforlinux-stable-bin 8.98.0.402-1
 chaotic-aur slack-desktop 4.32.122-1
 chaotic-aur slack-electron 4.32.127-1
@@ -17603,7 +17603,7 @@ chaotic-aur wahay-bin 6be34ec-1.3
 chaotic-aur waifu2x-ncnn-vulkan-git 20220728.r0.g93ed2bc-1
 chaotic-aur warp 0.5.4-1
 chaotic-aur warpinator-git 1.6.3.r0.gc2e212f-1
-chaotic-aur wasi-sdk-git r191.3fb0057-1
+chaotic-aur wasi-sdk-git r192.9a271da-1
 chaotic-aur waterfox-g-bin 5.1.7-0
 chaotic-aur waterfox-g3-bin 2.6-1.3
 chaotic-aur waterfox-g4-bin 1.5-0.3
