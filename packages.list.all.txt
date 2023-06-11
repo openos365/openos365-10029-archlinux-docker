@@ -252,8 +252,8 @@ core traceroute 2.1.2-1
 core tzdata 2023c-2 [installed]
 core unixodbc 2.3.11-1
 core usbutils 015-3
-core util-linux 2.39-4 [installed]
-core util-linux-libs 2.39-4 [installed]
+core util-linux 2.39-8 [installed]
+core util-linux-libs 2.39-8 [installed]
 core vi 1:070224-6
 core which 2.21-6 [installed]
 core wireless-regdb 2023.05.03-1
@@ -5954,7 +5954,7 @@ extra liburing 2.4-1
 extra libusb-compat 0.1.8-1
 extra libusbmuxd 2.0.2-3 [installed]
 extra libusbsio 2.1.11-3
-extra libutempter 1.2.1-3
+extra libutempter 1.2.1-3 [installed]
 extra libutf8proc 2.8.0-1
 extra libutp r99.fda9f4b-1
 extra libuv 1.44.2-1 [installed]
@@ -13788,7 +13788,7 @@ multilib lib32-taglib 1.13-2
 multilib lib32-tcl 8.6.13-1
 multilib lib32-tdb 1.4.8-1
 multilib lib32-twolame 0.4.0-2
-multilib lib32-util-linux 2.39-1
+multilib lib32-util-linux 2.39-2
 multilib lib32-v4l-utils 1.24.1-1
 multilib lib32-virtualgl 3.1-1
 multilib lib32-vkd3d 1.7.1-1
@@ -14407,7 +14407,7 @@ chaotic-aur corepad 4.4.0-1.3
 chaotic-aur corepaint 4.4.0-1.3
 chaotic-aur corepdf 4.4.0-1.3
 chaotic-aur coreutils-git 9.3.r51.gb841f111d-1
-chaotic-aur coreutils-hybrid-git 0.0.19.r51.g856825bbb-1
+chaotic-aur coreutils-hybrid-git 0.0.19.r53.ga6e5f5d64-1
 chaotic-aur correios-git r18.0d75f6e-1
 chaotic-aur corrosion-git v0.3.0.r146.gdc1e4e5-1
 chaotic-aur cosmic-epoch-git r71.f6346d0-1
@@ -15151,7 +15151,7 @@ chaotic-aur hunspell-pt-br 3.2.15-1
 chaotic-aur hw-probe 1.6.5-1.1
 chaotic-aur hyperspace-bin 1:1.1.4-1.3
 chaotic-aur hypnotix 3.4-1
-chaotic-aur hyprland-git r2981.10fd75c8-1
+chaotic-aur hyprland-git r2984.6beb79f2-1
 chaotic-aur hyprland-nvidia 0.26.0-1
 chaotic-aur hyprpaper-git r103.64d0ebd-1
 chaotic-aur hyprshot 1.2.1-4
@@ -15193,8 +15193,8 @@ chaotic-aur imhex 1.29.0-2
 chaotic-aur incidenceeditor-git 5.22.40_r996.gdaaf3b3-1
 chaotic-aur include-what-you-use 0.19-1.2
 chaotic-aur informant 0.4.6-1
-chaotic-aur input-leap-git 2.4.0+626+g5e2f37bf-1
-chaotic-aur input-leap-headless-git 2.4.0+626+g5e2f37bf-1
+chaotic-aur input-leap-git 2.4.0+628+g6446288a-1
+chaotic-aur input-leap-headless-git 2.4.0+628+g6446288a-1
 chaotic-aur input-remapper-git 2.0.0.r10.g27d7b3e8-1
 chaotic-aur insomnia 2023.2.2-1
 chaotic-aur inspircd 3.16.0-2
@@ -15594,7 +15594,7 @@ chaotic-aur lib32-lilv 0.24.20-1.2
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangoapp 0.6.9.1-2
-chaotic-aur lib32-mesa-tkg-git 23.2.0_devel.172621.4452216a280-1
+chaotic-aur lib32-mesa-tkg-git 23.2.0_devel.172627.8e7d434b8cd-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15650,7 +15650,7 @@ chaotic-aur libbtbb 2020.12.R1-2.2
 chaotic-aur libccd 2.1-1
 chaotic-aur libcgroup 2.0-1
 chaotic-aur libcheese-git 44.0.1+r3+gab37580f-1.2
-chaotic-aur libclc-git 1:17.0.0_r463978.bfd6e4dd2d7a-1
+chaotic-aur libclc-git 1:17.0.0_r463980.c72dea88b635-1
 chaotic-aur libcmrt 1.0.6-2.3
 chaotic-aur libcotp 2.0.0-1
 chaotic-aur libcprime 4.4.1-1.3
@@ -15950,7 +15950,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.3
 chaotic-aur menulibre 1:2.2.3-2
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.35.1-1
-chaotic-aur mesa-tkg-git 23.2.0_devel.172621.4452216a280-1
+chaotic-aur mesa-tkg-git 23.2.0_devel.172627.8e7d434b8cd-1
 chaotic-aur mesen2-git r2693.607d9219-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -17220,7 +17220,7 @@ chaotic-aur sweet-folders-icons-git r14.b2192ff-1
 chaotic-aur sweet-gtk-theme 3.0-1
 chaotic-aur sweet-gtk-theme-dark 3.0-1
 chaotic-aur sweet-kde-theme-git r25.41a9a69-1
-chaotic-aur sweet-theme-full-git r320.36a6932-1
+chaotic-aur sweet-theme-full-git r321.c4a4c0c-1
 chaotic-aur swiftshader-git r7098.ae667fe96d-1
 chaotic-aur sylpheed 3.8.0-1
 chaotic-aur syncterm 1.1-4
