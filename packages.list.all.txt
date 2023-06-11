@@ -944,6 +944,7 @@ extra cargo-generate 0.18.3-1
 extra cargo-generate-rpm 0.11.0-1
 extra cargo-hakari 0.9.14-1
 extra cargo-llvm-cov 0.5.20-1
+extra cargo-machete 0.5.0-1
 extra cargo-make 0.36.10-1
 extra cargo-msrv 0.15.1-3
 extra cargo-ndk 3.2.0-1
@@ -1770,7 +1771,7 @@ extra erfa 2.0.0-2
 extra erlang 26.0.1-1
 extra erlang-cl 1.2.4-6
 extra erlang-docs 26.0-1
-extra erlang-nox 25.3.2-1
+extra erlang-nox 26.0.1-1
 extra erlang-unixodbc 26.0.1-1
 extra erofs-utils 1.6-1 [installed]
 extra esbuild 0.17.19-1
@@ -14340,7 +14341,7 @@ chaotic-aur chromium-wayland-vaapi 111.0.5563.146-1
 chaotic-aur chromium-widevine 1:4.10.2652.0-1
 chaotic-aur cider 1.5.9-5
 chaotic-aur cider-git 1.6.0.r5258.01bfc35f-1
-chaotic-aur cinelerra-gg-git 2023.04.r4.g77c80663-1
+chaotic-aur cinelerra-gg-git 2023.04.r5.gb215094d-1
 chaotic-aur cinny-desktop 2.2.6-1.2
 chaotic-aur citra-canary-git r9602.b2f7814b1-1
 chaotic-aur citra-git r9596.238a57464-1
@@ -14874,6 +14875,7 @@ chaotic-aur geometrize-bin 1.0.1-1
 chaotic-aur geph4-client 4.8.7-1
 chaotic-aur gerrit 3.7.2-1
 chaotic-aur gestures 0.3.1-1.3
+chaotic-aur geticons-git 1.2.2.r1.g322fba4-1
 chaotic-aur getmail6 6.18.10-1.4
 chaotic-aur giada 0.24.0-1
 chaotic-aur giblib 1.2.4-9
@@ -15076,7 +15078,7 @@ chaotic-aur gruvbox-material-gtk-theme-git r22.558c2e174-1
 chaotic-aur gruvbox-material-icon-theme-git r22.558c2e174-1
 chaotic-aur grype-bin 0.62.3-1
 chaotic-aur gsettings-desktop-schemas-git 44.0.r6.g3e99898-1
-chaotic-aur gst-plugin-pipewire-common-git 0.3.71.r99.gb52be160-1
+chaotic-aur gst-plugin-pipewire-common-git 0.3.71.r101.g802b51a0-1
 chaotic-aur gstreamer0.10 0.10.36-20
 chaotic-aur gstreamer0.10-base 0.10.36-13
 chaotic-aur gstreamer0.10-base-plugins 0.10.36-13
@@ -15534,7 +15536,7 @@ chaotic-aur lib32-aom 3.6.0-1
 chaotic-aur lib32-bluez-libs 5.66-1
 chaotic-aur lib32-bluez-plugins 5.66-1
 chaotic-aur lib32-chromaprint 1.5.1-2
-chaotic-aur lib32-dav1d 1.2.0-1
+chaotic-aur lib32-dav1d 1.2.1-1
 chaotic-aur lib32-faac 1.30-3
 chaotic-aur lib32-faad2 2.10.1-1
 chaotic-aur lib32-faudio-tkg-git 23.06.r0.g58cf606-1
@@ -15558,7 +15560,7 @@ chaotic-aur lib32-libbluray 1.3.4-1
 chaotic-aur lib32-libbs2b 3.1.0-5
 chaotic-aur lib32-libcdio 2.1.0-1
 chaotic-aur lib32-libcue 2.2.1-1
-chaotic-aur lib32-libdav1d 1.0.0-1
+chaotic-aur lib32-libdav1d 1.2.1-1
 chaotic-aur lib32-libdc1394 2.2.6-1.1
 chaotic-aur lib32-libdca 0.0.7-1
 chaotic-aur lib32-libde265 1.0.11-1
@@ -16066,6 +16068,7 @@ chaotic-aur neovim-plug-git 0.11.0.r12.ca0ae0a-1
 chaotic-aur neovim-remote 2.5.1-1.3
 chaotic-aur neovim-symlinks 5-1
 chaotic-aur nerd-fonts-inter 3.19_3.0.2-1
+chaotic-aur nerd-fonts-noto-sans-mono-extended 3.0.2-1
 chaotic-aur nerdfix 0.3.1-1
 chaotic-aur nestopia 1.52.0-1
 chaotic-aur netlistsvg-git 1.0.2.r10.g752549e-1
@@ -16434,15 +16437,15 @@ chaotic-aur pimcommon-git 5.22.49_r1978.gfa99d548-1
 chaotic-aur pingu 0.0.5-1
 chaotic-aur pip-tools 6.13.0-1.3
 chaotic-aur pipe-viewer-git 0.4.7.r0.gfa5db49-1
-chaotic-aur pipewire-common-alsa-git 0.3.71.r99.gb52be160-1
-chaotic-aur pipewire-common-docs-git 0.3.71.r99.gb52be160-1
-chaotic-aur pipewire-common-git 0.3.71.r99.gb52be160-1
-chaotic-aur pipewire-common-jack-git 0.3.71.r99.gb52be160-1
-chaotic-aur pipewire-common-pulse-git 0.3.71.r99.gb52be160-1
-chaotic-aur pipewire-common-roc-git 0.3.71.r99.gb52be160-1
-chaotic-aur pipewire-common-v4l2-git 0.3.71.r99.gb52be160-1
-chaotic-aur pipewire-common-x11-bell-git 0.3.71.r99.gb52be160-1
-chaotic-aur pipewire-common-zeroconf-git 0.3.71.r99.gb52be160-1
+chaotic-aur pipewire-common-alsa-git 0.3.71.r101.g802b51a0-1
+chaotic-aur pipewire-common-docs-git 0.3.71.r101.g802b51a0-1
+chaotic-aur pipewire-common-git 0.3.71.r101.g802b51a0-1
+chaotic-aur pipewire-common-jack-git 0.3.71.r101.g802b51a0-1
+chaotic-aur pipewire-common-pulse-git 0.3.71.r101.g802b51a0-1
+chaotic-aur pipewire-common-roc-git 0.3.71.r101.g802b51a0-1
+chaotic-aur pipewire-common-v4l2-git 0.3.71.r101.g802b51a0-1
+chaotic-aur pipewire-common-x11-bell-git 0.3.71.r101.g802b51a0-1
+chaotic-aur pipewire-common-zeroconf-git 0.3.71.r101.g802b51a0-1
 chaotic-aur pix 3.0.0-1
 chaotic-aur pixelorama 0.10.3-1.1
 chaotic-aur pixelorama-git 2226.de7ef580-1
@@ -16912,7 +16915,7 @@ chaotic-aur qytdl 1.6-1.3
 chaotic-aur r8125-dkms 9.011.01-1
 chaotic-aur r8152-dkms 2.16.3.20221209-1
 chaotic-aur r8168-dkms 8.051.02-2
-chaotic-aur radare2-git 5.8.9.r30480.f40ce7e9e6-1
+chaotic-aur radare2-git 5.8.9.r30486.9c8d602b01-1
 chaotic-aur radeon-profile-daemon-git 20190603.r0.g7923bd6-1
 chaotic-aur radeon-profile-git 20200824.r26.g0d632ba-1.4
 chaotic-aur raider-file-shredder 1.3.1-1.3
@@ -16931,7 +16934,7 @@ chaotic-aur realtek-firmware 20191022-1
 chaotic-aur realvnc-vnc-server 7.5.1-1
 chaotic-aur realvnc-vnc-viewer 7.5.1-1
 chaotic-aur reaver-wps-fork-t6x-git 1.6.6.r20.4091bf2-1.3
-chaotic-aur rebar3 3.20.0-2
+chaotic-aur rebar3 3.22.0-1
 chaotic-aur redshift-minimal 1.12-4.2
 chaotic-aur refind-btrfs 0.6.0-1
 chaotic-aur remarkable 1.87-7.2
@@ -17596,7 +17599,7 @@ chaotic-aur vkbasalt-cli 3.1.1-1.5
 chaotic-aur vkd3d-proton-mingw-git 2.9.r21.gf52e6482-1
 chaotic-aur vkd3d-proton-tkg-git 1.1.r3445.gf52e6482-1
 chaotic-aur vkd3d-tkg-git 1.6.r86.gf9e7cb63-1
-chaotic-aur vlang-git 0.3.4.r184.g275b8a1294-1
+chaotic-aur vlang-git 0.3.4.r186.gfc6726b2b1-1
 chaotic-aur vlc-git 4.0.0.r23113.gf7bb59d9f5-1.2
 chaotic-aur vmaf-git 2.3.1.r128.g5ee0051c-1
 chaotic-aur vmware-keymaps 1.0-3.1
