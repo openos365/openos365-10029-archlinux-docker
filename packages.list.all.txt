@@ -215,13 +215,13 @@ core ppp 2.4.9-3
 core pptpclient 1.10.0-3
 core procps-ng 3.3.17-1 [installed]
 core psmisc 23.6-1 [installed]
-core python 3.11.3-1 [installed]
+core python 3.11.3-2 [installed]
 core python-audit 3.1.1-1
 core python-brotli 1.0.9-12
 core python-capng 0.8.3-2
 core python-gpgme 1.20.0-3
 core python-libseccomp 2.5.4-2
-core python-tests 3.11.3-1
+core python-tests 3.11.3-2
 core qgpgme-qt5 1.20.0-3
 core qgpgme-qt6 1.20.0-3
 core readline 8.2.001-2 [installed]
@@ -1711,6 +1711,7 @@ extra electron17 17.4.11-6
 extra electron19 19.1.9-5
 extra electron20 20.3.12-2
 extra electron21 21.4.4-1
+extra electron23 23.3.5-1
 extra electron24 24.4.1-1
 extra electron25 25.0.1-1
 extra electrum 4.3.2-2
@@ -14974,7 +14975,7 @@ chaotic-aur gotop 4.2.0-1
 chaotic-aur goverlay-git 0.9.1.r2.gbe1867a-2
 chaotic-aur goxlr-utility 0.11.1-1
 chaotic-aur gpredict 2.2.1-2.3
-chaotic-aur gpt4all-chat-git r970.ae46234-1
+chaotic-aur gpt4all-chat-git r972.60d95cd-1
 chaotic-aur gr-foo-git r169.cc8bfc6-1.3
 chaotic-aur gr-ieee802-11-git r356.56d8c5c-1.3
 chaotic-aur gr-limesdr-git r85.57fc840-1.2
@@ -15837,8 +15838,8 @@ chaotic-aur linux-tkg-tt 6.3.6-273
 chaotic-aur linux-tkg-tt-generic_v3 6.3.7-273
 chaotic-aur linux-tkg-tt-generic_v3-headers 6.3.7-273
 chaotic-aur linux-tkg-tt-headers 6.3.6-273
-chaotic-aur linux-tt 6.3.6-1
-chaotic-aur linux-tt-headers 6.3.6-1
+chaotic-aur linux-tt 6.3.7-1
+chaotic-aur linux-tt-headers 6.3.7-1
 chaotic-aur linux-vfio 6.2.13.arch1-1
 chaotic-aur linux-vfio-docs 6.2.13.arch1-1
 chaotic-aur linux-vfio-headers 6.2.13.arch1-1
@@ -23404,7 +23405,7 @@ archlinuxcn emacs-go-mode-git 1.6.0.r12.g166dfb1e-1
 archlinuxcn emacs-julia-mode-git 1:0.383.gb35e668-1
 archlinuxcn emacs-llvm-mode-git 463993.7282a37ff194-1
 archlinuxcn emacs-markdown-mode-git 2.5.r84.gf3ee31f-1
-archlinuxcn emacs-native-comp-git 30.0.50.166573-1
+archlinuxcn emacs-native-comp-git 30.0.50.166574-1
 archlinuxcn emacs-native-comp-pgtk-git 30.0.50.166573-1
 archlinuxcn emacs-org-mode-git 1:9.6.1.r269.gaa2249787-1
 archlinuxcn emacs-pkgbuild-mode-git 0.14.1.r11.g04260c5-1
@@ -24277,8 +24278,8 @@ archlinuxcn jupyter-nbextension-rise 5.7.1-5
 archlinuxcn k6 0.44.1-1
 archlinuxcn k6-debug 0.44.1-1
 archlinuxcn kaidan-git r1455.ad8c6a4-1
-archlinuxcn kate-git 23.07.70_r20733.g9b6f48405-1
-archlinuxcn kate-git-debug 23.07.70_r20733.g9b6f48405-1
+archlinuxcn kate-git 23.07.70_r20734.g4687c648c-1
+archlinuxcn kate-git-debug 23.07.70_r20734.g4687c648c-1
 archlinuxcn kazam 1.4.5-12
 archlinuxcn kcm-colorful-git 1.0.5.r0.g411e8c9-1
 archlinuxcn kdeconnect-git 21.07.80.r575.a6639a7f-1
@@ -25631,8 +25632,8 @@ archlinuxcn supergfxctl-git-debug 5.1.1.r4.g63e9582-1
 archlinuxcn supertuxkart-git 23211+18581-1
 archlinuxcn supertuxkart-git-debug 23211+18581-1
 archlinuxcn suplemon 0.2.0-6
-archlinuxcn surface-control 0.4.4-1
-archlinuxcn surface-control-debug 0.4.4-1
+archlinuxcn surface-control 0.4.5-1
+archlinuxcn surface-control-debug 0.4.5-1
 archlinuxcn sway-hidpi-git r7146.59c27c94d-1
 archlinuxcn sway-hidpi-git-debug r7146.59c27c94d-1
 archlinuxcn swaybg-git r128.a67361e-1
@@ -25874,10 +25875,10 @@ archlinuxcn waifu2x-converter-cpp-cuda-git v5.3.4.2.g57520b2-3
 archlinuxcn waifu2x-converter-cpp-git r1092.1611736270.57520b2-3
 archlinuxcn wait-online-git 0.r18.21abb36-1
 archlinuxcn wakeonlan 0.42-1
-archlinuxcn waybar-git r2567.9f38631c-1
-archlinuxcn waybar-git-debug r2567.9f38631c-1
-archlinuxcn waybar-hyprland-git 0.9.18.r20.g9f38631c-1
-archlinuxcn waybar-hyprland-git-debug 0.9.18.r20.g9f38631c-1
+archlinuxcn waybar-git r2570.dff0583c-1
+archlinuxcn waybar-git-debug r2570.dff0583c-1
+archlinuxcn waybar-hyprland-git 0.9.18.r23.gdff0583c-1
+archlinuxcn waybar-hyprland-git-debug 0.9.18.r23.gdff0583c-1
 archlinuxcn waybar-hyprland-no-systemd 0.9.17-1
 archlinuxcn waybar-hyprland-no-systemd-debug 0.9.17-1
 archlinuxcn waybar-lily 0.9.18-1
@@ -26012,7 +26013,7 @@ arch4edu alberta 3.0.3-3
 arch4edu alpm_octopi_utils 1.0.2-3
 arch4edu anaconda 2023.03-2
 arch4edu android-emulator 32.1.13-1
-arch4edu android-ndk r25.c-1
+arch4edu android-ndk r25.c-2
 arch4edu android-platform 33_r02-1
 arch4edu android-sdk 26.1.1-2
 arch4edu android-sdk-build-tools r34.0.0-1
@@ -26503,7 +26504,7 @@ arch4edu r-auc 0.3.2-5
 arch4edu r-backports 1.4.1-1
 arch4edu r-bain 0.2.8-4
 arch4edu r-bas 1.6.4-1
-arch4edu r-base64enc 0.1.3-1
+arch4edu r-base64enc 0.1.3-10
 arch4edu r-bayesfactor 0.9.12.4.4-4
 arch4edu r-bayesplay 0.9.3-1
 arch4edu r-bayesplot 1.10.0-1
@@ -26992,7 +26993,7 @@ arch4edu ros-noetic-diagnostics 1.11.0-2
 arch4edu ros-noetic-diff-drive-controller 0.20.0-5
 arch4edu ros-noetic-dynamic-reconfigure 1.7.3-5
 arch4edu ros-noetic-eigen-conversions 1.13.2-2
-arch4edu ros-noetic-executive-smach 2.5.0-2
+arch4edu ros-noetic-executive-smach 2.5.1-1
 arch4edu ros-noetic-filters 1.9.2-2
 arch4edu ros-noetic-forward-command-controller 0.20.0-2
 arch4edu ros-noetic-gazebo-dev 2.9.2-2
@@ -27042,7 +27043,7 @@ arch4edu ros-noetic-mavros 1.16.0-1
 arch4edu ros-noetic-mavros-extras 1.16.0-1
 arch4edu ros-noetic-mavros-msgs 1.16.0-1
 arch4edu ros-noetic-media-export 0.3.0-2
-arch4edu ros-noetic-message-filters 1.15.14-5
+arch4edu ros-noetic-message-filters 1.16.0-1
 arch4edu ros-noetic-message-generation 0.4.1-3
 arch4edu ros-noetic-message-runtime 0.4.13-2
 arch4edu ros-noetic-mk 1.15.8-2
@@ -27076,16 +27077,16 @@ arch4edu ros-noetic-ros-comm 1.16.0-1
 arch4edu ros-noetic-ros-core 1.5.0-2
 arch4edu ros-noetic-ros-environment 1.3.2-2
 arch4edu ros-noetic-ros-tutorials 1.3.1-2
-arch4edu ros-noetic-rosbag 1.15.14-5
+arch4edu ros-noetic-rosbag 1.16.0-1
 arch4edu ros-noetic-rosbag-migration-rule 1.0.1-2
-arch4edu ros-noetic-rosbag-storage 1.15.14-4
+arch4edu ros-noetic-rosbag-storage 1.16.0-1
 arch4edu ros-noetic-rosbash 1.15.8-2
 arch4edu ros-noetic-rosboost-cfg 1.15.8-2
 arch4edu ros-noetic-rosbuild 1.15.8-2
 arch4edu ros-noetic-rosclean 1.15.8-3
 arch4edu ros-noetic-rosconsole 1.14.3-11
 arch4edu ros-noetic-rosconsole-bridge 0.5.4-3
-arch4edu ros-noetic-roscpp 1.15.14-6
+arch4edu ros-noetic-roscpp 1.16.0-1
 arch4edu ros-noetic-roscpp-core 0.7.2-2
 arch4edu ros-noetic-roscpp-serialization 0.7.2-2
 arch4edu ros-noetic-roscpp-traits 0.7.2-2
@@ -27094,26 +27095,26 @@ arch4edu ros-noetic-roscreate 1.15.8-3
 arch4edu ros-noetic-rosgraph 1.16.0-2
 arch4edu ros-noetic-rosgraph-msgs 1.11.3-3
 arch4edu ros-noetic-roslang 1.15.8-2
-arch4edu ros-noetic-roslaunch 1.15.14-3
+arch4edu ros-noetic-roslaunch 1.16.0-1
 arch4edu ros-noetic-roslib 1.15.8-5
 arch4edu ros-noetic-roslint 0.12.0-2
 arch4edu ros-noetic-roslisp 1.9.24-2
-arch4edu ros-noetic-roslz4 1.15.14-2
+arch4edu ros-noetic-roslz4 1.16.0-1
 arch4edu ros-noetic-rosmake 1.15.8-3
-arch4edu ros-noetic-rosmaster 1.15.14-3
-arch4edu ros-noetic-rosmsg 1.15.14-3
-arch4edu ros-noetic-rosnode 1.15.14-3
-arch4edu ros-noetic-rosout 1.15.14-2
+arch4edu ros-noetic-rosmaster 1.16.0-1
+arch4edu ros-noetic-rosmsg 1.16.0-1
+arch4edu ros-noetic-rosnode 1.16.0-1
+arch4edu ros-noetic-rosout 1.16.0-1
 arch4edu ros-noetic-rospack 2.6.2-5
-arch4edu ros-noetic-rosparam 1.15.14-3
-arch4edu ros-noetic-rospy 1.15.14-3
+arch4edu ros-noetic-rosparam 1.16.0-1
+arch4edu ros-noetic-rospy 1.16.0-1
 arch4edu ros-noetic-rospy-tutorials 0.10.2-3
-arch4edu ros-noetic-rosservice 1.15.14-3
-arch4edu ros-noetic-rostest 1.15.14-5
+arch4edu ros-noetic-rosservice 1.16.0-1
+arch4edu ros-noetic-rostest 1.16.0-1
 arch4edu ros-noetic-rostime 0.7.2-4
-arch4edu ros-noetic-rostopic 1.15.14-3
+arch4edu ros-noetic-rostopic 1.16.0-1
 arch4edu ros-noetic-rosunit 1.15.8-3
-arch4edu ros-noetic-roswtf 1.15.14-3
+arch4edu ros-noetic-roswtf 1.16.0-1
 arch4edu ros-noetic-rqt-action 0.4.9-4
 arch4edu ros-noetic-rqt-bag 0.5.1-3
 arch4edu ros-noetic-rqt-bag-plugins 0.5.1-3
@@ -27124,7 +27125,7 @@ arch4edu ros-noetic-rqt-graph 0.4.14-3
 arch4edu ros-noetic-rqt-gui 0.5.3-3
 arch4edu ros-noetic-rqt-gui-cpp 0.5.3-4
 arch4edu ros-noetic-rqt-gui-py 0.5.3-3
-arch4edu ros-noetic-rqt-image-view 0.4.16-7
+arch4edu ros-noetic-rqt-image-view 0.4.17-1
 arch4edu ros-noetic-rqt-launch 0.4.9-3
 arch4edu ros-noetic-rqt-logger-level 0.4.11-3
 arch4edu ros-noetic-rqt-moveit 0.5.10-3
@@ -27149,16 +27150,16 @@ arch4edu ros-noetic-rqt-tf-tree 0.6.3-3
 arch4edu ros-noetic-rqt-top 0.4.10-3
 arch4edu ros-noetic-rqt-topic 0.4.13-3
 arch4edu ros-noetic-rqt-web 0.4.10-3
-arch4edu ros-noetic-rviz 1.14.19-4
+arch4edu ros-noetic-rviz 1.14.20-1
 arch4edu ros-noetic-rviz-plugin-tutorials 0.11.0-4
 arch4edu ros-noetic-rviz-python-tutorial 0.11.0-2
 arch4edu ros-noetic-self-test 1.11.0-4
 arch4edu ros-noetic-sensor-msgs 1.13.1-3
 arch4edu ros-noetic-shape-msgs 1.13.1-3
 arch4edu ros-noetic-simulators 1.5.0-2
-arch4edu ros-noetic-smach 2.5.0-2
-arch4edu ros-noetic-smach-msgs 2.5.0-3
-arch4edu ros-noetic-smach-ros 2.5.0-3
+arch4edu ros-noetic-smach 2.5.1-1
+arch4edu ros-noetic-smach-msgs 2.5.1-1
+arch4edu ros-noetic-smach-ros 2.5.1-1
 arch4edu ros-noetic-smclib 1.8.6-3
 arch4edu ros-noetic-stage 4.3.0-5
 arch4edu ros-noetic-stage-ros 1.8.0-7
@@ -27176,7 +27177,7 @@ arch4edu ros-noetic-tf2-msgs 0.7.5-3
 arch4edu ros-noetic-tf2-py 0.7.5-3
 arch4edu ros-noetic-tf2-ros 0.7.5-5
 arch4edu ros-noetic-theora-image-transport 1.14.0-3
-arch4edu ros-noetic-topic-tools 1.15.14-3
+arch4edu ros-noetic-topic-tools 1.16.0-1
 arch4edu ros-noetic-trajectory-msgs 1.13.1-3
 arch4edu ros-noetic-transmission-interface 0.19.5-4
 arch4edu ros-noetic-turtle-actionlib 0.2.0-5
@@ -27195,8 +27196,8 @@ arch4edu ros-noetic-visualization-msgs 1.13.1-3
 arch4edu ros-noetic-visualization-tutorials 0.11.0-2
 arch4edu ros-noetic-viz 1.5.0-2
 arch4edu ros-noetic-webkit-dependency 1.1.2-2
-arch4edu ros-noetic-xacro 1.14.13-3
-arch4edu ros-noetic-xmlrpcpp 1.15.14-2
+arch4edu ros-noetic-xacro 1.14.16-1
+arch4edu ros-noetic-xmlrpcpp 1.16.0-1
 arch4edu ros2-arch-deps 0.12-1
 arch4edu ros2-humble 2023.03.08-1
 arch4edu ros2-pyqt5-sip-compat 0.2-1
