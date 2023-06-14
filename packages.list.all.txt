@@ -2513,7 +2513,7 @@ extra girara 0.4.0-1
 extra gist 6.0.0-1
 extra git 2.41.0-1 [installed]
 extra git-absorb 0.6.10-2
-extra git-annex 10.20230407-4
+extra git-annex 10.20230407-5
 extra git-branchless 0.7.1-3
 extra git-bug 0.8.0-1
 extra git-cliff 1.2.0-1
@@ -3124,8 +3124,8 @@ extra haskell-cabal-doctest 1.0.9-1
 extra haskell-cabal-install-parsers 0.4.2-221
 extra haskell-cairo 0.13.8.2-31
 extra haskell-call-stack 0.4.0-143
-extra haskell-casa-client 0.0.1-590
-extra haskell-casa-types 0.0.2-362
+extra haskell-casa-client 0.0.1-591
+extra haskell-casa-types 0.0.2-363
 extra haskell-case-insensitive 1.2.1.0-182
 extra haskell-cassava 0.5.3.0-56
 extra haskell-cassava-megaparsec 2.0.4-106
@@ -3292,7 +3292,7 @@ extra haskell-enummapset 0.7.1.0-36
 extra haskell-equivalence 0.4.1-26
 extra haskell-erf 2.0.0.0-24
 extra haskell-errors 2.3.0-65
-extra haskell-esqueleto 3.5.7.1-42
+extra haskell-esqueleto 3.5.7.1-43
 extra haskell-exact-pi 0.5.0.2-40
 extra haskell-executable-path 0.0.3.1-20
 extra haskell-expiring-cache-map 0.0.6.1-282
@@ -3664,7 +3664,7 @@ extra haskell-monad-control 1.0.3.1-81
 extra haskell-monad-dijkstra 0.1.1.3-321
 extra haskell-monad-gen 0.3.0.1-6
 extra haskell-monad-journal 0.8.1-248
-extra haskell-monad-logger 0.3.39-35
+extra haskell-monad-logger 0.3.40-1
 extra haskell-monad-loops 0.4.3-25
 extra haskell-monad-memo 0.5.4-59
 extra haskell-monad-par 0.3.5-199
@@ -3742,7 +3742,7 @@ extra haskell-pandoc-server 0.1-70
 extra haskell-pandoc-types 1.23-23
 extra haskell-pango 0.13.8.2-50
 extra haskell-panic 0.4.0.1-24
-extra haskell-pantry 0.5.7-115
+extra haskell-pantry 0.5.7-116
 extra haskell-parallel 3.2.2.0-17
 extra haskell-parameterized-utils 2.1.6.0-33
 extra haskell-parsec-numbers 0.1.0-18
@@ -3757,12 +3757,12 @@ extra haskell-pcg-random 0.1.4.0-2
 extra haskell-pcre-heavy 1.0.0.3-16
 extra haskell-pcre-light 0.4.1.0-244
 extra haskell-pem 0.2.4-263
-extra haskell-persistent 2.13.3.5-66
-extra haskell-persistent-mysql 2.13.0.4-42
-extra haskell-persistent-postgresql 2.13.4.0-46
-extra haskell-persistent-qq 2.12.0.2-153
-extra haskell-persistent-sqlite 2.13.1.0-72
-extra haskell-persistent-test 2.13.1.2-95
+extra haskell-persistent 2.13.3.5-67
+extra haskell-persistent-mysql 2.13.0.4-43
+extra haskell-persistent-postgresql 2.13.4.0-47
+extra haskell-persistent-qq 2.12.0.2-154
+extra haskell-persistent-sqlite 2.13.1.0-73
+extra haskell-persistent-test 2.13.1.2-96
 extra haskell-pgp-wordlist 0.1.0.3-213
 extra haskell-pid1 0.1.3.1-1
 extra haskell-pipes 4.3.16-97
@@ -3849,7 +3849,7 @@ extra haskell-retrie 1.1.0.0-133
 extra haskell-retry 0.9.3.1-5
 extra haskell-rfc5051 0.2-8
 extra haskell-rio 0.1.22.0-74
-extra haskell-rio-orphans 0.1.2.0-245
+extra haskell-rio-orphans 0.1.2.0-246
 extra haskell-rio-prettyprint 0.1.4.0-35
 extra haskell-roman-numerals 0.5.1.5-30
 extra haskell-rope-utf16-splay 0.3.2.0-116
@@ -4150,13 +4150,13 @@ extra haskell-xml-types 0.3.8-8
 extra haskell-xmlgen 0.6.2.2-57
 extra haskell-xss-sanitize 0.3.7.2-2
 extra haskell-yaml 0.11.11.0-18
-extra haskell-yesod 1.6.2.1-104
-extra haskell-yesod-auth 1.6.11.1-30
-extra haskell-yesod-core 1.6.24.2-37
-extra haskell-yesod-form 1.7.4-47
-extra haskell-yesod-persistent 1.6.0.8-173
-extra haskell-yesod-static 1.6.1.0-615
-extra haskell-yesod-test 1.6.15-96
+extra haskell-yesod 1.6.2.1-105
+extra haskell-yesod-auth 1.6.11.1-31
+extra haskell-yesod-core 1.6.24.2-38
+extra haskell-yesod-form 1.7.4-48
+extra haskell-yesod-persistent 1.6.0.8-174
+extra haskell-yesod-static 1.6.1.0-616
+extra haskell-yesod-test 1.6.15-97
 extra haskell-zenc 0.1.2-131
 extra haskell-zeromq4-haskell 0.8.0-25
 extra haskell-zinza 0.2-139
@@ -4228,7 +4228,7 @@ extra hivex 1.3.23-1
 extra hledger 1.29-10
 extra hledger-iadd 1.3.18-8
 extra hledger-ui 1.29-10
-extra hledger-web 1.29-10
+extra hledger-web 1.29-11
 extra hlint 3.3.6-103
 extra hm 17.0-1
 extra hoel 1.4.27-1
@@ -11900,7 +11900,7 @@ extra sslsplit 0.5.5-2
 extra ssr 0.6.0-1
 extra sssd 2.9.0-2
 extra sstp-client 1:1.0.18-1
-extra stack 2.7.5-300
+extra stack 2.7.5-301
 extra stalonetray 0.8.5-1
 extra stardict 3.0.6.2-1
 extra starship 1.15.0-1
@@ -12088,7 +12088,7 @@ extra tailwindcss-language-server 0.0.13-1
 extra tali 40.9-1
 extra talkfilters 2.3.8-7
 extra talloc 2.4.0-3
-extra tamarin-prover 1.6.1-328
+extra tamarin-prover 1.6.1-329
 extra tang 11-2
 extra tanka 0.24.0-1
 extra tap-plugins 1.0.1-2
@@ -15393,9 +15393,9 @@ chaotic-aur kirigami2-git 5.105.0_r3645.g9bfdd04a-1
 chaotic-aur kitemmodels-git 5.105.0_r643.gbf82e31-1
 chaotic-aur kitemviews-git 5.107.0_r436.g88265ef-1
 chaotic-aur kitinerary-git 5.22.42_r2695.g49b686ba-1
-chaotic-aur kitty-git 1:r12189.geefb6d76f-1
-chaotic-aur kitty-shell-integration-git 1:r12189.geefb6d76f-1
-chaotic-aur kitty-terminfo-git 1:r12189.geefb6d76f-1
+chaotic-aur kitty-git 1:r12191.ga5a7db6ce-1
+chaotic-aur kitty-shell-integration-git 1:r12191.ga5a7db6ce-1
+chaotic-aur kitty-terminfo-git 1:r12191.ga5a7db6ce-1
 chaotic-aur kjobwidgets-git 5.104.0_r465.g5bb73a7-1
 chaotic-aur kjs-git 5.102.0_r388.g6b34482-1
 chaotic-aur kjsembed-git 5.102.0_r361.g457ba7f-1
@@ -16647,7 +16647,7 @@ chaotic-aur prospect-mail-bin 0.4.0-3
 chaotic-aur proton-caller 3.1.2-1
 chaotic-aur proton-ge-custom 2:GE.Proton8.4-2
 chaotic-aur protonmail-bridge-bin 3.2.0-1
-chaotic-aur protonplus 0.4.3-1
+chaotic-aur protonplus 0.4.4-1
 chaotic-aur protontricks-git 1.10.3.r1.gf54e1fc-1
 chaotic-aur protonup-git 0.1.5.r0.g54bcad9-1.3
 chaotic-aur protonup-qt 2.8.0-1.3
@@ -23146,8 +23146,8 @@ archlinuxcn astrometry.net-data-5007 0.74-1
 archlinuxcn astrometry.net-debug 0.94-2
 archlinuxcn astrometry.net-znver2 0.94-2
 archlinuxcn astrometry.net-znver2-debug 0.94-2
-archlinuxcn asusctl-git 1:4.6.2.r8.g8508110-1
-archlinuxcn asusctl-git-debug 1:4.6.2.r8.g8508110-1
+archlinuxcn asusctl-git 1:4.6.2.r12.ga14a37d-1
+archlinuxcn asusctl-git-debug 1:4.6.2.r12.ga14a37d-1
 archlinuxcn auctex-git 1:13.1.r322.g21893998-1
 archlinuxcn audacity-git 3.3.1.r110.g49cca5668-1
 archlinuxcn audacity-git-debug 3.3.1.r110.g49cca5668-1
@@ -24321,8 +24321,8 @@ archlinuxcn kmonad-git 0.4.1.r345.ga22e0ba-1
 archlinuxcn kmonad-git-debug 0.4.1.r345.ga22e0ba-1
 archlinuxcn kmozillahelper 1:5.0.6-1
 archlinuxcn kodi-standalone-service 1.136-1
-archlinuxcn konsole-git 21.11.90.r1076.gc0e36fcb3-1
-archlinuxcn konsole-git-debug 21.11.90.r1076.gc0e36fcb3-1
+archlinuxcn konsole-git 21.11.90.r1077.g0f6ca24f6-1
+archlinuxcn konsole-git-debug 21.11.90.r1077.g0f6ca24f6-1
 archlinuxcn konsole-nord-git r13.1c86e23-1
 archlinuxcn konsole-snazzy-git r3.113050d-2
 archlinuxcn konsole-tomorrow-theme-git r1.6f43a05-2
@@ -25476,7 +25476,7 @@ archlinuxcn rofi-theme-menu-720p 1.6.1-4
 archlinuxcn rofi-theme-powermenu-1080p 1.6.1-4
 archlinuxcn rofi-theme-powermenu-720p 1.6.1-4
 archlinuxcn rofi-theme-used 1.6.1-4
-archlinuxcn rog-control-center-git 1:4.6.2.r8.g8508110-1
+archlinuxcn rog-control-center-git 1:4.6.2.r12.ga14a37d-1
 archlinuxcn rpcs3-git 0.0.28.15183.49c6c2c529-1
 archlinuxcn rpcs3-git-debug 0.0.28.15183.49c6c2c529-1
 archlinuxcn rr-git 5.6.0.r200.g8d357fff-1
