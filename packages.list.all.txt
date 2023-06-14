@@ -89,7 +89,7 @@ core iw 5.19-2
 core jansson 2.14-2 [installed]
 core jfsutils 1.1.15-8
 core json-c 0.16-1 [installed]
-core kbd 2.5.1-2 [installed]
+core kbd 2.6.0-1 [installed]
 core keyutils 1.6.3-2 [installed]
 core kmod 30-3 [installed]
 core krb5 1.20.1-1 [installed]
@@ -12765,7 +12765,7 @@ extra uwsgi-plugin-zabbix 2.0.21-7
 extra uwsgitop 0.11-6
 extra uwufetch 2.1-1
 extra v2ray 5.7.0-1
-extra v2ray-domain-list-community 20230613031206-1
+extra v2ray-domain-list-community 20230614021741-1
 extra v2ray-geoip 202306080049-1
 extra v4l-utils 1.24.1-2 [installed]
 extra v4l2loopback-dkms 0.12.7-2
@@ -23246,7 +23246,7 @@ archlinuxcn chinesechess 6.1-2
 archlinuxcn chinesechess-debug 6.1-2
 archlinuxcn chirp-next 20230611-1
 archlinuxcn chnroutes-alike-git 0.133.e886644-1
-archlinuxcn chnroutes2-git 0.33531.e7fc8887-1
+archlinuxcn chnroutes2-git 0.33538.e4e92c77-1
 archlinuxcn chrome-remote-desktop 115.0.5790.10-1
 archlinuxcn chrome-remote-desktop-debug 115.0.5790.10-1
 archlinuxcn chromedriver 114.0.5735.90-1
@@ -24598,7 +24598,8 @@ archlinuxcn linux-clear-x64-v4-headers 6.3.5-13
 archlinuxcn linux-dctxmei 5.15.76-1
 archlinuxcn linux-dctxmei-docs 5.15.76-1
 archlinuxcn linux-dctxmei-headers 5.15.76-1
-archlinuxcn linux-git v6.4.rc6.r35.15adb51c04cc-1
+archlinuxcn linux-git v6.4.rc6.r37.b6dad5178cea-1
+archlinuxcn linux-git-headers v6.4.rc6.r37.b6dad5178cea-1
 archlinuxcn linux-jwrdegoede 6.4.0.202306140514.f7e443f579fc-1
 archlinuxcn linux-jwrdegoede-docs 6.4.0.202306140514.f7e443f579fc-1
 archlinuxcn linux-jwrdegoede-headers 6.4.0.202306140514.f7e443f579fc-1
@@ -24638,8 +24639,8 @@ archlinuxcn llvm-git-debug 17.0.0_r453901.b9337b108ec8f-1
 archlinuxcn llvm-julia 15.0.7-4
 archlinuxcn llvm-libs-git 17.0.0_r453901.b9337b108ec8f-1
 archlinuxcn llvm-libs-julia 15.0.7-4
-archlinuxcn lnav-git 0.11.1.v107.g91730b7c-1
-archlinuxcn lnav-git-debug 0.11.1.v107.g91730b7c-1
+archlinuxcn lnav-git 0.11.1.v108.g7ccb4676-1
+archlinuxcn lnav-git-debug 0.11.1.v108.g7ccb4676-1
 archlinuxcn log2ram 1.6.1-2
 archlinuxcn logcat-color3 0.10.0-1
 archlinuxcn logisim 2.7.1-8
@@ -25433,8 +25434,8 @@ archlinuxcn rait 4.3.1-1
 archlinuxcn rambox-bin 0.8.0-2
 archlinuxcn rar 6.22.0-1
 archlinuxcn rar-debug 6.22.0-1
-archlinuxcn rawtherapee-git 1:5.9.r170.gc07a6e890-1
-archlinuxcn rawtherapee-git-debug 1:5.9.r170.gc07a6e890-1
+archlinuxcn rawtherapee-git 1:5.9.r185.gb0714e7c0-1
+archlinuxcn rawtherapee-git-debug 1:5.9.r185.gb0714e7c0-1
 archlinuxcn rclone-browser 1.8.0-1
 archlinuxcn redmibook-hwdb-git 0.0.r2.gc050119-1
 archlinuxcn reicast-git 20.04.r50.g95b673698-1
@@ -25447,8 +25448,8 @@ archlinuxcn restbase-git v1.1.4.r177.ga1edf249-1
 archlinuxcn resvg 0.31.1-1
 archlinuxcn resvg-debug 0.31.1-1
 archlinuxcn retext-git 8.0.0.r26.gbf4b850-1
-archlinuxcn retroarch-git 1.15.0.r373.c8b6f7fcd5-1
-archlinuxcn retroarch-git-debug 1.15.0.r373.c8b6f7fcd5-1
+archlinuxcn retroarch-git 1.15.0.r379.c4f43ff28b-1
+archlinuxcn retroarch-git-debug 1.15.0.r379.c4f43ff28b-1
 archlinuxcn revda-git 5.2.0.r0.g0ea65e3-1
 archlinuxcn revda-git-debug 5.2.0.r0.g0ea65e3-1
 archlinuxcn rime-cloverpinyin 1.1.4-2
@@ -25787,8 +25788,8 @@ archlinuxcn usql 0.14.8-1
 archlinuxcn usql-debug 0.14.8-1
 archlinuxcn utools 3.3.0-1
 archlinuxcn uvesafb-dkms 1.0.4-1
-archlinuxcn uxplay-git r979.4b90ab2-1
-archlinuxcn uxplay-git-debug r979.4b90ab2-1
+archlinuxcn uxplay-git r980.0ba7034-1
+archlinuxcn uxplay-git-debug r980.0ba7034-1
 archlinuxcn v2ray-china-list 20230613003032-1
 archlinuxcn v2ray-desktop 2.3.1-1
 archlinuxcn v2ray-git 5.7.0.r0.g2ac0188d6-1
@@ -28515,9 +28516,9 @@ arcolinux_repo_xlarge freetube-bin 0.18.0-1
 arcolinux_repo_xlarge geekbench 6.0.3-1
 arcolinux_repo_xlarge gitfiend 0.41.4-1
 arcolinux_repo_xlarge github-desktop-bin 3.2.1_linux1-1
-arcolinux_repo_xlarge gitkraken 9.5.0-1
+arcolinux_repo_xlarge gitkraken 9.5.1-1
 arcolinux_repo_xlarge google-chat-linux-bin 5.24.19-2
-arcolinux_repo_xlarge google-chrome 114.0.5735.106-1
+arcolinux_repo_xlarge google-chrome 114.0.5735.133-1
 arcolinux_repo_xlarge google-earth-pro 7.3.6.9345-1
 arcolinux_repo_xlarge heroic-games-launcher-bin 2.8.0-1
 arcolinux_repo_xlarge icecat 102.7.0-1
@@ -28554,18 +28555,18 @@ arcolinux_repo_xlarge protonup-qt-bin 2.8.0-1
 arcolinux_repo_xlarge pulsar-bin 1.105.0-1
 arcolinux_repo_xlarge signal-desktop-beta-bin 6.21.0beta.2-1
 arcolinux_repo_xlarge skypeforlinux-stable-bin 8.98.0.402-1
-arcolinux_repo_xlarge slack-desktop 4.32.122-1
+arcolinux_repo_xlarge slack-desktop 4.32.127-1
 arcolinux_repo_xlarge spotify 1:1.2.9.743-1
 arcolinux_repo_xlarge tabby-bin 1.0.188-1
 arcolinux_repo_xlarge teams 1.5.00.23861-1
 arcolinux_repo_xlarge tela-circle-icon-theme-git 2022.03.07.r13.g5dacf92b-1
-arcolinux_repo_xlarge telegram-desktop-bin 4.8.1-1
+arcolinux_repo_xlarge telegram-desktop-bin 4.8.3-1
 arcolinux_repo_xlarge tor-browser 12.0.7-1
 arcolinux_repo_xlarge ttf-iosevka-nerd 3.0.1-1
 arcolinux_repo_xlarge viber 18.2.0.2-3
-arcolinux_repo_xlarge visual-studio-code-bin 1.79.0-1
+arcolinux_repo_xlarge visual-studio-code-bin 1.79.1-1
 arcolinux_repo_xlarge vmware-workstation 17.0.2-1
-arcolinux_repo_xlarge vscodium-bin 1.79.0.23159-2
+arcolinux_repo_xlarge vscodium-bin 1.79.1.23164-1
 arcolinux_repo_xlarge whatsapp-nativefier 2.2322.15-1
 arcolinux_repo_xlarge wps-office 11.1.0.11664-5
 arcolinux_repo_xlarge wps-office-mime 11.1.0.11664-5
