@@ -327,7 +327,7 @@ extra adobe-source-sans-fonts 3.052-1
 extra adobe-source-serif-fonts 4.005-1
 extra adrdox 2.5.3-3
 extra adriconf 2.5.1-1
-extra adwaita-color-schemes 0.9.1-5
+extra adwaita-color-schemes 0.9.1-6
 extra adwaita-cursors 44.0-1
 extra adwaita-icon-theme 44.0-1
 extra adwaita-qt5 1.4.2-1
@@ -356,7 +356,7 @@ extra aircrack-ng 1.7-3
 extra airspy 1.0.10-1
 extra aisleriot 3.22.28-1
 extra aj-snapshot 0.9.9-2
-extra akonadi 23.04.2-1
+extra akonadi 23.04.2-2
 extra akonadi-calendar 23.04.2-1
 extra akonadi-calendar-tools 23.04.2-1
 extra akonadi-contacts 23.04.2-1
@@ -1369,41 +1369,41 @@ extra debian-archive-keyring 2023.3-1
 extra debian-ports-archive-keyring 2023.02.01-1
 extra debootstrap 1.0.128-1
 extra deepin-account-faces 1.0.12.1-1
-extra deepin-album 6.0.0-2
+extra deepin-album 6.0.0-3
 extra deepin-anything 5.0.18-1
 extra deepin-anything-arch 5.0.18-64
 extra deepin-anything-dkms 5.0.18-1
 extra deepin-api 5.5.32-1
 extra deepin-app-services 0.0.22-1
 extra deepin-boot-maker 5.7.8-1
-extra deepin-calculator 5.8.23-3
+extra deepin-calculator 5.8.23-4
 extra deepin-calendar 5.9.1-1
 extra deepin-camera 1.4.11-2
-extra deepin-clipboard 5.4.25-3
+extra deepin-clipboard 5.4.25-4
 extra deepin-clone 5.0.11-1
 extra deepin-clutter 1.26.2-3
 extra deepin-cogl 1.22.5-3
 extra deepin-community-wallpapers 1:1.7.7-2
-extra deepin-compressor 5.12.15-1
+extra deepin-compressor 5.12.15-2
 extra deepin-control-center 5.5.158-1
 extra deepin-daemon 5.14.122-1
 extra deepin-desktop-base 2:2022.07.26-2
 extra deepin-desktop-schemas 6.0.2-1
 extra deepin-device-formatter 0.0.1.6-1
-extra deepin-dock 5.5.81-2
-extra deepin-draw 6.0.1-2
+extra deepin-dock 5.5.81-3
+extra deepin-draw 6.0.1-3
 extra deepin-editor 6.0.1-1
-extra deepin-file-manager 1:5.8.3-3
+extra deepin-file-manager 1:5.8.3-4
 extra deepin-font-manager 5.9.14-1
 extra deepin-gettext-tools 1.0.10-1
 extra deepin-grand-search 5.3.2-3
 extra deepin-gtk-theme 2020.06.10-1
 extra deepin-icon-theme 2021.11.24-1
 extra deepin-image-editor 1.0.26-1
-extra deepin-image-viewer 5.9.11-2
+extra deepin-image-viewer 5.9.11-3
 extra deepin-kwin 5.25.0-1
 extra deepin-launcher 5.6.1-2
-extra deepin-menu 5.0.1-11
+extra deepin-menu 5.0.1-12
 extra deepin-metacity 3.22.24-3
 extra deepin-movie 1:5.10.14-1
 extra deepin-music 6.2.26-1
@@ -1415,20 +1415,20 @@ extra deepin-polkit-agent 5.4.17-1
 extra deepin-polkit-agent-ext-gnomekeyring 0.1.0-2
 extra deepin-printer 0.9.16-1
 extra deepin-pw-check 5.1.18-1
-extra deepin-qt-dbus-factory 6.0.0-2
-extra deepin-qt5integration 5.6.6-2
-extra deepin-qt5platform-plugins 5.6.5-3
-extra deepin-reader 5.10.29-3
-extra deepin-screen-recorder 5.11.15-2
+extra deepin-qt-dbus-factory 6.0.0-3
+extra deepin-qt5integration 5.6.6-3
+extra deepin-qt5platform-plugins 5.6.5-4
+extra deepin-reader 5.10.29-4
+extra deepin-screen-recorder 5.11.15-3
 extra deepin-screensaver 5.0.5-1
 extra deepin-screensaver-pp 0.0.4-2
 extra deepin-screenshot 5.0.0-6
 extra deepin-session-shell 5.5.84-1
-extra deepin-session-ui 5.6.2-2
+extra deepin-session-ui 5.6.2-3
 extra deepin-shortcut-viewer 5.0.7-1
 extra deepin-sound-theme 15.10.6-1
 extra deepin-store 1.2.4-1
-extra deepin-system-monitor 6.0.3-3
+extra deepin-system-monitor 6.0.3-4
 extra deepin-terminal 5.9.40-1
 extra deepin-terminal-gtk 5.0.4.3-1
 extra deepin-topbar 0.7.0-1
@@ -1641,10 +1641,10 @@ extra dstat 0.7.4-5
 extra dtc 1.7.0-4
 extra dtkcommon 5.6.9-1
 extra dtkcore 1:5.6.8-2
-extra dtkdeclarative 5.6.0-3
-extra dtkgui 1:5.6.8-1
-extra dtkwidget 5.6.7-1
-extra dtkwm 2.0.12-18
+extra dtkdeclarative 5.6.0-4
+extra dtkgui 1:5.6.8-2
+extra dtkwidget 5.6.7-2
+extra dtkwm 2.0.12-19
 extra dtools 2.104.0-1
 extra dua-cli 2.20.1-1
 extra dub 1.33.0-1
@@ -1868,8 +1868,8 @@ extra fcitx-kkc 0.1.4-2
 extra fcitx-libpinyin 0.5.4-2
 extra fcitx-m17n 0.2.4-2
 extra fcitx-mozc 2.26.4360.102.gca82d39-2
-extra fcitx-qt5 1.2.7-13
-extra fcitx-qt6 1.2.7-13
+extra fcitx-qt5 1.2.7-14
+extra fcitx-qt6 1.2.7-14
 extra fcitx-rime 0.3.2-3
 extra fcitx-sayura 0.1.2-2
 extra fcitx-skk 0.1.4-2
@@ -1894,7 +1894,7 @@ extra fcitx5-material-color 0.2.1-1
 extra fcitx5-mozc 2.26.4632.102.g4d2e3bd-2
 extra fcitx5-nord 0.0.0.20210727-1
 extra fcitx5-pinyin-zhwiki 1:0.2.4.20230605-1
-extra fcitx5-qt 5.0.17-5
+extra fcitx5-qt 5.0.17-6
 extra fcitx5-rime 5.0.16-1
 extra fcitx5-sayura 5.0.8-1
 extra fcitx5-skk 5.0.15-1
@@ -4851,7 +4851,7 @@ extra kmon 1.6.3-1
 extra kmousetool 23.04.2-1
 extra kmouth 23.04.2-1
 extra kmplot 23.04.2-1
-extra kmymoney 5.1.3-6
+extra kmymoney 5.1.3-7
 extra knative-client 1.10.0-1
 extra knavalbattle 23.04.2-1
 extra knetwalk 23.04.2-1
@@ -5014,7 +5014,7 @@ extra kwayland-integration 5.27.5-1
 extra kweather 23.04.2-1
 extra kweathercore 0.7-1
 extra kwidgetsaddons 5.107.0-1 [installed]
-extra kwin 5.27.5-2
+extra kwin 5.27.5-3
 extra kwindowsystem 5.107.0-1 [installed]
 extra kwordquiz 23.04.2-1
 extra kwrited 5.27.5-1
@@ -5097,7 +5097,7 @@ extra libadwaita-demos 1:1.3.3-1
 extra libadwaita-docs 1:1.3.3-1
 extra libaec 1.0.6-1
 extra libafterimage 1.20-6
-extra libakonadi 23.04.2-1
+extra libakonadi 23.04.2-2
 extra libalkimia 8.1.1-1
 extra libantlr3c 3.5.3-1
 extra libao 1.2.2-6
@@ -5242,7 +5242,7 @@ extra libfm 1.3.2-1
 extra libfm-extra 1.3.2-1
 extra libfm-gtk2 1.3.2-1
 extra libfm-gtk3 1.3.2-1
-extra libfm-qt 1.3.0-1
+extra libfm-qt 1.3.0-2
 extra libfontenc 1.1.7-1
 extra libforensic1394 0.2-10
 extra libfprint 1.94.5-1
@@ -5553,7 +5553,7 @@ extra libqalculate 4.6.1-1
 extra libqb 2.0.3-1
 extra libqmi 1.32.4-1
 extra libqrtr-glib 1.2.2-2
-extra libqtxdg 3.11.0-1
+extra libqtxdg 3.11.0-2
 extra libquotient 0.7.2-1
 extra libquvi 0.9.4-7
 extra libquvi-scripts 0.9.20131130-5
@@ -6142,7 +6142,7 @@ extra lm32-elf-newlib 4.1.0-1
 extra lm_sensors 1:3.6.0.r41.g31d1f125-2 [installed]
 extra lmdb 0.9.30-3
 extra lmdbxx 1.0.0-2
-extra lmms 1.2.2-14
+extra lmms 1.2.2-16
 extra lnav 0.11.1-1
 extra lockdev 1.0.3_1.6-7
 extra lockfile-progs 0.1.19-3
@@ -10546,7 +10546,7 @@ extra qbs 2.0.1-1
 extra qca-qt5 2.3.6-2 [installed]
 extra qca-qt6 2.3.6-2
 extra qcachegrind 23.04.2-1
-extra qcad 3.28.1.0-2
+extra qcad 3.28.1.0-3
 extra qconf 2.5-3
 extra qcoro-qt5 0.9.0-1
 extra qcoro-qt6 0.9.0-1
@@ -10635,8 +10635,8 @@ extra qemu-user-static-binfmt 8.0.2-1
 extra qemu-vhost-user-gpu 8.0.2-1
 extra qgis 3.30.3-2
 extra qgit 2.10-2
-extra qgnomeplatform-qt5 0.9.1-5
-extra qgnomeplatform-qt6 0.9.1-5
+extra qgnomeplatform-qt5 0.9.1-6
+extra qgnomeplatform-qt6 0.9.1-6
 extra qgo 2.1.1-1
 extra qhexedit2 0.8.9-1
 extra qhttpengine 1.0.1-4
@@ -10679,52 +10679,52 @@ extra qstardict 1.3-3
 extra qstopmotion 2.5.2-2
 extra qsynth 0.9.11-1
 extra qt-gstreamer 1.2.0-4
-extra qt5-3d 5.15.9-1
-extra qt5-base 5.15.9+kde+r155-1 [installed]
-extra qt5-charts 5.15.9-1
-extra qt5-connectivity 5.15.9+kde+r5-1
-extra qt5-datavis3d 5.15.9-1
-extra qt5-declarative 5.15.9+kde+r26-1 [installed]
+extra qt5-3d 5.15.10-1
+extra qt5-base 5.15.10+kde+r129-1 [installed]
+extra qt5-charts 5.15.10-1
+extra qt5-connectivity 5.15.10+kde+r4-1
+extra qt5-datavis3d 5.15.10-1
+extra qt5-declarative 5.15.10+kde+r26-1 [installed]
 extra qt5-doc 5.15.9-1
 extra qt5-examples 5.15.9-1
 extra qt5-feedback 0.0.0.20150918-4
-extra qt5-gamepad 5.15.9-1
-extra qt5-graphicaleffects 5.15.9-1
+extra qt5-gamepad 5.15.10-1
+extra qt5-graphicaleffects 5.15.10-1
 extra qt5-gsettings 1.3.0-1
-extra qt5-imageformats 5.15.9+kde+r9-1
-extra qt5-location 5.15.9+kde+r4-1 [installed]
-extra qt5-lottie 5.15.9-1
-extra qt5-mqtt 5.15.2-9
-extra qt5-multimedia 5.15.9+kde+r3-1 [installed]
-extra qt5-networkauth 5.15.9-1
-extra qt5-purchasing 5.15.9-1
-extra qt5-quick3d 5.15.9+kde+r1-1
-extra qt5-quickcontrols 5.15.9-1
+extra qt5-imageformats 5.15.10+kde+r9-1
+extra qt5-location 5.15.10+kde+r4-1 [installed]
+extra qt5-lottie 5.15.10-1
+extra qt5-mqtt 5.15.2-10
+extra qt5-multimedia 5.15.10+kde+r3-1 [installed]
+extra qt5-networkauth 5.15.10-1
+extra qt5-purchasing 5.15.10-1
+extra qt5-quick3d 5.15.10+kde+r1-1
+extra qt5-quickcontrols 5.15.10-1
 extra qt5-quickcontrols-nemo 5.7.2-1
-extra qt5-quickcontrols2 5.15.9+kde+r6-1 [installed]
-extra qt5-quicktimeline 5.15.9-1
-extra qt5-remoteobjects 5.15.9-1
-extra qt5-script 5.15.14-1
-extra qt5-scxml 5.15.9-1
-extra qt5-sensors 5.15.9-1
-extra qt5-serialbus 5.15.9-1
-extra qt5-serialport 5.15.9-1
-extra qt5-speech 5.15.9+kde+r1-1 [installed]
-extra qt5-svg 5.15.9+kde+r8-1 [installed]
+extra qt5-quickcontrols2 5.15.10+kde+r6-1 [installed]
+extra qt5-quicktimeline 5.15.10-1
+extra qt5-remoteobjects 5.15.10-1
+extra qt5-script 5.15.14-2
+extra qt5-scxml 5.15.10-1
+extra qt5-sensors 5.15.10-1
+extra qt5-serialbus 5.15.10-1
+extra qt5-serialport 5.15.10-1
+extra qt5-speech 5.15.10+kde+r1-1 [installed]
+extra qt5-svg 5.15.10+kde+r8-1 [installed]
 extra qt5-systems 5.4.0.20181230-2
-extra qt5-tools 5.15.9+kde+r1-1 [installed]
-extra qt5-translations 5.15.9-1 [installed]
-extra qt5-ukui-platformtheme 1.0.8-5
-extra qt5-virtualkeyboard 5.15.9-1
-extra qt5-wayland 5.15.9+kde+r55-1 [installed]
-extra qt5-webchannel 5.15.9+kde+r3-1 [installed]
-extra qt5-webengine 5.15.14-1 [installed]
-extra qt5-webglplugin 5.15.9-1
-extra qt5-websockets 5.15.9+kde+r2-1
-extra qt5-webview 5.15.9-1
-extra qt5-x11extras 5.15.9-1 [installed]
-extra qt5-xcb-private-headers 5.15.9+kde+r155-1
-extra qt5-xmlpatterns 5.15.9-1 [installed]
+extra qt5-tools 5.15.10+kde+r3-1 [installed]
+extra qt5-translations 5.15.10-1 [installed]
+extra qt5-ukui-platformtheme 1.0.8-6
+extra qt5-virtualkeyboard 5.15.10-1
+extra qt5-wayland 5.15.10+kde+r51-1 [installed]
+extra qt5-webchannel 5.15.10+kde+r3-1 [installed]
+extra qt5-webengine 5.15.14-2 [installed]
+extra qt5-webglplugin 5.15.10-1
+extra qt5-websockets 5.15.10+kde+r2-1
+extra qt5-webview 5.15.10-1
+extra qt5-x11extras 5.15.10-1 [installed]
+extra qt5-xcb-private-headers 5.15.10+kde+r129-1
+extra qt5-xmlpatterns 5.15.10-1 [installed]
 extra qt5ct 1.7-1
 extra qt5pas 2.6.2.2.6-2
 extra qt6-3d 6.5.1-1
@@ -11731,7 +11731,7 @@ extra skim 0.10.4-1
 extra skk-jisyo 20221030-1
 extra skktools 1.3.4-4
 extra skopeo 1.12.0-1
-extra skrooge 2.29.0-2
+extra skrooge 2.29.0-3
 extra sl 5.05-4
 extra slang 2.3.3-2 [installed]
 extra sleuthkit 4.12.0-1
@@ -12686,7 +12686,7 @@ extra ukui-sidebar 3.1.2-1
 extra ukui-system-monitor 1.0.4-1
 extra ukui-themes 3.0.1-1
 extra ukui-wallpapers 20.04.2-1
-extra ukui-window-switch 3.0.1-9
+extra ukui-window-switch 3.0.1-10
 extra ukwm 1.2.1-4
 extra ulfius 2.7.13-1
 extra ulogd 2.0.8-1
@@ -14917,7 +14917,7 @@ chaotic-aur glslang-git 12.2.0.r10.g4d95e228-1
 chaotic-aur gmenu 0.3.0-3.2
 chaotic-aur gmsh-bin 4.11.1-1.2
 chaotic-aur gmusicbrowser 1.1.16-1.1
-chaotic-aur gnome-2048-git 3.38.2.r28.gfef77d8-1.2
+chaotic-aur gnome-2048-git 3.38.2.r29.gfe006ff-1
 chaotic-aur gnome-browser-connector 42.1-3.4
 chaotic-aur gnome-calendar-git 44.1+19+g412f8bc4-1
 chaotic-aur gnome-contacts-git 44.0.r16.gd3d48d9c-1
@@ -15827,8 +15827,8 @@ chaotic-aur linux-nitrous-fire-headers 6.2.13-1
 chaotic-aur linux-nitrous-headers 6.2.13-1
 chaotic-aur linux-steam-integration 0.7.3-5.2
 chaotic-aur linux-tkg-bmq 6.3.7-273
-chaotic-aur linux-tkg-bmq-generic_v3 6.3.7-273
-chaotic-aur linux-tkg-bmq-generic_v3-headers 6.3.7-273
+chaotic-aur linux-tkg-bmq-generic_v3 6.3.8-273
+chaotic-aur linux-tkg-bmq-generic_v3-headers 6.3.8-273
 chaotic-aur linux-tkg-bmq-headers 6.3.7-273
 chaotic-aur linux-tkg-cfs 6.3.7-273
 chaotic-aur linux-tkg-cfs-generic_v3 6.3.7-273
@@ -17874,7 +17874,7 @@ chaotic-aur yt-dlg-git 1.2.0.r363.gabd8bec-1
 chaotic-aur yt-dlp-git 2023.03.04.r215.g345b4c0ae-1
 chaotic-aur ytfzf-git r2013.95d10b9-1
 chaotic-aur ytmdl 2023.2.28-1
-chaotic-aur yuzu-early-access 3676-1
+chaotic-aur yuzu-early-access 3678-1
 chaotic-aur yuzu-git r24368.698a3eda5-1
 chaotic-aur yuzu-mainline-bin 0.1458-1
 chaotic-aur yuzu-mainline-git r23744.080ff0560-1
@@ -28583,7 +28583,7 @@ iso-repo calamares-cfg 23.08-2
 iso-repo calamares-cfg-dev 23.06-1
 iso-repo calamares-g-cfg 23.08-3
 iso-repo calamares-g-cfg-dev 23.05-1
-iso-repo calamares-xfce-cfg 23.08-2
+iso-repo calamares-xfce-cfg 23.08-3
 iso-repo calamares-xfce-cfg-dev 23.05-2
 iso-repo xero-g-config-dev 23.06-7
 iso-repo xero-kde-config-dev 23.06-11
