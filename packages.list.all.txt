@@ -150,9 +150,9 @@ core libxml2 2.10.4-4 [installed]
 core libxml2-docs 2.10.4-4
 core licenses 20220125-2 [installed]
 core links 2.29-1
-core linux 6.3.7.arch1-1
+core linux 6.3.8.arch1-1
 core linux-api-headers 6.3-1 [installed]
-core linux-docs 6.3.7.arch1-1
+core linux-docs 6.3.8.arch1-1
 core linux-firmware 20230404.2e92a49f-1
 core linux-firmware-bnx2x 20230404.2e92a49f-1
 core linux-firmware-liquidio 20230404.2e92a49f-1
@@ -162,7 +162,7 @@ core linux-firmware-nfp 20230404.2e92a49f-1
 core linux-firmware-qcom 20230404.2e92a49f-1
 core linux-firmware-qlogic 20230404.2e92a49f-1
 core linux-firmware-whence 20230404.2e92a49f-1
-core linux-headers 6.3.7.arch1-1
+core linux-headers 6.3.8.arch1-1
 core linux-lts 6.1.33-1
 core linux-lts-docs 6.1.33-1
 core linux-lts-headers 6.1.33-1
@@ -294,7 +294,7 @@ extra acme-user 1.0.1-1
 extra acme.sh 3.0.6-1
 extra acorn 1:8.8.2-1
 extra acpi 1.7-3
-extra acpi_call 1.2.2-132
+extra acpi_call 1.2.2-133
 extra acpi_call-dkms 1.2.2-1
 extra acpi_call-lts 1.2.2-124
 extra acpica 20221020-1
@@ -679,8 +679,8 @@ extra bat-extras 2023.03.21.r2.ge609d1a-1
 extra batctl 2023.0-1
 extra bazel 6.2.1-1
 extra bbpager 0.4.7-9
-extra bbswitch 0.8-600
-extra bbswitch-dkms 0.8-600
+extra bbswitch 0.8-601
+extra bbswitch-dkms 0.8-601
 extra bc 1.07.1-4
 extra bcc 0.27.0-2
 extra bcc-tools 0.27.0-2
@@ -811,7 +811,7 @@ extra bridge-utils 1.7.1-1
 extra brightnessctl 0.5.1-2
 extra brltty 6.5-4
 extra brltty-udev-generic 6.5-4
-extra broadcom-wl 6.30.223.271-476
+extra broadcom-wl 6.30.223.271-477
 extra broadcom-wl-dkms 6.30.223.271-36
 extra brook 20221010-1
 extra broot 1.22.1-1
@@ -961,7 +961,7 @@ extra cargo-sort 1.0.9-1
 extra cargo-spellcheck 0.12.4-1
 extra cargo-supply-chain 0.3.2-1
 extra cargo-tarpaulin 0.25.2-1
-extra cargo-tauri 1.3.1-1
+extra cargo-tauri 1.4.0-1
 extra cargo-udeps 0.1.40-1
 extra cargo-update 13.0.4-1
 extra cargo-watch 8.4.0-1
@@ -1371,7 +1371,7 @@ extra debootstrap 1.0.128-1
 extra deepin-account-faces 1.0.12.1-1
 extra deepin-album 6.0.0-3
 extra deepin-anything 5.0.18-1
-extra deepin-anything-arch 5.0.18-64
+extra deepin-anything-arch 5.0.18-65
 extra deepin-anything-dkms 5.0.18-1
 extra deepin-api 5.5.32-1
 extra deepin-app-services 0.0.22-1
@@ -6042,7 +6042,7 @@ extra libxmlb 0.3.11-1
 extra libxmlbird 1.2.12-2
 extra libxmlrpc 1:1.51.08-3
 extra libxmu 1.1.4-1 [installed]
-extra libxnvctrl 530.41.03-1
+extra libxnvctrl 535.54.03-1
 extra libxp 1.0.4-2
 extra libxpm 3.5.16-1
 extra libxpresent 1.0.1-1
@@ -6101,9 +6101,9 @@ extra linux-rt-lts 5.15.107.62.realtime1-2
 extra linux-rt-lts-docs 5.15.107.62.realtime1-2
 extra linux-rt-lts-headers 5.15.107.62.realtime1-2
 extra linux-tools-meta 6.3-2
-extra linux-zen 6.3.7.zen1-1
-extra linux-zen-docs 6.3.7.zen1-1
-extra linux-zen-headers 6.3.7.zen1-1
+extra linux-zen 6.3.8.zen1-1
+extra linux-zen-docs 6.3.8.zen1-1
+extra linux-zen-headers 6.3.8.zen1-1
 extra linuxconsole 1.8.1-1
 extra linuxdoc-tools 0.9.82-2
 extra linuxsampler 2.2.0-3
@@ -6948,7 +6948,7 @@ extra netcdf-fortran-openmpi 4.6.0-1
 extra netcdf-openmpi 4.9.2-3
 extra netcf 0.2.8-8
 extra netdata 1.40.0-1
-extra netfilter-fullconenat r73.0cf3b48-297
+extra netfilter-fullconenat r73.0cf3b48-298
 extra nethack 3.6.7-5
 extra nethogs 0.8.7-1
 extra netpbm 10.73.43-1
@@ -7105,15 +7105,15 @@ extra nushell 0.81.0-1
 extra nuspell 5.1.2-2
 extra nut 2.8.0-3
 extra nvchecker 2.11-2
-extra nvidia 530.41.03-17
+extra nvidia 535.54.03-2
 extra nvidia-cg-toolkit 3.1-6
-extra nvidia-dkms 530.41.03-1
-extra nvidia-lts 1:530.41.03-14
-extra nvidia-open 530.41.03-17
-extra nvidia-open-dkms 530.41.03-17
+extra nvidia-dkms 535.54.03-1
+extra nvidia-lts 1:535.54.03-1
+extra nvidia-open 535.54.03-2
+extra nvidia-open-dkms 535.54.03-2
 extra nvidia-prime 1.0-4
-extra nvidia-settings 530.41.03-1
-extra nvidia-utils 530.41.03-1
+extra nvidia-settings 535.54.03-1
+extra nvidia-utils 535.54.03-1
 extra nvme-cli 2.4-3
 extra nvtop 3.0.1-1
 extra nyancat 1.5.2-2
@@ -7200,7 +7200,7 @@ extra opencc-doc 1.1.6-2
 extra opencl-clhpp 2.0.16-1
 extra opencl-headers 2:2022.09.30-1
 extra opencl-mesa 23.1.2-1
-extra opencl-nvidia 530.41.03-1
+extra opencl-nvidia 535.54.03-1
 extra opencollada 1:1.6.68-3
 extra opencolorio 2.2.1-10
 extra openconnect 1:9.12-1
@@ -10814,7 +10814,7 @@ extra qxmpp-qt6 1.5.5-1
 extra r 4.3.0-1
 extra r10k 3.15.2-1
 extra r2ghidra 5.8.4-1
-extra r8168 8.051.02-45
+extra r8168 8.051.02-46
 extra r8168-lts 8.051.02-38
 extra rabbitmq 3.11.16-1
 extra rabbitmqadmin 3.11.16-1
@@ -12470,7 +12470,7 @@ extra touchegg 2.0.16-1
 extra towncrier 22.12.0-3
 extra toxcore 1:0.2.18-2
 extra toxic 0.11.3-3
-extra tp_smapi 0.43-485
+extra tp_smapi 0.43-486
 extra tp_smapi-lts 0.43-320
 extra tpacpi-bat 3.1-3
 extra tpm2-abrmd 3.0.0-1
@@ -12810,8 +12810,8 @@ extra vegeta 12.8.4-3
 extra veracrypt 1.25.9-4
 extra verdict 1.4.1-1
 extra verilator 5.010-1
-extra vhba-module 20211218-127
-extra vhba-module-dkms 20211218-127
+extra vhba-module 20211218-128
+extra vhba-module-dkms 20211218-128
 extra vhs 0.4.0-1
 extra vice 3.7-1
 extra vicious 2.6.0-1
@@ -12924,7 +12924,7 @@ extra virtualbox-guest-iso 7.0.8-1
 extra virtualbox-guest-utils 7.0.8-2
 extra virtualbox-guest-utils-nox 7.0.8-2
 extra virtualbox-host-dkms 7.0.8-2
-extra virtualbox-host-modules-arch 7.0.8-16
+extra virtualbox-host-modules-arch 7.0.8-17
 extra virtualbox-sdk 7.0.8-2
 extra virtualgl 3.1-1
 extra vis 0.8-1
@@ -15144,7 +15144,7 @@ chaotic-aur heroic-games-launcher-git 2.8.0.r1.g10523f462-1
 chaotic-aur heroku-cli-bin 7.62.0-1.1
 chaotic-aur hex-unifont 15.0.01-1
 chaotic-aur hfsprogs 540.1.linux3-4.3
-chaotic-aur highway-git 1.0.4.r301.gd68857f-1
+chaotic-aur highway-git 1.0.4.r305.gec03003-1
 chaotic-aur hlsdl 0.27-2.2
 chaotic-aur hopper 0.1.0-1.1
 chaotic-aur hotspot 1.4.1-1
@@ -15778,9 +15778,9 @@ chaotic-aur linux-amd-headers 6.3.v.8-1
 chaotic-aur linux-amd-znver2 6.3.v.8-1
 chaotic-aur linux-amd-znver2-docs 6.3.v.8-1
 chaotic-aur linux-amd-znver2-headers 6.3.v.8-1
-chaotic-aur linux-amd-znver3 6.3.v.7-1
-chaotic-aur linux-amd-znver3-docs 6.3.v.7-1
-chaotic-aur linux-amd-znver3-headers 6.3.v.7-1
+chaotic-aur linux-amd-znver3 6.3.v.8-1
+chaotic-aur linux-amd-znver3-docs 6.3.v.8-1
+chaotic-aur linux-amd-znver3-headers 6.3.v.8-1
 chaotic-aur linux-cachyos-bore 6.3.7-1
 chaotic-aur linux-cachyos-bore-headers 6.3.7-1
 chaotic-aur linux-clear 6.3.5-1
@@ -15826,10 +15826,10 @@ chaotic-aur linux-nitrous-fire 6.2.13-1
 chaotic-aur linux-nitrous-fire-headers 6.2.13-1
 chaotic-aur linux-nitrous-headers 6.2.13-1
 chaotic-aur linux-steam-integration 0.7.3-5.2
-chaotic-aur linux-tkg-bmq 6.3.7-273
+chaotic-aur linux-tkg-bmq 6.3.8-273
 chaotic-aur linux-tkg-bmq-generic_v3 6.3.8-273
 chaotic-aur linux-tkg-bmq-generic_v3-headers 6.3.8-273
-chaotic-aur linux-tkg-bmq-headers 6.3.7-273
+chaotic-aur linux-tkg-bmq-headers 6.3.8-273
 chaotic-aur linux-tkg-cfs 6.3.7-273
 chaotic-aur linux-tkg-cfs-generic_v3 6.3.8-273
 chaotic-aur linux-tkg-cfs-generic_v3-headers 6.3.8-273
