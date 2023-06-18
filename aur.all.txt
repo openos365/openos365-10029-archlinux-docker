@@ -2058,6 +2058,7 @@ android-platform-29
 android-platform-30
 android-platform-31
 android-platform-32
+android-platform-33
 android-platform-dummy
 android-qt5
 android-qt5-arm64-v8a
@@ -20156,6 +20157,7 @@ espnet-cuda-git
 espresso
 espresso-jdk11-bin
 espresso-jdk17-bin
+espresso-jdk20-bin
 espresso-jdk8-bin
 espresso-logic
 espressomd-git
@@ -21044,6 +21046,7 @@ fastr-jdk11-bin
 fastr-jdk16-bin
 fastr-jdk17-bin
 fastr-jdk19-bin
+fastr-jdk20-bin
 fastr-jdk8-bin
 fastrandom
 fastrpc-git
@@ -29126,25 +29129,32 @@ gr-soapy-git
 graal
 graal-bin
 graal-icu4j-jdk17-bin
+graal-icu4j-jdk20-bin
 graal-llvm-jdk11-bin
 graal-llvm-jdk17-bin
 graal-llvm-jdk19-bin
+graal-llvm-jdk20-bin
 graal-native-image-bin
 graal-nodejs-jdk11-bin
 graal-nodejs-jdk16-bin
 graal-nodejs-jdk17-bin
 graal-nodejs-jdk19-bin
+graal-nodejs-jdk20-bin
 graal-nodejs-jdk8-bin
 graal-regex-jdk17-bin
+graal-regex-jdk20-bin
 graal-visualvm-jdk11-bin
 graal-visualvm-jdk17-bin
 graal-visualvm-jdk19-bin
+graal-visualvm-jdk20-bin
 graaljs-jdk11-bin
 graaljs-jdk17-bin
 graaljs-jdk19-bin
+graaljs-jdk20-bin
 graalpy-jdk11-bin
 graalpy-jdk17-bin
 graalpy-jdk19-bin
+graalpy-jdk20-bin
 graalpython
 graalpython-bin
 graalpython-jdk11-bin
@@ -29155,6 +29165,7 @@ graalwasm-jdk11-bin
 graalwasm-jdk16-bin
 graalwasm-jdk17-bin
 graalwasm-jdk19-bin
+graalwasm-jdk20-bin
 graalwasm-jdk8-bin
 grab-git
 grabber
@@ -35513,6 +35524,7 @@ jdk18-openj9-bin
 jdk18-temurin
 jdk19-graalvm-bin
 jdk19-graalvm-ee-bin
+jdk20-graalvm-bin
 jdk5
 jdk6
 jdk6-docs
@@ -47953,6 +47965,7 @@ merlin-linkage
 merlin-server-bin
 mermaid-cli
 mermaid-cli-brave
+mermaid-filter
 meryllete
 mesa-aco
 mesa-aco-git
@@ -52841,6 +52854,7 @@ neosent-git
 neosiji
 neosphere
 neoss
+neosurf-git
 neotextureedit
 neotoma-git
 neotool
@@ -55783,6 +55797,7 @@ nym-wallet
 nym-wallet-appimage
 nymea-networkmanager-git
 nymphcast-git
+nymphcast-mediaserver-git
 nymphcast-player-git
 nymphcast-sdk-git
 nymphcast-server-git
@@ -59382,6 +59397,7 @@ packup
 packwiz-bin
 packwiz-bin-git
 packwiz-git
+packwiz-installer
 packy
 paclabel-git
 paclan
@@ -64279,6 +64295,7 @@ php-uploadprogress
 php-uploadprogress-git
 php-uprofiler-git
 php-uuid
+php-uv
 php-uv-git
 php-version
 php-virtphp
@@ -64599,6 +64616,7 @@ pico
 pico-8
 pico-project-generator-git
 pico-sdk
+pico-sdk-git
 pico-tts
 pico-wizard-bigscreen-configs-git
 pico2wave-shell
@@ -65511,6 +65529,7 @@ plasma5-wallpapers-wallpaper-engine
 plasma5-wallpapers-wallpaper-engine-git
 plasma5-wallpapers-wallpaper-engine-without-mpv-git
 plasma5-wallpapers-xml
+plasma5support-git
 plasmasur-dark-kde-theme-git
 plasmate-git
 plasmatube-git
@@ -68951,6 +68970,7 @@ python-auto_diff
 python-autoapi
 python-autobahn
 python-autobgch
+python-autoconf-language-server
 python-autoflake
 python-autograd
 python-autograd-gamma
@@ -69759,6 +69779,7 @@ python-country-list
 python-country_list
 python-cov-core
 python-coveralls
+python-coverxygen
 python-cowpy
 python-cplot
 python-cpm-kernels
@@ -70649,6 +70670,7 @@ python-ffmpeg-patched-git
 python-ffmpeg-pip
 python-ffmpeg-progress-yield
 python-ffmpeg-python
+python-ffmpeg-python-git
 python-ffmpy
 python-ffn
 python-ffplaylist-git
@@ -72426,6 +72448,7 @@ python-minq-storage-git
 python-minq_storage-git
 python-mint-api
 python-mintapi
+python-mirakuru
 python-mirobo
 python-misaka
 python-misaka-v1
@@ -74013,6 +74036,7 @@ python-pygtrie
 python-pygtrie-git
 python-pygubu
 python-pyguetzli
+python-pygwinc
 python-pyhanko
 python-pyhanko-certvalidator
 python-pyharmony-git
@@ -74498,6 +74522,7 @@ python-pytest-mpl
 python-pytest-openfiles
 python-pytest-ordering
 python-pytest-pep8
+python-pytest-postgresql
 python-pytest-pudb
 python-pytest-pycharm
 python-pytest-pylint
@@ -74522,6 +74547,8 @@ python-python-bitcoinlib
 python-python-bitcoinlib-git
 python-python-crontab
 python-python-ddp
+python-python-ffmpeg
+python-python-ffmpeg-git
 python-python-jenkins
 python-python-lorem
 python-python-lzo-git
@@ -76032,6 +76059,7 @@ python-tidalapi4mopidy
 python-tidylib
 python-tifffile
 python-tika
+python-tiktoken
 python-tiktoken-git
 python-tikzplotlib
 python-tikzplotlib-git
@@ -92627,6 +92655,7 @@ rusty-keys-git
 rusty-krab-manager
 rusty-krab-manager-git
 rusty-man
+rusty-monitor-git
 rusty-tags
 rusty-tags-git
 rusty-warrior
@@ -100335,6 +100364,7 @@ telegram-desktop-userfonts-bin
 telegram-desktop-wide
 telegram-desktop9
 telegram-git
+telegram-glib
 telegram-history-dump-git
 telegram-purple
 telegram-purple-dev-git
@@ -102919,6 +102949,7 @@ truffleruby-jdk11-bin
 truffleruby-jdk16-bin
 truffleruby-jdk17-bin
 truffleruby-jdk19-bin
+truffleruby-jdk20-bin
 truffleruby-jdk8-bin
 trufont
 trufont-git
@@ -104349,6 +104380,7 @@ tumiki-fighters
 tumpa-git
 tun2socks
 tun2socks-bin
+tun2socks-git
 tuna
 tuna-lv2
 tunasay
@@ -108945,6 +108977,7 @@ waydroid-image
 waydroid-image-dev
 waydroid-image-gapps
 waydroid-image-halium
+waydroid-magisk
 waydroid-openrc
 waydroid-script
 waydroid-script-git
@@ -109104,6 +109137,7 @@ webbench-copie
 webbrowser
 webbrowser-git
 webby-browser-bzr
+webby-git
 webcam-access-monitor
 webcamoid
 webcamoid-git
