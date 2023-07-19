@@ -148,19 +148,22 @@ Include = /etc/pacman.d/arcolinux-mirrorlist
 SigLevel = Never
 Include = /etc/pacman.d/arcolinux-mirrorlist
 # https://github.com/xerolinux/xero_iso/blob/main/xerolinux/pacman.conf
-[iso-repo]
+[xhbp]
 SigLevel = Never
 Server = https://repos.xerolinux.xyz/$repo/$arch
 
-#XeroLinux Repository
+[xiso]
+SigLevel = Never
+Server = https://repos.xerolinux.xyz/$repo/$arch
+
 [xerolinux_repo]
 SigLevel = Never
 Server = https://xerolinux.github.io/$repo/$arch
 
-#XeroLinux XL Repository
 [xerolinux_repo_xl]
 SigLevel = Never
 Server = https://repos.xerolinux.xyz/$repo/$arch
+
 
 [alter-stable]
 SigLevel = Never
