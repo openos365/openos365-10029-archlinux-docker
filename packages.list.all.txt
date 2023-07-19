@@ -4,14 +4,14 @@ core archlinux-keyring 20230704-1 [installed]
 core argon2 20190702-5 [installed]
 core attr 2.5.1-3 [installed]
 core audit 3.1.1-1 [installed]
-core autoconf 2.71-4
-core automake 1.16.5-2
+core autoconf 2.71-4 [installed]
+core automake 1.16.5-2 [installed]
 core b43-fwcutter 019-4
 core base 3-1 [installed]
-core base-devel 1-1
+core base-devel 1-1 [installed]
 core bash 5.1.016-4 [installed]
-core binutils 2.40-6
-core bison 3.8.2-6
+core binutils 2.40-6 [installed]
+core bison 3.8.2-6 [installed]
 core brotli 1.0.9-12 [installed]
 core brotli-testdata 1.0.9-12
 core btrfs-progs 6.3.2-1
@@ -20,40 +20,40 @@ core ca-certificates 20220905-1 [installed]
 core ca-certificates-mozilla 3.91-1 [installed]
 core ca-certificates-utils 20220905-1 [installed]
 core coreutils 9.3-1 [installed]
-core cracklib 2.9.11-1
+core cracklib 2.9.11-1 [installed]
 core cronie 1.6.1-1
 core cryptsetup 2.6.1-3 [installed]
 core curl 8.1.2-1 [installed]
 core dash 0.5.12-1
-core db 6.2.32-1
-core db5.3 5.3.28-2
+core db 6.2.32-1 [installed]
+core db5.3 5.3.28-2 [installed]
 core dbus 1.14.8-1 [installed]
 core dbus-docs 1.14.8-1
-core debugedit 5.0-5
+core debugedit 5.0-5 [installed]
 core debuginfod 0.189-1
 core device-mapper 2.03.21-1 [installed]
 core dhcpcd 10.0.1-1
 core dialog 1:1.3_20230209-1
-core diffutils 3.10-1
+core diffutils 3.10-1 [installed]
 core ding-libs 0.6.2-1
 core dmraid 1.0.0.rc16.3-14
-core dnssec-anchors 20190629-3
-core dosfstools 4.2-3
+core dnssec-anchors 20190629-3 [installed]
+core dosfstools 4.2-3 [installed]
 core e2fsprogs 1.47.0-1 [installed]
 core ed 1.19-1
 core efibootmgr 18-2
 core efivar 38-3
 core elfutils 0.189-1
 core expat 2.5.0-1 [installed]
-core fakeroot 1.32.1-1
+core fakeroot 1.32.1-1 [installed]
 core file 5.44-3 [installed]
 core filesystem 2023.01.31-1 [installed]
 core findutils 4.9.0-3 [installed]
-core flex 2.6.4-5
+core flex 2.6.4-5 [installed]
 core fuse2fs 1.47.0-1
 core gawk 5.2.2-1 [installed]
-core gc 8.2.4-1
-core gcc 13.1.1-2
+core gc 8.2.4-1 [installed]
+core gcc 13.1.1-2 [installed]
 core gcc-ada 13.1.1-2
 core gcc-d 13.1.1-2
 core gcc-fortran 13.1.1-2
@@ -69,12 +69,12 @@ core gmp 6.2.1-2 [installed]
 core gnupg 2.2.41-1 [installed]
 core gnutls 3.8.0-1 [installed]
 core gpgme 1.21.0-1 [installed]
-core gpm 1.20.7.r38.ge82d1a6-5
+core gpm 1.20.7.r38.ge82d1a6-5 [installed]
 core grep 3.11-1 [installed]
-core groff 1.23.0-3
-core grub 2:2.12rc1-1
+core groff 1.23.0-3 [installed]
+core grub 2:2.12rc1-1 [installed]
 core gssproxy 0.9.1-2
-core guile 3.0.9-1
+core guile 3.0.9-1 [installed]
 core gzip 1.12-2 [installed]
 core hdparm 9.65-1
 core hwdata 0.372-1 [installed]
@@ -86,14 +86,14 @@ core iptables 1:1.8.9-1 [installed]
 core iptables-nft 1:1.8.9-1
 core iputils 20221126-2 [installed]
 core iw 5.19-2
-core jansson 2.14-2
+core jansson 2.14-2 [installed]
 core jfsutils 1.1.15-8
 core json-c 0.16-1 [installed]
 core kbd 2.6.1-1 [installed]
 core keyutils 1.6.3-2 [installed]
 core kmod 30-3 [installed]
 core krb5 1.20.1-1 [installed]
-core ldns 1.8.3-2
+core ldns 1.8.3-2 [installed]
 core lemon 3.42.0-1
 core less 1:633-1 [installed]
 core lib32-gcc-libs 13.1.1-2
@@ -106,7 +106,7 @@ core libcap 2.69-1 [installed]
 core libcap-ng 0.8.3-2 [installed]
 core libcurl-compat 8.1.2-1
 core libcurl-gnutls 8.1.2-1
-core libedit 20221030_3.1-1
+core libedit 20221030_3.1-1 [installed]
 core libelf 0.189-1 [installed]
 core libevent 2.1.12-4 [installed]
 core libevent-docs 2.1.12-4
@@ -117,18 +117,18 @@ core libgpg-error 1.47-1 [installed]
 core libgssglue 0.7-1
 core libidn2 2.3.4-3 [installed]
 core libinih 56-1
-core libisl 0.26-1
+core libisl 0.26-1 [installed]
 core libksba 1.6.4-1 [installed]
 core libldap 2.6.4-2 [installed]
 core libmicrohttpd 0.9.77-1
 core libmnl 1.0.5-1 [installed]
-core libmpc 1.3.1-1
+core libmpc 1.3.1-1 [installed]
 core libnetfilter_conntrack 1.0.9-1 [installed]
 core libnfnetlink 1.0.2-1 [installed]
 core libnftnl 1.2.5-1 [installed]
 core libnghttp2 1.55.1-1 [installed]
 core libnl 3.7.0-3 [installed]
-core libnsl 2.0.0-3
+core libnsl 2.0.0-3 [installed]
 core libp11-kit 0.25.0-1 [installed]
 core libpcap 1.10.4-1 [installed]
 core libpipeline 1.5.7-1
@@ -140,9 +140,9 @@ core libsecret-docs 0.20.5-2
 core libssh2 1.11.0-1 [installed]
 core libtasn1 4.19.0-1 [installed]
 core libtirpc 1.3.3-2 [installed]
-core libtool 2.4.7+4+g1ec8fa28-4
+core libtool 2.4.7+4+g1ec8fa28-4 [installed]
 core libunistring 1.1-2 [installed]
-core libusb 1.0.26-2
+core libusb 1.0.26-2 [installed]
 core libverto 0.3.2-4 [installed]
 core libxcrypt 4.4.36-1 [installed]
 core libxcrypt-compat 4.4.36-1
@@ -170,13 +170,13 @@ core logrotate 3.21.0-2
 core lto-dump 13.1.1-2
 core lvm2 2.03.21-1
 core lz4 1:1.9.4-1 [installed]
-core lzo 2.10-5
-core m4 1.4.19-3
-core make 4.4.1-2
+core lzo 2.10-5 [installed]
+core m4 1.4.19-3 [installed]
+core make 4.4.1-2 [installed]
 core man-db 2.11.2-1
 core man-pages 6.04-1
-core mdadm 4.2-2
-core minizip 1:1.2.13-3
+core mdadm 4.2-2 [installed]
+core minizip 1:1.2.13-3 [installed]
 core mkinitcpio 36-1
 core mkinitcpio-busybox 1.36.1-1
 core mkinitcpio-nfs-utils 0.3-8
@@ -190,10 +190,10 @@ core nfs-utils 2.6.3-1
 core nfsidmap 2.6.3-1
 core nilfs-utils 2.2.9-2
 core npth 1.6-4 [installed]
-core nspr 4.35-1
-core nss 3.91-1
+core nspr 4.35-1 [installed]
+core nss 3.91-1 [installed]
 core openldap 2.6.4-2
-core openssh 9.3p1-2
+core openssh 9.3p1-2 [installed]
 core openssl 3.1.1-1 [installed]
 core openssl-1.1 1.1.1.u-1
 core p11-kit 0.25.0-1 [installed]
@@ -202,19 +202,19 @@ core pacman 6.0.2-7 [installed]
 core pacman-mirrorlist 20230628-1 [installed]
 core pam 1.5.3-3 [installed]
 core pambase 20221020-1 [installed]
-core patch 2.7.6-10
+core patch 2.7.6-10 [installed]
 core pciutils 3.10.0-1 [installed]
-core pcre 8.45-3
+core pcre 8.45-3 [installed]
 core pcre2 10.42-2 [installed]
-core perl 5.36.1-2
+core perl 5.36.1-2 [installed]
 core pinentry 1.2.1-1 [installed]
-core pkgconf 1.8.1-1
+core pkgconf 1.8.1-1 [installed]
 core popt 1.19-1 [installed]
 core ppp 2.4.9-3
 core pptpclient 1.10.0-3
 core procps-ng 4.0.3-1 [installed]
 core psmisc 23.6-1 [installed]
-core python 3.11.3-2
+core python 3.11.3-2 [installed]
 core python-audit 3.1.1-1
 core python-brotli 1.0.9-12
 core python-capng 0.8.3-2
@@ -235,7 +235,7 @@ core sqlite 3.42.0-1 [installed]
 core sqlite-analyzer 3.42.0-1
 core sqlite-doc 3.42.0-1
 core sqlite-tcl 3.42.0-1
-core sudo 1.9.14.p2-1
+core sudo 1.9.14.p2-1 [installed]
 core sysfsutils 2.1.1-1
 core syslinux 6.04.pre2.r11.gbf6db5b4-3
 core systemd 253.6-2 [installed]
@@ -244,7 +244,7 @@ core systemd-resolvconf 253.6-2
 core systemd-sysvcompat 253.6-2 [installed]
 core systemd-ukify 253.6-2
 core tar 1.34-2 [installed]
-core texinfo 7.0.3-1
+core texinfo 7.0.3-1 [installed]
 core thin-provisioning-tools 1.0.4-1
 core tpm2-tss 4.0.1-1 [installed]
 core traceroute 2.1.2-1
@@ -254,9 +254,9 @@ core usbutils 015-3
 core util-linux 2.39.1-1 [installed]
 core util-linux-libs 2.39.1-1 [installed]
 core vi 1:070224-6
-core which 2.21-6
+core which 2.21-6 [installed]
 core wireless-regdb 2023.05.03-1
-core wpa_supplicant 2:2.10-8
+core wpa_supplicant 2:2.10-8 [installed]
 core xfsprogs 6.3.0-2
 core xz 5.4.3-1 [installed]
 core zlib 1:1.2.13-3 [installed]
@@ -390,13 +390,13 @@ extra alpine-chroot-install 0.14.0-3
 extra alpine-keyring 2.4-1
 extra alsa-card-profiles 1:0.3.74-1
 extra alsa-firmware 1.2.4-3
-extra alsa-lib 1.2.9-1
+extra alsa-lib 1.2.9-1 [installed]
 extra alsa-oss 1.1.8-5
 extra alsa-plugins 1:1.2.7.1-2
 extra alsa-scarlett-gui 0.2-2
 extra alsa-tools 1.2.5-2
-extra alsa-topology-conf 1.2.5.1-3
-extra alsa-ucm-conf 1.2.9-1
+extra alsa-topology-conf 1.2.5.1-3 [installed]
+extra alsa-ucm-conf 1.2.9-1 [installed]
 extra alsa-utils 1.2.9-1
 extra alure 1.2-10
 extra amavisd-milter 1.7.2-1
@@ -439,7 +439,7 @@ extra antlr4 4.13.0-1
 extra antlr4-runtime 4.13.0-1
 extra anura 4.0.0-2
 extra anything-sync-daemon 6.0.0-2
-extra aom 3.6.1-1
+extra aom 3.6.1-1 [installed]
 extra aom-docs 3.6.1-1
 extra apache 2.4.57-1
 extra apache-orc 1.9.0-2
@@ -468,7 +468,7 @@ extra arc-solid-gtk-theme 20221218-1
 extra arch-audit 0.1.20-1
 extra arch-audit-gtk 0.3.1-1
 extra arch-hs 0.11.1.0-20
-extra arch-install-scripts 28-1
+extra arch-install-scripts 28-1 [installed]
 extra arch-rebuild-order 0.4.1-1
 extra arch-release-promotion 0.2.2-3
 extra arch-repro-status 1.3.10-1
@@ -477,7 +477,7 @@ extra arch-wiki-docs 20230228-1
 extra arch-wiki-lite 20230228-1
 extra archey3 0.5-13
 extra archinstall 2.5.6-1
-extra archiso 71-1
+extra archiso 71-1 [installed]
 extra archivetools 3-3
 extra archlinux-appstream-data 20230715-1
 extra archlinux-contrib 20221211-1
@@ -597,7 +597,7 @@ extra autorandr 1.14-1
 extra autossh 1.4g-2
 extra autotiling-rs 0.1.3-1
 extra av1an 0.4.1-1
-extra avahi 1:0.8+r22+gfd482a7-1
+extra avahi 1:0.8+r22+gfd482a7-1 [installed]
 extra avfs 1.1.5-1
 extra avidemux-cli 2.8.1-2
 extra avidemux-qt 2.8.1-2
@@ -757,7 +757,7 @@ extra blueprint-compiler 0.8.1-1
 extra bluez 5.68-1
 extra bluez-cups 5.68-1
 extra bluez-hid2hci 5.68-1
-extra bluez-libs 5.68-1
+extra bluez-libs 5.68-1 [installed]
 extra bluez-plugins 5.68-1
 extra bluez-qt 5.108.0-1
 extra bluez-tools 0.2.0-5
@@ -778,8 +778,8 @@ extra bonnie++ 2.00a-2
 extra bonsai 1.1.0-1
 extra bonzomatic 1.0.20220820-1
 extra bookworm 1.1.2-3
-extra boost 1.81.0-7
-extra boost-libs 1.81.0-7
+extra boost 1.81.0-7 [installed]
+extra boost-libs 1.81.0-7 [installed]
 extra booster 0.10-2
 extra bootconfig 6.3-2
 extra booth 1.1.0-1
@@ -875,7 +875,7 @@ extra cadaver 0.24-1
 extra caddy 2.6.4-1
 extra cadence 0.9.2-2
 extra cage 0.1.4-11
-extra cairo 1.17.8-2
+extra cairo 1.17.8-2 [installed]
 extra cairo-dock 3.4.1-4
 extra cairo-dock-plug-ins 3.4.1-20
 extra cairo-docs 1.17.8-2
@@ -996,7 +996,7 @@ extra ccze 0.2.1-12
 extra cddlib 1:0.94m-1
 extra cdemu-client 3.2.5-1
 extra cdemu-daemon 3.2.6-1
-extra cdparanoia 10.2-8
+extra cdparanoia 10.2-8 [installed]
 extra cdrdao 1.2.5-2
 extra cdrtools 3.02a09-5
 extra celluloid 0.25-1
@@ -1136,7 +1136,7 @@ extra clutter-gst 3.0.27-4
 extra clutter-gtk 1.8.4-3
 extra clxclient 3.9.2-4
 extra cm256cc 1.1.0-3
-extra cmake 3.26.4-1
+extra cmake 3.26.4-1 [installed]
 extra cmake-fedora 2.9.3-7
 extra cmark 0.30.3-1
 extra cmark-gfm 0.29.0.gfm.11-1
@@ -1336,7 +1336,7 @@ extra datamash 1.8-1
 extra dateutils 0.4.10-1
 extra datovka 4.22.1-1
 extra datree 1.8.8-1
-extra dav1d 1.2.1-1
+extra dav1d 1.2.1-1 [installed]
 extra dav1d-doc 1.2.1-1
 extra davix 0.8.4-2
 extra dbc-parser-cpp 0.1.1.r88.ca69d0d-1
@@ -1440,7 +1440,7 @@ extra deepin-wallpapers 1:1.7.7-2
 extra deepin-wallpapers-plasma 5.18.5-1
 extra deepin-wayland-protocols 1.6.0.deepin.1.2-1
 extra deepin-wm 1.9.38-7
-extra default-cursors 2-1
+extra default-cursors 2-1 [installed]
 extra deheader 1.10-1
 extra dehydrated 0.7.1-1
 extra deja-dup 44.2-1
@@ -1533,7 +1533,7 @@ extra dmd 1:2.104.1-1
 extra dmd-docs 1:2.104.1-1
 extra dmenu 5.2-1
 extra dmg2img 1.6.7-5
-extra dmidecode 3.5-1
+extra dmidecode 3.5-1 [installed]
 extra dmtcp 2.6.1rc1-2
 extra dnf 4.16.1-1
 extra dns-lexicon 3.12.0-1
@@ -1586,13 +1586,13 @@ extra dotnet-source-built-artifacts 7.0.9.sdk109-1
 extra dotnet-source-built-artifacts-6.0 6.0.20.sdk120-1
 extra dotnet-targeting-pack 7.0.9.sdk109-1
 extra dotnet-targeting-pack-6.0 6.0.20.sdk120-1
-extra double-conversion 3.3.0-1
+extra double-conversion 3.3.0-1 [installed]
 extra doublecmd-gtk2 1.0.11-3
 extra doublecmd-qt5 1.0.11-3
 extra dovecot 2.3.20-2
 extra dovecot-fts-elastic 1.1.0-4
 extra dovecot-fts-xapian 1.5.5-6
-extra doxygen 1.9.7-1
+extra doxygen 1.9.7-1 [installed]
 extra doxygen-docs 1.9.7-1
 extra dpdk 23.03-1
 extra dpf-plugins 1.7-1
@@ -1653,7 +1653,7 @@ extra dtools 2.104.1-1
 extra dua-cli 2.20.1-1
 extra dub 1.33.1-1
 extra duf 0.8.1-2
-extra duktape 2.7.0-6
+extra duktape 2.7.0-6 [installed]
 extra dumb 2.0.3-3
 extra dummyhttp 1.0.3-1
 extra dump_syms 2.2.1-1
@@ -1780,7 +1780,7 @@ extra erlang-cl 1.2.4-7
 extra erlang-docs 26.0-1
 extra erlang-nox 26.0.2-1
 extra erlang-unixodbc 26.0.2-1
-extra erofs-utils 1.6-1
+extra erofs-utils 1.6-1 [installed]
 extra esbuild 0.18.14-1
 extra esh 0.3.2-1
 extra eslint 8.45.0-1
@@ -1823,11 +1823,11 @@ extra exim 4.96-2
 extra exiv2 0.28.0-3
 extra exo 4.18.0-1
 extra expac 10-5
-extra expect 5.45.4-4
+extra expect 5.45.4-4 [installed]
 extra exploitdb 20221122-1
 extra ext3grep 0.10.2-6
 extra ext4magic 0.3.2-4
-extra extra-cmake-modules 5.108.0-1
+extra extra-cmake-modules 5.108.0-1 [installed]
 extra f2fs-tools 1.16.0-2
 extra f3d 2.1.0-1
 extra faac 1.30-4
@@ -1927,7 +1927,7 @@ extra fetchmail 6.4.37-2
 extra ffcall 2.4-2
 extra fff 2.2-3
 extra fflas-ffpack 2.5.0-1
-extra ffmpeg 2:6.0-8
+extra ffmpeg 2:6.0-8 [installed]
 extra ffmpeg2theora 0.30-8
 extra ffmpeg4.4 4.4.4-1
 extra ffmpegthumbnailer 2.2.2-5
@@ -2172,7 +2172,7 @@ extra fish 3.6.1-1
 extra fisher 4.4.3-1
 extra fishui 0.8-1
 extra five-or-more 3.32.3-1
-extra flac 1.4.3-1
+extra flac 1.4.3-1 [installed]
 extra flac-doc 1.4.3-1
 extra flake8 1:6.0.0-3
 extra flameshot 12.1.0-1
@@ -2210,7 +2210,7 @@ extra foliate 2.6.4-2
 extra folks 0.15.6-1
 extra fomp.lv2 1.2.4-2
 extra font-manager 0.8.8-1
-extra fontconfig 2:2.14.2-1
+extra fontconfig 2:2.14.2-1 [installed]
 extra fonteditfs 1.2-7
 extra fontforge 20230101-3
 extra fontobene-qt5 0.2.0-3
@@ -2258,14 +2258,14 @@ extra freeplane 1.11.4-1
 extra freeradius 3.2.3-2
 extra freerdp 2:2.10.0-4
 extra freetds 1.3.18-1
-extra freetype2 2.13.1-1
+extra freetype2 2.13.1-1 [installed]
 extra freetype2-demos 2.13.1-1
 extra freetype2-docs 2.13.1-1
 extra freeverb3 3.2.1-4
 extra freewheeling 0.6.6-4
 extra frei0r-plugins 2.3.0-2
 extra frescobaldi 3.3.0-2
-extra fribidi 1.0.13-2
+extra fribidi 1.0.13-2 [installed]
 extra frogatto 4.0.0-2
 extra frogatto-data 1.3.1-5
 extra frotz-dumb 2.54-1
@@ -2427,7 +2427,7 @@ extra gdb 13.1-3
 extra gdb-common 13.1-3
 extra gdb-dashboard 0.16.0-1
 extra gdk-pixbuf-xlib 2.40.2-2
-extra gdk-pixbuf2 2.42.10-2
+extra gdk-pixbuf2 2.42.10-2 [installed]
 extra gdk-pixbuf2-docs 2.42.10-2
 extra gdl 3.40.0-1
 extra gdlmm 3.7.3-5
@@ -2489,7 +2489,7 @@ extra ghostxps 10.01.2-1
 extra gi-docgen 2023.1-4
 extra giac 1.9.0.57-1
 extra gif2png 3.0.3-1
-extra giflib 5.2.1-2
+extra giflib 5.2.1-2 [installed]
 extra gifsicle 1.94-1
 extra gifski 1.11.0-1
 extra gigedit 1.2.0-2
@@ -2523,7 +2523,7 @@ extra gio-qt 0.0.11-1
 extra gir-to-d 0.23.1-1
 extra girara 0.4.0-1
 extra gist 6.0.0-1
-extra git 2.41.0-1
+extra git 2.41.0-1 [installed]
 extra git-absorb 0.6.10-2
 extra git-annex 10.20230626-2
 extra git-branchless 0.7.1-3
@@ -2542,7 +2542,7 @@ extra git-smash 0.1.0-1
 extra git-warp-time 0.4.11-1
 extra gitea 1.20.0-1
 extra gitg 2:41-3
-extra github-cli 2.32.0-1
+extra github-cli 2.32.0-1 [installed]
 extra gitlab 16.1.2-1
 extra gitlab-exporter 0.5.1-1
 extra gitlab-gitaly 16.1.2-1
@@ -2702,7 +2702,7 @@ extra gnome-weather 44.0-1
 extra gnomon 1.5.0-3
 extra gnote 44.0-1
 extra gnu-efi 3.0.17-3
-extra gnu-free-fonts 20120503-8
+extra gnu-free-fonts 20120503-8 [installed]
 extra gnu-netcat 0.7.1-9
 extra gnubg 1.07.001-2
 extra gnubiff 2.2.17-11
@@ -2817,7 +2817,7 @@ extra gpart 0.3-4
 extra gparted 1.5.0-1
 extra gpaste 44.1-1
 extra gperf 3.1-4
-extra gperftools 2.10-3
+extra gperftools 2.10-3 [installed]
 extra gpg-crypter 0.4.1-4
 extra gpg-tui 0.9.6-1
 extra gpgit 1:1.5.0-2
@@ -2833,7 +2833,7 @@ extra gpsd 3.25-2
 extra gpsim 0.31.0-2
 extra gpsmanshp 1.2.3-4
 extra gpsprune 23-1
-extra gptfdisk 1.0.9-2
+extra gptfdisk 1.0.9-2 [installed]
 extra gputils 1.5.2-1
 extra gpx-viewer 0.4.0-4
 extra gpxsee 13.4-1
@@ -2857,9 +2857,9 @@ extra granite7 7.3.0-1
 extra grantlee 5.3.1-1
 extra grantlee-editor 23.04.3-1
 extra grantleetheme 23.04.3-1
-extra graphene 1.10.8-1
+extra graphene 1.10.8-1 [installed]
 extra graphicsmagick 1.3.40-3
-extra graphite 1:1.3.14-3
+extra graphite 1:1.3.14-3 [installed]
 extra graphite-docs 1:1.3.14-3
 extra graphviz 8.0.5-2
 extra grc 1.13-1
@@ -2893,7 +2893,7 @@ extra gsettings-qt 0.2-1
 extra gsfonts 20200910-3
 extra gsimplecal 2.4.1-1
 extra gsl 2.7.1-3
-extra gsm 1.0.22-1
+extra gsm 1.0.22-1 [installed]
 extra gsmartcontrol 1.1.4-1
 extra gsoap 2.8.129-1
 extra gsocket 1.4.40-1
@@ -2916,14 +2916,14 @@ extra gst-plugin-va 1.22.4-2
 extra gst-plugin-wpe 1.22.4-2
 extra gst-plugins-bad 1.22.4-2
 extra gst-plugins-bad-libs 1.22.4-2
-extra gst-plugins-base 1.22.4-2
-extra gst-plugins-base-libs 1.22.4-2
+extra gst-plugins-base 1.22.4-2 [installed]
+extra gst-plugins-base-libs 1.22.4-2 [installed]
 extra gst-plugins-espeak 0.5.0-4
 extra gst-plugins-good 1.22.4-2
 extra gst-plugins-ugly 1.22.4-2
 extra gst-python 1.22.4-2
 extra gst-rtsp-server 1.22.4-2
-extra gstreamer 1.22.4-2
+extra gstreamer 1.22.4-2 [installed]
 extra gstreamer-docs 1.22.4-2
 extra gstreamer-vaapi 1.22.4-2
 extra gstreamermm 1.10.0-2
@@ -3028,7 +3028,7 @@ extra handbrake-cli 1.6.1-2
 extra handlr 0.6.4-2
 extra happy 1.20.1.1-1
 extra haproxy 2.8.1-1
-extra harfbuzz 8.0.1-1
+extra harfbuzz 8.0.1-1 [installed]
 extra harfbuzz-cairo 8.0.1-1
 extra harfbuzz-docs 8.0.1-1
 extra harfbuzz-icu 8.0.1-1
@@ -4217,14 +4217,14 @@ extra hexer-hobu 1.4.0-10
 extra hexter 1.1.1-2
 extra hexyl 0.13.0-1
 extra hey 0.1.4-5
-extra hicolor-icon-theme 0.17-3
+extra hicolor-icon-theme 0.17-3 [installed]
 extra hid-tools 0.4-1
-extra hidapi 0.14.0-1
+extra hidapi 0.14.0-1 [installed]
 extra hiera 3.10.0-1
 extra higan 110-2
 extra highlight 4.6-1
 extra highlight-gui 4.6-1
-extra highway 1.0.4-1
+extra highway 1.0.4-1 [installed]
 extra himalaya 0.8.4-1
 extra hindent 5.3.4-79
 extra hip-runtime-amd 5.6.0-2
@@ -4320,7 +4320,7 @@ extra hunspell-ro 3.3.10-7
 extra hunspell-ru 20210731-2
 extra hut 0.3.0-1
 extra hwdetect 2023.07.02-1
-extra hwinfo 23.1-1
+extra hwinfo 23.1-1 [installed]
 extra hwloc 2.9.1-1
 extra hy 1:0.26.0-3
 extra hydra 9.5-1
@@ -4401,7 +4401,7 @@ extra imagescan 3.65.0-9
 extra imaginary 1.2.4-1
 extra imake 1.0.9-1
 extra imapsync 2.229-1
-extra imath 3.1.9-1
+extra imath 3.1.9-1 [installed]
 extra img2pdf 0.4.4-5
 extra iml 1.0.5-3
 extra imlib 1.9.15-18
@@ -4484,7 +4484,7 @@ extra irrlicht-docs 1.8.5-1
 extra irssi 1.4.4-1
 extra irssi-xmpp 0.54-3
 extra isatapd 0.9.7-7
-extra iso-codes 4.15.0-1
+extra iso-codes 4.15.0-1 [installed]
 extra isomd5sum 1.2.3-8
 extra ispc 1.19.0-2
 extra ispell 3.4.05-1
@@ -4500,7 +4500,7 @@ extra j4-dmenu-desktop 2.18-4
 extra jaaa 0.9.2-2
 extra jack-example-tools 4-1
 extra jack-stdio 1.6-2
-extra jack2 1.9.22-1
+extra jack2 1.9.22-1 [installed]
 extra jack2-dbus 1.9.22-1
 extra jack2-docs 1.9.22-1
 extra jack_capture 0.9.73-8
@@ -4574,7 +4574,7 @@ extra jp2a 1.1.1-1
 extra jpeg-archive 2.2.0-3
 extra jpegexiforient 1:20090111.b4f886f-2
 extra jpegoptim 1.5.4-1
-extra jq 1.6-4
+extra jq 1.6-4 [installed]
 extra jre-openjdk 20.0.1.u9-3
 extra jre-openjdk-headless 20.0.1.u9-3
 extra jre11-openjdk 11.0.19.u7-1
@@ -4592,7 +4592,7 @@ extra jshon 20131105-5
 extra jsmol 16.1.25-1
 extra json-glib 1.6.6-2
 extra json-glib-docs 1.6.6-2
-extra jsoncpp 1.9.5-2
+extra jsoncpp 1.9.5-2 [installed]
 extra jsoncpp-doc 1.9.5-2
 extra jsonrpc-glib 3.44.0-1
 extra jsonrpc-glib-docs 3.44.0-1
@@ -4654,18 +4654,18 @@ extra kanshi 1.4.0-1
 extra kapidox 5.108.0-1
 extra kapman 23.04.3-1
 extra kapptemplate 23.04.3-1
-extra karchive 5.108.0-1
+extra karchive 5.108.0-1 [installed]
 extra kasts 23.04.3-1
 extra kasync 0.3.0-3
 extra kate 23.04.3-1
 extra katomic 23.04.3-1
-extra kauth 5.108.0-1
+extra kauth 5.108.0-1 [installed]
 extra kbackup 23.04.3-1
 extra kbfs 6.0.2-3
 extra kbibtex 1:0.10.0-2
 extra kblackbox 23.04.3-1
 extra kblocks 23.04.3-1
-extra kbookmarks 5.108.0-1
+extra kbookmarks 5.108.0-1 [installed]
 extra kbounce 23.04.3-1
 extra kbreakout 23.04.3-1
 extra kbruch 23.04.3-1
@@ -4680,23 +4680,23 @@ extra kclock 23.04.3-1
 extra kcm-fcitx 0.5.6-1
 extra kcm-wacomtablet 1:3.2.0-5
 extra kcmutils 5.108.0-1
-extra kcodecs 5.108.0-1
+extra kcodecs 5.108.0-1 [installed]
 extra kcolorchooser 23.04.3-1
 extra kcolorpicker 0.2.0-1
-extra kcompletion 5.108.0-1
-extra kconfig 5.108.0-1
+extra kcompletion 5.108.0-1 [installed]
+extra kconfig 5.108.0-1 [installed]
 extra kconfig-hardened-check 0.6.1-3
-extra kconfigwidgets 5.108.0-1
+extra kconfigwidgets 5.108.0-1 [installed]
 extra kcontacts 1:5.108.0-1
-extra kcoreaddons 5.108.0-1
+extra kcoreaddons 5.108.0-1 [installed]
 extra kcov 41-2
 extra kcptun 20230214-1
-extra kcrash 5.108.0-1
+extra kcrash 5.108.0-1 [installed]
 extra kcron 23.04.3-1
 extra kdav 1:5.108.0-1
 extra kdb 3.2.0-11
 extra kdbg 3.0.1-1
-extra kdbusaddons 5.108.0-1
+extra kdbusaddons 5.108.0-1 [installed]
 extra kde-accessibility-meta 23.04-1
 extra kde-applications-meta 23.04-1
 extra kde-cli-tools 5.27.6-1
@@ -4719,7 +4719,7 @@ extra kdebugsettings 23.04.3-1
 extra kdeclarative 5.108.0-1
 extra kdeconnect 23.04.3-1
 extra kdecoration 5.27.6-1
-extra kded 5.108.0-1
+extra kded 5.108.0-1 [installed]
 extra kdeedu-data 23.04.3-1
 extra kdegraphics-mobipocket 23.04.3-1
 extra kdegraphics-thumbnailers 23.04.3-1
@@ -4780,11 +4780,11 @@ extra kfourinline 23.04.3-1
 extra kgamma5 5.27.6-1
 extra kgeography 23.04.3-1
 extra kget 23.04.3-1
-extra kglobalaccel 5.108.0-1
+extra kglobalaccel 5.108.0-1 [installed]
 extra kgoldrunner 23.04.3-1
 extra kgpg 23.04.3-1
 extra kgraphviewer 2.4.3-4
-extra kguiaddons 5.108.0-1
+extra kguiaddons 5.108.0-1 [installed]
 extra khal 0.11.2-1
 extra khangman 23.04.3-1
 extra khard 0.18.0-2
@@ -4793,11 +4793,11 @@ extra khelpcenter 23.04.3-1
 extra kholidays 1:5.108.0-1
 extra khotkeys 5.27.6-1
 extra khtml 5.108.0-1
-extra ki18n 5.108.0-1
+extra ki18n 5.108.0-1 [installed]
 extra kicad 7.0.6-1
 extra kicad-library 7.0.6-1
 extra kicad-library-3d 7.0.6-1
-extra kiconthemes 5.108.0-1
+extra kiconthemes 5.108.0-1 [installed]
 extra kid3 3.9.4-1
 extra kid3-common 3.9.4-1
 extra kid3-qt 3.9.4-1
@@ -4814,7 +4814,7 @@ extra kimap 23.04.3-1
 extra kimtoy 1.92-3
 extra kinfocenter 5.27.6-1
 extra kinit 5.108.0-1
-extra kio 5.108.0-1
+extra kio 5.108.0-1 [installed]
 extra kio-admin 23.04.3-1
 extra kio-extras 23.04.3-1
 extra kio-fuse 5.0.1-1
@@ -4826,7 +4826,7 @@ extra kirigami2 5.108.0-1
 extra kiriki 23.04.3-1
 extra kismet 2022_08_R1-3
 extra kitemmodels 5.108.0-1
-extra kitemviews 5.108.0-1
+extra kitemviews 5.108.0-1 [installed]
 extra kiten 23.04.3-1
 extra kitinerary 23.04.3-2
 extra kitty 0.28.1-2
@@ -4834,7 +4834,7 @@ extra kitty-shell-integration 0.28.1-2
 extra kitty-terminfo 0.28.1-2
 extra kiwix-desktop 2.3.1-3
 extra kiwix-tools 3.5.0-1
-extra kjobwidgets 5.108.0-1
+extra kjobwidgets 5.108.0-1 [installed]
 extra kjots 5.1.1-1
 extra kjournald 23.04.3-1
 extra kjs 5.108.0-1
@@ -4873,7 +4873,7 @@ extra knockd 0.8-1
 extra knot 3.2.6-1
 extra knot-resolver 5.6.0-1
 extra knotes 23.04.3-1
-extra knotifications 5.108.0-1
+extra knotifications 5.108.0-1 [installed]
 extra knotifyconfig 5.108.0-1
 extra ko 0.13.0-1
 extra kodi 20.2-1
@@ -4925,7 +4925,7 @@ extra korganizer 23.04.3-1
 extra kosmindoormap 23.04.3-1
 extra kotlin 1.9.0-1
 extra kpackage 5.108.0-1
-extra kparts 5.108.0-1
+extra kparts 5.108.0-1 [installed]
 extra kpat 23.04.3-1
 extra kpeople 5.108.0-1
 extra kpeoplevcard 0.1-1
@@ -4934,7 +4934,7 @@ extra kpimtextedit 23.04.3-1
 extra kpipewire 5.27.6-1
 extra kpkpass 23.04.3-1
 extra kplotting 5.108.0-1
-extra kpmcore 23.04.3-1
+extra kpmcore 23.04.3-1 [installed]
 extra kproperty 3.2.0-3
 extra kpty 5.108.0-1
 extra kpublictransport 23.04.3-1
@@ -4959,7 +4959,7 @@ extra ksanecore 23.04.3-1
 extra kscreen 5.27.6-1
 extra kscreenlocker 5.27.6-1
 extra kseexpr 4.0.4.0-1
-extra kservice 5.108.0-1
+extra kservice 5.108.0-1 [installed]
 extra ksh 2020.0.0-3
 extra kshisen 23.04.3-1
 extra kshutdown 5.2-1
@@ -4978,7 +4978,7 @@ extra ksystemstats 5.27.6-1
 extra kteatime 23.04.3-1
 extra ktextaddons 1.3.2-1
 extra ktexteditor 5.108.0-1
-extra ktextwidgets 5.108.0-1
+extra ktextwidgets 5.108.0-1 [installed]
 extra ktikz 0.13.2-1
 extra ktimer 23.04.3-1
 extra ktimetracker 5.0.1-1
@@ -5017,7 +5017,7 @@ extra kvantum 1.0.10-1
 extra kvantum-theme-materia 20220823-1
 extra kvazaar 2.2.0-1
 extra kvirc 5.0.0-8
-extra kwallet 5.108.0-1
+extra kwallet 5.108.0-1 [installed]
 extra kwallet-pam 5.27.6-1
 extra kwalletmanager 23.04.3-1
 extra kwave 23.04.3-1
@@ -5025,23 +5025,23 @@ extra kwayland 5.108.0-1
 extra kwayland-integration 5.27.6-1
 extra kweather 23.04.3-1
 extra kweathercore 0.7-1
-extra kwidgetsaddons 5.108.0-1
+extra kwidgetsaddons 5.108.0-1 [installed]
 extra kwin 5.27.6-1
-extra kwindowsystem 5.108.0-1
+extra kwindowsystem 5.108.0-1 [installed]
 extra kwordquiz 23.04.3-1
 extra kwrited 5.27.6-1
-extra kxmlgui 5.108.0-1
+extra kxmlgui 5.108.0-1 [installed]
 extra kxstudio-lv2-extensions 2022.09.28-2
 extra kylin-nm 3.0.2-1
 extra kyotocabinet 1.2.79-1
-extra l-smash 2.14.5-3
+extra l-smash 2.14.5-3 [installed]
 extra l3afpad 0.8.18.1.11-7
 extra lablgtk2 2.18.12-3
 extra lablgtk3 3.1.3-3
 extra laborejo 2.2.2-1
 extra labplot 2.10.1-1
 extra ladspa 1.17-2
-extra lame 3.100-4
+extra lame 3.100-4 [installed]
 extra languagetool 6.2-1
 extra lapack 3.11.0-2
 extra lapack-doc 3.11.0-2
@@ -5069,7 +5069,7 @@ extra lbreakout2 2.6.5-3
 extra lbzip2 2.5-5
 extra lcalc 2.0.5-2
 extra lcdproc 0.5.9-8
-extra lcms2 2.15-1
+extra lcms2 2.15-1 [installed]
 extra lcov 2.0-2
 extra ld-lsb 3-8
 extra ldb 2:2.7.2-2
@@ -5115,11 +5115,11 @@ extra libao 1.2.2-6
 extra libappimage 1.0.4.5-4
 extra libappindicator-gtk2 12.10.0.r298-2
 extra libappindicator-gtk3 12.10.0.r298-2
-extra libass 0.17.1-1
-extra libasyncns 1:0.8+r3+g68cd5af-2
-extra libatasmart 0.19-6
+extra libass 0.17.1-1 [installed]
+extra libasyncns 1:0.8+r3+g68cd5af-2 [installed]
+extra libatasmart 0.19-6 [installed]
 extra libatomic_ops 7.8.0-1
-extra libavc1394 0.5.4-6
+extra libavc1394 0.5.4-6 [installed]
 extra libavif 0.11.1-1
 extra libavtp 0.2.0-2
 extra libaxc 0.3.7-1
@@ -5129,14 +5129,14 @@ extra libb2 0.98.1-2
 extra libb64 1.2.1-4
 extra libbf 2020.01.19-1
 extra libblastrampoline 5.8.0-1
-extra libblockdev 2.28-4
-extra libbluray 1.3.4-1
+extra libblockdev 2.28-4 [installed]
+extra libbluray 1.3.4-1 [installed]
 extra libbobcat 6.02.02-1
 extra libbraiding 1.2-1
-extra libbs2b 3.1.0-8
+extra libbs2b 3.1.0-8 [installed]
 extra libbsd 0.11.7-1
-extra libburn 1.5.6-1
-extra libbytesize 2.8-2
+extra libburn 1.5.6-1 [installed]
+extra libbytesize 2.8-2 [installed]
 extra libc++ 15.0.7-3
 extra libc++abi 15.0.7-3
 extra libcaca 0.99.beta20-2
@@ -5146,7 +5146,7 @@ extra libcamera 0.0.5-1
 extra libcamera-docs 0.0.5-1
 extra libcamera-ipa 0.0.5-1
 extra libcamera-tools 0.0.5-1
-extra libcanberra 1:0.30+r2+gc0620e4-3
+extra libcanberra 1:0.30+r2+gc0620e4-3 [installed]
 extra libcbor 0.10.2-1
 extra libcdaudio 0.99.12.p2-3
 extra libcddb 1.3.2-7
@@ -5178,11 +5178,11 @@ extra libcryptui 1:3.12.2+r71+ged4f890e-1
 extra libcss 0.9.1-6
 extra libcuckoo 0.3.1-1
 extra libcue 2.2.1-3
-extra libcups 1:2.4.6-1
+extra libcups 1:2.4.6-1 [installed]
 extra libcutefish 0.7-2
-extra libdaemon 0.14-5
+extra libdaemon 0.14-5 [installed]
 extra libdatovka 0.3.0-3
-extra libdatrie 0.2.13-4
+extra libdatrie 0.2.13-4 [installed]
 extra libdazzle 3.44.0-1
 extra libdbi 0.9.0-5
 extra libdbi-docs 0.9.0-5
@@ -5190,7 +5190,7 @@ extra libdbi-drivers 0.9.0-10
 extra libdbusmenu-glib 16.04.0.r498-1
 extra libdbusmenu-gtk2 16.04.0.r498-1
 extra libdbusmenu-gtk3 16.04.0.r498-1
-extra libdbusmenu-qt5 0.9.3+16.04.20160218-6
+extra libdbusmenu-qt5 0.9.3+16.04.20160218-6 [installed]
 extra libdbusmenu-qt6 0.9.3+16.04.20160218-6
 extra libdc1394 2.2.7-1
 extra libdca 0.0.7-2
@@ -5207,7 +5207,7 @@ extra libdmtx 0.7.7-1
 extra libdnet 1.16.4-1
 extra libdnf 0.70.1-1
 extra libdom 0.4.1-2
-extra libdrm 2.4.115-1
+extra libdrm 2.4.115-1 [installed]
 extra libdsme 0.66.8-1
 extra libdv 1.0.0-11
 extra libdvbpsi 1:1.3.3-2
@@ -5232,7 +5232,7 @@ extra libetebase 0.5.5-1
 extra libetonyek 0.1.10-3
 extra libetpan 1.9.4-3
 extra libev 4.33-2
-extra libevdev 1.13.1-1
+extra libevdev 1.13.1-1 [installed]
 extra libewf 20140608-6
 extra libexif 0.6.24-2
 extra libextractor 1.11-6
@@ -5289,7 +5289,7 @@ extra libgit2-glib-docs 1.1.0-3
 extra libglacierapp 0.9-1
 extra libglib-testing 0.1.1-1
 extra libglkterm 1.0.4-2
-extra libglvnd 1.6.0-1
+extra libglvnd 1.6.0-1 [installed]
 extra libgme 0.6.3-4
 extra libgnome-games-support 1.8.2-2
 extra libgnome-games-support-2 2.0.0-1
@@ -5309,7 +5309,7 @@ extra libgrss 0.7.0+16+g971c421-3
 extra libgsf 1.14.50-1
 extra libgsystem 2015.2+4+gd606bec-3
 extra libgtop 2.41.1-1
-extra libgudev 238-1
+extra libgudev 238-1 [installed]
 extra libguestfs 1.48.6-6
 extra libgusb 0.4.6-1
 extra libgweather-4 4.2.0-1
@@ -5326,7 +5326,7 @@ extra libhubbub 0.3.7-2
 extra libhx 4.13-1
 extra libibus 1.5.28-4
 extra libical 3.0.16-5
-extra libice 1.1.1-2
+extra libice 1.1.1-2 [installed]
 extra libicns 0.8.1-10
 extra libiconv 1.17-1
 extra libid3tag 0.15.1b-12
@@ -5334,7 +5334,7 @@ extra libident 0.32-8
 extra libidl2 0.8.14-6
 extra libidn 1.41-1
 extra libidn11 1.33-2
-extra libiec61883 1.2.0-7
+extra libiec61883 1.2.0-7 [installed]
 extra libieee1284 0.2.11-15
 extra libifp 1.0.0.2-7
 extra libigl 2.4.0-3
@@ -5342,12 +5342,12 @@ extra libiio 0.24-3
 extra libilbc 3.0.4-2
 extra libimagequant 4.1.1-1
 extra libime 1.0.17-1
-extra libimobiledevice 1.3.0-9
+extra libimobiledevice 1.3.0-9 [installed]
 extra libindi 2.0.2-1
 extra libindicator-gtk2 12.10.1-10
 extra libindicator-gtk3 12.10.1-10
 extra libinfinity 0.7.2-2
-extra libinput 1.23.0-1
+extra libinput 1.23.0-1 [installed]
 extra libinsane 1.0.10-1
 extra libinstpatch 1.1.6-2
 extra libiodbc 3.52.16-1
@@ -5355,14 +5355,14 @@ extra libiptcdata 1.0.5-2
 extra libircclient 1.10-5
 extra libirman 0.5.2-4
 extra libiscsi 1.19.0-2
-extra libisoburn 1.5.6-1
-extra libisofs 1.5.6-1
+extra libisoburn 1.5.6-1 [installed]
+extra libisofs 1.5.6-1 [installed]
 extra libixion 0.17.0-5
 extra libjaylink 0.3.1-1
 extra libjcat 0.1.14-1
-extra libjpeg-turbo 2.1.5.1-1
+extra libjpeg-turbo 2.1.5.1-1 [installed]
 extra libjpeg6-turbo 1.5.3-2
-extra libjxl 0.8.2-1
+extra libjxl 0.8.2-1 [installed]
 extra libjxl-doc 0.8.2-1
 extra libkate 0.4.1-9
 extra libkate-docs 0.4.1-9
@@ -5429,16 +5429,16 @@ extra libmediainfo 23.07-1
 extra libmemcached-awesome 1.1.4-2
 extra libmesode 0.10.1-2
 extra libmesode-doc 0.10.1-2
-extra libmfx 23.2.2-1
+extra libmfx 23.2.2-1 [installed]
 extra libmgba 0.10.2-1
 extra libmicrodns 0.2.0-1
 extra libmikmod 3.3.11.1-6
 extra libmilter 8.17.2-1
 extra libmirage 3.2.6-1
-extra libmm-glib 1.20.6-1
+extra libmm-glib 1.20.6-1 [installed]
 extra libmms 0.6.4-4
 extra libmng 2.0.3-3
-extra libmodplug 0.8.9.0-5
+extra libmodplug 0.8.9.0-5 [installed]
 extra libmodsecurity 1:3.0.9-3
 extra libmodulemd 2.15.0-1
 extra libmp3splt 0.9.2-4
@@ -5464,7 +5464,7 @@ extra libmythes 1:1.2.5-1
 extra libnatpmp 20150609-3
 extra libnautilus-extension 44.2.1-1
 extra libnautilus-extension-docs 44.2.1-1
-extra libndp 1.8-1
+extra libndp 1.8-1 [installed]
 extra libnest2d 0.4-2
 extra libnet 1:1.1.6-1
 extra libnetfilter_acct 1.0.3-3
@@ -5472,7 +5472,7 @@ extra libnetfilter_cthelper 1.0.1-1
 extra libnetfilter_cttimeout 1.0.1-1
 extra libnetfilter_log 1.0.2-1
 extra libnetfilter_queue 1.0.5-1
-extra libnewt 0.52.23-2
+extra libnewt 0.52.23-2 [installed]
 extra libnfc 1.8.0-2
 extra libnfs 5.0.2-1
 extra libnice 0.1.21-2
@@ -5480,7 +5480,7 @@ extra libnids 1.26-3
 extra libnih 1.0.3-4
 extra libnitrokey 3.8-1
 extra libnl1 1.1.4-3
-extra libnm 1.42.6-1
+extra libnm 1.42.6-1 [installed]
 extra libnma 1.10.6-2
 extra libnma-common 1.10.6-2
 extra libnma-gtk4 1.10.6-2
@@ -5499,14 +5499,14 @@ extra libodfgen 0.1.8-2
 extra libofa 0.9.3-9
 extra libofx 0.10.9-1
 extra libofx-doc 0.10.9-1
-extra libogg 1.3.5-1
+extra libogg 1.3.5-1 [installed]
 extra liboggz 1.1.1-7
 extra libolm 3.2.15-1
 extra libomemo 0.8.1-1
 extra libomemo-c 0.5.0-1
-extra libomxil-bellagio 0.9.3-4
+extra libomxil-bellagio 0.9.3-4 [installed]
 extra libopencm3 r2848.8bc48374-1
-extra libopenmpt 0.7.2-1
+extra libopenmpt 0.7.2-1 [installed]
 extra libopenraw 0.3.6-1
 extra libopenshot 0.3.2-3
 extra libopenshot-audio 0.3.2-1
@@ -5529,19 +5529,19 @@ extra libpanel-docs 1.2.0-1
 extra libpano13 2.9.21-3
 extra libpaper 2.1.1-1
 extra libparserutils 0.2.4-5
-extra libpciaccess 0.17-1
+extra libpciaccess 0.17-1 [installed]
 extra libpeas 1.36.0-2
 extra libpeas-docs 1.36.0-2
 extra libperconaserverclient 8.0.33_25-3
-extra libpgm 5.3.128-3
+extra libpgm 5.3.128-3 [installed]
 extra libphobos 1:2.104.1-1
 extra libphonenumber 1:8.13.15-1
 extra libpillowfight 0.3.0-8
 extra libpinyin 2.8.1-1
 extra libpipewire 1:0.3.74-1
 extra libplacebo 5.264.1-1
-extra libplist 2.3.0-2
-extra libpng 1.6.40-2
+extra libplist 2.3.0-2 [installed]
+extra libpng 1.6.40-2 [installed]
 extra libpng12 1.2.59-2
 extra libpoly 0.1.11-1
 extra libportal 0.6-1
@@ -5551,15 +5551,15 @@ extra libportal-gtk4 0.6-1
 extra libportal-qt5 0.6-1
 extra libpqxx 7.6.0-1
 extra libprocps 3.3.17-3
-extra libproxy 0.5.3-1
+extra libproxy 0.5.3-1 [installed]
 extra libproxy-docs 0.5.3-1
 extra libpst 0.6.76-9
 extra libpst-docs 0.6.76-9
 extra libptytty 2.0-4
-extra libpulse 16.1-6
+extra libpulse 16.1-6 [installed]
 extra libpurple 2.14.12-1
 extra libpurple-lurch 0.7.0-1
-extra libpwquality 1.4.5-3
+extra libpwquality 1.4.5-3 [installed]
 extra libqaccessibilityclient 0.4.1-2
 extra libqalculate 4.7.0-1
 extra libqb 2.0.3-1
@@ -5574,7 +5574,7 @@ extra librabbitmq-c 0.11.0-2
 extra libraqm 0.10.1-1
 extra libratbag 0.17-1
 extra libraw 0.21.1-2
-extra libraw1394 2.1.2-3
+extra libraw1394 2.1.2-3 [installed]
 extra librdkafka 2.2.0-1
 extra libre 3.2.0-1
 extra libre-graph-api 1.0.4-1
@@ -5870,12 +5870,12 @@ extra libretro-yabause 3342-1
 extra librevenge 0.0.5-2
 extra librime 1:1.8.5-3
 extra librime-data 0.0.0.20220409-1
-extra librsvg 2:2.56.2-1
+extra librsvg 2:2.56.2-1 [installed]
 extra librsvg-docs 2:2.56.2-1
 extra librsync 1:2.3.4-1
 extra librtmp0 2.4-5
 extra librttopo 1.1.0-5
-extra libsamplerate 0.2.2-2
+extra libsamplerate 0.2.2-2 [installed]
 extra libsass 3.6.5-2
 extra libsbsms 2.3.0-3
 extra libscanmem 0.17-7
@@ -5900,18 +5900,18 @@ extra libsigsegv 2.14-2
 extra libsixel 1.10.3-5
 extra libskk 1.0.5-2
 extra libslirp 4.7.0-1
-extra libsm 1.2.4-1
+extra libsm 1.2.4-1 [installed]
 extra libsmbios 2.4.3-6
 extra libsmf 1.3-11
-extra libsndfile 1.2.0-1
-extra libsodium 1.0.18-2
+extra libsndfile 1.2.0-1 [installed]
+extra libsodium 1.0.18-2 [installed]
 extra libsolv 0.7.24-1
 extra libsonic 0.2.0-1
 extra libsoup 2.74.3-1
 extra libsoup-docs 2.74.3-1
 extra libsoup3 3.4.2-1
 extra libsoup3-docs 3.4.2-1
-extra libsoxr 0.1.3-3
+extra libsoxr 0.1.3-3 [installed]
 extra libspatialite 5.0.1-3
 extra libspecbleach 0.1.6-2
 extra libspectmorph 0.5.2-4
@@ -5923,7 +5923,7 @@ extra libspnav 1.1-1
 extra libsquish 1.15-7
 extra libsrtp 1:2.5.0-1
 extra libsrtp-docs 1:2.5.0-1
-extra libssh 0.10.5-1
+extra libssh 0.10.5-1 [installed]
 extra libssh-docs 0.10.5-1
 extra libstaroffice 0.0.7-2
 extra libstatgrab 0.92.1-1
@@ -5937,14 +5937,14 @@ extra libsysprof-capture 3.48.0-2 [installed]
 extra libsysstat 0.4.6-2
 extra libtaginfo 0.2.1-4
 extra libtar 1.2.20-6
-extra libteam 1.31-8
+extra libteam 1.31-8 [installed]
 extra libteam-docs 1.31-8
 extra libtecla 1.6.3-2
 extra libtermkey 0.22-2
 extra libtg_owt 0.git22.dcb5069-1
-extra libthai 0.1.29-3
-extra libtheora 1.1.1-6
-extra libtiff 4.5.1-1
+extra libthai 0.1.29-3 [installed]
+extra libtheora 1.1.1-6 [installed]
+extra libtiff 4.5.1-1 [installed]
 extra libtiff4 3.9.7-5
 extra libtiger 0.3.4-7
 extra libtomcrypt 1.18.2-1
@@ -5964,24 +5964,24 @@ extra libuhd 4.4.0.0-2
 extra libunibreak 5.1-1
 extra libuninameslist 20221022-1
 extra libunrar 1:6.2.8-1
-extra libunwind 1.6.2-2
+extra libunwind 1.6.2-2 [installed]
 extra libupnp 1.14.17-1
 extra liburcu 0.14.0-1
 extra liburing 2.4-1
 extra libusb-compat 0.1.8-1
-extra libusbmuxd 2.0.2-3
+extra libusbmuxd 2.0.2-3 [installed]
 extra libusbsio 2.1.11-3
 extra libutempter 1.2.1-3 [installed]
 extra libutf8proc 2.8.0-1
 extra libutp r99.fda9f4b-1
-extra libuv 1.46.0-1
-extra libva 2.19.0-1
+extra libuv 1.46.0-1 [installed]
+extra libva 2.19.0-1 [installed]
 extra libva-intel-driver 2.4.1-2
 extra libva-mesa-driver 23.1.3-2
 extra libva-utils 2.18.2-1
 extra libva-vdpau-driver 0.7.4-6
 extra libvarlink 23-1
-extra libvdpau 1.5-1
+extra libvdpau 1.5-1 [installed]
 extra libvdpau-va-gl 0.4.2-3
 extra libvips 8.14.2-1
 extra libvirt 1:9.5.0-1
@@ -5995,14 +5995,14 @@ extra libvisual 0.4.2-1
 extra libvncserver 0.9.14-2
 extra libvoikko 4.3.2-2
 extra libvolk 2:3.0.0-2
-extra libvorbis 1.3.7-3
-extra libvpx 1.13.0-1
+extra libvorbis 1.3.7-3 [installed]
+extra libvpx 1.13.0-1 [installed]
 extra libvpx1.3 1.3.0-3
 extra libvterm 0.3.2-1
-extra libwacom 2.7.0-1
+extra libwacom 2.7.0-1 [installed]
 extra libwapcaplet 0.4.3-2
 extra libwbclient 4.18.4-1
-extra libwebp 1.3.1-1
+extra libwebp 1.3.1-1 [installed]
 extra libwebsockets 4.3.2-3
 extra libwhereami 0.5.0-16
 extra libwhich 1.2.0-1
@@ -6016,32 +6016,32 @@ extra libwpe 1.14.1-2
 extra libwpg 0.3.4-1
 extra libwps 0.4.14-1
 extra libwslay 1.1.1-5
-extra libx11 1.8.6-1
+extra libx11 1.8.6-1 [installed]
 extra libx86 1.1-8
-extra libx86emu 3.5-3
-extra libxau 1.0.11-2
+extra libx86emu 3.5-3 [installed]
+extra libxau 1.0.11-2 [installed]
 extra libxaw 1.0.15-1
-extra libxcb 1.15-2
-extra libxcomposite 0.4.6-1
-extra libxcursor 1.2.1-3
+extra libxcb 1.15-2 [installed]
+extra libxcomposite 0.4.6-1 [installed]
+extra libxcursor 1.2.1-3 [installed]
 extra libxcvt 0.1.2-1
-extra libxdamage 1.1.6-1
+extra libxdamage 1.1.6-1 [installed]
 extra libxdg-basedir 1.2.3-1
-extra libxdmcp 1.1.4-2
+extra libxdmcp 1.1.4-2 [installed]
 extra libxdp 1.3.1-1
-extra libxext 1.3.5-1
+extra libxext 1.3.5-1 [installed]
 extra libxfce4ui 4.18.4-1
 extra libxfce4util 4.18.1-1
-extra libxfixes 6.0.1-1
+extra libxfixes 6.0.1-1 [installed]
 extra libxfont2 2.0.6-2
-extra libxft 2.3.8-1
-extra libxi 1.8.1-1
+extra libxft 2.3.8-1 [installed]
+extra libxi 1.8.1-1 [installed]
 extra libxinerama 1.1.5-1
 extra libxisf 0.2.8-1
-extra libxkbcommon 1.5.0-1
+extra libxkbcommon 1.5.0-1 [installed]
 extra libxkbcommon-doc 1.5.0-1
-extra libxkbcommon-x11 1.5.0-1
-extra libxkbfile 1.1.2-1
+extra libxkbcommon-x11 1.5.0-1 [installed]
+extra libxkbfile 1.1.2-1 [installed]
 extra libxklavier 5.4-5
 extra libxml++ 3.2.4-1
 extra libxml++-5.0 5.0.3-1
@@ -6053,24 +6053,24 @@ extra libxml-perl 0.08-8
 extra libxmlb 0.3.11-1
 extra libxmlbird 1.2.12-2
 extra libxmlrpc 1:1.51.08-3
-extra libxmu 1.1.4-1
+extra libxmu 1.1.4-1 [installed]
 extra libxnvctrl 535.86.05-1
 extra libxp 1.0.4-2
 extra libxpm 3.5.16-1
 extra libxpresent 1.0.1-1
-extra libxrandr 1.5.3-1
-extra libxrender 0.9.11-1
+extra libxrandr 1.5.3-1 [installed]
+extra libxrender 0.9.11-1 [installed]
 extra libxres 1.2.2-1
-extra libxshmfence 1.3.2-1
-extra libxslt 1.1.38-1
+extra libxshmfence 1.3.2-1 [installed]
+extra libxslt 1.1.38-1 [installed]
 extra libxslt-docs 1.1.38-1
-extra libxss 1.2.3-4
-extra libxt 1.3.0-1
-extra libxtst 1.2.4-1
-extra libxv 1.0.12-1
+extra libxss 1.2.3-4 [installed]
+extra libxt 1.3.0-1 [installed]
+extra libxtst 1.2.4-1 [installed]
+extra libxv 1.0.12-1 [installed]
 extra libxvmc 1.0.13-2
-extra libxxf86vm 1.1.5-1
-extra libyaml 0.2.5-2
+extra libxxf86vm 1.1.5-1 [installed]
+extra libyaml 0.2.5-2 [installed]
 extra libytnef 1:2.1.2-1
 extra libyuv r2322+3aebf69d-1
 extra libzdb 3.2.3-1
@@ -6144,14 +6144,14 @@ extra lld 15.0.7-2
 extra lldb 15.0.7-3
 extra lldpd 1.0.17-1
 extra llvm 15.0.7-3
-extra llvm-libs 15.0.7-3
+extra llvm-libs 15.0.7-3 [installed]
 extra llvm14 14.0.6-3
 extra llvm14-libs 14.0.6-3
 extra lm32-elf-binutils 2.39-1
 extra lm32-elf-gcc 12.2.0-1
 extra lm32-elf-gdb 12.1-4
 extra lm32-elf-newlib 4.1.0-1
-extra lm_sensors 1:3.6.0.r41.g31d1f125-2
+extra lm_sensors 1:3.6.0.r41.g31d1f125-2 [installed]
 extra lmdb 0.9.30-3
 extra lmdbxx 1.0.0-2
 extra lmms 1.2.2-16
@@ -6493,7 +6493,7 @@ extra magma-cuda 2.7.1-8
 extra magma-hip 2.7.1-8
 extra magnum 2020.06-3
 extra magnum-plugins 2020.06-3
-extra mailcap 2.1.54-1
+extra mailcap 2.1.54-1 [installed]
 extra mailcommon 23.04.3-1
 extra mailgraph 1.14-6
 extra mailimporter 23.04.3-1
@@ -6641,7 +6641,7 @@ extra mcfly 0.8.1-1
 extra mcp-plugins 0.4.0-6
 extra mcpp 2.7.2-8
 extra mcqd 1.0.0-3
-extra md4c 0.4.8-1
+extra md4c 0.4.8-1 [installed]
 extra mda.lv2 1.2.10-1
 extra mdbook 0.4.32-2
 extra mdbook-linkcheck 0.7.7-1
@@ -6652,7 +6652,7 @@ extra mdk4 4.2-1
 extra mdns-scan 0.5-6
 extra mdp 1.0.15-2
 extra med-openmpi 4.1.1-4
-extra media-player-info 24-2
+extra media-player-info 24-2 [installed]
 extra mediaelch 2.10.0-1
 extra mediainfo 23.07-1
 extra mediainfo-gui 23.07-1
@@ -6681,7 +6681,7 @@ extra menyoki 1.7.0-1
 extra mephisto.lv2 0.18.2-3
 extra mercurial 6.5-1
 extra merkaartor 0.19.0-7
-extra mesa 23.1.3-2
+extra mesa 23.1.3-2 [installed]
 extra mesa-amber 21.3.9-4
 extra mesa-demos 9.0.0-2
 extra mesa-utils 9.0.0-2
@@ -6734,7 +6734,7 @@ extra minieap 0.93-1
 extra miniflux 2.0.45-1
 extra minikube 1.30.1-2
 extra minio 2023.07.18-1
-extra minio-client 2023.07.18-1
+extra minio-client 2023.07.18-1 [installed]
 extra minisat 2.2.1.20201216-1
 extra miniserve 0.24.0-1
 extra minisign 0.11-1
@@ -6770,7 +6770,7 @@ extra mmctl 7.10.3-1
 extra mmdblookup 1.7.1-1
 extra mmsrip 0.7.0-7
 extra mmtf-cpp 1.1.0-1
-extra mobile-broadband-provider-info 20230416-1
+extra mobile-broadband-provider-info 20230416-1 [installed]
 extra moc 1:2.5.2-8
 extra mod-lv2-extensions 2022.09.28-1
 extra mod_dnssd 0.6-9
@@ -6819,7 +6819,7 @@ extra mpc 0.34-3
 extra mpd 0.23.13-2
 extra mpdecimal 2.5.1-1
 extra mpfi 1.5.4-4
-extra mpg123 1.31.3-1
+extra mpg123 1.31.3-1 [installed]
 extra mpgtx 1.3.1-7
 extra mplayer 38412-1
 extra mpop 1.4.18-1
@@ -6834,8 +6834,8 @@ extra msmtp-mta 1.8.22-2
 extra msolve 0.5.0-1
 extra msr-tools 1.3-4
 extra mtd-utils 2.1.5-1
-extra mtdev 1.1.6-2
-extra mtools 1:4.0.43-1
+extra mtdev 1.1.6-2 [installed]
+extra mtools 1:4.0.43-1 [installed]
 extra mtpaint 3.50.09-3
 extra mtpfs 1.1-4
 extra mtr 0.95-3
@@ -6976,7 +6976,7 @@ extra netsurf-buildsystem 1.9-3
 extra netwatch 1.3.1_2-4
 extra network-manager-applet 1.32.0-3
 extra network-manager-sstp 1.3.1-2
-extra networkmanager 1.42.6-1
+extra networkmanager 1.42.6-1 [installed]
 extra networkmanager-fortisslvpn 1.4.0-2
 extra networkmanager-l2tp 1.20.8-1
 extra networkmanager-openconnect 1.2.10-1
@@ -7034,7 +7034,7 @@ extra nicotine+ 3.2.9-2
 extra nikola 8.2.4-3
 extra nikto 2.1.6-3
 extra nim 1.6.10-2
-extra ninja 1.11.1-3
+extra ninja 1.11.1-3 [installed]
 extra ninjas2 0.2.0-3
 extra ninjas2-lv2 0.2.0-3
 extra ninjas2-standalone 0.2.0-3
@@ -7164,7 +7164,7 @@ extra ocaml-stdlib-shims 0.3.0-6
 extra ocaml-topkg 1.0.7-1
 extra ocaml-zarith 1.12-7
 extra ocamlbuild 0.14.2-3
-extra ocl-icd 2.3.2-1
+extra ocl-icd 2.3.2-1 [installed]
 extra ocrad 0.28-2
 extra ocrdesktop 4.0-1
 extra ocrfeeder 0.8.5-2
@@ -7196,13 +7196,13 @@ extra onetbb 2021.9.0-1
 extra onevpl 2023.3.0-1
 extra onevpl-cpu 2023.2.0-1
 extra onevpl-intel-gpu 23.1.5-1
-extra oniguruma 6.9.8-1
+extra oniguruma 6.9.8-1 [installed]
 extra onionshare 2.6-2
 extra opam 2.1.5-1
 extra open-iscsi 2.1.9-2
 extra open-isns 0.102-2
 extra open-vm-tools 6:12.2.5-1
-extra openal 1.23.1-1
+extra openal 1.23.1-1 [installed]
 extra openal-examples 1.23.1-1
 extra openapi-diff 2.0.1-2
 extra openapi-generator 6.6.0-1
@@ -7224,7 +7224,7 @@ extra opencl-rusticl-mesa 23.1.3-2
 extra opencollada 1:1.6.68-3
 extra opencolorio 2.2.1-10
 extra openconnect 1:9.12-1
-extra opencore-amr 0.1.6-1
+extra opencore-amr 0.1.6-1 [installed]
 extra opencsg 1.5.1-1
 extra opencv 4.8.0-3
 extra opencv-cuda 4.8.0-3
@@ -7235,7 +7235,7 @@ extra opendht 1:2.5.5-1
 extra opendkim 2.11.0beta-5
 extra opendmarc 1.4.2-3
 extra opendoas 6.8.2-1
-extra openexr 3.1.9-1
+extra openexr 3.1.9-1 [installed]
 extra openfec 1.4.2.9-1
 extra openfire 4.7.5-3
 extra openfortivpn 1.20.5-1
@@ -7255,7 +7255,7 @@ extra openjdk17-doc 17.0.7.u7-1
 extra openjdk17-src 17.0.7.u7-1
 extra openjdk8-doc 8.372.u07-1
 extra openjdk8-src 8.372.u07-1
-extra openjpeg2 2.5.0-2
+extra openjpeg2 2.5.0-2 [installed]
 extra openlibm 0.8.1-1
 extra openmotif 2.3.8-3
 extra openmp 15.0.7-1
@@ -7359,7 +7359,7 @@ extra opnplug-lv2 1.0.2-9
 extra opnplug-standalone 1.0.2-9
 extra opnplug-vst 1.0.2-9
 extra optipng 0.7.7-2
-extra opus 1.4-1
+extra opus 1.4-1 [installed]
 extra opus-docs 1.4-1
 extra opus-tools 0.2-5
 extra opusfile 0.12-3
@@ -7369,7 +7369,7 @@ extra or1k-elf-gdb 12.1-4
 extra or1k-elf-newlib 4.1.0-1
 extra orbiton 2.62.6-1
 extra orbiton-gtk3 2.62.6-1
-extra orc 0.4.34-1
+extra orc 0.4.34-1 [installed]
 extra orca 44.1-1
 extra orcania 2.3.2-1
 extra os-prober 1.81-1
@@ -7435,7 +7435,7 @@ extra packer 1.9.1-1
 extra packeth 2.1-2
 extra pacman-bintrans 0.4.0-1
 extra pacman-bintrans-tools 0.4.0-1
-extra pacman-contrib 1.9.1-1
+extra pacman-contrib 1.9.1-1 [installed]
 extra pacmanlogviewer 1.5.1-1
 extra pacoloco 1.4-1
 extra pacparser 1.4.1-1
@@ -7459,7 +7459,7 @@ extra pan 0.154-1
 extra pandoc-cli 0.1.1-11
 extra pandoc-crossref 0.3.16.0-7
 extra pandoc-plot 1.7.0-17
-extra pango 1:1.50.14-1
+extra pango 1:1.50.14-1 [installed]
 extra pango-docs 1:1.50.14-1
 extra pango-perl 1.227-15
 extra pangomm 2.46.3-1
@@ -7508,7 +7508,7 @@ extra pari-seadata-small 20090618-3
 extra parley 23.04.3-1
 extra parole 4.18.0-1
 extra partclone 0.3.23-1
-extra parted 3.6-1
+extra parted 3.6-1 [installed]
 extra partimage 0.6.9-14
 extra partitionmanager 23.04.3-1
 extra pass 1.7.4-3
@@ -7553,7 +7553,7 @@ extra pcp-pmda-postgresql 6.0.5-1
 extra pcp-pmda-snmp 6.0.5-1
 extra pcsc-perl 1.4.14-13
 extra pcsc-tools 1.6.2-1
-extra pcsclite 2.0.0-1
+extra pcsclite 2.0.0-1 [installed]
 extra pd 0.54.0-1
 extra pd-gem 0.94-11
 extra pd-lua 0.11.6-1
@@ -7646,7 +7646,7 @@ extra perl-class-method-modifiers 2.15-1
 extra perl-class-methodmaker 2.24-11
 extra perl-class-singleton 1.6-1
 extra perl-class-tiny 1.008-3
-extra perl-clone 0.46-1
+extra perl-clone 0.46-1 [installed]
 extra perl-color-calc 1.074-8
 extra perl-common-sense 3.75-4
 extra perl-compress-bzip2 2.28-3
@@ -7759,9 +7759,9 @@ extra perl-email-send 2.201-4
 extra perl-email-sender 2.600-2
 extra perl-email-simple 2.218-1
 extra perl-encode-imaputf7 1.05-6
-extra perl-encode-locale 1.05-10
+extra perl-encode-locale 1.05-10 [installed]
 extra perl-env-shellwords 0.02-5
-extra perl-error 0.17029-4
+extra perl-error 0.17029-4 [installed]
 extra perl-ev 4.33-4
 extra perl-eval-closure 0.14-8
 extra perl-event-execflow 0.64-8
@@ -7787,7 +7787,7 @@ extra perl-file-find-rule 0.34-9
 extra perl-file-find-rule-perl 1.16-2
 extra perl-file-finder 0.53-7
 extra perl-file-homedir 1.006-3
-extra perl-file-listing 6.15-2
+extra perl-file-listing 6.15-2 [installed]
 extra perl-file-mimeinfo 0.33-1
 extra perl-file-mmagic 1.30-5
 extra perl-file-next 1.18-4
@@ -7836,22 +7836,22 @@ extra perl-html-element-extended 1.18-10
 extra perl-html-form 6.11-1
 extra perl-html-formatter 2.16-8
 extra perl-html-highlight 0.20-13
-extra perl-html-parser 3.81-1
+extra perl-html-parser 3.81-1 [installed]
 extra perl-html-scrubber 0.19-3
 extra perl-html-strip 2.12-1
 extra perl-html-tableextract 2.15-6
 extra perl-html-tagfilter 1.03-14
-extra perl-html-tagset 3.20-13
+extra perl-html-tagset 3.20-13 [installed]
 extra perl-html-template 2.97-8
 extra perl-html-template-expr 0.07-13
 extra perl-html-tree 5.07-2
 extra perl-http-cache-transparent 1.4-4
-extra perl-http-cookies 6.10-3
-extra perl-http-daemon 6.16-1
-extra perl-http-date 6.05-6
+extra perl-http-cookies 6.10-3 [installed]
+extra perl-http-daemon 6.16-1 [installed]
+extra perl-http-date 6.05-6 [installed]
 extra perl-http-lite 2.44-4
-extra perl-http-message 6.44-1
-extra perl-http-negotiate 6.01-11
+extra perl-http-message 6.44-1 [installed]
+extra perl-http-negotiate 6.01-11 [installed]
 extra perl-http-response-encoding 0.06-6
 extra perl-http-server-simple 0.52-4
 extra perl-ical-parser 1.21-8
@@ -7873,7 +7873,7 @@ extra perl-io-captureoutput 1.1105-4
 extra perl-io-compress-brotli 0.004001-1
 extra perl-io-digest 0.11-8
 extra perl-io-dirent 0.05-16
-extra perl-io-html 1.004-3
+extra perl-io-html 1.004-3 [installed]
 extra perl-io-multiplex 1.16-8
 extra perl-io-pager 2.10-1
 extra perl-io-pipely 0.006-1
@@ -7895,7 +7895,7 @@ extra perl-json-xs 4.03-3
 extra perl-lchown 1.01-14
 extra perl-ldap 0.68-2
 extra perl-libintl-perl 1.33-1
-extra perl-libwww 6.67-1
+extra perl-libwww 6.67-1 [installed]
 extra perl-lingua-en-inflect 1.905-3
 extra perl-lingua-en-numbers 2.03-4
 extra perl-lingua-en-numbers-ordinate 1.05-1
@@ -7919,7 +7919,7 @@ extra perl-log-any-adapter-tap 0.003003-5
 extra perl-log-log4perl 1.57-1
 extra perl-log-message 0.08-8
 extra perl-log-message-simple 0.10-8
-extra perl-lwp-mediatypes 6.04-3
+extra perl-lwp-mediatypes 6.04-3 [installed]
 extra perl-lwp-protocol-https 6.10-4
 extra perl-mail-authenticationresults 2.20230112-1
 extra perl-mail-box 3.009-1
@@ -7932,7 +7932,7 @@ extra perl-mail-sendmail 0.80-1
 extra perl-mail-spf 2.9.0-10
 extra perl-mail-spf-query 1.999.1-13
 extra perl-mail-transport-dbx 0.07-21
-extra perl-mailtools 2.21-6
+extra perl-mailtools 2.21-6 [installed]
 extra perl-marisa 0.2.6-10
 extra perl-math-base85 0.5-1
 extra perl-math-random-isaac 1.004-9
@@ -7972,7 +7972,7 @@ extra perl-net-dns-resolver-mock 1.20230216-1
 extra perl-net-dns-resolver-programmable 0.009-8
 extra perl-net-dns-sec 1.21-1
 extra perl-net-dropbox-api 1.9-11
-extra perl-net-http 6.23-1
+extra perl-net-http 6.23-1 [installed]
 extra perl-net-idn-encode 2.500-5
 extra perl-net-imap-simple 1.2212-1
 extra perl-net-ip 1.26-11
@@ -8177,11 +8177,11 @@ extra perl-time-duration 1:1.21-1
 extra perl-time-format 1.16-1
 extra perl-time-human 1.03-13
 extra perl-time-modules 2013.0912-8
-extra perl-timedate 2.33-4
+extra perl-timedate 2.33-4 [installed]
 extra perl-tk 804.036-4
 extra perl-tk-tablematrix 1.29-1
 extra perl-tree-dag-node 1.32-1
-extra perl-try-tiny 0.31-2
+extra perl-try-tiny 0.31-2 [installed]
 extra perl-type-tiny 1.016010-1
 extra perl-types-serialiser 1.01-1
 extra perl-unicode-linebreak 2019.001-5
@@ -8191,12 +8191,12 @@ extra perl-unicode-utf8simple 1.06-8
 extra perl-universal-can 1.20140328-4
 extra perl-universal-isa 1.20171012-2
 extra perl-unix-syslog 1.1-16
-extra perl-uri 5.19-1
+extra perl-uri 5.19-1 [installed]
 extra perl-user-identity 1.02-1
 extra perl-variable-magic 0.63-1
 extra perl-version-compare 0.14-6
 extra perl-www-mechanize 2.17-1
-extra perl-www-robotrules 6.02-11
+extra perl-www-robotrules 6.02-11 [installed]
 extra perl-www-sms 0.09-14
 extra perl-x11-protocol 0.56-13
 extra perl-x11-protocol-other 31-1
@@ -8207,7 +8207,7 @@ extra perl-xml-libxml-prettyprint 0.006-7
 extra perl-xml-libxml-simple 1.01-1
 extra perl-xml-libxslt 2.002001-1
 extra perl-xml-namespacesupport 1.12-5
-extra perl-xml-parser 2.46-4
+extra perl-xml-parser 2.46-4 [installed]
 extra perl-xml-regexp 0.04-5
 extra perl-xml-rss 1.62-1
 extra perl-xml-rsslite 0.17-1
@@ -8219,7 +8219,7 @@ extra perl-xml-simple 2.25-7
 extra perl-xml-smart 1.79-9
 extra perl-xml-stream 1.24-8
 extra perl-xml-twig 3.52-10
-extra perl-xml-writer 0.900-1
+extra perl-xml-writer 0.900-1 [installed]
 extra perl-xml-xpath 1.48-1
 extra perl-yaml 1.30-4
 extra perl-yaml-libyaml 0.88-1
@@ -8346,7 +8346,7 @@ extra piping-server 0.16.0-1
 extra pitivi 2023.03-2
 extra pius 3.0.0-5
 extra pixiewps 1.4.2-3
-extra pixman 0.42.2-1
+extra pixman 0.42.2-1 [installed]
 extra pixz 1.0.7-4
 extra pkcs11-helper 1.29.0-2
 extra pkgdiff 1.7.2-4
@@ -8416,10 +8416,10 @@ extra podofo-tools 0.10.1-1
 extra poedit 1:3.3.2-1
 extra poke 3.2-1
 extra polari 43.0-3
-extra polkit 122-1
+extra polkit 122-1 [installed]
 extra polkit-gnome 0.105-10
 extra polkit-kde-agent 5.27.6-1
-extra polkit-qt5 0.114.0-1
+extra polkit-qt5 0.114.0-1 [installed]
 extra polly 15.0.7-2
 extra polybar 3.6.3-3
 extra polyclipping 6.4.2-4
@@ -8440,7 +8440,7 @@ extra poppler-qt6 23.07.0-1
 extra poppler-sharp 0.0.3-5
 extra popsift 1.0.0.git3-1
 extra pork 0.99.8.1-21
-extra portaudio 1:19.7.0-2
+extra portaudio 1:19.7.0-2 [installed]
 extra portmidi 1:2.0.4-1
 extra portsmf 234-2
 extra posix 2017-3
@@ -8582,7 +8582,7 @@ extra pwgen 2.08-2
 extra pwndbg 2023.03.19-3
 extra pwru 0.0.9-2
 extra py3status 3.50-1
-extra pyalpm 0.10.6-5
+extra pyalpm 0.10.6-5 [installed]
 extra pyannotate 1.2.0-6
 extra pybind11 2.11.1-1
 extra pycharm-community-edition 2023.1.3-1
@@ -8701,7 +8701,7 @@ extra python-atomicwrites 1.4.1-3
 extra python-atpublic 4.0-1
 extra python-atspi 2.46.0-2
 extra python-attrdict 2.0.1-6
-extra python-attrs 22.2.0-3
+extra python-attrs 22.2.0-3 [installed]
 extra python-aubio 0.4.9-16
 extra python-auditwheel 5.4.0-1
 extra python-augeas 1.1.0-6
@@ -9348,10 +9348,10 @@ extra python-jsonpatch 1.33-1
 extra python-jsonpickle 3.0.1-3
 extra python-jsonpointer 2.4-1
 extra python-jsonrpclib-pelix 0.4.3.2-2
-extra python-jsonschema 4.18.3-1
+extra python-jsonschema 4.18.3-1 [installed]
 extra python-jsonschema-objects 0.4.1-2
 extra python-jsonschema-spec 0.1.3-1
-extra python-jsonschema-specifications 2023.06.1-1
+extra python-jsonschema-specifications 2023.06.1-1 [installed]
 extra python-junit-xml 1.9-7
 extra python-jupymake 0.9-18
 extra python-jupyter-client 8.3.0-1
@@ -9775,7 +9775,7 @@ extra python-pyacoustid 1.2.2-3
 extra python-pyadi-iio 0.0.15-2
 extra python-pyaes 1.6.1-10
 extra python-pyalsa 1.2.7-4
-extra python-pyaml 23.5.9-1
+extra python-pyaml 23.5.9-1 [installed]
 extra python-pyarrow 10.0.1-2
 extra python-pyasn 1.6.1-4
 extra python-pyasn1 0.4.8-8
@@ -9916,7 +9916,7 @@ extra python-pyrate-limiter 2.10.0-1
 extra python-pyrfc3339 1.1-10
 extra python-pyro 4.82-2
 extra python-pyroute2 0.7.7-2
-extra python-pyrsistent 0.19.3-3
+extra python-pyrsistent 0.19.3-3 [installed]
 extra python-pyrss2gen 1.1-15
 extra python-pysaml2 7.1.0-2
 extra python-pyscard 2.0.7-1
@@ -10100,7 +10100,7 @@ extra python-rebulk 3.2.0-2
 extra python-recommonmark 0.7.1-6
 extra python-redis 4.6.0-1
 extra python-reedsolo 1.7.0-2
-extra python-referencing 0.29.1-1
+extra python-referencing 0.29.1-1 [installed]
 extra python-reflink 0.2.1-5
 extra python-regex 2023.6.3-1
 extra python-remoto 1.2.1-3
@@ -10138,7 +10138,7 @@ extra python-rjsmin 1.2.1-2
 extra python-robot-detection 0.4.0-7
 extra python-rope 1.8.0-1
 extra python-routes 2.5.1-6
-extra python-rpds-py 0.8.8-1
+extra python-rpds-py 0.8.8-1 [installed]
 extra python-rpy2 3.5.13-1
 extra python-rpyc 5.3.1-2
 extra python-rsa 4.9-2
@@ -10402,7 +10402,7 @@ extra python-txtorcon 23.5.0-1
 extra python-typed-ast 1.5.4-2
 extra python-typeguard 4.0.0-1
 extra python-typer 0.9.0-2
-extra python-typing_extensions 4.7.1-1
+extra python-typing_extensions 4.7.1-1 [installed]
 extra python-typing_inspect 0.8.0-3
 extra python-typogrify 2.0.7-14
 extra python-tzlocal 1:5.0.1-1
@@ -10421,7 +10421,7 @@ extra python-uncertainties 3.1.7-2
 extra python-unearth 0.9.3-1
 extra python-unicodedata2 15.0.0-3
 extra python-unicorn 2.0.1-2
-extra python-unidecode 1.3.6-2
+extra python-unidecode 1.3.6-2 [installed]
 extra python-unidiff 0.7.5-2
 extra python-unittest-mixins 1.6-9
 extra python-unpaddedbase64 2.1.0-5
@@ -10522,7 +10522,7 @@ extra python-xtarfile 0.1.0-5
 extra python-xvfbwrapper 0.2.9-10
 extra python-xxhash 3.2.0-2
 extra python-y-py 0.6.0-2
-extra python-yaml 6.0-3
+extra python-yaml 6.0-3 [installed]
 extra python-yapsy 1.12.2-8
 extra python-yara 4.3.1-1
 extra python-yarg 0.1.9-10
@@ -10572,7 +10572,7 @@ extra qbe 1.1-1
 extra qbittorrent 4.5.4-1
 extra qbittorrent-nox 4.5.4-1
 extra qbs 2.0.2-1
-extra qca-qt5 2.3.6-2
+extra qca-qt5 2.3.6-2 [installed]
 extra qca-qt6 2.3.6-2
 extra qcachegrind 23.04.3-1
 extra qcad 3.28.1.0-3
@@ -10709,11 +10709,11 @@ extra qstopmotion 2.5.2-2
 extra qsynth 0.9.11-1
 extra qt-gstreamer 1.2.0-4
 extra qt5-3d 5.15.10-1
-extra qt5-base 5.15.10+kde+r135-1
+extra qt5-base 5.15.10+kde+r135-1 [installed]
 extra qt5-charts 5.15.10-1
 extra qt5-connectivity 5.15.10+kde+r4-1
 extra qt5-datavis3d 5.15.10-1
-extra qt5-declarative 5.15.10+kde+r29-1
+extra qt5-declarative 5.15.10+kde+r29-1 [installed]
 extra qt5-doc 5.15.10-1
 extra qt5-examples 5.15.10-1
 extra qt5-feedback 0.0.0.20150918-4
@@ -10721,16 +10721,16 @@ extra qt5-gamepad 5.15.10-1
 extra qt5-graphicaleffects 5.15.10-1
 extra qt5-gsettings 1.3.0-1
 extra qt5-imageformats 5.15.10+kde+r9-1
-extra qt5-location 5.15.10+kde+r4-2
+extra qt5-location 5.15.10+kde+r4-2 [installed]
 extra qt5-lottie 5.15.10-1
 extra qt5-mqtt 5.15.2-10
-extra qt5-multimedia 5.15.10+kde+r3-1
+extra qt5-multimedia 5.15.10+kde+r3-1 [installed]
 extra qt5-networkauth 5.15.10-1
 extra qt5-purchasing 5.15.10-1
 extra qt5-quick3d 5.15.10+kde+r1-1
 extra qt5-quickcontrols 5.15.10-1
 extra qt5-quickcontrols-nemo 5.7.2-1
-extra qt5-quickcontrols2 5.15.10+kde+r6-1
+extra qt5-quickcontrols2 5.15.10+kde+r6-1 [installed]
 extra qt5-quicktimeline 5.15.10-1
 extra qt5-remoteobjects 5.15.10-1
 extra qt5-script 5.15.14-2
@@ -10738,22 +10738,22 @@ extra qt5-scxml 5.15.10-1
 extra qt5-sensors 5.15.10-1
 extra qt5-serialbus 5.15.10-1
 extra qt5-serialport 5.15.10-1
-extra qt5-speech 5.15.10+kde+r1-1
-extra qt5-svg 5.15.10+kde+r8-1
+extra qt5-speech 5.15.10+kde+r1-1 [installed]
+extra qt5-svg 5.15.10+kde+r8-1 [installed]
 extra qt5-systems 5.4.0.20181230-2
-extra qt5-tools 5.15.10+kde+r3-1
-extra qt5-translations 5.15.10-1
+extra qt5-tools 5.15.10+kde+r3-1 [installed]
+extra qt5-translations 5.15.10-1 [installed]
 extra qt5-ukui-platformtheme 1.0.8-6
 extra qt5-virtualkeyboard 5.15.10-1
-extra qt5-wayland 5.15.10+kde+r52-1
-extra qt5-webchannel 5.15.10+kde+r3-1
-extra qt5-webengine 5.15.14-4
+extra qt5-wayland 5.15.10+kde+r52-1 [installed]
+extra qt5-webchannel 5.15.10+kde+r3-1 [installed]
+extra qt5-webengine 5.15.14-4 [installed]
 extra qt5-webglplugin 5.15.10-1
 extra qt5-websockets 5.15.10+kde+r2-1
 extra qt5-webview 5.15.10-1
-extra qt5-x11extras 5.15.10-1
+extra qt5-x11extras 5.15.10-1 [installed]
 extra qt5-xcb-private-headers 5.15.10+kde+r135-1
-extra qt5-xmlpatterns 5.15.10-1
+extra qt5-xmlpatterns 5.15.10-1 [installed]
 extra qt5ct 1.7-1
 extra qt5pas 2.6.2.2.6-2
 extra qt6-3d 6.5.1-1
@@ -10872,7 +10872,7 @@ extra rapydscript-ng 0.7.22-1
 extra rasqal 1:0.9.33-6
 extra rathole 0.4.8-1
 extra rauc 1.10-1
-extra rav1e 0.6.6-1
+extra rav1e 0.6.6-1 [installed]
 extra rawtherapee 1:5.9-2
 extra raylib 4.5.0-2
 extra razercfg 0.42-6
@@ -10880,11 +10880,11 @@ extra razor 2.85-18
 extra rbutil 1.5.1-1
 extra rbw 1.8.2-1
 extra rccl 5.6.0-1
-extra rclone 1.63.0-1
+extra rclone 1.63.0-1 [installed]
 extra rcs 5.10.1-1
 extra rdesktop 1.9.0-2
 extra rdma-core 44.0-2
-extra re2 1:20230301-1
+extra re2 1:20230301-1 [installed]
 extra re2c 3.0-2
 extra reactphysics3d 0.9.0-1
 extra reactphysics3d-docs 0.9.0-1
@@ -10949,7 +10949,7 @@ extra revive 1.3.2-1
 extra rfc 20221112-1
 extra rfdump 1.6-5
 extra rgbds 0.6.1-1
-extra rhash 1.4.3-1
+extra rhash 1.4.3-1 [installed]
 extra rhino 1.7.14-1
 extra rhino-javadoc 1.7.14-1
 extra rhit 1.7.2-1
@@ -11116,7 +11116,7 @@ extra rssguard 4.4.0-1
 extra rssguard-lite 4.4.0-1
 extra rst2pdf 0.100-3
 extra rstcheck 6.1.2-2
-extra rsync 3.2.7-4
+extra rsync 3.2.7-4 [installed]
 extra rt-tests 2.5-2
 extra rtaudio 5.2.0-2
 extra rtaudio-docs 5.2.0-2
@@ -11640,7 +11640,7 @@ extra sddm 0.20.0-1
 extra sddm-kcm 5.27.6-1
 extra sdedit 4.2.1-1
 extra sdl12-compat 1.2.64-1
-extra sdl2 2.28.1-1
+extra sdl2 2.28.1-1 [installed]
 extra sdl2_gfx 1:1.0.4-3
 extra sdl2_image 2.6.3-1
 extra sdl2_mixer 2.6.3-1
@@ -11703,7 +11703,7 @@ extra shake 1.0-3
 extra shapelib 1.5.0-3
 extra shards 0.17.3-2
 extra shared-color-targets 0.1.7-4
-extra shared-mime-info 2.2+13+ga2ffb28-1
+extra shared-mime-info 2.2+13+ga2ffb28-1 [installed]
 extra shared_meataxe 1.0.1-1
 extra sharutils 4.15.2-4
 extra shattered-pixel-dungeon 2.1.3-1
@@ -11764,7 +11764,7 @@ extra skktools 1.3.4-4
 extra skopeo 1.13.0-1
 extra skrooge 2.30.0-1
 extra sl 5.05-4
-extra slang 2.3.3-2
+extra slang 2.3.3-2 [installed]
 extra sleuthkit 4.12.0-1
 extra slib 3b7-1
 extra slicer-udev 2.6.0-4
@@ -11781,7 +11781,7 @@ extra slurm-llnl 22.05.8.1-1
 extra slurp 1.4.0-1
 extra smali 2.5.2-1
 extra smartdns 42-1
-extra smartmontools 7.3-1
+extra smartmontools 7.3-1 [installed]
 extra smb4k 3.2.1-1
 extra smbclient 4.18.4-1
 extra smbnetfs 0.6.3-5
@@ -11795,7 +11795,7 @@ extra sn0int 0.25.0-1
 extra snap-pac 3.0.1-2
 extra snap-sync 0.7-2
 extra snapper 0.10.5-1
-extra snappy 1.1.9-2
+extra snappy 1.1.9-2 [installed]
 extra snappy-player 1.0-9
 extra snd 23.5-1
 extra sndio 1.9.0-1
@@ -11828,14 +11828,14 @@ extra soil 1.16-5
 extra soju 0.6.2-2
 extra solaar 1.1.9-2
 extra solfege 3.23.4-7
-extra solid 5.108.0-1
+extra solid 5.108.0-1 [installed]
 extra solr 9.2.1-1
 extra songrec 0.3.2-2
 extra sonic 1.4.0-1
 extra sonic-pi 3.3.1-5
 extra sonic-visualiser 4.5.2-1
 extra sonivox 3.6.12-1
-extra sonnet 5.108.0-1
+extra sonnet 5.108.0-1 [installed]
 extra sopel 7.1.9-2
 extra soplex 6.0.3-2
 extra sops 3.7.3-1
@@ -11846,7 +11846,7 @@ extra sord-docs 0.16.14-1
 extra sound-gambit 0.7-2
 extra sound-juicer 3.40.0-1
 extra sound-theme-elementary 1.1.0-2
-extra sound-theme-freedesktop 0.8-5
+extra sound-theme-freedesktop 0.8-5 [installed]
 extra soundconverter 4.0.3-7
 extra soundfont-fluid 3.1-4
 extra soundkonverter 3.0.1-6
@@ -11874,8 +11874,8 @@ extra spectmorph-vst 0.5.2-4
 extra speech-dispatcher 0.11.4-2
 extra speedcrunch 0.12.0-3
 extra speedtest-cli 2.1.3-7
-extra speex 1.2.1-1
-extra speexdsp 1.2.1-1
+extra speex 1.2.1-1 [installed]
+extra speexdsp 1.2.1-1 [installed]
 extra spglib 2.0.2-1
 extra spice 0.15.2-1
 extra spice-gtk 0.42-3
@@ -11904,7 +11904,7 @@ extra sqlfluff 2.1.2-1
 extra sqlitebrowser 3.12.2-3
 extra sqlmap 1.7.5-1
 extra sqlx-cli 0.7.0-1
-extra squashfs-tools 4.6.1-1
+extra squashfs-tools 4.6.1-1 [installed]
 extra squashfuse 0.2.0-1
 extra squeak-vm 4.10.2.2614-6
 extra squid 6.1-1
@@ -11916,7 +11916,7 @@ extra srs-state-threads 1.9.5-1
 extra srsgui 2.0-2
 extra srslte 22.10-4
 extra srslte-avx2 22.10-4
-extra srt 1.5.2-1
+extra srt 1.5.2-1 [installed]
 extra sscg 3.0.5-1
 extra ssdeep 2.14.1-3
 extra ssfconv 1.1.1-1
@@ -12026,7 +12026,7 @@ extra suwidgets 0.3.0-1
 extra svelte-language-server 0.15.15-1
 extra svgcleaner 0.9.5-3
 extra svgpart 23.04.3-1
-extra svt-av1 1.6.0-1
+extra svt-av1 1.6.0-1 [installed]
 extra svt-hevc 1.5.1-2
 extra svt-vp9 0.3.0-2
 extra swaks 20201014.0-1
@@ -12134,14 +12134,14 @@ extra taskd 1.1.0-6
 extra taskell 1.11.4-339
 extra taskwarrior-tui 0.25.1-1
 extra tcc 0.9.27-4
-extra tcl 8.6.13-1
+extra tcl 8.6.13-1 [installed]
 extra tclap 1.2.5-1
 extra tcpdump 4.99.4-1
 extra tcpflow 1.6.1-2
 extra tcplay 3.3-2
 extra tcpreplay 4.4.3-1
 extra tcsh 6.24.10-1
-extra tdb 1.4.8-2
+extra tdb 1.4.8-2 [installed]
 extra tdlib 0.9.2-2
 extra tea 0.9.2-1
 extra tealdeer 1.6.1-1
@@ -12560,7 +12560,7 @@ extra trivy 0.43.1-1
 extra trojan 1.16.0-9
 extra trompeloeil 44-1
 extra ts-node 10.9.1-1
-extra tslib 1.22-1
+extra tslib 1.22-1 [installed]
 extra tsocks 1.8beta5-9
 extra tt-rss 2:r11545.718af52a1-1
 extra ttc-iosevka 22.0.0-1
@@ -12712,7 +12712,7 @@ extra ucblogo 6.2.4-1
 extra uchardet 0.0.8-1
 extra udftools 2.3-1
 extra udiskie 2.4.2-2
-extra udisks2 2.9.4-4
+extra udisks2 2.9.4-4 [installed]
 extra udisks2-qt5 5.0.6-1
 extra udns 0.4-5
 extra udp2raw 20230206.0-1
@@ -12780,7 +12780,7 @@ extra unuran 1.10.0-1
 extra unzip 6.0-19
 extra up 0.4-3
 extra updlockfiles 0.1.0-1
-extra upower 1.90.2-1
+extra upower 1.90.2-1 [installed]
 extra upterm 0.10.0-1
 extra uptimed 0.4.6-3
 extra upx 4.0.2-2
@@ -12795,7 +12795,7 @@ extra usb_modeswitch 2.6.1-3
 extra usbctl 1.2-2
 extra usbguard 1.1.2-2
 extra usbip 6.3-2
-extra usbmuxd 1.1.1-3
+extra usbmuxd 1.1.1-3 [installed]
 extra usbredir 0.13.0-1
 extra usbview 3.0-3
 extra usleep 1.0-6
@@ -12826,7 +12826,7 @@ extra uwufetch 2.1-1
 extra v2ray 5.7.0-1
 extra v2ray-domain-list-community 20230717050659-1
 extra v2ray-geoip 202307150415-1
-extra v4l-utils 1.24.1-2
+extra v4l-utils 1.24.1-2 [installed]
 extra v4l2loopback-dkms 0.12.7-2
 extra v4l2loopback-utils 0.12.7-2
 extra vagrant 2.3.6-1
@@ -12872,7 +12872,7 @@ extra vhs 0.5.0-1
 extra vice 3.7-1
 extra vicious 2.6.0-1
 extra vico 1.2.2-3
-extra vid.stab 1.1.1-1
+extra vid.stab 1.1.1-1 [installed]
 extra vidcutter 6.0.5.1-7
 extra viewnior 1.8-5
 extra vifm 0.13-1
@@ -12996,14 +12996,14 @@ extra vkd3d 1.7.1-1
 extra vkmark 20220318-1
 extra vlc 3.0.18-13
 extra vm.lv2 0.14.0-3
-extra vmaf 2.3.1-1
+extra vmaf 2.3.1-1 [installed]
 extra vmpk 0.8.8-1
 extra vncdotool 1.1.0-1
 extra vnstat 2.10-1
 extra vocal 2.4.2-5
 extra vokoscreen 3.6.0-1
 extra volatility3 2.4.1-2
-extra volume_key 0.3.12-8
+extra volume_key 0.3.12-8 [installed]
 extra volumeicon 0.5.1-5
 extra vorbis-tools 1.4.2-3
 extra vorbisgain 0.37-6
@@ -13027,7 +13027,7 @@ extra vulkan-extra-layers 1.3.250.0-1
 extra vulkan-extra-tools 1.3.250.0-1
 extra vulkan-headers 1:1.3.257-1
 extra vulkan-html-docs 1:1.3.257-1
-extra vulkan-icd-loader 1.3.255-1
+extra vulkan-icd-loader 1.3.255-1 [installed]
 extra vulkan-intel 23.1.3-2
 extra vulkan-mesa-layers 23.1.3-2
 extra vulkan-radeon 23.1.3-2
@@ -13067,7 +13067,7 @@ extra wavegain 1.3.1-4
 extra wavemon 0.9.4-1
 extra wavpack 5.6.0-1
 extra waybar 0.9.19-2
-extra wayland 1.22.0-1
+extra wayland 1.22.0-1 [installed]
 extra wayland-docs 1.22.0-1
 extra wayland-protocols 1.31-1
 extra wayland-utils 1.2.0-1
@@ -13099,7 +13099,7 @@ extra wezterm-shell-integration 20230712.072601.f4abf8fd-1
 extra wezterm-terminfo 20230712.072601.f4abf8fd-1
 extra wf-recorder 0.3.0-5
 extra wgcf 2.2.16-1
-extra wget 1.21.4-1
+extra wget 1.21.4-1 [installed]
 extra wgetpaste 2.33-1
 extra when 1.1.45-1
 extra whipper 0.10.0-5
@@ -13187,8 +13187,8 @@ extra wxwidgets-gtk3 3.2.2.1-2
 extra wxwidgets-qt5 3.2.2.1-2
 extra x11-ssh-askpass 1.2.4.1-7
 extra x11vnc 1:0.9.16-7
-extra x264 3:0.164.r3095.baee400-4
-extra x265 3.5-3
+extra x264 3:0.164.r3095.baee400-4 [installed]
+extra x265 3.5-3 [installed]
 extra x42-plugins 20230706-1
 extra x42-plugins-lv2 20230706-1
 extra x42-plugins-standalone 20230706-1
@@ -13211,14 +13211,14 @@ extra xca 2.4.0-3
 extra xcalib 0.10-3
 extra xcape 1.2-4
 extra xcb-imdkit 1.0.5-1
-extra xcb-proto 1.15.2-3
-extra xcb-util 0.4.1-1
+extra xcb-proto 1.15.2-3 [installed]
+extra xcb-util 0.4.1-1 [installed]
 extra xcb-util-cursor 0.1.4-1
 extra xcb-util-errors 1.0.1-1
-extra xcb-util-image 0.4.1-2
-extra xcb-util-keysyms 0.4.1-4
-extra xcb-util-renderutil 0.3.10-1
-extra xcb-util-wm 0.4.2-1
+extra xcb-util-image 0.4.1-2 [installed]
+extra xcb-util-keysyms 0.4.1-4 [installed]
+extra xcb-util-renderutil 0.3.10-1 [installed]
+extra xcb-util-wm 0.4.2-1 [installed]
 extra xcb-util-xrm 1.3-2
 extra xcftools 1.0.7-9
 extra xchm 1.35-1
@@ -13243,7 +13243,7 @@ extra xdg-desktop-portal-wlr 0.7.0-1
 extra xdg-desktop-portal-xapp 1.0.3-1
 extra xdg-user-dirs 0.18-1
 extra xdg-user-dirs-gtk 0.11-2
-extra xdg-utils 1.1.3+25+g8ae0263-1
+extra xdg-utils 1.1.3+25+g8ae0263-1 [installed]
 extra xdg-utils-cxx 1.0.1-2
 extra xdialog 2.3.1-9
 extra xdm-archlinux 0.7-2
@@ -13324,7 +13324,7 @@ extra xinetd 2.3.15.4-1
 extra xiphos 4.2.1-11
 extra xjadeo 0.8.12-3
 extra xkbsel 0.13-11
-extra xkeyboard-config 2.39-1
+extra xkeyboard-config 2.39-1 [installed]
 extra xkeycaps 2.47-3
 extra xl2tpd 1.3.18-1
 extra xloadimage 4.1-16
@@ -13411,11 +13411,11 @@ extra xorg-xman 1.1.5-3
 extra xorg-xmessage 1.0.6-1
 extra xorg-xmodmap 1.0.11-1
 extra xorg-xpr 1.1.0-1
-extra xorg-xprop 1.2.6-1
+extra xorg-xprop 1.2.6-1 [installed]
 extra xorg-xrandr 1.5.2-1
 extra xorg-xrdb 1.2.2-1
 extra xorg-xrefresh 1.0.7-1
-extra xorg-xset 1.2.5-1
+extra xorg-xset 1.2.5-1 [installed]
 extra xorg-xsetroot 1.1.3-1
 extra xorg-xvidtune 1.0.4-1
 extra xorg-xvinfo 1.1.5-1
@@ -13423,7 +13423,7 @@ extra xorg-xwayland 23.1.2-1
 extra xorg-xwd 1.0.9-1
 extra xorg-xwininfo 1.1.6-1
 extra xorg-xwud 1.0.6-1
-extra xorgproto 2023.2-1
+extra xorgproto 2023.2-1 [installed]
 extra xortool 1.0.0-1
 extra xosd 2.2.14-11
 extra xournalpp 1.1.3-1
@@ -13455,10 +13455,10 @@ extra xtmsplit 0.2-6
 extra xtrabackup 8.0.33_27-3
 extra xtrans 1.5.0-1
 extra xtrlock 2.15-1
-extra xvidcore 1.3.7-2
+extra xvidcore 1.3.7-2 [installed]
 extra xwallpaper 0.7.4-1
 extra xwax 1.9-1
-extra xxhash 0.8.1-4
+extra xxhash 0.8.1-4 [installed]
 extra xxkb 1.11.1-3
 extra yabause-gtk 0.9.15-3
 extra yabause-qt 0.9.15-3
@@ -13468,7 +13468,7 @@ extra yaegi 0.15.1-1
 extra yajl 2.1.0-5
 extra yakuake 23.04.3-1
 extra yamdi 1.9-4
-extra yaml-cpp 0.7.0-2
+extra yaml-cpp 0.7.0-2 [installed]
 extra yaml-language-server 1.13.0-1
 extra yamllint 1.32.0-1
 extra yank 1.3.0-1
@@ -13543,7 +13543,7 @@ extra zenith 0.14.0-2
 extra zenity 3.44.1-1
 extra zeroc-ice 3.7.9-1
 extra zeroc-ice-java 3.7.9-1
-extra zeromq 4.3.4-4
+extra zeromq 4.3.4-4 [installed]
 extra zerotier-one 1.10.6-2
 extra zettlr 3.0.0beta.6-1
 extra zfp 1.0.0-2
@@ -13552,7 +13552,7 @@ extra zig 0.10.1-3
 extra zigbee2mqtt 1.32.1-1
 extra zim 0.75.1-2
 extra zim-tools 3.2.0-2
-extra zimg 3.0.5-1
+extra zimg 3.0.5-1 [installed]
 extra zint 2.12.0-1
 extra zint-qt 2.12.0-1
 extra zip 3.0-10
@@ -13583,7 +13583,7 @@ extra zps 1.2.8-1
 extra zram-generator 1.1.2-1
 extra zsa-udev 2.1.3.r12.g7ce7ff3-1
 extra zsa-wally-cli 2.0.1-5
-extra zsh 5.9-4
+extra zsh 5.9-4 [installed]
 extra zsh-autosuggestions 0.7.0-2
 extra zsh-completions 0.34.0-4
 extra zsh-doc 5.9-4
@@ -13995,9 +13995,9 @@ archcraft catppuccin-gtk-theme-latte 0.5.0-1
 archcraft catppuccin-gtk-theme-macchiato 0.5.0-1
 archcraft catppuccin-gtk-theme-mocha 0.5.0-1
 archcraft cava 0.8.3-1
-archcraft ckbcomp 1.221-1
+archcraft ckbcomp 1.221-1 [installed]
 archcraft downgrade 11.3.0-1
-archcraft grub 2.06.r261.g2f4430cc0-4
+archcraft grub 2.06.r261.g2f4430cc0-4 [installed: 2:2.12rc1-1]
 archcraft gtk3-nocsd-git r82.512c2bd-1
 archcraft i3lock-color 2.13.c.4-1
 archcraft ksuperkey 0.4-2
@@ -14033,7 +14033,7 @@ archcraft wf-config 0.7.1-3
 archcraft wlogout 1.1.1-3
 archcraft wlr-randr 0.3.0-1
 archcraft xfce-polkit 0.3-1
-archcraft yay 12.1.0-1
+archcraft yay 12.1.0-1 [installed]
 chaotic-aur 1password 8.10.8-45.1
 chaotic-aur 2bwm-git 0.3.r19.g6709f22-1
 chaotic-aur 7-zip 23.01-1
@@ -14421,7 +14421,7 @@ chaotic-aur citra-canary-git r9621.2c494c74b-1
 chaotic-aur citra-git r9621.89663e0db-1
 chaotic-aur citra-qt-git r9621.89663e0db-1
 chaotic-aur ckb-next 0.6.0-1
-chaotic-aur ckbcomp 1.221-1
+chaotic-aur ckbcomp 1.221-1 [installed]
 chaotic-aur clamav-unofficial-sigs 7.2.5-1.1
 chaotic-aur clang-git 17.0.0_r468265.51c8cacafd47-1
 chaotic-aur clapper 0.5.2-1.3
@@ -17864,7 +17864,7 @@ chaotic-aur xdg-desktop-portal-wlr-git v0.7.0.r0.g776113a-1.2
 chaotic-aur xdg-ninja-git r349.33b6491-1
 chaotic-aur xdman 1:7.2.11-2
 chaotic-aur xembed-sni-proxy-git v5.26.90.r223.g8acfd6785-1
-chaotic-aur xemu-git 0.7.98.r0.g7bfb7c8537-1
+chaotic-aur xemu-git 0.7.99.r0.g158cc0d140-1
 chaotic-aur xen 4.17.2pre-2
 chaotic-aur xen-docs 4.17.2pre-2
 chaotic-aur xenia-debug-git r6934.00aba94b9-1
@@ -17935,7 +17935,7 @@ chaotic-aur yaru-sound-theme 23.04.4-1
 chaotic-aur yaru-unity-theme 23.04.4-1
 chaotic-aur yaru-xfwm4-theme 23.04.4-1
 chaotic-aur yaup-git 0.1.r4.g7ee3fdb-1.4
-chaotic-aur yay 12.1.0-1
+chaotic-aur yay 12.1.0-1 [installed]
 chaotic-aur yay-git 12.1.0.r15.g23b053b-1
 chaotic-aur yin-yang-git 3.2.4.r7.gdfc7e85-1
 chaotic-aur yosys-git 0.31+1.r12378.83c9261d6-1
@@ -18242,7 +18242,7 @@ blackarch blackarch-devtools 1:1.6-1
 blackarch blackarch-devtools-toolkit 53.e393678-2
 blackarch blackarch-installer 1.2.24-1
 blackarch blackarch-installer-debug 1.2.24-1
-blackarch blackarch-keyring 20180925-5 [installed: 20140118-3]
+blackarch blackarch-keyring 20180925-5 [installed]
 blackarch blackarch-menus 10.5244eea-3
 blackarch blackarch-mirrorlist 20230508-1
 blackarch blackarch-wallpaper 1:3.0-2
@@ -18424,7 +18424,7 @@ blackarch cisco7crack 2.f1c21dd-2
 blackarch ciscos 1.3-2
 blackarch citadel 95.3b1adbc-1
 blackarch cjexploiter 6.72b08d8-2
-blackarch ckbcomp 1.207-2
+blackarch ckbcomp 1.207-2 [installed: 1.221-1]
 blackarch clair 1732.a4ec17f6-1
 blackarch clair-debug 1732.a4ec17f6-1
 blackarch clairvoyance 2.0.6-1
@@ -23129,7 +23129,7 @@ blackarch yasca 2.1-3
 blackarch yasuo 121.994dcb1-9
 blackarch yate-bts 6.1.0-1
 blackarch yawast 1072.5e9e7a3-7
-blackarch yay 12.1.0-1
+blackarch yay 12.1.0-1 [installed]
 blackarch yay-debug 12.1.0-1
 blackarch ycrawler 0.1-6
 blackarch yersinia 0.8.2-1
@@ -23233,7 +23233,7 @@ archlinuxcn archey-git r146.b74e40br146.b74e40b-3
 archlinuxcn archey4 4.14.1.0-2
 archlinuxcn archlinux-artwork 1.6-6
 archlinuxcn archlinux-java-run 9-1
-archlinuxcn archlinuxcn-keyring 20230316-1
+archlinuxcn archlinuxcn-keyring 20230316-1 [installed]
 archlinuxcn archlinuxcn-mirrorlist-git 20230508-1
 archlinuxcn archrepo2-git 2:0.5.r18.gc003123-4
 archlinuxcn arduino-ide-bin 2.1.1-1
@@ -26157,7 +26157,7 @@ archlinuxcn xtl 0.7.5-1
 archlinuxcn xwinwrap-git r5.ec32e9b-2
 archlinuxcn yacd 0.3.8-1
 archlinuxcn yandex-browser-beta 23.3.1.906_1-3
-archlinuxcn yay 12.1.0-1
+archlinuxcn yay 12.1.0-1 [installed]
 archlinuxcn yay-debug 12.1.0-1
 archlinuxcn yay-git 12.1.0.r16.gabd398a-1
 archlinuxcn ydcv-rs-git 0.4.7.157-1
@@ -27478,7 +27478,7 @@ arch4edu wxwidgets-gtk2 3.2.2.1-1
 arch4edu xalan-java 2.7.2-3
 arch4edu xerces2-java 2.12.2-1
 arch4edu xflr5 6.57.r1431-1
-arch4edu yay 12.1.0-1
+arch4edu yay 12.1.0-1 [installed]
 arch4edu ycm-generator-git r128.b501516-1
 arch4edu zoom 5.15.3-1
 arch4edu zotero 6.0.26-1
@@ -27487,7 +27487,7 @@ endeavouros akm 23-2
 endeavouros arc-gtk-theme-eos 20221218-1
 endeavouros bashdb 5.0_1.1.2-1.1
 endeavouros calamares 22.12.3.6-3
-endeavouros ckbcomp 1.222-1
+endeavouros ckbcomp 1.222-1 [installed: 1.221-1]
 endeavouros downgrade 11.3.0-1
 endeavouros endeavouros-keyring 20230523-1
 endeavouros endeavouros-mirrorlist 23.8-1
@@ -27542,7 +27542,7 @@ endeavouros welcome 3.66-2
 endeavouros wgetpaste-eos 2.33-1
 endeavouros worm 0.3.2-1
 endeavouros yad 13.0-1.1
-endeavouros yay 12.1.0-1
+endeavouros yay 12.1.0-1 [installed]
 endeavouros zfs-dkms 2.1.12-1
 endeavouros zfs-utils 2.1.12-1
 garuda alsa-support 1-1
@@ -28085,7 +28085,7 @@ arcolinux_repo_3party checkupdates-aur 0.04-1
 arcolinux_repo_3party chrome-gnome-shell 10.1-6
 arcolinux_repo_3party chromium-widevine 1:4.10.2662.3-1
 arcolinux_repo_3party ckb-next-git 1:0.6.0.r20.g932ff431-1
-arcolinux_repo_3party ckbcomp 1.221-1
+arcolinux_repo_3party ckbcomp 1.221-1 [installed]
 arcolinux_repo_3party clapper 0.5.2-1
 arcolinux_repo_3party clipman 1.6.2-1
 arcolinux_repo_3party cmatrix-git 1.2.r110.g3112b12-1
@@ -28674,7 +28674,7 @@ arcolinux_repo_3party xmonad-log 0.1.0-3
 arcolinux_repo_3party xsnow-bin 3.5.2-1
 arcolinux_repo_3party xstarter 0.8.1-1
 arcolinux_repo_3party xtitle-git 47-1
-arcolinux_repo_3party yay 12.1.0-1
+arcolinux_repo_3party yay 12.1.0-1 [installed]
 arcolinux_repo_3party yay-bin 12.1.0-1
 arcolinux_repo_3party yay-git 12.1.0.r9.g0dcf911-1
 arcolinux_repo_3party yin-yang-git 3.2.4.r9.g42ce4da-1
@@ -28751,3 +28751,475 @@ arcolinux_repo_xlarge whatsapp-nativefier 2.2322.15-1
 arcolinux_repo_xlarge wps-office 11.1.0.11664-5
 arcolinux_repo_xlarge wps-office-mime 11.1.0.11664-5
 arcolinux_repo_xlarge zoom 5.15.3-1
+xhbp grub 2:2.06.r499.ge67a551a4-2 [installed: 2:2.12rc1-1]
+xiso calamares-app 3.3.0.230717-1
+xiso calamares-cfg 23.08-16
+xiso calamares-cfg-dev 23.08-2
+xiso calamares-g-cfg 23.08-8
+xiso calamares-g-cfg-dev 23.08-1
+xiso calamares-xfce-cfg 23.08-9
+xiso calamares-xfce-cfg-dev 23.08-1
+xiso xero-g-config-dev 23.08-1
+xiso xero-kde-config-dev 23.08-1
+xiso xero-x-config-dev 23.08-1
+xerolinux_repo adw-gtk-theme 1.1-3
+xerolinux_repo adw-gtk3 4.8-1
+xerolinux_repo adwaita-qt5-git 1.4.1.r28.g3807292-1
+xerolinux_repo adwaita-qt6-git 1.4.1.r28.g3807292-1
+xerolinux_repo aic94xx-firmware 30-9
+xerolinux_repo alacritty-themes 5.3.1-1
+xerolinux_repo albert 0.21.0-1
+xerolinux_repo alpm_octopi_utils 1.0.2-5
+xerolinux_repo alsi 0.4.9-1
+xerolinux_repo ame 4.0.3-6
+xerolinux_repo android-sdk-platform-tools 34.0.3-1
+xerolinux_repo ant-dracula-kvantum-theme-git v4.0.0.r10.ge93c5d8-1
+xerolinux_repo antimicrox 3.3.4-1
+xerolinux_repo anydesk-bin 6.2.1-2
+xerolinux_repo appimagelauncher 2.2.0-10
+xerolinux_repo archlinux-appstream-data-pamac 1:20230421-1
+xerolinux_repo aria2cd 1.3-12
+xerolinux_repo asian-fonts 2-2
+xerolinux_repo ast-firmware 501-1
+xerolinux_repo aura-bin 3.2.9-1
+xerolinux_repo auto-cpufreq 1.9.8-1
+xerolinux_repo bash-pipes 1.3.0-9
+xerolinux_repo bauh 0.10.5-1
+xerolinux_repo beautyline 1:20230603-1
+xerolinux_repo bibata-cursor-theme-bin 2.0.3-1
+xerolinux_repo biglybt 3.4.0.0-1
+xerolinux_repo blender-benchmark 3.1.0-1
+xerolinux_repo brother-dcp-t710w-lpr-bin 1.0.0-1
+xerolinux_repo btrbk 0.32.5-2
+xerolinux_repo btrfs-assistant 1.8-2
+xerolinux_repo btrfs-du 0.0.7-2
+xerolinux_repo btrfsmaintenance 0.5-2
+xerolinux_repo caffeine-ng 4.2.0-2
+xerolinux_repo candy-icons r896.45ab529-1
+xerolinux_repo candy-icons-git r1020.2e34b87-1
+xerolinux_repo catppuccin-cursors-mocha-mauve 0.2.0-1
+xerolinux_repo catppuccin-gtk-theme-mocha-mauve 0.6.1-2
+xerolinux_repo catppuccin-kde-theme-lavender-git 0.2.4.r9.g7092c04-1
+xerolinux_repo catppuccin-kde-theme-mauve-git 0.2.4.r9.g7092c04-1
+xerolinux_repo cava 0.8.3-1
+xerolinux_repo chatgpt-desktop-bin 1.0.0-1
+xerolinux_repo ckb-next 0.6.0-1
+xerolinux_repo ckbcomp 1.222-1 [installed: 1.221-1]
+xerolinux_repo corrosion-git v0.3.0.r163.g9eb2931-1
+xerolinux_repo cpu-x 4.5.3-1
+xerolinux_repo cpufetch 1.04-1
+xerolinux_repo cpuid 20230505-2
+xerolinux_repo deadbeef 1.9.5-3
+xerolinux_repo debtap 3.5.1-1
+xerolinux_repo deckmaster-bin 0.9.0-1
+xerolinux_repo downgrade 11.3.0-1
+xerolinux_repo dracula-alacritty-git r12.77aff04-1
+xerolinux_repo dracula-cursors-git v4.0.0.r19.g2d9d506-1
+xerolinux_repo dracula-icons-git 1.0.0.2d3c83ca-2
+xerolinux_repo dracula-xresources-git r12.539ef24-1
+xerolinux_repo droidcam 1:2.0.0-1
+xerolinux_repo dusk-git r772.4322d31-1
+xerolinux_repo dxvk-bin 2.2-1
+xerolinux_repo dxvk-nvapi-mingw 0.6.3-1
+xerolinux_repo edid-decode-git r654.a31e680-1
+xerolinux_repo enpass-bin 6.8.5.1173-2
+xerolinux_repo envycontrol 3.2.0-2
+xerolinux_repo exe-thumbnailer 0.10.1-1
+xerolinux_repo extension-manager 0.4.2-1
+xerolinux_repo fancontrol-gui v0.8-1
+xerolinux_repo fingerprint-gui 1.09-7
+xerolinux_repo flatseal 2.0.2-1
+xerolinux_repo fm6000 6000.1-1
+xerolinux_repo fonts-tlwg 0.7.3-1
+xerolinux_repo freedownloadmanager 6.19.1.5263-2
+xerolinux_repo ftl-sdk 0.10.1-3
+xerolinux_repo g15composer 3.4-3
+xerolinux_repo g15composer-systemd 20211101-1
+xerolinux_repo g15daemon 3.0.4-1
+xerolinux_repo g15daemon-systemd 20220705-1
+xerolinux_repo g15message 1.2-4
+xerolinux_repo g15mpd 1.0.0-3
+xerolinux_repo g15stats 3.0.3-2
+xerolinux_repo g15stats-systemd 20211101-1
+xerolinux_repo g15utils 0.2-2
+xerolinux_repo game-devices-udev 0.22-0.2
+xerolinux_repo gammy 0.9.64-4
+xerolinux_repo gconf 3.2.6+11+g07808097-10
+xerolinux_repo gdm-settings 2.1-2
+xerolinux_repo gdown 4.6.4-1
+xerolinux_repo gestures 0.3.1-1
+xerolinux_repo git-nautilus-icons 2.1.0-2
+xerolinux_repo gksu 2.0.2-6
+xerolinux_repo gnome-doc-utils 0.20.10+16+gc03cc09-3
+xerolinux_repo gnome-gesture-improvements r201.f007cac-1
+xerolinux_repo gnome-shell-extension-pop-shell-git r939.b5accce-3
+xerolinux_repo gnome-system-tools 3.0.0-6
+xerolinux_repo gnome-terminal-transparency 3.48.1-2
+xerolinux_repo gnome-x11-gesture-daemon 0.2.1-2
+xerolinux_repo gotop 4.2.0-1
+xerolinux_repo goverlay-bin 0.9.1-3
+xerolinux_repo gputest 0.7.0-1
+xerolinux_repo grub-tools 1.6.7-4
+xerolinux_repo grub2-theme-preview 2.8.0-1
+xerolinux_repo gruvbox-dark-icons-gtk 1.0.0-1
+xerolinux_repo gtk-wallpapers 0.1.0-1
+xerolinux_repo gummy 0.5.2-1
+xerolinux_repo gwe 0.15.5-3
+xerolinux_repo hardcode-fixer-git 2.0-1
+xerolinux_repo hardinfo-gtk3 0.5.1.816.g877ea2b-2
+xerolinux_repo hplip-plugin 3.23.5-1
+xerolinux_repo hw-probe 1.6.5-1
+xerolinux_repo hypnotix 3.5-1
+xerolinux_repo hypnotix-wayland 3.5-1
+xerolinux_repo icoextract 0.1.4-2
+xerolinux_repo input-devices-support 1.0.2-3
+xerolinux_repo ipw2100-fw 1.3-10
+xerolinux_repo ipw2200-fw 3.1-8
+xerolinux_repo jade-application-kit 3.5.7-2
+xerolinux_repo jamesdsp 2.6.0-3
+xerolinux_repo jellyfin-bin 10.8.10-1
+xerolinux_repo jellyfin-server-bin 10.8.10-1
+xerolinux_repo jellyfin-web-bin 10.8.10-1
+xerolinux_repo jna 5.12.0-1
+xerolinux_repo joy2key 1.6.3-4
+xerolinux_repo kalu-kde 4.4.1-2
+xerolinux_repo kde-rice 22.07-1
+xerolinux_repo konsave 2.2.0-2
+xerolinux_repo konsole-dracula-git r17.030486c-1
+xerolinux_repo kvantum-theme-catppuccin-git r5.04be2ad-1
+xerolinux_repo kvantum-theme-layan-git r71.4badb5f-1
+xerolinux_repo kvantum-theme-libadwaita-git r21.61f2e0b-1
+xerolinux_repo kvantum-theme-nordic-git 2.2.0.r52.g75dd1fc-1
+xerolinux_repo kvantum-theme-sweet-git r316.4361631-1
+xerolinux_repo kwin-bismuth-bin 3.1.4-1
+xerolinux_repo kwin-effects-burn-my-windows-git r1286.3a03c86-1
+xerolinux_repo kwin-effects-sliding-notifications 1.5.0-1
+xerolinux_repo kwin-scripts-forceblur 0.6.1-1
+xerolinux_repo lastpass 4.101.0.2-1
+xerolinux_repo latte-dock-git r6055.a0e6eae9c-1
+xerolinux_repo layan-gtk-theme-git 202305237g06370f7-1
+xerolinux_repo layan-kde-git r71.4badb5f-1
+xerolinux_repo ldmtool 0.2.5-1
+xerolinux_repo lib32-mangohud-x11 0.6.7.1-2
+xerolinux_repo lib32-simplescreenrecorder 0.4.4-1
+xerolinux_repo libbacktrace-git r75.cdb64b6-1
+xerolinux_repo libcpufeatures 0.8.0-1
+xerolinux_repo libdbusaccess-git 1.0.16.r0.g9a8b56d-1
+xerolinux_repo libdbuslog-tools-git 1.0.22.r0.g08e197e-1
+xerolinux_repo libdbuslogserver-common-git 1.0.22.r0.g08e197e-1
+xerolinux_repo libfprint-1 1.0-1
+xerolinux_repo libg15 3.0.7-4
+xerolinux_repo libg15render 3.0.4-1
+xerolinux_repo libgbinder 1.1.34-2
+xerolinux_repo libgksu 2.0.12-9
+xerolinux_repo libglibutil 1.0.71-1
+xerolinux_repo libinput-gestures 2.74-1
+xerolinux_repo libinput_gestures_qt 0.3.2+7+g0868859-1
+xerolinux_repo libkipi 23.04.3-1
+xerolinux_repo libkipi-debug 22.04.0-1
+xerolinux_repo liboobs 3.0.0-5
+xerolinux_repo libpamac 11.5.5-2
+xerolinux_repo libpamac-flatpak-plugin 11.5.5-2
+xerolinux_repo libpng15 1.5.30-1
+xerolinux_repo librist 0.2.7-1
+xerolinux_repo lightdm-settings 1.8.2-1
+xerolinux_repo lightly-git r2172.121a61e5-2
+xerolinux_repo lightlyshaders-git v2.0.0.r9.gcea07c0-1
+xerolinux_repo linux-wifi-hotspot 4.5.0-1
+xerolinux_repo lohit-fonts 2.95.5.1-2
+xerolinux_repo lxc-git lxc.5.0.0.167-1
+xerolinux_repo lxc-git-debug lxc.5.0.0.112-1
+xerolinux_repo mawk 1.3.4_20230525-1
+xerolinux_repo media-downloader 3.2.1-1
+xerolinux_repo mediaexpress 12.5-1
+xerolinux_repo mkinitcpio-firmware 1.4.0-1
+xerolinux_repo mkinitcpio-openswap 0.1.0-3
+xerolinux_repo mopidy-jellyfin 1.0.4-1
+xerolinux_repo mpv-sponsorblock 2.0.0alpha3-1
+xerolinux_repo ms-office-online 2:2.1.2-1
+xerolinux_repo mystiq 23.05.15-1
+xerolinux_repo nautilus-admin-gtk4 1.1.9.f736e9d-3
+xerolinux_repo nautilus-compare 1.1-1
+xerolinux_repo nautilus-launch 2.0.0-1
+xerolinux_repo nautilus-mediainfo 1.0.4-3
+xerolinux_repo nautilus-open-any-terminal 0.4.0-1
+xerolinux_repo nbfc 1.6.3-4
+xerolinux_repo nbfc-linux 0.1.7-3
+xerolinux_repo neo-matrix 0.6.1-2
+xerolinux_repo neovim-catppuccin 1.1.1-1
+xerolinux_repo nerd-fonts-droid-sans-mono 2.3.0-1
+xerolinux_repo nerd-fonts-hermit 2.3.0-1
+xerolinux_repo nodejs-nativefier 50.1.1-1
+xerolinux_repo noisetorch 0.12.2-2
+xerolinux_repo nomachine 8.6.1-1
+xerolinux_repo nordic-wallpapers 22.02-1
+xerolinux_repo noto-color-emoji-fontconfig 1.0.0-1
+xerolinux_repo nvflash 5.792-1
+xerolinux_repo obs-pipewire-audio-capture-bin 1.1.0-1
+xerolinux_repo ocenaudio-bin 3.12.4-1
+xerolinux_repo ocs-url 3.1.0-7
+xerolinux_repo octopi 0.14.0-4
+xerolinux_repo octopi-notifier-noknotify 0.14.0-1
+xerolinux_repo octopi-notifier-qt5 0.14.0-4
+xerolinux_repo olivia r847.e66086d-1
+xerolinux_repo openrazer-daemon 3.6.1-2
+xerolinux_repo openrazer-driver-dkms 3.6.1-2
+xerolinux_repo openrazer-meta 3.6.1-2
+xerolinux_repo optimus-manager 1.5-3
+xerolinux_repo optimus-manager-qt 1.6.9-3
+xerolinux_repo orchis-kde-theme-git r47.1fb7c7d-1
+xerolinux_repo os-prober-btrfs 1.79-5
+xerolinux_repo otf-material-icons-git 4.0.0.r60.gc764ca99a5f-1
+xerolinux_repo otf-nerd-fonts-fira-code 2.3.0-1
+xerolinux_repo otf-nerd-fonts-monacob-mono 3.0.2-1
+xerolinux_repo otf-nerd-fonts-victor-mono 2.3.0-1
+xerolinux_repo pace 1.4.2-1
+xerolinux_repo pacseek-bin 1.7.10-2
+xerolinux_repo pacui 1.14-1
+xerolinux_repo pamac-cli 11.0.0-1
+xerolinux_repo pamac-gnome-integration 11.0.1-2
+xerolinux_repo pamac-gtk 11.0.1-2
+xerolinux_repo pamac-tray-icon-plasma 0.1.3-5
+xerolinux_repo papirus-folders-catppuccin-git r22.fcf96737-1
+xerolinux_repo paru-bin 1.11.2-1
+xerolinux_repo pfetch 0.6.0-3
+xerolinux_repo phoronix-test-suite 10.8.4-1
+xerolinux_repo pipes.sh 1.3.0-1
+xerolinux_repo pipewire-support 1.1-3
+xerolinux_repo plank-themes 23.05-1
+xerolinux_repo plasma5-applets-panon 0.4.6-2
+xerolinux_repo plex-media-player 2.58.1-3
+xerolinux_repo pm2ml 2021.11.20.1-14
+xerolinux_repo pnpm 7.17.0-1
+xerolinux_repo pop-launcher-git 1.2.1.r47.gce2ba21-3
+xerolinux_repo pop-shell-plugin-system76-power-git 1.2.1.r47.gce2ba21-3
+xerolinux_repo pop-shell-shortcuts-git 1:r30.52cc83f-3
+xerolinux_repo powerpill 2021.11-14
+xerolinux_repo prime 1.0-14
+xerolinux_repo printer-support 1-5
+xerolinux_repo properties-cpp 0.0.2-2
+xerolinux_repo pulseway-bin 8.11-1
+xerolinux_repo pulxc-git r24.e4ead74-1
+xerolinux_repo python-cinemagoer 2023.05.01-1
+xerolinux_repo python-cssutils 2.7.1-1
+xerolinux_repo python-gbinder 1.1.1-3
+xerolinux_repo python-gevent-eventemitter 2.1-3
+xerolinux_repo python-injector 0.20.1-2
+xerolinux_repo python-inputs 0.5-3
+xerolinux_repo python-isounidecode 0.3-3
+xerolinux_repo python-material-color-utilities 0.1.5-1
+xerolinux_repo python-mediainfodll 1:17.10-1
+xerolinux_repo python-npyscreen 4.10.5-1
+xerolinux_repo python-openrazer 3.6.1-2
+xerolinux_repo python-polib 1.2.0-1
+xerolinux_repo python-pulsectl 1:23.5.2-1
+xerolinux_repo python-py3nvml 0.2.7-1
+xerolinux_repo python-pysdl2 0.9.16-1
+xerolinux_repo python-screeninfo 0.8.1-1
+xerolinux_repo python-steam 1.4.4-1
+xerolinux_repo python-system_hotkey 1:1.0.5-1
+xerolinux_repo python-vdf 3.4-2
+xerolinux_repo python-vlc 3.0.18122-1
+xerolinux_repo python3-memoizedb 2021-2
+xerolinux_repo python3-xcgf 2021-14
+xerolinux_repo python3-xcpf 2021.12-13
+xerolinux_repo pywal-git 3.3.0.r134.g236aa48-1
+xerolinux_repo qjoypad 4.3.1-1
+xerolinux_repo qt5-webkit 5.212.0alpha4-20
+xerolinux_repo qtscrcpy 2.1.2-1
+xerolinux_repo qtscrcpy-docs 2.1.2-1
+xerolinux_repo quickemu 4.8-1
+xerolinux_repo quickgui-bin 1.2.8-1
+xerolinux_repo radiotray 0.7.3-16
+xerolinux_repo rarian 0.8.1-7
+xerolinux_repo rate-mirrors-bin 0.16.2-1
+xerolinux_repo realvnc-vnc-server 7.5.1-1
+xerolinux_repo realvnc-vnc-viewer 7.5.1-1
+xerolinux_repo repoctl 0.21-3
+xerolinux_repo rtl8821ce-dkms-git 1.0.5.r158.ga478095-1
+xerolinux_repo rtw89-dkms-git 1:r529.8f8efa6-1
+xerolinux_repo samba-support 1-4
+xerolinux_repo sayonara-player 1.7.0_stable3-1
+xerolinux_repo scanner-support 1-5
+xerolinux_repo sdbus-cpp 1.2.0-2
+xerolinux_repo sdbus-cpp-doc 1.2.0-2
+xerolinux_repo sengi-bin 1.6.3-2
+xerolinux_repo shell-color-scripts 1.1.r113.576735c-1
+xerolinux_repo shell-gpt 0.9.3-3
+xerolinux_repo siji-git r23.c691f20-2
+xerolinux_repo simplescreenrecorder 0.4.4-2
+xerolinux_repo simplex-chat-bin 1:5.1.3-1
+xerolinux_repo snap-pac-grub 2.0.2-1
+xerolinux_repo snapper-support 1.1.2-2
+xerolinux_repo spotify-adblock 1:1.0.2-1
+xerolinux_repo spotify-adblock-git 1:1.0.2.r4.g22847a7-1
+xerolinux_repo statusnotifier 1.0.0-1
+xerolinux_repo sublime-merge 2085-1
+xerolinux_repo sublime-text-4 4.4143-4
+xerolinux_repo sweet-cursors-theme-git r326.ba87cef-1
+xerolinux_repo sweet-folders-icons-git r14.b2192ff-1
+xerolinux_repo sweet-kvantum-theme-git r326.ba87cef-1
+xerolinux_repo syngestures 1.0.1-3
+xerolinux_repo system-tools-backends 2.10.2-5
+xerolinux_repo system76-power 1.1.25-1
+xerolinux_repo systemd-boot-pacman-hook 3-1
+xerolinux_repo systemd-kcm 1.2.1-5
+xerolinux_repo systemd-manager-git 1.0.0.r12.g4efeb47-1
+xerolinux_repo taglib-extras 1.0.1-8
+xerolinux_repo tela-blue-icon-theme-git 2023.01.29.r12.g513bbdc9-1
+xerolinux_repo tela-circle-icon-theme-black-git 2023.06.25.r5.g3314a6a5-1
+xerolinux_repo tela-circle-icon-theme-blue-git 2023.06.25.r5.g3314a6a5-1
+xerolinux_repo tela-circle-icon-theme-brown-git 2023.06.25.r5.g3314a6a5-1
+xerolinux_repo tela-circle-icon-theme-dracula-git 2023.06.25.r5.g3314a6a5-1
+xerolinux_repo tela-circle-icon-theme-green-git 2023.06.25.r5.g3314a6a5-1
+xerolinux_repo tela-circle-icon-theme-grey-git 2023.06.25.r5.g3314a6a5-1
+xerolinux_repo tela-circle-icon-theme-manjaro-git 2023.06.25.r5.g3314a6a5-1
+xerolinux_repo tela-circle-icon-theme-nord-git 2023.06.25.r5.g3314a6a5-1
+xerolinux_repo tela-circle-icon-theme-orange-git 2023.06.25.r5.g3314a6a5-1
+xerolinux_repo tela-circle-icon-theme-pink-git 2023.06.25.r5.g3314a6a5-1
+xerolinux_repo tela-circle-icon-theme-purple-git 2023.06.25.r5.g3314a6a5-1
+xerolinux_repo tela-circle-icon-theme-red-git 2023.06.25.r5.g3314a6a5-1
+xerolinux_repo tela-circle-icon-theme-standard-git 2023.06.25.r5.g3314a6a5-1
+xerolinux_repo tela-circle-icon-theme-ubuntu-git 2023.06.25.r5.g3314a6a5-1
+xerolinux_repo tela-circle-icon-theme-yellow-git 2023.06.25.r5.g3314a6a5-1
+xerolinux_repo tela-purple-icon-theme-git 2023.01.29.r12.g513bbdc9-1
+xerolinux_repo tempus-themes-xfce4-terminal-git 0.5.0.r12.gc58c907-1
+xerolinux_repo text-engine 0.1.1-3
+xerolinux_repo thunar-archive-plugin-zstd 0.5.0-1
+xerolinux_repo thunar-custom-actions 0.0.22-1
+xerolinux_repo thunar-extended 4.18.4-1
+xerolinux_repo thunar-secure-delete 0.9.2-1
+xerolinux_repo thunar-shares-plugin 1:0.3.2-1
+xerolinux_repo thunar-vcs-plugin 0.2.0-1
+xerolinux_repo timeshift 23.07.1-1
+xerolinux_repo timeshift-autosnap 0.9-1
+xerolinux_repo timeshift-support 0.2-2
+xerolinux_repo tlauncher 1:1.155.3-1
+xerolinux_repo topgrade 12.0.0-1
+xerolinux_repo treefetch-bin 2.0.0-1
+xerolinux_repo ttf-hactor 20220307-1
+xerolinux_repo ttf-meslo-nerd-font-powerlevel10k 2.3.3-1
+xerolinux_repo ttf-ms-fonts 2.0-12
+xerolinux_repo ttf-muli 3.000-2
+xerolinux_repo ttf-unifont 15.0.06-1
+xerolinux_repo ttf-wps-fonts 1.0-5
+xerolinux_repo tty-clock-git 1:2.3.r40.f2f847c-2
+xerolinux_repo twitch-dl-bin 2.1.3-1
+xerolinux_repo ufetch-git v0.1.r26.21f22c2-1
+xerolinux_repo universal-android-debloater-bin 0.5.1-1
+xerolinux_repo upd72020x-fw 1.0.0-1
+xerolinux_repo update-grub 0.0.1-8
+xerolinux_repo uwufetch-git 2.1.r27.gb1c8d51-1
+xerolinux_repo v4l2loopback-dc-dkms 1:2.0.0-1
+xerolinux_repo vala-panel 0.5.0-2
+xerolinux_repo vala-panel-appmenu-common-git 0.7.6.r28.g76442be-1
+xerolinux_repo vala-panel-appmenu-registrar-git 0.7.6.r28.g76442be-1
+xerolinux_repo vala-panel-appmenu-valapanel-git 0.7.6.r28.g76442be-1
+xerolinux_repo vala-panel-appmenu-xfce-git 0.7.6.r28.g76442be-1
+xerolinux_repo ventoy-bin 1.0.93-1
+xerolinux_repo virt-manager-meta 5-2
+xerolinux_repo virtualbox-ext-oracle 7.0.8-1
+xerolinux_repo virtualbox-meta 2-2
+xerolinux_repo vivaldi-widevine 1:4.10.2652.0-1
+xerolinux_repo vmware-keymaps 1.0-3
+xerolinux_repo vmware-unlocker-bin 4.2.5-1
+xerolinux_repo wallpaper-engine-plasma 0.5.4-4
+xerolinux_repo waybar-hyprland-git 0.9.17.r99.g473eb098-1
+xerolinux_repo waydroid 1.4.1-1
+xerolinux_repo waydroid-settings 22.1217-10
+xerolinux_repo wd719x-firmware 1-7
+xerolinux_repo webapp-manager 1.3.2-1
+xerolinux_repo wine-installer 5.0.3-2
+xerolinux_repo wine-meta 2-1
+xerolinux_repo wineasio 1.1.0-7
+xerolinux_repo woeusb-ng 0.2.12-3
+xerolinux_repo woeusbgui 3.3.1-3
+xerolinux_repo wttr 1.55.r0.g36893b1-1
+xerolinux_repo xdman 1:7.2.11-2
+xerolinux_repo xero-catppuccin-sddm 1.1-1
+xerolinux_repo xero-catppuccin-wallpapers 23.06-1
+xerolinux_repo xero-fix-scripts 1.3-3
+xerolinux_repo xero-g-config 23.08-9
+xerolinux_repo xero-kde-config 23.08-6
+xerolinux_repo xero-pride-wallpapers-git 23.07-2
+xerolinux_repo xero-xfce-config 23.08-5
+xerolinux_repo xerolinux-mirrorlist 0.1.3-3
+xerolinux_repo xerolinux-rollback-git 0.1.34-1
+xerolinux_repo xerowelcome 1.2.6-7
+xerolinux_repo xfce4-panel-profiles 1.0.14-1
+xerolinux_repo yay-bin 12.1.0-1
+xerolinux_repo yt-dlg 1.8.5-1
+xerolinux_repo yt-dlp-drop-in 1.1-1
+xerolinux_repo zafiro-icon-theme 1.3-3
+xerolinux_repo zafiro-icon-theme-git 1.3.r40.geb4691f-2
+xerolinux_repo zramd 0.9.2-1
+xerolinux_repo_xl airdroid-nativefier 1-1
+xerolinux_repo_xl amarok 2.9.71-5
+xerolinux_repo_xl aocc 4.0.0-1
+xerolinux_repo_xl aocl-aocc 4.0-2
+xerolinux_repo_xl aocl-gcc 4.0-2
+xerolinux_repo_xl bluemail 1.137.2-1
+xerolinux_repo_xl chatbox-bin 0.6.2-1
+xerolinux_repo_xl decklink 12.5-1
+xerolinux_repo_xl etcher-bin 1.18.11-1
+xerolinux_repo_xl freeoffice 1064-1
+xerolinux_repo_xl geekbench 6.1.0-1
+xerolinux_repo_xl jellyfin-ffmpeg6-bin 6.0-4
+xerolinux_repo_xl kde-wallpapers 22.12-1
+xerolinux_repo_xl mercury-browser-bin 115.1.0-1
+xerolinux_repo_xl nerd-fonts-gabmus 3.0.1-3
+xerolinux_repo_xl nerd-fonts-sarasa-mono 2.2.1-1
+xerolinux_repo_xl plex-media-server 1.32.4.7195-1
+xerolinux_repo_xl spotify 1:1.1.84.716-12
+xerolinux_repo_xl tabby-bin 1.0.197-1
+xerolinux_repo_xl teamviewer 15.43.7-1
+xerolinux_repo_xl tela-circle-icon-theme-all-git 2023.06.25.r5.g3314a6a5-1
+xerolinux_repo_xl vmware-workstation 17.0.2-1
+xerolinux_repo_xl whalebird-bin 5.0.7-1
+xerolinux_repo_xl xero-fonts-git 1.0-2
+xerolinux_repo_xl xfce-backgrounds 23.05-2
+alter-stable alterlinux-desktop-file 1.9-1
+alter-stable alterlinux-fcitx-conf 1.1-2
+alter-stable alterlinux-gtk-bookmarks 1.9-1
+alter-stable alterlinux-i3-manager 1.51-3
+alter-stable alterlinux-keyring 20201117-2
+alter-stable alterlinux-live-info 1.9-1
+alter-stable alterlinux-live-tools 1.9-1
+alter-stable alterlinux-mirrorlist 20211010-1
+alter-stable alterlinux-plasma-bookmarks 1.9-1
+alter-stable alterlinux-welcome-page 1.9-1
+alter-stable archlinux32-keyring 20220131-1
+alter-stable dummy 1.0-1
+alter-stable fascode-gtk-bookmarks 1.9-1
+alter-stable filesystem 2021.09.03-1 [installed: 2023.01.31-1]
+alter-stable lsd-control 1.2-1
+Redecorating-t2 apple-gmux-t2-dkms-git r11.712c9d0-1
+Redecorating-t2 apple-ibridge-dkms-git r307.467df9b-2
+Redecorating-t2 apple-t2-audio-config 0.3-2
+Redecorating-t2 gpu-switch static.test.r9.gffe82d6-1
+Redecorating-t2 linux-t2 6.3.8-1
+Redecorating-t2 linux-t2-docs 6.3.8-1
+Redecorating-t2 linux-t2-headers 6.3.8-1
+arch-mact2 apple-bcm-firmware 13.0-1
+arch-mact2 apple-bcm-wifi-firmware 12.0-1
+arch-mact2 apple-gmux-t2-dkms-git r11.712c9d0-1
+arch-mact2 apple-t2-audio-config 0.3-2
+arch-mact2 calamares-eos-t2 22.12.3.7-1
+arch-mact2 calamares_config_ce_t2 22.09.2.3-4
+arch-mact2 calamares_config_t2 22.09.2.3-4
+arch-mact2 calamares_current_t2 22.04.1.4-1
+arch-mact2 gpu-switch static.test.r9.gffe82d6-1
+arch-mact2 jade-t2 1.2.9-1
+arch-mact2 linux-t2-test 6.0.6-1
+arch-mact2 linux-t2-test-docs 6.0.6-1
+arch-mact2 linux-t2-test-headers 6.0.6-1
+arch-mact2 linux-xanmod-edge-t2 6.2.1-1
+arch-mact2 linux-xanmod-edge-t2-headers 6.2.1-1
+arch-mact2 linux-xanmod-lts-t2 6.1.38-1
+arch-mact2 linux-xanmod-lts-t2-headers 6.1.38-1
+arch-mact2 linux-xanmod-t2 6.4.3-1
+arch-mact2 linux-xanmod-t2-headers 6.4.3-1
+arch-mact2 t2fand 1.2.0-1
+arch-mact2 t2strap 1.3.1-1
+arch-mact2 touchbard 1.2.1-1
+arch-mact2 welcome-t2 3.17.31-2
