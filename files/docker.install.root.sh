@@ -37,6 +37,9 @@ pacman-key --init
 pacman-key --recv-key FBA220DFC880C036 --keyserver keyserver.ubuntu.com
 pacman-key --lsign-key FBA220DFC880C036
 
+pacman-key --recv-key 3056513887B78AEB --keyserver keyserver.ubuntu.com
+pacman-key --lsign-key 3056513887B78AEB
+
 # arch4edu
 pacman-key --recv-keys 7931B6D628C8D3BA
 pacman-key --finger 7931B6D628C8D3BA
