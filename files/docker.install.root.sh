@@ -9,7 +9,9 @@ export TERM=xterm-256color
 echo $PROJECT_NAME
 cd $CMD_PATH
 env
+
 # 1 pacman.conf
+cp -fv ./mirrorlist /etc/pacman.d/mirrorlist
 cp -fv ./pacman.conf1 /etc/pacman.conf
 cp -fv ./alterlinux-mirrorlist /etc/pacman.d/alterlinux-mirrorlist
 sed -i 's/^#Server/Server/' /etc/pacman.d/mirrorlist
