@@ -139,7 +139,7 @@ pacman --noconfirm --noprogressbar --needed -Syyu base-devel
 
 pacman -Syyu --noconfirm
 pacman -Scc --noconfirm
-mkdit -p /opt/9138packages
+mkdir -p /opt/9138packages
 git config --global user.email "gnuhub@gmail.com"
 git config --global user.name "gnuhub"
 cd /opt/9138packages
