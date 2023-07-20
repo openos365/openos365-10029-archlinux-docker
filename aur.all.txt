@@ -6379,6 +6379,8 @@ bindmap-git
 bindtointerface
 binfetch-git
 binfmt-java
+binfmt-perl
+binfmt-python
 binfmt-qemu
 binfmt-qemu-all-arch
 binfmt-qemu-loongarch64-static
@@ -25270,6 +25272,7 @@ gcviewer-git
 gcw0-toolchain
 gd-git
 gd-headless
+gd-tools-git
 gd32-dfu-utils
 gd32-isp-console-bin
 gdal-curl
@@ -32119,6 +32122,7 @@ hib-dlagent-git
 hibe
 hibernate-script
 hibernator
+hibernator-git
 hibiscus
 hibiscus-nightly
 hiccup-git
@@ -34304,6 +34308,7 @@ implay-bin
 implicitcad
 import
 importenv
+importenv-bin
 impose+
 imposm
 imposm-parser-git
@@ -37869,6 +37874,8 @@ keytool-bash-autocomplete
 keytouch
 keytouch-editor
 keyutils-git
+keyviz
+keyviz-deb
 kf5-doc-qch
 kf5-git-meta
 kf5-kio-ftps
@@ -42632,6 +42639,7 @@ libosmocore-nosystemd-git
 libosmosdr-git
 libosmpbf
 libosmpbf-git
+libosmscout-git
 libosp-bin
 libosso
 libotr-ng-git
@@ -45797,6 +45805,7 @@ lstv
 lsuio
 lsvine
 lsvkdev
+lsvkdev-bin
 lsw
 lswt
 lswt-git
@@ -54745,6 +54754,7 @@ node-build
 node-fanyi
 node-hp-scan-to
 node-prune
+node-snapdrop-electron-bin
 node-spellchecker
 node-webkit
 node14
@@ -55520,6 +55530,7 @@ notify-osd-git
 notify-osd-syaoran
 notify-send-py
 notify-send-rs
+notify-send-rs-bin
 notify-send.sh
 notify-sharp
 notify-sharp-git
@@ -68347,6 +68358,7 @@ ptxdist-2018.12
 ptyget-bin
 ptypes
 ptyspawn
+ptyspawn-bin
 puae-git
 pubip
 public-inbox
@@ -70512,6 +70524,7 @@ python-crossbar
 python-crossplane
 python-crossrefapi
 python-crowdin-api-client
+python-crudini
 python-cruzdb
 python-cryptg
 python-cryptodatahub
@@ -90970,6 +90983,7 @@ ros-noetic-hdl-graph-slam-git
 ros-noetic-hector-gazebo-plugins
 ros-noetic-hls-lfcd-lds-driver
 ros-noetic-image-common
+ros-noetic-image-exposure-msgs
 ros-noetic-image-geometry
 ros-noetic-image-pipeline
 ros-noetic-image-proc
@@ -90987,6 +91001,9 @@ ros-noetic-interactive-marker-twist-server
 ros-noetic-interactive-markers
 ros-noetic-interactive-slam-git
 ros-noetic-ivcon
+ros-noetic-jackal-control
+ros-noetic-jackal-msgs
+ros-noetic-jackal-navigation
 ros-noetic-joint-limits-interface
 ros-noetic-joint-state-controller
 ros-noetic-joint-state-publisher
@@ -91105,6 +91122,8 @@ ros-noetic-plotjuggler-ros
 ros-noetic-pluginlib
 ros-noetic-pluginlib-tutorials
 ros-noetic-pointcloud-to-laserscan
+ros-noetic-pointgrey-camera-description
+ros-noetic-pointgrey-camera-driver
 ros-noetic-polled-camera
 ros-noetic-position-controllers
 ros-noetic-pr2-common
@@ -91249,6 +91268,7 @@ ros-noetic-self-test
 ros-noetic-sensor-msgs
 ros-noetic-serial
 ros-noetic-shape-msgs
+ros-noetic-sick-tim
 ros-noetic-simulators
 ros-noetic-slam-gmapping
 ros-noetic-slime-ros
@@ -91264,6 +91284,7 @@ ros-noetic-spacenav-node
 ros-noetic-srdfdom
 ros-noetic-stage
 ros-noetic-stage-ros
+ros-noetic-statistics-msgs
 ros-noetic-std-msgs
 ros-noetic-std-srvs
 ros-noetic-stereo-image-proc
@@ -91319,6 +91340,7 @@ ros-noetic-tuw-multi-robot-msgs
 ros-noetic-tuw-nav-msgs
 ros-noetic-tuw-object-msgs
 ros-noetic-tuw-vehicle-msgs
+ros-noetic-twist-mux
 ros-noetic-unique-id
 ros-noetic-unique-identifier
 ros-noetic-urdf
@@ -91329,6 +91351,9 @@ ros-noetic-urdf-tutorial
 ros-noetic-urdfdom-py
 ros-noetic-uuid-msgs
 ros-noetic-velocity-controllers
+ros-noetic-velodyne-description
+ros-noetic-velodyne-gazebo-plugins
+ros-noetic-velodyne-simulator
 ros-noetic-video-stream-opencv
 ros-noetic-vision-msgs
 ros-noetic-vision-opencv
@@ -91340,6 +91365,7 @@ ros-noetic-viz
 ros-noetic-voxel-grid
 ros-noetic-warehouse-ros
 ros-noetic-webkit-dependency
+ros-noetic-wfov-camera-msgs
 ros-noetic-wiimote
 ros-noetic-wu-ros-tools
 ros-noetic-xacro
@@ -95509,6 +95535,7 @@ sheepshaver
 sheepshaver-git
 sheerdns-ng
 sheikah-witnet-wallet-appimage
+sheikah-witnet-wallet-bin
 shelby-bin
 shelby-git
 sheldon
@@ -95763,6 +95790,7 @@ shutter
 shutter-bzr
 shutter-encoder
 shutter-encoder-appimage
+shutter-encoder-bin
 shutter-git
 shutthefetchup-git
 shuttle
@@ -96116,6 +96144,7 @@ simple-utilities
 simple-viewer-gl
 simple-viewer-gl-git
 simple-weather-indicator
+simple-web-server
 simple-web-server-appimage
 simple2
 simple2d
@@ -96325,6 +96354,7 @@ sixcells
 sixel-tmux-git
 sixfireusb-dkms
 sixgrid-appimage
+sixgrid-bin
 sixpair
 sixtyfps-lsp
 siyuan
@@ -97039,6 +97069,7 @@ sniffglue-git
 sniffjoke
 sniffles
 sniffnet
+sniffnet-glow
 snip
 snipes-git
 snipesharp
@@ -97190,6 +97221,7 @@ sofia-woodwinds
 sofia-woodwinds-bin
 sofia-woodwinds-vst
 sofie-chef-appimage
+sofie-chef-bin
 sofirem-git
 soft-serve
 soft-serve-git
@@ -99579,6 +99611,7 @@ superflu-riteurnz
 supergfxctl
 supergfxctl-git
 superglue
+superglue-bin
 supergzdoom
 superhackertool5000-git
 superhexagon
@@ -102508,6 +102541,7 @@ timecamp
 timecamp-bin
 timecop-bin
 timedatectl-restorer
+timedctl
 timedoctorpro
 timegen
 timeglass-bin
@@ -105460,6 +105494,7 @@ tuxedo-backlight-control-git
 tuxedo-cc-wmi
 tuxedo-control-center
 tuxedo-control-center-bin
+tuxedo-control-center-runit
 tuxedo-keyboard
 tuxedo-keyboard-dkms
 tuxedo-keyboard-ite
@@ -106141,6 +106176,7 @@ unarelith-git
 unbird
 unblob-git
 unblockneteasemusic-bin
+unblockneteasemusic-golang-git
 unblur
 unbound-bible
 unbound-block-hosts
@@ -113525,6 +113561,8 @@ xvile
 xvisbell
 xvkbd
 xvolkolak
+xvsdk
+xvsdk-viewer
 xvst
 xwacomcalibrate
 xwallpaper
@@ -113906,6 +113944,8 @@ yay-powerpill-git
 yayfzf
 yayim
 yaze
+yazi
+yazi-git
 ybacklight
 ycash-bin
 ycat
