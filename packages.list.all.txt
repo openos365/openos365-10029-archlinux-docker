@@ -150,9 +150,9 @@ core libxml2 2.11.4-1 [installed]
 core libxml2-docs 2.11.4-1
 core licenses 20220125-2 [installed]
 core links 2.29-1
-core linux 6.4.4.arch1-1
+core linux 6.4.5.arch1-1
 core linux-api-headers 6.3-1 [installed]
-core linux-docs 6.4.4.arch1-1
+core linux-docs 6.4.5.arch1-1
 core linux-firmware 20230625.ee91452d-4
 core linux-firmware-bnx2x 20230625.ee91452d-4
 core linux-firmware-liquidio 20230625.ee91452d-4
@@ -162,7 +162,7 @@ core linux-firmware-nfp 20230625.ee91452d-4
 core linux-firmware-qcom 20230625.ee91452d-4
 core linux-firmware-qlogic 20230625.ee91452d-4
 core linux-firmware-whence 20230625.ee91452d-4
-core linux-headers 6.4.4.arch1-1
+core linux-headers 6.4.5.arch1-1
 core linux-lts 6.1.39-1
 core linux-lts-docs 6.1.39-1
 core linux-lts-headers 6.1.39-1
@@ -293,7 +293,7 @@ extra acme-user 1.0.1-1
 extra acme.sh 3.0.6-1
 extra acorn 1:8.9.0-1
 extra acpi 1.7-3
-extra acpi_call 1.2.2-141
+extra acpi_call 1.2.2-142
 extra acpi_call-dkms 1.2.2-1
 extra acpi_call-lts 1.2.2-131
 extra acpica 20221020-1
@@ -677,8 +677,8 @@ extra bat-extras 2023.06.15-1
 extra batctl 2023.0-1
 extra bazel 6.2.1-1
 extra bbpager 0.4.7-9
-extra bbswitch 0.8-609
-extra bbswitch-dkms 0.8-609
+extra bbswitch 0.8-610
+extra bbswitch-dkms 0.8-610
 extra bc 1.07.1-4
 extra bcc 0.28.0-1
 extra bcc-tools 0.28.0-1
@@ -810,7 +810,7 @@ extra bridge-utils 1.7.1-1
 extra brightnessctl 0.5.1-2
 extra brltty 6.5-5
 extra brltty-udev-generic 6.5-5
-extra broadcom-wl 6.30.223.271-485
+extra broadcom-wl 6.30.223.271-486
 extra broadcom-wl-dkms 6.30.223.271-36
 extra brook 20221010-1
 extra broot 1.24.2-1
@@ -1375,7 +1375,7 @@ extra debootstrap 1.0.128-1
 extra deepin-account-faces 1.0.13-1
 extra deepin-album 6.0.2-1
 extra deepin-anything 5.0.18-1
-extra deepin-anything-arch 6.1.2-7
+extra deepin-anything-arch 6.1.2-8
 extra deepin-anything-dkms 5.0.18-1
 extra deepin-api 5.5.32-1
 extra deepin-app-services 0.0.22-1
@@ -6115,9 +6115,9 @@ extra linux-rt-lts 6.1.38.12.realtime1-2
 extra linux-rt-lts-docs 6.1.38.12.realtime1-2
 extra linux-rt-lts-headers 6.1.38.12.realtime1-2
 extra linux-tools-meta 6.3-2
-extra linux-zen 6.4.4.zen1-1
-extra linux-zen-docs 6.4.4.zen1-1
-extra linux-zen-headers 6.4.4.zen1-1
+extra linux-zen 6.4.5.zen1-1
+extra linux-zen-docs 6.4.5.zen1-1
+extra linux-zen-headers 6.4.5.zen1-1
 extra linuxconsole 1.8.1-1
 extra linuxdoc-tools 0.9.82-2
 extra linuxsampler 2.2.0-3
@@ -6965,7 +6965,7 @@ extra netcdf-openmpi 4.9.2-3
 extra netcf 0.2.8-8
 extra netctl 1.28-2
 extra netdata 1.41.0-1
-extra netfilter-fullconenat r73.0cf3b48-306
+extra netfilter-fullconenat r73.0cf3b48-307
 extra nethack 3.6.7-5
 extra nethogs 0.8.7-1
 extra netpbm 10.73.43-1
@@ -7121,12 +7121,12 @@ extra nushell 0.82.0-1
 extra nuspell 5.1.2-3
 extra nut 2.8.0-3
 extra nvchecker 2.12-1
-extra nvidia 535.86.05-2
+extra nvidia 535.86.05-3
 extra nvidia-cg-toolkit 3.1-6
 extra nvidia-dkms 535.86.05-2
 extra nvidia-lts 1:535.86.05-2
-extra nvidia-open 535.86.05-2
-extra nvidia-open-dkms 535.86.05-2
+extra nvidia-open 535.86.05-3
+extra nvidia-open-dkms 535.86.05-3
 extra nvidia-prime 1.0-4
 extra nvidia-settings 535.86.05-1
 extra nvidia-utils 535.86.05-2
@@ -10846,7 +10846,7 @@ extra qxmpp-qt6 1.5.5-1
 extra r 4.3.1-2
 extra r10k 3.15.2-1
 extra r2ghidra 5.8.4-1
-extra r8168 8.051.02-54
+extra r8168 8.051.02-55
 extra r8168-lts 8.051.02-45
 extra rabbitmq 3.12.0-1
 extra rabbitmqadmin 3.12.0-1
@@ -12527,7 +12527,7 @@ extra touchegg 2.0.16-1
 extra towncrier 22.12.0-3
 extra toxcore 1:0.2.18-2
 extra toxic 0.11.3-3
-extra tp_smapi 0.43+r3+g35be4ab-7
+extra tp_smapi 0.43+r3+g35be4ab-8
 extra tp_smapi-lts 0.43-327
 extra tpacpi-bat 3.1-3
 extra tpm2-abrmd 3.0.0-1
@@ -12868,8 +12868,8 @@ extra vegeta 12.10.0-1
 extra veracrypt 1.25.9-4
 extra verdict 1.4.1-1
 extra verilator 5.012-1
-extra vhba-module 20211218-136
-extra vhba-module-dkms 20211218-136
+extra vhba-module 20211218-137
+extra vhba-module-dkms 20211218-137
 extra vhs 0.6.0-1
 extra vice 3.7-1
 extra vicious 2.6.0-1
@@ -12982,7 +12982,7 @@ extra virtualbox-guest-iso 7.0.10-1
 extra virtualbox-guest-utils 7.0.10-1
 extra virtualbox-guest-utils-nox 7.0.10-1
 extra virtualbox-host-dkms 7.0.10-1
-extra virtualbox-host-modules-arch 7.0.10-2
+extra virtualbox-host-modules-arch 7.0.10-3
 extra virtualbox-sdk 7.0.10-1
 extra virtualgl 3.1-1
 extra vis 0.8-1
@@ -17255,7 +17255,7 @@ chaotic-aur sshs 3.4.0-1
 chaotic-aur st 0.9-4
 chaotic-aur stacer 1.1.0-1.4
 chaotic-aur stacer-git 1.1.0.r108.g0f24534-1.3
-chaotic-aur standardnotes-bin 3.166.9-1
+chaotic-aur standardnotes-bin 3.167.7-1
 chaotic-aur startgame 1.2.3-1.3
 chaotic-aur steam-boilr-gui 1.7.22-2
 chaotic-aur steam-metadata-editor-git 1.0.2.r64.2f6dc3b-1
@@ -17983,7 +17983,7 @@ chaotic-aur zimg-git 3.0.3.132.g71394bd-1
 chaotic-aur zlib-ng 2.1.3-1
 chaotic-aur zlib-ng-git r2257.cf89cf35-1
 chaotic-aur zmusic 1.1.12-1
-chaotic-aur zoom 5.15.3-1
+chaotic-aur zoom 5.15.5-1
 chaotic-aur zotero-bin 6.0.26-1
 chaotic-aur zpaq 7.15-1
 chaotic-aur zramswap 5-1
@@ -28776,7 +28776,7 @@ xerolinux_repo adw-gtk-theme 1.1-3
 xerolinux_repo adw-gtk3 4.8-1
 xerolinux_repo adwaita-qt5-git 1.4.1.r28.g3807292-1
 xerolinux_repo adwaita-qt6-git 1.4.1.r28.g3807292-1
-xerolinux_repo aic94xx-firmware 30-9
+xerolinux_repo aic94xx-firmware 30-10
 xerolinux_repo alacritty-themes 5.3.1-1
 xerolinux_repo albert 0.21.0-1
 xerolinux_repo alpm_octopi_utils 1.0.2-5
