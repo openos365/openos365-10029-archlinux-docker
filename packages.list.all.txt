@@ -768,7 +768,7 @@ extra bmake 20230622-1
 extra bmkdep 20140112-4
 extra bmon 4.0-4
 extra bmusb 0.7.6-2
-extra bnfc 2.9.4.1-11
+extra bnfc 2.9.4.1-12
 extra bogofilter 1.2.5-8
 extra boinc 7.22.1-1
 extra boinc-nox 7.22.1-1
@@ -1481,9 +1481,9 @@ extra dgen-sdl 1.33-4
 extra dhall 1.41.2-74
 extra dhall-bash 1.0.40-180
 extra dhall-docs 1.0.11-12
-extra dhall-json 1.7.11-85
-extra dhall-lsp-server 1.1.2-99
-extra dhall-yaml 1.2.11-85
+extra dhall-json 1.7.11-86
+extra dhall-lsp-server 1.1.2-100
+extra dhall-yaml 1.2.11-86
 extra dhclient 4.4.3.P1-2
 extra dhcp 4.4.3.P1-2
 extra dhcp-helper 1.2-2
@@ -3050,7 +3050,7 @@ extra haskell-aeson-casing 0.2.0.0-48
 extra haskell-aeson-diff 1.1.0.13-51
 extra haskell-aeson-pretty 0.8.9-135
 extra haskell-aeson-qq 0.8.4-135
-extra haskell-aeson-yaml 1.1.0.1-137
+extra haskell-aeson-yaml 1.1.0.1-138
 extra haskell-algebraic-graphs 0.7-64
 extra haskell-alsa-core 0.5.0.1-17
 extra haskell-alsa-mixer 0.3.0-73
@@ -3158,7 +3158,7 @@ extra haskell-chunked-data 0.3.1-231
 extra haskell-ci 0.12.1-431
 extra haskell-cipher-aes 0.2.11-304
 extra haskell-cipher-aes128 0.7.0.6-7
-extra haskell-citeproc 0.8.1-39
+extra haskell-citeproc 0.8.1-40
 extra haskell-clash-lib 1.6.4-76
 extra haskell-clash-prelude 1.6.4-58
 extra haskell-classy-prelude 1.5.0.2-72
@@ -3174,7 +3174,7 @@ extra haskell-colour 2.3.6-170
 extra haskell-colourista 0.1.0.2-18
 extra haskell-commonmark 0.2.3-1
 extra haskell-commonmark-extensions 0.2.3.4-5
-extra haskell-commonmark-pandoc 0.2.1.3-26
+extra haskell-commonmark-pandoc 0.2.1.3-27
 extra haskell-commutative-semigroups 0.1.0.1-1
 extra haskell-comonad 5.0.8-186
 extra haskell-concise 0.1.0.1-463
@@ -3423,7 +3423,7 @@ extra haskell-hackage-db 2.1.3-6
 extra haskell-hackage-security 0.6.2.3-40
 extra haskell-haddock-library 1.10.0-222
 extra haskell-hadrian 0.1.0.0-102
-extra haskell-hakyll 4.16.0.0-10
+extra haskell-hakyll 4.16.0.0-11
 extra haskell-half 0.3.1-131
 extra haskell-happstack-server 7.8.0.2-10
 extra haskell-hashable 1.4.2.0-23
@@ -3750,11 +3750,11 @@ extra haskell-optparse-simple 0.1.1.4-250
 extra haskell-ordered-containers 0.2.3-1
 extra haskell-ormolu 0.3.0.0-64
 extra haskell-pager 0.1.1.0-7
-extra haskell-pandoc 3.1.2-9
-extra haskell-pandoc-lua-engine 0.2-8
-extra haskell-pandoc-lua-marshal 0.2.2-11
-extra haskell-pandoc-server 0.1-79
-extra haskell-pandoc-types 1.23-24
+extra haskell-pandoc 3.1.2-10
+extra haskell-pandoc-lua-engine 0.2-9
+extra haskell-pandoc-lua-marshal 0.2.2-12
+extra haskell-pandoc-server 0.1-80
+extra haskell-pandoc-types 1.23-25
 extra haskell-pango 0.13.8.2-51
 extra haskell-panic 0.4.0.1-24
 extra haskell-pantry 0.5.7-124
@@ -3963,7 +3963,7 @@ extra haskell-streams 3.3.2-11
 extra haskell-strict 0.4.0.1-160
 extra haskell-strict-list 0.1.7.1-5
 extra haskell-string-conversions 0.4.0.1-151
-extra haskell-string-qq 0.0.4-190
+extra haskell-string-qq 0.0.4-191
 extra haskell-stringbuilder 0.5.1-372
 extra haskell-stringsearch 0.3.6.6-24
 extra haskell-structured 0.1.1-134
@@ -4015,7 +4015,7 @@ extra haskell-test-framework-leancheck 0.0.4-88
 extra haskell-test-framework-quickcheck2 0.3.0.5-584
 extra haskell-test-framework-smallcheck 0.2-236
 extra haskell-test-framework-th 0.2.4-219
-extra haskell-texmath 0.12.7-3
+extra haskell-texmath 0.12.7-4
 extra haskell-text-ansi 0.2.1.1-4
 extra haskell-text-binary 0.2.1.1-26
 extra haskell-text-builder 0.6.7-69
@@ -7458,9 +7458,9 @@ extra pam_mount 2.19-2
 extra pam_wrapper 1.1.4-4
 extra pamixer 1.6-2
 extra pan 0.154-1
-extra pandoc-cli 0.1.1-11
-extra pandoc-crossref 0.3.16.0-7
-extra pandoc-plot 1.7.0-17
+extra pandoc-cli 0.1.1-12
+extra pandoc-crossref 0.3.16.0-8
+extra pandoc-plot 1.7.0-18
 extra pango 1:1.50.14-1 [installed]
 extra pango-docs 1:1.50.14-1
 extra pango-perl 1.227-15
@@ -14546,7 +14546,7 @@ chaotic-aur deluge-git 1:2.1.1.dev61.g800111062-1
 chaotic-aur dendrite 0.13.1-1
 chaotic-aur denise 2.0-1
 chaotic-aur densify 0.3.1-3.3
-chaotic-aur depot-tools-git r9752.756439323-1
+chaotic-aur depot-tools-git r9753.d3e43dd43-1
 chaotic-aur deskreen 2.0.4-3
 chaotic-aur desmume-git 0.9.11.r1929.50f02ae17-1
 chaotic-aur detwinner 0.4.2-2.1
@@ -17296,8 +17296,8 @@ chaotic-aur supertuxkart-git 23148+18575-1
 chaotic-aur surf-git 2.1.r10.g665a709-1.3
 chaotic-aur surfn-icons-git 1:22.10.01.r16.ge9beb1e7-1
 chaotic-aur svt-av1-git 1.6.0.r0.g08c18ba0-1
-chaotic-aur sway-git r7165.6bd11ad0d-1
-chaotic-aur sway-git-debug r7165.6bd11ad0d-1
+chaotic-aur sway-git r7165.6bd11ad0-1
+chaotic-aur sway-git-debug r7165.6bd11ad0-1
 chaotic-aur sway-launcher-desktop 1.6.0-1
 chaotic-aur swaybg-git r128.a67361e-1
 chaotic-aur swayfx 0.3.2-1
