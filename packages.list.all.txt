@@ -17,7 +17,7 @@ core brotli-testdata 1.0.9-12
 core btrfs-progs 6.3.2-1
 core bzip2 1.0.8-5 [installed]
 core ca-certificates 20220905-1 [installed]
-core ca-certificates-mozilla 3.91-1 [installed]
+core ca-certificates-mozilla 3.92-1 [installed]
 core ca-certificates-utils 20220905-1 [installed]
 core coreutils 9.3-1 [installed]
 core cracklib 2.9.11-1 [installed]
@@ -150,9 +150,9 @@ core libxml2 2.11.4-1 [installed]
 core libxml2-docs 2.11.4-1
 core licenses 20220125-2 [installed]
 core links 2.29-1
-core linux 6.4.6.arch1-1
+core linux 6.4.7.arch1-1
 core linux-api-headers 6.3-1 [installed]
-core linux-docs 6.4.6.arch1-1
+core linux-docs 6.4.7.arch1-1
 core linux-firmware 20230625.ee91452d-5
 core linux-firmware-bnx2x 20230625.ee91452d-5
 core linux-firmware-liquidio 20230625.ee91452d-5
@@ -162,7 +162,7 @@ core linux-firmware-nfp 20230625.ee91452d-5
 core linux-firmware-qcom 20230625.ee91452d-5
 core linux-firmware-qlogic 20230625.ee91452d-5
 core linux-firmware-whence 20230625.ee91452d-5
-core linux-headers 6.4.6.arch1-1
+core linux-headers 6.4.7.arch1-1
 core linux-lts 6.1.39-1
 core linux-lts-docs 6.1.39-1
 core linux-lts-headers 6.1.39-1
@@ -191,7 +191,7 @@ core nfsidmap 2.6.3-1
 core nilfs-utils 2.2.9-2
 core npth 1.6-4 [installed]
 core nspr 4.35-1 [installed]
-core nss 3.91-1 [installed]
+core nss 3.92-1 [installed]
 core openldap 2.6.4-2
 core openssh 9.3p2-1 [installed]
 core openssl 3.1.1-1 [installed]
@@ -293,7 +293,7 @@ extra acme-user 1.0.1-1
 extra acme.sh 3.0.6-1
 extra acorn 1:8.9.0-1
 extra acpi 1.7-3
-extra acpi_call 1.2.2-143
+extra acpi_call 1.2.2-144
 extra acpi_call-dkms 1.2.2-1
 extra acpi_call-lts 1.2.2-131
 extra acpica 20221020-1
@@ -677,8 +677,8 @@ extra bat-extras 2023.06.15-1
 extra batctl 2023.0-1
 extra bazel 6.3.0-1
 extra bbpager 0.4.7-9
-extra bbswitch 0.8-611
-extra bbswitch-dkms 0.8-611
+extra bbswitch 0.8-612
+extra bbswitch-dkms 0.8-612
 extra bc 1.07.1-4
 extra bcc 0.28.0-1
 extra bcc-tools 0.28.0-1
@@ -810,7 +810,7 @@ extra bridge-utils 1.7.1-1
 extra brightnessctl 0.5.1-2
 extra brltty 6.5-5
 extra brltty-udev-generic 6.5-5
-extra broadcom-wl 6.30.223.271-487
+extra broadcom-wl 6.30.223.271-488
 extra broadcom-wl-dkms 6.30.223.271-36
 extra brook 20221010-1
 extra broot 1.24.2-1
@@ -1375,7 +1375,7 @@ extra debootstrap 1.0.128-1
 extra deepin-account-faces 1.0.13-1
 extra deepin-album 6.0.2-1
 extra deepin-anything 5.0.18-1
-extra deepin-anything-arch 6.1.2-9
+extra deepin-anything-arch 6.1.2-10
 extra deepin-anything-dkms 5.0.18-1
 extra deepin-api 5.5.32-1
 extra deepin-app-services 0.0.22-1
@@ -1774,7 +1774,7 @@ extra eolie 0.9.101-4
 extra eom 1.26.0-1
 extra ephoto 1.6.0-2
 extra epic4 2.10.10-5
-extra epiphany 44.5-1
+extra epiphany 44.6-1
 extra eq10q 2.2-5
 extra erdtree 3.1.2-1
 extra erfa 2.0.0-2
@@ -2902,7 +2902,7 @@ extra gsmartcontrol 1.1.4-1
 extra gsoap 2.8.129-1
 extra gsocket 1.4.40-1
 extra gsound 1.0.3-3
-extra gspell 1.12.1-2
+extra gspell 1.12.2-1
 extra gss 1.0.4-1
 extra gssdp 1.6.2-1
 extra gssdp-docs 1.6.2-1
@@ -6119,9 +6119,9 @@ extra linux-rt-lts 6.1.38.12.realtime1-2
 extra linux-rt-lts-docs 6.1.38.12.realtime1-2
 extra linux-rt-lts-headers 6.1.38.12.realtime1-2
 extra linux-tools-meta 6.3-2
-extra linux-zen 6.4.6.zen1-1
-extra linux-zen-docs 6.4.6.zen1-1
-extra linux-zen-headers 6.4.6.zen1-1
+extra linux-zen 6.4.7.zen1-1
+extra linux-zen-docs 6.4.7.zen1-1
+extra linux-zen-headers 6.4.7.zen1-1
 extra linuxconsole 1.8.1-1
 extra linuxdoc-tools 0.9.82-2
 extra linuxsampler 2.2.0-3
@@ -6970,7 +6970,7 @@ extra netcdf-openmpi 4.9.2-3
 extra netcf 0.2.8-8
 extra netctl 1.28-2
 extra netdata 1.41.0-1
-extra netfilter-fullconenat r73.0cf3b48-308
+extra netfilter-fullconenat r73.0cf3b48-309
 extra nethack 3.6.7-5
 extra nethogs 0.8.7-1
 extra netpbm 10.73.43-1
@@ -7126,12 +7126,12 @@ extra nushell 0.83.0-1
 extra nuspell 5.1.2-3
 extra nut 2.8.0-3
 extra nvchecker 2.12-2
-extra nvidia 535.86.05-4
+extra nvidia 535.86.05-5
 extra nvidia-cg-toolkit 3.1-6
 extra nvidia-dkms 535.86.05-2
 extra nvidia-lts 1:535.86.05-2
-extra nvidia-open 535.86.05-4
-extra nvidia-open-dkms 535.86.05-4
+extra nvidia-open 535.86.05-5
+extra nvidia-open-dkms 535.86.05-5
 extra nvidia-prime 1.0-4
 extra nvidia-settings 535.86.05-1
 extra nvidia-utils 535.86.05-2
@@ -10851,7 +10851,7 @@ extra qxmpp-qt6 1.5.5-1
 extra r 4.3.1-2
 extra r10k 3.15.2-1
 extra r2ghidra 5.8.4-1
-extra r8168 8.051.02-56
+extra r8168 8.051.02-57
 extra r8168-lts 8.051.02-45
 extra rabbitmq 3.12.0-1
 extra rabbitmqadmin 3.12.0-1
@@ -12533,7 +12533,7 @@ extra touchegg 2.0.16-1
 extra towncrier 22.12.0-3
 extra toxcore 1:0.2.18-2
 extra toxic 0.11.3-3
-extra tp_smapi 0.43+r3+g35be4ab-9
+extra tp_smapi 0.43+r3+g35be4ab-10
 extra tp_smapi-lts 0.43-327
 extra tpacpi-bat 3.1-3
 extra tpm2-abrmd 3.0.0-1
@@ -12874,8 +12874,8 @@ extra vegeta 12.10.0-1
 extra veracrypt 1.25.9-4
 extra verdict 1.4.1-1
 extra verilator 5.012-1
-extra vhba-module 20211218-138
-extra vhba-module-dkms 20211218-138
+extra vhba-module 20211218-139
+extra vhba-module-dkms 20211218-139
 extra vhs 0.6.0-1
 extra vice 3.7-1
 extra vicious 2.6.0-1
@@ -12988,7 +12988,7 @@ extra virtualbox-guest-iso 7.0.10-1
 extra virtualbox-guest-utils 7.0.10-1
 extra virtualbox-guest-utils-nox 7.0.10-1
 extra virtualbox-host-dkms 7.0.10-1
-extra virtualbox-host-modules-arch 7.0.10-4
+extra virtualbox-host-modules-arch 7.0.10-5
 extra virtualbox-sdk 7.0.10-1
 extra virtualgl 3.1-1
 extra vis 0.8-1
@@ -13816,7 +13816,7 @@ multilib lib32-mpg123 1.31.3-1
 multilib lib32-ncurses 6.4_20230520-1
 multilib lib32-nettle 3.9.1-1
 multilib lib32-nspr 4.35-1
-multilib lib32-nss 3.91-1
+multilib lib32-nss 3.92-1
 multilib lib32-nvidia-cg-toolkit 3.1-8
 multilib lib32-nvidia-utils 535.86.05-1
 multilib lib32-ocl-icd 2.3.2-1
