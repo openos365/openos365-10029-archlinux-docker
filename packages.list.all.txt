@@ -2558,7 +2558,7 @@ extra gitlab-shell 3:14.23.0-1
 extra gitolite 3.6.13-1
 extra gitoxide 0.28.0-1
 extra gitprompt-rs 0.3.0-1
-extra gitsign 0.6.0-1
+extra gitsign 0.7.1-1
 extra gitui 0.23.0-3
 extra givaro 4.2.0-1
 extra gjs 2:1.76.2-1
@@ -6634,10 +6634,10 @@ extra mauikit-texteditor 3.0.0-1
 extra mauiman 1.1.0-1
 extra maven 3.8.7-1
 extra maxcso 1.13.0-2
-extra maxima 5.47.0-2
-extra maxima-ecl 5.47.0-2
-extra maxima-fas 5.47.0-2
-extra maxima-sbcl 5.47.0-2
+extra maxima 5.47.0-3
+extra maxima-ecl 5.47.0-3
+extra maxima-fas 5.47.0-3
+extra maxima-sbcl 5.47.0-3
 extra mb2md 3.20-6
 extra mbedtls 3.4.0-3
 extra mbedtls2 2.28.3-3
@@ -11605,7 +11605,7 @@ extra sassc 3.6.2-3
 extra sauerbraten 2020_12_29-1
 extra sauerbraten-data 2020_12_29-1
 extra sbc 2.0-1
-extra sbcl 2.3.5-1
+extra sbcl 2.3.7-1
 extra sbctl 0.11-1
 extra sbsigntools 0.9.5-1
 extra sbt 1:1.8.1-1
@@ -14668,11 +14668,11 @@ chaotic-aur elm-bin 0.19.1-1
 chaotic-aur elm-format-bin 0.8.5-1
 chaotic-aur elm-language-server 2.7.0-1
 chaotic-aur elm-platform-bin 0.19.1-2
-chaotic-aur emacs-git 30.0.50.167102-1
+chaotic-aur emacs-git 30.0.50.167107-1
 chaotic-aur emacs-git-noway-widgets 30.0.50.167102-1
 chaotic-aur emacs-ng 30.0.50-5
 chaotic-aur emacs-ng-git 1:r166863.gdbf1cc80538-1.2
-chaotic-aur emacs-pgtk-native-comp-git 30.0.50.167102-1
+chaotic-aur emacs-pgtk-native-comp-git 30.0.50.167107-1
 chaotic-aur emerald-gtk3 0.8.18-2.3
 chaotic-aur emote 4.0.1-2
 chaotic-aur emulationstation 2.11.2-1.2
@@ -14733,7 +14733,7 @@ chaotic-aur ferdium-bin 6.4.0-1
 chaotic-aur ferdium-nightly-bin 6.4.1.nightly.14-1
 chaotic-aur ff2mpv-native-messaging-host-git r72.cd5abdd-1
 chaotic-aur ffmpeg-full 6.0-3
-chaotic-aur ffmpeg-git 6.1.r111652.gbf9f6a5e55-1
+chaotic-aur ffmpeg-git 6.1.r111656.g48cd5561e1-1
 chaotic-aur ffmpeg-obs 6.0.r12.ga6dc929-5
 chaotic-aur ffmpegthumbs-git 23.07.70.r261-1
 chaotic-aur ffsend-bin 0.2.76-1.1
@@ -15704,7 +15704,7 @@ chaotic-aur lib32-libxpm 3.5.16-1
 chaotic-aur lib32-lilv 0.24.20-1.2
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
-chaotic-aur lib32-mangohud-git 0.6.9.1.r109.ge60b625-1
+chaotic-aur lib32-mangohud-git 0.6.9.1.r111.gcd92ced-1
 chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.174911.03ff3c00272-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
@@ -16075,7 +16075,7 @@ chaotic-aur migrate 4.15.2-1
 chaotic-aur miktex 23.5-1
 chaotic-aur milou-git 5.27.80_r811.gc498381-1
 chaotic-aur mindustry 1:7.0.145.1-1
-chaotic-aur mindustry-git 7.0.145.1.r104.gcd461b133c-1
+chaotic-aur mindustry-git 7.0.145.1.r105.g117169c1d3-1
 chaotic-aur mindustry-server 1:7.0.145.1-1
 chaotic-aur minecraft-launcher 1:1.0.1221-1.4
 chaotic-aur minecraft-technic-launcher 4.779-1
@@ -17153,7 +17153,7 @@ chaotic-aur rustdesk-nightly 1.2.1-0
 chaotic-aur rustdesk-server-bin 1.1.8_2-1
 chaotic-aur rustow-git 0.4.beta.r7.g858b15e-1
 chaotic-aur rustup-git 1.26.0.r74.g87fa15d1-1
-chaotic-aur ryujinx-git r2976.f95b7c587-1
+chaotic-aur ryujinx-git r2976.f95b7c5877-1
 chaotic-aur ryzen-controller-bin 2.6.0-1
 chaotic-aur ryzen_smu-dkms-git 162.e61177d-1
 chaotic-aur ryzenadj-git 0.13.0.r10.g7201ff2-1
@@ -17375,15 +17375,15 @@ chaotic-aur system76-io-dkms 1.0.2-1
 chaotic-aur system76-power 1.1.25-1
 chaotic-aur systemd-boot-pacman-hook 3-1.1
 chaotic-aur systemd-cron-next-git v1.0.2.r18.gd69afa9-1
-chaotic-aur systemd-git 254.r66283.167338529b-1
+chaotic-aur systemd-git 254.r66300.da59599d3d-1
 chaotic-aur systemd-guest-user 33.2-1.1
 chaotic-aur systemd-kcm 1.2.1-5.3
-chaotic-aur systemd-libs-git 254.r66283.167338529b-1
+chaotic-aur systemd-libs-git 254.r66300.da59599d3d-1
 chaotic-aur systemd-manager-git 1.0.0.r12.g4efeb47-1.2
 chaotic-aur systemd-oomd-defaults 253.5-1
-chaotic-aur systemd-resolvconf-git 254.r66283.167338529b-1
-chaotic-aur systemd-sysvcompat-git 254.r66283.167338529b-1
-chaotic-aur systemd-ukify-git 254.r66283.167338529b-1
+chaotic-aur systemd-resolvconf-git 254.r66300.da59599d3d-1
+chaotic-aur systemd-sysvcompat-git 254.r66300.da59599d3d-1
+chaotic-aur systemd-ukify-git 254.r66300.da59599d3d-1
 chaotic-aur systemsettings-git 5.27.80_r2859.g61e6b368-1
 chaotic-aur systemtap-git 4.8.111.gf6fa4525b-1
 chaotic-aur systray-x-git 0.9.4.r7.g3129f0d-1
@@ -17981,7 +17981,7 @@ chaotic-aur yaru-unity-theme 23.04.4-1
 chaotic-aur yaru-xfwm4-theme 23.04.4-1
 chaotic-aur yaup-git 0.1.r4.g7ee3fdb-1.4
 chaotic-aur yay 12.1.0-1 [installed]
-chaotic-aur yay-git 12.1.0.r19.g688434b-1
+chaotic-aur yay-git 12.1.1.r0.g688434b-1
 chaotic-aur yin-yang-git 3.2.4.r9.g42ce4da-1
 chaotic-aur yosys-git 0.31+16.r12407.b04d0e09e-1
 chaotic-aur youplay-base 0.46-3
