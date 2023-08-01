@@ -102,11 +102,10 @@ pacman -Syyu --noconfirm github-cli
 pacman -Syyu --noconfirm rclone
 pacman -Syyu --noconfirm jq
 pacman -Syyu --noconfirm git-lfs
-pacman -Syyu --noconfirm nodejs-lts-fermium
-pacman -Syyu --noconfirm yarn
+pacman -Syyu --noconfirm nvm
 pacman -Syyu --noconfirm mongodb-tools
 
-yarn global add steedos-cli
+
 
 # build calamare-git
 pacman -Syyu --noconfirm --needed cmake extra-cmake-modules kpmcore boost python-jsonschema python-pyaml python-unidecode qt5-svg qt5-webengine yaml-cpp networkmanager upower kconfig kservice squashfs-tools rsync qt5-xmlpatterns doxygen dmidecode gptfdisk hwinfo kparts solid qt5-tools libpwquality ckbcomp qt5-quickcontrols2
@@ -116,6 +115,19 @@ yay -S --noconfirm aliyunpan-cli
 
 export HOME=/root
 export USER=root
+
+source /usr/share/nvm/init-nvm.sh
+
+nvm install v14.21.3
+nvm use v14.21.3
+which node
+which npm
+node --version
+npm --version
+
+echo $PATH
+npm install -g yarn
+yarn global add steedos-cli
 
 # 2 Add builder User
 cat /etc/passwd
