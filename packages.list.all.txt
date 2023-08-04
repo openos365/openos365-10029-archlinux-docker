@@ -3034,11 +3034,11 @@ extra handbrake-cli 1.6.1-2
 extra handlr 0.6.4-2
 extra happy 1.20.1.1-1
 extra haproxy 2.8.1-1
-extra harfbuzz 8.0.1-1 [installed]
-extra harfbuzz-cairo 8.0.1-1
-extra harfbuzz-docs 8.0.1-1
-extra harfbuzz-icu 8.0.1-1
-extra harfbuzz-utils 8.0.1-1
+extra harfbuzz 8.1.1-1 [installed]
+extra harfbuzz-cairo 8.1.1-1
+extra harfbuzz-docs 8.1.1-1
+extra harfbuzz-icu 8.1.1-1
+extra harfbuzz-utils 8.1.1-1
 extra haruna 0.11.3-1
 extra harvid 0.9.1-2
 extra hashcat 1:6.2.6-1
@@ -8427,7 +8427,7 @@ extra podofo-tools 0.10.1-1
 extra poedit 1:3.3.2-1
 extra poke 3.2-1
 extra polari 43.0-3
-extra polkit 122-1 [installed]
+extra polkit 123-1 [installed]
 extra polkit-gnome 0.105-10
 extra polkit-kde-agent 5.27.7-1
 extra polkit-qt5 0.114.0-1 [installed]
@@ -13670,9 +13670,9 @@ multilib lib32-gst-plugins-good 1.22.5-1
 multilib lib32-gstreamer 1.22.5-1
 multilib lib32-gtk2 2.24.33-2
 multilib lib32-gtk3 1:3.24.38-1
-multilib lib32-harfbuzz 8.0.1-1
-multilib lib32-harfbuzz-cairo 8.0.1-1
-multilib lib32-harfbuzz-icu 8.0.1-1
+multilib lib32-harfbuzz 8.1.1-1
+multilib lib32-harfbuzz-cairo 8.1.1-1
+multilib lib32-harfbuzz-icu 8.1.1-1
 multilib lib32-icu 73.2-1
 multilib lib32-imlib2 1.11.1-1
 multilib lib32-jack2 1.9.22-1
@@ -13841,7 +13841,7 @@ multilib lib32-pipewire 1:0.3.76-1
 multilib lib32-pipewire-jack 1:0.3.76-1
 multilib lib32-pipewire-v4l2 1:0.3.76-1
 multilib lib32-pixman 0.42.2-1
-multilib lib32-polkit 122-1
+multilib lib32-polkit 123-1
 multilib lib32-popt 1.19-1
 multilib lib32-portaudio 1:19.7.0-2
 multilib lib32-primus 20151110-5
@@ -14113,7 +14113,7 @@ chaotic-aur amarok 2.9.71-4
 chaotic-aur amber-theme-git r219.257f657-1
 chaotic-aur amberol 0.10.3-1
 chaotic-aur amberol-git 0.10.3.r8.ge67f757-1
-chaotic-aur amd-ucode-git 20230620.045b213-1
+chaotic-aur amd-ucode-git 20230731.253cc179-1
 chaotic-aur amdctl 0.11-1
 chaotic-aur amdfand-bin 1.0.13-4
 chaotic-aur amdgpu-fan 0.1.0-4
@@ -15187,7 +15187,7 @@ chaotic-aur gruvbox-material-gtk-theme-git r22.558c2e174-1
 chaotic-aur gruvbox-material-icon-theme-git r22.558c2e174-1
 chaotic-aur grype-bin 0.64.2-1
 chaotic-aur gst-plugin-gtk4 0.10.11-2
-chaotic-aur gst-plugin-pipewire-common-git 0.3.73.r7.gbaa54976-1
+chaotic-aur gst-plugin-pipewire-common-git 0.3.76.r31.g0055cc61-1
 chaotic-aur gstreamer0.10 0.10.36-20
 chaotic-aur gstreamer0.10-base 0.10.36-13
 chaotic-aur gstreamer0.10-base-plugins 0.10.36-13
@@ -15900,15 +15900,15 @@ chaotic-aur linux-drm-next-headers-git 6.4.r1188951.6725f3322807-1
 chaotic-aur linux-drm-tip-docs-git 6.5.r1200895.1036a46bae0d-1
 chaotic-aur linux-drm-tip-git 6.5.r1200895.1036a46bae0d-1
 chaotic-aur linux-drm-tip-headers-git 6.5.r1200895.1036a46bae0d-1
-chaotic-aur linux-firmware-bnx2x-git 20230620.045b213-1
-chaotic-aur linux-firmware-git 20230620.045b213-1
-chaotic-aur linux-firmware-liquidio-git 20230620.045b213-1
-chaotic-aur linux-firmware-marvell-git 20230620.045b213-1
-chaotic-aur linux-firmware-mellanox-git 20230620.045b213-1
-chaotic-aur linux-firmware-nfp-git 20230620.045b213-1
-chaotic-aur linux-firmware-qcom-git 20230620.045b213-1
-chaotic-aur linux-firmware-qlogic-git 20230620.045b213-1
-chaotic-aur linux-firmware-whence-git 20230620.045b213-1
+chaotic-aur linux-firmware-bnx2x-git 20230731.253cc179-1
+chaotic-aur linux-firmware-git 20230731.253cc179-1
+chaotic-aur linux-firmware-liquidio-git 20230731.253cc179-1
+chaotic-aur linux-firmware-marvell-git 20230731.253cc179-1
+chaotic-aur linux-firmware-mellanox-git 20230731.253cc179-1
+chaotic-aur linux-firmware-nfp-git 20230731.253cc179-1
+chaotic-aur linux-firmware-qcom-git 20230731.253cc179-1
+chaotic-aur linux-firmware-qlogic-git 20230731.253cc179-1
+chaotic-aur linux-firmware-whence-git 20230731.253cc179-1
 chaotic-aur linux-git v6.4.rc1.r111.47a2ee5d4a0b-1
 chaotic-aur linux-git-docs 6.2.r0.gc9c3395d5e3d-1
 chaotic-aur linux-git-headers v6.4.rc1.r111.47a2ee5d4a0b-1
@@ -16175,7 +16175,7 @@ chaotic-aur neofetch-git 7.1.0.r166.gccd5d9f5-1
 chaotic-aur neofrog-git 7.1.0.r166.gccd5d9f5-1.1
 chaotic-aur neovide-git 0.10.4.r26.g372f29b-1
 chaotic-aur neovim-drop-in 1-1.1
-chaotic-aur neovim-git 0.9.0.r1198.gc4f775fa57-1
+chaotic-aur neovim-git 0.9.0.r1199.g0a7fda6fa0-1
 chaotic-aur neovim-nightly-bin 0.10.0+dev+751+gd086bc1e8-1
 chaotic-aur neovim-plug 0.11.0-3.1
 chaotic-aur neovim-plug-git 0.11.0.r12.ca0ae0a-1
@@ -16564,15 +16564,15 @@ chaotic-aur pimcommon-git 5.22.49_r1978.gfa99d548-1
 chaotic-aur pingu 0.0.5-1
 chaotic-aur pip-tools 7.2.0-1
 chaotic-aur pipe-viewer-git 0.4.8.r0.g03f36a4-1
-chaotic-aur pipewire-common-alsa-git 0.3.73.r7.gbaa54976-1
-chaotic-aur pipewire-common-docs-git 0.3.73.r7.gbaa54976-1
-chaotic-aur pipewire-common-git 0.3.73.r7.gbaa54976-1
-chaotic-aur pipewire-common-jack-git 0.3.73.r7.gbaa54976-1
-chaotic-aur pipewire-common-pulse-git 0.3.73.r7.gbaa54976-1
-chaotic-aur pipewire-common-roc-git 0.3.73.r7.gbaa54976-1
-chaotic-aur pipewire-common-v4l2-git 0.3.73.r7.gbaa54976-1
-chaotic-aur pipewire-common-x11-bell-git 0.3.73.r7.gbaa54976-1
-chaotic-aur pipewire-common-zeroconf-git 0.3.73.r7.gbaa54976-1
+chaotic-aur pipewire-common-alsa-git 0.3.76.r31.g0055cc61-1
+chaotic-aur pipewire-common-docs-git 0.3.76.r31.g0055cc61-1
+chaotic-aur pipewire-common-git 0.3.76.r31.g0055cc61-1
+chaotic-aur pipewire-common-jack-git 0.3.76.r31.g0055cc61-1
+chaotic-aur pipewire-common-pulse-git 0.3.76.r31.g0055cc61-1
+chaotic-aur pipewire-common-roc-git 0.3.76.r31.g0055cc61-1
+chaotic-aur pipewire-common-v4l2-git 0.3.76.r31.g0055cc61-1
+chaotic-aur pipewire-common-x11-bell-git 0.3.76.r31.g0055cc61-1
+chaotic-aur pipewire-common-zeroconf-git 0.3.76.r31.g0055cc61-1
 chaotic-aur pix 3.0.2-1
 chaotic-aur pixelorama 0.11-1
 chaotic-aur pixelorama-git 2226.de7ef580-1
@@ -17314,8 +17314,8 @@ chaotic-aur sticky-git 1.17.r0.g3d51bc7-1
 chaotic-aur stilo-themes-git 4.0.r0.gf21dee1-1
 chaotic-aur stockfish-git r5771.ge87e103ca-1
 chaotic-aur storcli 007.2405.0000.0000-1
-chaotic-aur strawberry-full-git 1.0.18.r87.g4ef3f356-1
-chaotic-aur strawberry-git 1.0.18.r87.g4ef3f356-1
+chaotic-aur strawberry-full-git 1.0.18.r89.gacda7c13-1
+chaotic-aur strawberry-git 1.0.18.r89.gacda7c13-1
 chaotic-aur strawberry-qt5 1.0.18-1
 chaotic-aur streamdeck-ui-git 2.0.15.r8.g9b9c269-1.1
 chaotic-aur streamlink-twitch-gui-bin 2.3.0-1
