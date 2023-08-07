@@ -119,7 +119,7 @@ core libidn2 2.3.4-3 [installed]
 core libinih 56-1
 core libisl 0.26-1 [installed]
 core libksba 1.6.4-1 [installed]
-core libldap 2.6.4-2 [installed]
+core libldap 2.6.6-1 [installed]
 core libmicrohttpd 0.9.77-1
 core libmnl 1.0.5-1 [installed]
 core libmpc 1.3.1-1 [installed]
@@ -192,7 +192,7 @@ core nilfs-utils 2.2.9-2
 core npth 1.6-4 [installed]
 core nspr 4.35-1 [installed]
 core nss 3.92-1 [installed]
-core openldap 2.6.4-2
+core openldap 2.6.6-1
 core openssh 9.3p2-1 [installed]
 core openssl 3.1.2-1 [installed]
 core openssl-1.1 1.1.1.u-1
@@ -782,19 +782,19 @@ extra bookworm 1.1.2-3
 extra boost 1.81.0-7 [installed]
 extra boost-libs 1.81.0-7 [installed]
 extra booster 0.11-1
-extra bootconfig 6.3-2
+extra bootconfig 6.3-4
 extra booth 1.1.0-1
 extra bore 0.5.0-1
 extra borg 1.2.4-2
 extra borgmatic 1.8.1-1
 extra botan 3.1.1-1
 extra botan2 2.19.3-1
-extra bottom 0.9.3-1
+extra bottom 0.9.4-1
 extra bovo 23.04.3-1
 extra bower 1.8.14-1
 extra box2d 2.4.1-1
 extra boxxy 0.8.0-1
-extra bpf 6.3-2
+extra bpf 6.3-4
 extra bpftrace 0.18.0-2
 extra bpython 0.24-3
 extra bpytop 1.0.68-1
@@ -959,7 +959,7 @@ extra cargo-outdated 0.13.1-2
 extra cargo-pgrx 0.9.8-1
 extra cargo-release 0.24.11-2
 extra cargo-semver-checks 0.22.1-1
-extra cargo-shuttle 0.22.0-1
+extra cargo-shuttle 0.23.0-1
 extra cargo-sort 1.0.9-1
 extra cargo-spellcheck 0.12.4-1
 extra cargo-supply-chain 0.3.2-1
@@ -971,7 +971,7 @@ extra cargo-watch 8.4.0-1
 extra cargo-zigbuild 0.17.0-1
 extra cargo2junit 0.1.13-1
 extra caribou 0.4.21+75+g8ad9883-5
-extra carla 2.5.5-1
+extra carla 2.5.6-1
 extra cartridge-cli 2.12.5-1
 extra castget 2.0.1-1
 extra casync 2.r267.g0efa7ab-2
@@ -980,7 +980,7 @@ extra cataclysm-dda-tiles 0.G-2
 extra catatonit 0.1.7-2
 extra catch2 2.13.9-1
 extra catdoc 0.95-5
-extra catfish 4.16.4-3
+extra catfish 4.18.0-1
 extra catimg 2.7.0-1
 extra cauchy 0.9.0-3
 extra cbatticon 1.6.13-1
@@ -1037,7 +1037,7 @@ extra cgit-aurweb 1.2.3-3
 extra cgmanager 0.42-2
 extra cgns 4.4.0-1
 extra cgrep 6.6.32-383
-extra cgroup_event_listener 6.3-2
+extra cgroup_event_listener 6.3-4
 extra chafa 1.12.4-3
 extra charm 0.12.5-1
 extra check 0.15.2-2
@@ -1242,7 +1242,7 @@ extra cppgir 0.git1.960fe054-2
 extra cppunit 1.15.1-3
 extra cpputest 4.0-4
 extra cppzmq 4.9.0-1
-extra cpupower 6.3-2
+extra cpupower 6.3-4
 extra crane 0.16.1-1
 extra crash 8.0.3-1
 extra crawl-data 0.30.0-1
@@ -2504,24 +2504,33 @@ extra gimagereader-common 3.4.1-2
 extra gimagereader-gtk 3.4.1-2
 extra gimagereader-qt 3.4.1-2
 extra gimp 2.10.34-2
-extra gimp-help-ca 2.10.0-6
-extra gimp-help-da 2.10.0-6
-extra gimp-help-de 2.10.0-6
-extra gimp-help-el 2.10.0-6
-extra gimp-help-en 2.10.0-6
-extra gimp-help-en_gb 2.10.0-6
-extra gimp-help-es 2.10.0-6
-extra gimp-help-fi 2.10.0-6
-extra gimp-help-fr 2.10.0-6
-extra gimp-help-it 2.10.0-6
-extra gimp-help-ja 2.10.0-6
-extra gimp-help-ko 2.10.0-6
-extra gimp-help-nl 2.10.0-6
-extra gimp-help-nn 2.10.0-6
-extra gimp-help-pt_br 2.10.0-6
-extra gimp-help-ro 2.10.0-6
-extra gimp-help-ru 2.10.0-6
-extra gimp-help-zh_cn 2.10.0-6
+extra gimp-help-ca 2.10.34-1
+extra gimp-help-cs 2.10.34-1
+extra gimp-help-da 2.10.34-1
+extra gimp-help-de 2.10.34-1
+extra gimp-help-el 2.10.34-1
+extra gimp-help-en 2.10.34-1
+extra gimp-help-en_gb 2.10.34-1
+extra gimp-help-es 2.10.34-1
+extra gimp-help-fa 2.10.34-1
+extra gimp-help-fi 2.10.34-1
+extra gimp-help-fr 2.10.34-1
+extra gimp-help-hr 2.10.34-1
+extra gimp-help-hu 2.10.34-1
+extra gimp-help-it 2.10.34-1
+extra gimp-help-ja 2.10.34-1
+extra gimp-help-ko 2.10.34-1
+extra gimp-help-lt 2.10.34-1
+extra gimp-help-nl 2.10.34-1
+extra gimp-help-nn 2.10.34-1
+extra gimp-help-pt 2.10.34-1
+extra gimp-help-pt_br 2.10.34-1
+extra gimp-help-ro 2.10.34-1
+extra gimp-help-ru 2.10.34-1
+extra gimp-help-sl 2.10.34-1
+extra gimp-help-sv 2.10.34-1
+extra gimp-help-uk 2.10.34-1
+extra gimp-help-zh_cn 2.10.34-1
 extra gimp-nufraw 0.43.3-9
 extra gimp-plugin-gmic 3.2.6-2
 extra ginac 1.8.6-1
@@ -4343,7 +4352,7 @@ extra hyperfine 1.17.0-1
 extra hyperion 2.0.15-1
 extra hyperkitty 1.3.7-3
 extra hyperscan 5.4.2-1
-extra hyperv 6.3-2
+extra hyperv 6.3-4
 extra hyphen 2.8.8-5
 extra hyphen-de 20220923-1
 extra hyphen-en 2.8.8-5
@@ -4986,7 +4995,7 @@ extra ksysguard 5.22.0-1
 extra ksystemlog 23.04.3-1
 extra ksystemstats 5.27.7-1
 extra kteatime 23.04.3-1
-extra ktextaddons 1.4.0-1
+extra ktextaddons 1.4.1-1
 extra ktexteditor 5.108.0-1
 extra ktextwidgets 5.108.0-1 [installed]
 extra ktikz 0.13.2-1
@@ -5372,7 +5381,7 @@ extra libisofs 1.5.6-1 [installed]
 extra libixion 0.17.0-5
 extra libjaylink 0.3.1-1
 extra libjcat 0.1.14-1
-extra libjpeg-turbo 2.1.5.1-1 [installed]
+extra libjpeg-turbo 3.0.0-1 [installed]
 extra libjpeg6-turbo 1.5.3-2
 extra libjxl 0.8.2-1 [installed]
 extra libjxl-doc 0.8.2-1
@@ -6124,7 +6133,7 @@ extra linux-rt-headers 6.3.3.15.realtime2-4
 extra linux-rt-lts 6.1.38.12.realtime1-4
 extra linux-rt-lts-docs 6.1.38.12.realtime1-4
 extra linux-rt-lts-headers 6.1.38.12.realtime1-4
-extra linux-tools-meta 6.3-2
+extra linux-tools-meta 6.3-4
 extra linux-zen 6.4.8.zen1-1
 extra linux-zen-docs 6.4.8.zen1-1
 extra linux-zen-headers 6.4.8.zen1-1
@@ -7600,7 +7609,7 @@ extra peony 3.2.3-1
 extra percona-server 8.0.33_25-3
 extra percona-server-clients 8.0.33_25-3
 extra percona-toolkit 3.5.4-1
-extra perf 6.3-2
+extra perf 6.3-4
 extra performous 1.2.0-10
 extra performous-freesongs 20100713-5
 extra perl-acme-alien-dontpanic 2.7200-1
@@ -9643,7 +9652,7 @@ extra python-oslotest 4.5.0-7
 extra python-osprofiler 3.4.3-3
 extra python-osqp 0.6.2.post9-1
 extra python-outcome 1.2.0-4
-extra python-overrides 7.3.1-2
+extra python-overrides 7.4.0-1
 extra python-ovirt-engine-sdk 4.5.1-2
 extra python-owslib 0.29.1-2
 extra python-oyaml 1.0-5
@@ -11569,7 +11578,7 @@ extra ruff-lsp 0.0.35-1
 extra runc 1.1.8-1
 extra runst 0.1.4-1
 extra rust 1:1.71.1-1
-extra rust-analyzer 20230731-1
+extra rust-analyzer 20230807-1
 extra rust-bindgen 0.66.1-1
 extra rust-musl 1:1.71.1-1
 extra rust-rage 0.9.2-1
@@ -11578,7 +11587,7 @@ extra rust-src 1:1.71.1-1
 extra rust-wasm 1:1.71.1-1
 extra rustscan 2.1.1-1
 extra rustup 1.26.0-3
-extra rustypaste 0.11.1-1
+extra rustypaste 0.12.0-1
 extra rustypaste-cli 0.6.0-1
 extra rx_tools 1.0.3-4
 extra rxvt-unicode 9.31-3
@@ -12059,7 +12068,7 @@ extra swayidle 1.8.0-1
 extra swayimg 1.12-1
 extra swaylock 1.7.2-1
 extra sweeper 23.04.3-1
-extra sweethome3d 7.1-2
+extra sweethome3d 7.1-3
 extra swell-foop 41.1-1
 extra swh-plugins 0.4.17-4
 extra swi-prolog 9.0.4-2
@@ -12130,8 +12139,8 @@ extra systemd-ui 3-5
 extra systemdgenie 0.99.0-4
 extra systemsettings 5.27.7-1
 extra systeroid 0.4.2-1
-extra systray-x-common 0.9.4-1
-extra systray-x-kde 0.9.4-1
+extra systray-x-common 0.9.5-1
+extra systray-x-kde 0.9.5-1
 extra sz 2.1.12.5-3
 extra t-prot 3.4-6
 extra t1lib 5.1.2-8
@@ -12518,7 +12527,7 @@ extra tlp 1.5.0-6
 extra tlp-rdw 1.5.0-6
 extra tlsh 4.8.2-2
 extra tmate 2.4.0-3
-extra tmon 6.3-2
+extra tmon 6.3-4
 extra tmux 3.3_a-7
 extra tmuxp 1.28.1-1
 extra tnftp 20230507-1
@@ -12715,7 +12724,7 @@ extra tuning-library 1.1.0-2
 extra tuntox 0.0.10.1-1
 extra tup 0.7.11-1
 extra tupitube 0.2.18-5
-extra turbostat 6.3-2
+extra turbostat 6.3-4
 extra tuxcards 2.2.1-8
 extra tvtime 1.0.11-4
 extra twine 4.0.2-4
@@ -12818,7 +12827,7 @@ extra urxvt-perls 2.3-2
 extra usb_modeswitch 2.6.1-3
 extra usbctl 1.2-2
 extra usbguard 1.1.2-2
-extra usbip 6.3-2
+extra usbip 6.3-4
 extra usbmuxd 1.1.1-3 [installed]
 extra usbredir 0.13.0-1
 extra usbview 3.0-3
@@ -13218,7 +13227,7 @@ extra x265 3.5-3 [installed]
 extra x42-plugins 20230706-1
 extra x42-plugins-lv2 20230706-1
 extra x42-plugins-standalone 20230706-1
-extra x86_energy_perf_policy 6.3-2
+extra x86_energy_perf_policy 6.3-4
 extra xa 2.3.14-1
 extra xalan-c 1:1.12-7
 extra xandikos 0.2.8-5
@@ -13737,7 +13746,7 @@ multilib lib32-libiec61883 1.2.0-4
 multilib lib32-libindicator-gtk2 12.10.1-9
 multilib lib32-libindicator-gtk3 12.10.1-9
 multilib lib32-libinstpatch 1.1.6-2
-multilib lib32-libjpeg-turbo 2.1.5.1-1
+multilib lib32-libjpeg-turbo 3.0.0-1
 multilib lib32-libjpeg6-turbo 1.5.3-2
 multilib lib32-libldap 2.6.4-1
 multilib lib32-libltdl 2.4.7-3
@@ -13942,6 +13951,7 @@ archcraft archcraft-cursor-vimix 1.0-4
 archcraft archcraft-cwm 1.0-0
 archcraft archcraft-dunst-icons 1.0-2
 archcraft archcraft-dwm 2.0-3
+archcraft archcraft-evilwm 1.0-0
 archcraft archcraft-fluxbox 3.0-0
 archcraft archcraft-fonts 1.0-6
 archcraft archcraft-funscripts 1.0-0
@@ -14031,6 +14041,7 @@ archcraft cava 0.8.3-1
 archcraft ckbcomp 1.221-1 [installed]
 archcraft cwm 7.1-3
 archcraft downgrade 11.3.0-1
+archcraft evilwm 1.4.2-1
 archcraft grub 2.06.r261.g2f4430cc0-4 [installed: 2:2.12rc1-1]
 archcraft gtk3-nocsd-git r82.512c2bd-1
 archcraft i3lock-color 2.13.c.4-1
@@ -14189,7 +14200,7 @@ chaotic-aur archiso-git 71.r4.g28a3a54-1
 chaotic-aur archlinux-java-run 9-1.1
 chaotic-aur ardour-git 7.4.r288.gebcaffd19f-1
 chaotic-aur ares-emu 133-4
-chaotic-aur ares-emu-git 133.r31.gaff351393-1
+chaotic-aur ares-emu-git 133.r35.g0130187f8-1
 chaotic-aur ark-git 23.03.70_r5003.gaaeebe0c-1
 chaotic-aur arkenfox-user.js-git 112.0.r4.g47f152a-1
 chaotic-aur arm-linux-gnueabi-binutils 2.36.1-1
@@ -14262,7 +14273,6 @@ chaotic-aur backintime-git 1.3.3.r50.gcee422e8-1
 chaotic-aur badwolf 1.2.2-2.4
 chaotic-aur balena-etcher 2:1.18.12-1
 chaotic-aur baloo-git 5.104.0_r3144.ge69542db-1
-chaotic-aur balz 1.20-2
 chaotic-aur bash-complete-alias 1.18.0-1
 chaotic-aur basilisk-bin 1:52.9.2023.07.18-1
 chaotic-aur basket 2.49b-8.3
@@ -14380,7 +14390,7 @@ chaotic-aur capnproto-java 0.1.14-1.1
 chaotic-aur caprice32-git 4.5.0.r601.g1074f59-1
 chaotic-aur cargo-sweep 0.6.2-1
 chaotic-aur cask-server-git 0.6.6.r1.g8bf2c28-1
-chaotic-aur cassandra 4.1.2-1
+chaotic-aur cassandra 4.1.3-1
 chaotic-aur cassowary 0.6-1.2
 chaotic-aur catch2-git 3.4.0.r3.gb593be21-1
 chaotic-aur catia-git r1062.78b0307-1.3
@@ -14487,7 +14497,7 @@ chaotic-aur clipman 1.6.2-1
 chaotic-aur cloaker-bin 2.1-1
 chaotic-aur cloudflare-warp-bin 2023.7.40-1
 chaotic-aur cmake-extras-git r290-1.2
-chaotic-aur cmake-git 3.27.1.454.gd69cde7516-1
+chaotic-aur cmake-git 3.27.1.455.g87599d0bad-1
 chaotic-aur cmst-git 2023.03.14-1.2
 chaotic-aur cobang 0.10.1-1.2
 chaotic-aur cockroachdb-bin 22.2.2-1
@@ -14519,7 +14529,7 @@ chaotic-aur corepaint 4.4.0-1.3
 chaotic-aur corepdf 4.4.0-1.3
 chaotic-aur coreutils-git 9.3.r122.g0e58c9500-1
 chaotic-aur coreutils-hybrid 9.1_0.0.20-1
-chaotic-aur coreutils-hybrid-git 0.0.20.r79.g76b8c2925-1
+chaotic-aur coreutils-hybrid-git 0.0.20.r87.ga4b747759-1
 chaotic-aur correios-git r18.0d75f6e-1
 chaotic-aur corrosion-git v0.3.0.r146.gdc1e4e5-1
 chaotic-aur cosmic-epoch-git r74.7a5aae3-1
@@ -14565,7 +14575,6 @@ chaotic-aur davfs2 1.7.0-1
 chaotic-aur davinci-resolve 18.1.4-1.2
 chaotic-aur davinci-resolve-studio 18.1.4-1.2
 chaotic-aur davs2 1.7-1
-chaotic-aur dbus-x11 1.15.0-2
 chaotic-aur dbus-x11-docs 1.15.0-2
 chaotic-aur dcamprof 1.0.6-1
 chaotic-aur ddcui-git v0.3.0.r0.g6a4e0b9-1
@@ -14629,7 +14638,7 @@ chaotic-aur doomrunner 1.8.1-1
 chaotic-aur doomseeker 1:1.4.1.r0.g973e20aa-1
 chaotic-aur dosbox-staging 1:0.80.1-2.2
 chaotic-aur dosbox-x 2023.05.01-1.2
-chaotic-aur dosbox-x-git 18226.eb722c805-1
+chaotic-aur dosbox-x-git 18234.a70d40616-1
 chaotic-aur dotfonts-git r64.a768278-1.3
 chaotic-aur downgrade 11.3.0-1
 chaotic-aur downloader-cli 0.3.3-0.3
@@ -14684,7 +14693,7 @@ chaotic-aur electron19-bin 19.1.9-1
 chaotic-aur electron20-bin 20.3.12-1
 chaotic-aur electron21-bin 21.4.4-1
 chaotic-aur electronmail-bin 5.1.8-1
-chaotic-aur element-desktop-nightly-bin 2023080601-1
+chaotic-aur element-desktop-nightly-bin 2023080701-1
 chaotic-aur elementary-icon-theme-git 7.3.0.r56.gfadba244-1
 chaotic-aur elfx86exts 0.5.0-1
 chaotic-aur elisa-git 22.04.0.r372.gbed428ba-1
@@ -14747,7 +14756,7 @@ chaotic-aur fann 2.2.0-5.1
 chaotic-aur farbfeld 4-2
 chaotic-aur fast 0.0.4-1
 chaotic-aur fastfetch 1.12.2-1
-chaotic-aur fastfetch-git 1.12.2.r436.g2c715684-1
+chaotic-aur fastfetch-git 1.12.2.r438.g6071c1b0-1
 chaotic-aur fastgame-git 0.2.0.r38.g9a417b7-1
 chaotic-aur fatrat-git 1.2.0.b2.r60.g1b0dd1f-1
 chaotic-aur faudio-tkg-git 23.08.r0.g29a7d3a-1
@@ -14758,7 +14767,7 @@ chaotic-aur ferdium-bin 6.4.0-1
 chaotic-aur ferdium-nightly-bin 6.4.1.nightly.17-1
 chaotic-aur ff2mpv-native-messaging-host-git r72.cd5abdd-1
 chaotic-aur ffmpeg-full 6.0-3
-chaotic-aur ffmpeg-git 6.1.r111700.g6b82f35041-1
+chaotic-aur ffmpeg-git 6.1.r111711.gd295b6b693-1
 chaotic-aur ffmpeg-obs 6.0.r12.ga6dc929-5
 chaotic-aur ffmpegthumbs-git 23.07.70.r261-1
 chaotic-aur ffsend-bin 0.2.76-1.1
@@ -14770,7 +14779,7 @@ chaotic-aur filebot 5.0.3-1
 chaotic-aur filelight-git 23.04.2.r0.g2f2b5a1-1
 chaotic-aur find-the-command 2.0.1-1.1
 chaotic-aur find-the-command-git 2.0.1.r0.gfecba1a-1.1
-chaotic-aur firedragon 115.0.2-1
+chaotic-aur firedragon 116.0.1-1
 chaotic-aur firedragon-extension-plasma-integration 1.8.1-3.4
 chaotic-aur firedragon-extension-xdm-browser-monitor 2.2-1.3
 chaotic-aur firefly-iii 6.0.8-1
@@ -14876,7 +14885,7 @@ chaotic-aur firefox-extension-flagfox 6.1.62-1
 chaotic-aur firefox-extension-localcdn 2.6.52-1
 chaotic-aur firefox-extension-plasma-integration-bin 1.8.1-1
 chaotic-aur firefox-extension-xdm-browser-monitor 2.2-1.3
-chaotic-aur firefox-nightly 118.0a1+20230806.1+hb0538d39e8c8-1
+chaotic-aur firefox-nightly 118.0a1+20230807.1+hb0538d39e8c8-1
 chaotic-aur firefox-pwa 2.7.3-1
 chaotic-aur firefox-userchromejs 111.0b4-1.2
 chaotic-aur firefox-wayland-hg r674230.a44c8c18-1
@@ -14932,7 +14941,7 @@ chaotic-aur foxitreader 2.4.5.0727-1.3
 chaotic-aur fractal-git 1:5.beta1.r66.gf7069f98-1
 chaotic-aur frameworkintegration-git 5.104.0_r670.g03219de-1
 chaotic-aur freac 1.1.7-1.2
-chaotic-aur freecad-git 0.22.0.33719.g2a88c7c7df-1
+chaotic-aur freecad-git 0.22.0.33722.g4f10fc4fa0-1
 chaotic-aur freedm 0.12.1-4
 chaotic-aur freedoom 0.12.1-4
 chaotic-aur freedownloadmanager 6.19.1.5263-2
@@ -15262,7 +15271,7 @@ chaotic-aur heroic-games-launcher-bin 2.9.1-2
 chaotic-aur heroic-games-launcher-git 2.9.1.r7.g33e3dd22b-1
 chaotic-aur heroku-cli-bin 7.62.0-1.1
 chaotic-aur hfsprogs 540.1.linux3-4.3
-chaotic-aur highway-git 1.0.5.r65.ge8147bb-1
+chaotic-aur highway-git 1.0.5.r70.gdc4cb4b-1
 chaotic-aur hlsdl 0.27-2.2
 chaotic-aur hopper 0.1.0-1.1
 chaotic-aur hotspot 1.4.1-1
@@ -15335,7 +15344,7 @@ chaotic-aur insync-nemo 3.7.9.50368-1.3
 chaotic-aur insync-thunar 3.7.9.50368-1.2
 chaotic-aur intel-gmmlib-git 22.3.9.r1.g2864421-1
 chaotic-aur intel-hybrid-codec-driver-git 1:2.0.0.r170.20220515.cfb3b71-2
-chaotic-aur intel-media-driver-git 2023.3.0.r67.gd88fdda27-1
+chaotic-aur intel-media-driver-git 2023.3.1.r14.gd88fdda27-1
 chaotic-aur intel-ucode-clear 36610-1
 chaotic-aur intelbacklight-git r4.39eaf40-1
 chaotic-aur intellij-idea-ultimate-edition 2023.2-1
@@ -15355,7 +15364,7 @@ chaotic-aur itch-setup-bin 1.26.0-1
 chaotic-aur itcl3 3.4.4-1
 chaotic-aur itk-snap-bin 4.0.0-2
 chaotic-aur j9-git r4387.a6f48f96-1.2
-chaotic-aur jackett 0.21.586-1
+chaotic-aur jackett 0.21.589-1
 chaotic-aur jade-application-kit 3.5.7-2.3
 chaotic-aur jameica 2.10.4-1.2
 chaotic-aur jamesdsp 2.6.0-3
@@ -15503,7 +15512,7 @@ chaotic-aur kholidays-git 1:5.105.0_r1113.gbaa3e33-1
 chaotic-aur khotkeys-git 5.27.80_r2215.g828e1d5-1
 chaotic-aur khtml-git 5.102.0_r642.gaa8e54d-1
 chaotic-aur ki18n-git 5.105.0_r624.gf5d152e-1
-chaotic-aur kicad-git 7.99.0.r2118.g4c4bbdc8f3-1
+chaotic-aur kicad-git 7.99.0.r2133.gd03c3d0f6d-1
 chaotic-aur kiconthemes-git 5.103.0_r667.gde9bedc-1
 chaotic-aur kidentitymanagement-git 5.22.42_r3968.g159ab1a8-1
 chaotic-aur kidletime-git 5.105.0_r394.gb8b79e8-1
@@ -15540,10 +15549,10 @@ chaotic-aur knotes-git 23.03.40_r3815.g58410a88-1
 chaotic-aur knotifications-git 5.103.0_r802.gfc3b28d-1
 chaotic-aur knotifyconfig-git 5.104.0_r424.g622a031-1
 chaotic-aur kobodeluxe 0.5.1-15
-chaotic-aur kodi-git r63548.bd39be048b7-1
-chaotic-aur kodi-git-dev r63548.bd39be048b7-1
-chaotic-aur kodi-git-eventclients r63548.bd39be048b7-1
-chaotic-aur kodi-git-tools-texturepacker r63548.bd39be048b7-1
+chaotic-aur kodi-git r63564.7879f2a037f-1
+chaotic-aur kodi-git-dev r63564.7879f2a037f-1
+chaotic-aur kodi-git-eventclients r63564.7879f2a037f-1
+chaotic-aur kodi-git-tools-texturepacker r63564.7879f2a037f-1
 chaotic-aur kodi-nexus-git r62110.c700820f09c-1
 chaotic-aur kodi-nexus-git-dev r62110.c700820f09c-1
 chaotic-aur kodi-nexus-git-eventclients r62110.c700820f09c-1
@@ -15639,7 +15648,7 @@ chaotic-aur lagrange 1.16.6-1
 chaotic-aur languageclient-neovim 0.1.161-2
 chaotic-aur lanshare 1.2.1-8.3
 chaotic-aur lantern-bin 7.4.0-1
-chaotic-aur lapce-git 0.2.8.r261.g7682fdb-1
+chaotic-aur lapce-git 0.2.8.r262.ge9d5841-1
 chaotic-aur latencyflex-git r63.3bc9636-1
 chaotic-aur latencyflex-wine-git r63.3bc9636-1
 chaotic-aur latte-dock-git 0.10.9.r39.ga0a4911a-1
@@ -15651,7 +15660,7 @@ chaotic-aur lazydocker 0.21.1-1
 chaotic-aur lbry-desktop-bin 0.53.9-1.2
 chaotic-aur lbry-desktop-git 0.53.9.r10962.gd14c9141d-1
 chaotic-aur leagueoflegends-git 13.7.2.r20.gc6c30dd-1
-chaotic-aur lean4-git 4.0.0.m5.r2448.g254582c000-1
+chaotic-aur lean4-git 4.0.0.m5.r2449.g1f3ef28a1d-1
 chaotic-aur ledger-live 2.64.2-1
 chaotic-aur ledger-udev 1-8
 chaotic-aur leftwm 0.4.2-2
@@ -15681,7 +15690,6 @@ chaotic-aur lib32-fltk 1.3.8-1.3
 chaotic-aur lib32-gallium-nine-git 0.r388.9abd0b4-1.2
 chaotic-aur lib32-gd 2.3.3-2
 chaotic-aur lib32-glslang 12.1.0-1
-chaotic-aur lib32-gmp4 4.3.2-2
 chaotic-aur lib32-gsm 1.0.22-1
 chaotic-aur lib32-gssdp 1.6.2-2
 chaotic-aur lib32-gupnp 1.6.3-1
@@ -15729,7 +15737,7 @@ chaotic-aur lib32-lilv 0.24.20-1.2
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangohud-git 0.6.9.1.r114.g7189b75-1
-chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.176088.77773490cf9-1
+chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.176092.cfa23e66901-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15812,8 +15820,8 @@ chaotic-aur libinput_gestures_qt 0.3.2+7+g0868859-1.3
 chaotic-aur libiqa-git 1.1.3.r2.g4687a4c-1
 chaotic-aur libjffi 1.3.10-1
 chaotic-aur libjuice 1.2.3-1
-chaotic-aur libjxl-doc-git 0.8.2.r502.g18fa8207-1
-chaotic-aur libjxl-git 0.8.2.r502.g18fa8207-1
+chaotic-aur libjxl-doc-git 0.8.2.r504.g33f156c0-1
+chaotic-aur libjxl-git 0.8.2.r504.g33f156c0-1
 chaotic-aur libkdcraw-git v22.12.0.r3.gd1fef38-1
 chaotic-aur libkdepim-git 5.23.40_r983.g61fb5b0-1
 chaotic-aur libkexiv2-git 5.0.0_r843.g68c21bb-1
@@ -15828,7 +15836,7 @@ chaotic-aur libksysguard-git 5.27.80_r2558.g45a4c59-1
 chaotic-aur libktorrent-git 23.07.70.r594.b0afbfe-1
 chaotic-aur libliftoff-git 0.4.0.r6.g7ceaf44-1
 chaotic-aur libmodule 5.0.1-1
-chaotic-aur libmysqlclient 8.0.33-1
+chaotic-aur libmysqlclient 8.0.34-1
 chaotic-aur libnm-iwd 1.42.6-1
 chaotic-aur libnvidia-container 1.13.5-1
 chaotic-aur libnvidia-container-tools 1.13.5-1
@@ -15876,7 +15884,7 @@ chaotic-aur libuvc 0.0.7-2
 chaotic-aur libva-git 2.19.0.r33.g7d6c7d48-1
 chaotic-aur libva-intel-driver-g45-h264 1:2.4.1-2.3
 chaotic-aur libva-intel-driver-hybrid 2.4.1-2.5
-chaotic-aur libva-nvidia-driver-git 0.0.10.r4.g0a358b6-1
+chaotic-aur libva-nvidia-driver-git 0.0.10.r6.g0597283-1
 chaotic-aur libvibrant 1.0.3-4
 chaotic-aur libvirt-xen 9.5.0-1
 chaotic-aur libvterm-0.1 0.1.4-1
@@ -16058,7 +16066,7 @@ chaotic-aur mauikit-git 3.0.0.r18.ge6c36700-1
 chaotic-aur mauiman-git 1.1.0.r2.gc0f6b35-1
 chaotic-aur mawk 1.3.4_20230730-1
 chaotic-aur mbox-importer-git 23.03.40_r621.gdba6c78-1
-chaotic-aur mcmojave-circle-icon-theme-git 2023.06.16.r8.9af21e97-1
+chaotic-aur mcmojave-circle-icon-theme-git 2023.06.16.r9.967357c9-1
 chaotic-aur mcmojave-cursors-git r11.7d0bfc1-1
 chaotic-aur mcomix 2.2.1-1
 chaotic-aur mcomix-git 2.2.1.r20.g6d5eaff-1
@@ -16082,7 +16090,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.3
 chaotic-aur menulibre 1:2.2.3-2
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.36.0-1
-chaotic-aur mesa-tkg-git 23.3.0_devel.176088.77773490cf9-1
+chaotic-aur mesa-tkg-git 23.3.0_devel.176092.cfa23e66901-1
 chaotic-aur mesen2-git r2737.8e79c08c-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -16131,7 +16139,7 @@ chaotic-aur mobydroid 0.4-1.1
 chaotic-aur modemmanager-qt-git 5.105.0_r578.gb608599-1
 chaotic-aur modprobed-db 2.46-1.2
 chaotic-aur mojave-gtk-theme-git r527.a1f022c-1
-chaotic-aur mold-git v2.0.0_58_g1c73fd57-1
+chaotic-aur mold-git v2.0.0_59_g710dfd01-1
 chaotic-aur monkeysphere 0.44-1
 chaotic-aur moodle-dl-git v2.3.2.0.r1.g2e79839-1.1
 chaotic-aur moonlight-qt 4.3.1-1.3
@@ -16155,7 +16163,7 @@ chaotic-aur mrtg 2.17.10-2
 chaotic-aur ms-office-online 2:2.1.1-1.1
 chaotic-aur mu-editor 1:1.2.0-3
 chaotic-aur mugshot 0.4.3-3.3
-chaotic-aur mullvad-browser-bin 12.5.1-1
+chaotic-aur mullvad-browser-bin 12.5.2-1
 chaotic-aur mullvad-vpn 2023.4-1
 chaotic-aur mullvad-vpn-beta 2023.5.beta1-1
 chaotic-aur mullvad-vpn-cli 2023.4-1
@@ -16177,8 +16185,8 @@ chaotic-aur mutter-x11-scaling 44.3-1
 chaotic-aur mycroft-gui-git r724.0cf38d1-1
 chaotic-aur myman 0.7.0-7
 chaotic-aur mypy-git v0.520.r5143.g5617cdd03-1
-chaotic-aur mysql 8.0.33-1
-chaotic-aur mysql-clients 8.0.33-1
+chaotic-aur mysql 8.0.34-1
+chaotic-aur mysql-clients 8.0.34-1
 chaotic-aur mystiq 23.05.15-1
 chaotic-aur naiveproxy 114.0.5735.91_3-1
 chaotic-aur nasc 0.8.0-2.3
@@ -16212,7 +16220,7 @@ chaotic-aur networkmanager-dmenu-git r177.265230c-1
 chaotic-aur networkmanager-iwd 1.42.6-1
 chaotic-aur networkmanager-qt-git 5.105.0_r1185.g03448fe-1
 chaotic-aur newaita-icons-git r929.c2b596b09-1
-chaotic-aur nextcloud-client-git 3.6.0.r1871.g0a86967f1-1
+chaotic-aur nextcloud-client-git 3.6.0.r1880.gf529dd6e6-1
 chaotic-aur nextdns-unprivileged 1.39.4-1
 chaotic-aur nextpnr-git 0.6.r25.gcbd6496d-1
 chaotic-aur nghttp2 1.55.1-2
@@ -16227,7 +16235,7 @@ chaotic-aur nginx-mainline-mod-ndk 0.3.2-1.1
 chaotic-aur nginx-mainline-mod-njs 0.8.0-1
 chaotic-aur ngrok 3.3.2-1
 chaotic-aur nheko-git 0.11.3.r398.g9a64db06-31
-chaotic-aur nicotine-plus-git 3.3.0.dev5.r9534.80126a8c3-1
+chaotic-aur nicotine-plus-git 3.3.0.dev5.r9542.c696b7494-1
 chaotic-aur nix-user-chroot 1.2.2-4
 chaotic-aur nm-eduroam-ufscar 20190409-2.1
 chaotic-aur nm-iwd-cloud-setup 1.42.6-1
@@ -16373,8 +16381,8 @@ chaotic-aur oneko 1.2.5-4
 chaotic-aur onlyoffice-bin 7.4.1-1
 chaotic-aur oomox-qt5-styleplugin-git 1.4.1.r36.ge15cd47-1
 chaotic-aur oomox-qt6-styleplugin-git 1.4.1.r36.ge15cd47-1
-chaotic-aur openal-examples-git makemhr.r15.g4a9e8f6e-1
-chaotic-aur openal-git makemhr.r15.g4a9e8f6e-1
+chaotic-aur openal-examples-git makemhr.r19.g9296af55-1
+chaotic-aur openal-git makemhr.r19.g9296af55-1
 chaotic-aur openasar-git r811.5ac246d-1
 chaotic-aur openbangla-keyboard 2.0.0-7.3
 chaotic-aur openblas-lapack 0.3.23-1
@@ -16470,7 +16478,7 @@ chaotic-aur pcem 17-4.2
 chaotic-aur pcf-unifont 15.0.06-1
 chaotic-aur pcf-unifont-extra 15.0.06-1
 chaotic-aur pcloudcc-git r1471.4b42e3c-1
-chaotic-aur pcsx2-git 1.7.4873.r0.g5972f4947-1
+chaotic-aur pcsx2-git 1.7.4874.r0.g147a6c81a-1
 chaotic-aur pcsxr 1.9.95-2.3
 chaotic-aur pdf-xchange 10.0.1.371-1
 chaotic-aur pdf2png 0.5.3-1.3
@@ -16993,8 +17001,8 @@ chaotic-aur qbe-git r1333.e493a7f-1
 chaotic-aur qbittorrent-enhanced 4.5.4.10-1
 chaotic-aur qbittorrent-enhanced-git 4.5.4.10.r0.g416904b36-2
 chaotic-aur qbittorrent-enhanced-qt5 4.5.4.10-1
-chaotic-aur qbittorrent-git 1:5.0.0alpha1.r108.g699dc1689-1
-chaotic-aur qbittorrent-nox-git 1:5.0.0alpha1.r108.g699dc1689-1
+chaotic-aur qbittorrent-git 1:5.0.0alpha1.r110.g06581636a-1
+chaotic-aur qbittorrent-nox-git 1:5.0.0alpha1.r110.g06581636a-1
 chaotic-aur qbittorrent-qt5 4.5.4-1
 chaotic-aur qca-qt5-git 2.3.5_r2475.ge05243a2-1
 chaotic-aur qca-qt6-git 2.3.5_r2475.ge05243a2-1
@@ -17063,14 +17071,14 @@ chaotic-aur quickemu 4.8-1
 chaotic-aur quickemu-git 4.8.r1.gc7e91a0-1
 chaotic-aur quickjs 2021.03.27-1
 chaotic-aur quixel-bridge 2023.0.0-1
-chaotic-aur qutebrowser-git 2.5.4.r1200.g62fef9d9e-1
+chaotic-aur qutebrowser-git 2.5.4.r1241.g94c768498-1
 chaotic-aur qview 5.0-1.3
 chaotic-aur qwertone-git v0.4.0.r0.24bcfb0-1.3
 chaotic-aur qytdl 1.6-1.3
 chaotic-aur r8125-dkms 9.011.01-1
 chaotic-aur r8152-dkms 2.16.3.20221209-1
 chaotic-aur r8168-dkms 8.051.02-2
-chaotic-aur radare2-git 5.8.9.r30861.85ddf748b4-1
+chaotic-aur radare2-git 5.8.9.r30863.2065c2c911-1
 chaotic-aur radeon-profile-daemon-git 20190603.r0.g7923bd6-1
 chaotic-aur radeon-profile-git 20200824.r26.g0d632ba-1.4
 chaotic-aur raider-file-shredder 1.3.1-1.3
@@ -17155,7 +17163,7 @@ chaotic-aur rocketlauncher2-git 0.1.0.2.r11.gbdb48cd-1.3
 chaotic-aur rofi-greenclip 4.2-2
 chaotic-aur rofi-lbonn-wayland 1.7.5+wayland1-1
 chaotic-aur rome 12.0.0-1
-chaotic-aur roundedsbe-git 5.27.4.r233.4f71ab0-1
+chaotic-aur roundedsbe-git 5.27.7.r233.4f71ab0-1
 chaotic-aur rpcs3-git 0.0.28.r15409.fd6829f757-1
 chaotic-aur rpi-imager 1.7.5-1
 chaotic-aur rqlite 7.21.4-1
@@ -17182,7 +17190,7 @@ chaotic-aur rustdesk-nightly 1.2.1-0
 chaotic-aur rustdesk-server-bin 1.1.8_2-1
 chaotic-aur rustow-git 0.4.beta.r7.g858b15e-1
 chaotic-aur rustup-git 1.26.0.r76.gbcfac627-1
-chaotic-aur ryujinx-git r2983.3ab0a71c7b-1
+chaotic-aur ryujinx-git r2983.3ab0a71c7-1
 chaotic-aur ryzen-controller-bin 2.6.0-1
 chaotic-aur ryzen_smu-dkms-git 162.e61177d-1
 chaotic-aur ryzenadj-git 0.13.0.r10.g7201ff2-1
@@ -17199,16 +17207,16 @@ chaotic-aur schildichat-desktop 1.11.30.sc.2-1
 chaotic-aur scid 5.0.2-1.2
 chaotic-aur scrub 2.6.1-1
 chaotic-aur sct 1.0.0-1
-chaotic-aur scummvm-git r143566.c200890161d-1
+chaotic-aur scummvm-git r143620.c229c6a553a-1
 chaotic-aur scylla-bin 5.0.1-1
 chaotic-aur sddm-config-editor-git 0.1.r89.g24cb417-1.1
-chaotic-aur sddm-git 0.20.0.6.g07631f2-1
+chaotic-aur sddm-git 0.20.0.9.g9e7791d-1
 chaotic-aur sddm-kcm-git 5.27.80_r739.g8e586f7-1
 chaotic-aur sddm-nordic-theme-git 2.2.0.r65.g971971c-1
 chaotic-aur sddm-theme-astronaut 1.0-1.1
 chaotic-aur sdformat-9 9.8.0-1.1
 chaotic-aur sdl12-compat-git 1.2.64.r17.gedc708a-1
-chaotic-aur sdrpp-git 1.0.4.r500.f06eccd-1
+chaotic-aur sdrpp-git 1.0.4.r502.de5816f-1
 chaotic-aur sdx 20110317-1
 chaotic-aur seafile 9.0.3-1
 chaotic-aur seafile-client 9.0.3-1
@@ -17404,15 +17412,15 @@ chaotic-aur system76-io-dkms 1.0.2-1
 chaotic-aur system76-power 1.1.25-1
 chaotic-aur systemd-boot-pacman-hook 3-1.1
 chaotic-aur systemd-cron-next-git v1.0.2.r18.gd69afa9-1
-chaotic-aur systemd-git 254.r66560.6ac299e3ce-1
+chaotic-aur systemd-git 254.r66565.f3d1d7609d-1
 chaotic-aur systemd-guest-user 33.2-1.1
 chaotic-aur systemd-kcm 1.2.1-5.3
-chaotic-aur systemd-libs-git 254.r66560.6ac299e3ce-1
+chaotic-aur systemd-libs-git 254.r66565.f3d1d7609d-1
 chaotic-aur systemd-manager-git 1.0.0.r12.g4efeb47-1.2
 chaotic-aur systemd-oomd-defaults 253.5-1
-chaotic-aur systemd-resolvconf-git 254.r66560.6ac299e3ce-1
-chaotic-aur systemd-sysvcompat-git 254.r66560.6ac299e3ce-1
-chaotic-aur systemd-ukify-git 254.r66560.6ac299e3ce-1
+chaotic-aur systemd-resolvconf-git 254.r66565.f3d1d7609d-1
+chaotic-aur systemd-sysvcompat-git 254.r66565.f3d1d7609d-1
+chaotic-aur systemd-ukify-git 254.r66565.f3d1d7609d-1
 chaotic-aur systemsettings-git 5.27.80_r2859.g61e6b368-1
 chaotic-aur systemtap-git 4.8.111.gf6fa4525b-1
 chaotic-aur systray-x-git 0.9.5.r0.g0c7ca72-1
@@ -17435,7 +17443,8 @@ chaotic-aur teamviewer 15.44.5-1
 chaotic-aur tela-circle-icon-theme-git 2023.06.25.r10.gf97bfd14-1
 chaotic-aur tela-icon-theme-git 2023.06.25.r9.g8d42e7ff-1
 chaotic-aur telegraf 1.27.3-1
-chaotic-aur telegram-desktop-bin-dev 4.8.10-1
+chaotic-aur telegram-desktop-bin-dev 1:0.0.1-1
+chaotic-aur telegram-desktop-dev-bin 4.8.10-1
 chaotic-aur telegram-desktop-userfonts 4.8.10-1
 chaotic-aur telegram-tdlib 1.8.0-3.2
 chaotic-aur telegram-tdlib-git 1.8.15-1
@@ -17456,7 +17465,7 @@ chaotic-aur themix-gui-git 1.15.1.r121.g72582054-1
 chaotic-aur themix-icons-archdroid-git 1.0.3.r0.gb90779de4-1.1
 chaotic-aur themix-icons-gnome-colors-git 5.5.6.r0.gd2cb7eb-2.3
 chaotic-aur themix-icons-numix-git 23.04.26.r0.g71b89af4f.23.02.11.r0.gb8ab58632-1.1
-chaotic-aur themix-icons-papirus-git 20230801.r55.gc6600ba20e-1
+chaotic-aur themix-icons-papirus-git 20230801.r57.gce89efbc08-1
 chaotic-aur themix-icons-suru-plus-aspromauros-git 3.0.r0.gd43a8ec4-2.1
 chaotic-aur themix-icons-suru-plus-git 30.0.r2.g9bd895f32-2.1
 chaotic-aur themix-import-images-git 1.15.1.r121.g72582054-1
@@ -17465,7 +17474,7 @@ chaotic-aur themix-theme-materia-git 20210322.r52.g6e585038-1.2
 chaotic-aur themix-theme-oomox-git 1.12.4.r6.g71d8d5a9-1.2
 chaotic-aur thingy 1.1.3-1
 chaotic-aur thonny 4.1.1-1
-chaotic-aur thonny-git r4850.007dde42-1
+chaotic-aur thonny-git r4857.8d66f94c-1
 chaotic-aur thorium-bin 2.3.0-1
 chaotic-aur threadweaver-git 5.105.0_r568.g2a600a4-1
 chaotic-aur threema-web 2.5.1-1
@@ -17600,7 +17609,7 @@ chaotic-aur ttf-google-fonts-git 1:r5951.516212274-1
 chaotic-aur ttf-heuristica 1.0.2-5
 chaotic-aur ttf-icomoon-feather 1.0-2
 chaotic-aur ttf-impallari-cantora 1.001-7
-chaotic-aur ttf-iosevka 26.0.1-1
+chaotic-aur ttf-iosevka 26.0.2-1
 chaotic-aur ttf-iosevka-git 1691330444-1
 chaotic-aur ttf-juliamono 0.050-1
 chaotic-aur ttf-mac-fonts 20100901.134-1
@@ -17755,7 +17764,7 @@ chaotic-aur virt-manager-meta 5-4
 chaotic-aur virtualbox-ext-oracle 7.0.10-1
 chaotic-aur virtualbox-unattended-templates 7.0.10-1
 chaotic-aur visual-studio-code-bin 1.81.0-1
-chaotic-aur visual-studio-code-insiders-bin 1691127301-1
+chaotic-aur visual-studio-code-insiders-bin 1691386452-1
 chaotic-aur vita3k-git r3312.b39d9bc4-1
 chaotic-aur vital-synth 1.5.5-1
 chaotic-aur vivaldi-snapshot 6.2.3096.3-1
@@ -17768,7 +17777,7 @@ chaotic-aur vkd3d-tkg-git 1.6.r86.gf9e7cb63-1
 chaotic-aur vlang-git 0.4.r229.gda7a9bc8ae-1
 chaotic-aur vlc-git 4.0.0.r23113.gf7bb59d9f5-1.2
 chaotic-aur vlc-luajit 3.0.18-8
-chaotic-aur vmaf-git 2.3.1.r88.gddf0622c-1
+chaotic-aur vmaf-git 2.3.1.r145.g39d4e96c-1
 chaotic-aur vmware-keymaps 1.0-3.1
 chaotic-aur vmware-workstation 17.0.2-1.2
 chaotic-aur vnote 3.16.0-1
@@ -17797,7 +17806,6 @@ chaotic-aur warpinator-git 1.6.4.r0.g1d2f14b-1
 chaotic-aur wasi-sdk-git r195.f3b43c7-1
 chaotic-aur waterfox-g-bin 5.1.10-0
 chaotic-aur waterfox-g3-bin 2.6-1.3
-chaotic-aur waterfox-g4-bin 1.5-0.3
 chaotic-aur wavebox-beta 10.115.27_3-1
 chaotic-aur wavesurfer 1.8.8p5-4
 chaotic-aur waybar-experimental-git 0.9.20.r61.g94c34a29-1
@@ -17810,8 +17818,8 @@ chaotic-aur waydroid-script-git r144.489159c-1
 chaotic-aur wayfire 0.7.5-1
 chaotic-aur wayfire-git r2696.f1d524df-1
 chaotic-aur wayfire-plugins-extra 0.7.5-1
-chaotic-aur wayland-docs-git 1.22.0.r19.g72da004-1
-chaotic-aur wayland-git 1.22.0.r19.g72da004-1
+chaotic-aur wayland-docs-git 1.22.0.r19.g72da004b-1
+chaotic-aur wayland-git 1.22.0.r19.g72da004b-1
 chaotic-aur wayland-protocols-git 1.32.r2.g5293896-1
 chaotic-aur waynergy-git r320.13ea71c-1
 chaotic-aur waypipe-git 0.8.6.r2.ga55cd3b-1
@@ -17831,7 +17839,7 @@ chaotic-aur webstorm-jre 2023.2-1
 chaotic-aur webtorrent-desktop-bin 0.24.0-1
 chaotic-aur webwatcher-git r24.3d3099f-2.2
 chaotic-aur wev 1.0.0-12
-chaotic-aur wezterm-git 20230806.161535.59b8664e-1
+chaotic-aur wezterm-git 20230806.225328.bf172634-1
 chaotic-aur wf-config 0.7.1-3
 chaotic-aur wf-osk-git r13.d2e2e32-1.3
 chaotic-aur wf-shell 0.7.0-3
@@ -17842,8 +17850,8 @@ chaotic-aur whatsie-git v4.14.1.r311.906ca7e-1
 chaotic-aur whisper-git r117.b91c907-1
 chaotic-aur whisper.cpp 1.4.2-2
 chaotic-aur whitesur-cursor-theme-git r7.5c94e8c-1
-chaotic-aur whitesur-gtk-theme-git 2023.06.30.r17.geda2034-1
-chaotic-aur whitesur-icon-theme-git r415.41b3e7dc-1
+chaotic-aur whitesur-gtk-theme-git 2023.06.30.r20.g9794d9d-1
+chaotic-aur whitesur-icon-theme-git r416.fb1b4f43-1
 chaotic-aur whitesur-kde-theme-git r111.ee09e87-1
 chaotic-aur whitesur-kvantum-theme-git r111.ee09e87-1
 chaotic-aur whoogle 0.8.2-1
@@ -17868,7 +17876,6 @@ chaotic-aur wireplumber-git 0.4.14.r3.g7235097c-1
 chaotic-aur wkhtmltopdf 0.12.6-1
 chaotic-aur wl-clipboard-rs 0.7.0-1
 chaotic-aur wl-clipboard-x11 5-1
-chaotic-aur wl-mirror 0.13.1-5
 chaotic-aur wld-git r173.8990a83-1
 chaotic-aur wlogout 1.1.1-3.3
 chaotic-aur wlr-randr 0.3.0-1
@@ -17983,7 +17990,7 @@ chaotic-aur xpadneo-dkms 0.9.5-3
 chaotic-aur xpadneo-dkms-git 0.9.r144.g9b3b696-1
 chaotic-aur xplayer 2.4.2-2.3
 chaotic-aur xplayer-plparser 1.0.3-1.1
-chaotic-aur xpra-git 4.4.r2023.g0a2a206e7-1
+chaotic-aur xpra-git 4.4.r2024.g6c174fac3-1
 chaotic-aur xpra-html5-git 8.0.r29.g6f6295c-1
 chaotic-aur xrdp 0.9.22.1-1
 chaotic-aur xschem 3.1.0-1
@@ -18012,7 +18019,7 @@ chaotic-aur yaup-git 0.1.r4.g7ee3fdb-1.4
 chaotic-aur yay 12.1.2-1 [installed: 12.1.0-1]
 chaotic-aur yay-git 12.1.2.r2.g8916cd1-1
 chaotic-aur yin-yang-git 3.2.4.r9.g42ce4da-1
-chaotic-aur yosys-git 0.31+49.r12426.e0ba07aed-1
+chaotic-aur yosys-git 0.32+0.r12428.105c44701-1
 chaotic-aur youplay-base 0.46-3
 chaotic-aur youplay-gtk3 0.46-3
 chaotic-aur youplay-gtk4 0.46-3
@@ -18032,9 +18039,9 @@ chaotic-aur yt-dlp-git 2023.07.06.r64.gdb7b054a6-1
 chaotic-aur ytfzf-git r2025.860ca7f-1
 chaotic-aur ytmdl 2023.2.28-1.1
 chaotic-aur yuzu-early-access 3791-1
-chaotic-aur yuzu-git r24421.ec423c691-1
+chaotic-aur yuzu-git r24955.755f45a52-1.1
 chaotic-aur yuzu-mainline-bin 0.1505-1
-chaotic-aur yuzu-mainline-git r23744.080ff0560-1
+chaotic-aur yuzu-mainline-git 1518.r0.g755f45a-1
 chaotic-aur zafiro-icon-theme 1.3-3
 chaotic-aur zandronum 3.1-2
 chaotic-aur zapret-common-git 49.r6.d5b104d-1
@@ -23280,8 +23287,8 @@ archlinuxcn adobe-source-han-mono-kr-fonts 1.002-6
 archlinuxcn adobe-source-han-mono-otc-fonts 1.002-6
 archlinuxcn adobe-source-han-mono-tw-fonts 1.002-6
 archlinuxcn aha-git 0.5.23.g482f6df-1
-archlinuxcn alacritty-git 1:0.13.0.2160.g34b3be77-1
-archlinuxcn alacritty-git-debug 1:0.13.0.2160.g34b3be77-1
+archlinuxcn alacritty-git 1:0.13.0.2161.g35e1bb12-1
+archlinuxcn alacritty-git-debug 1:0.13.0.2161.g35e1bb12-1
 archlinuxcn alacritty-ligatures-git 0.8.0.1772.g3ed0430-1
 archlinuxcn alsa-ucm-conf-asahi 1-2
 archlinuxcn alvr 20.1.0-1
@@ -23370,8 +23377,8 @@ archlinuxcn asusctl-git-debug 1:4.7.0.r7.g3ec37a4-1
 archlinuxcn auctex-git 1:13.1.r322.g21893998-1
 archlinuxcn audacity-git 3.3.1.r110.g49cca5668-1
 archlinuxcn audacity-git-debug 3.3.1.r110.g49cca5668-1
-archlinuxcn audiotube-git 23.01.0.r267.g2894ab8-1
-archlinuxcn audiotube-git-debug 23.01.0.r267.g2894ab8-1
+archlinuxcn audiotube-git 23.01.0.r268.g592ad4e-1
+archlinuxcn audiotube-git-debug 23.01.0.r268.g592ad4e-1
 archlinuxcn aurutils 17.3-1
 archlinuxcn aurutils-git 17.3.r1.g9416b5d7-1
 archlinuxcn authy 2.4.0-1
@@ -23463,13 +23470,13 @@ archlinuxcn cgproxy-git v0.20.r0.g86fe42e-2
 archlinuxcn cgproxy-git-debug v0.20.r0.g86fe42e-2
 archlinuxcn charls 2.4.2-1
 archlinuxcn charls-debug 2.4.2-1
-archlinuxcn chatterino2-git v2.4.4.r80.g69c983e0d-1
-archlinuxcn chatterino2-git-debug v2.4.4.r80.g69c983e0d-1
+archlinuxcn chatterino2-git v2.4.4.r82.ge0417bc87-1
+archlinuxcn chatterino2-git-debug v2.4.4.r82.ge0417bc87-1
 archlinuxcn chez-scheme 9.5.6-1
 archlinuxcn china-ip-list-git 0.83.78c3d78-1
 archlinuxcn chirp-next 20230731-1
 archlinuxcn chnroutes-alike-git 0.145.b356eed-1
-archlinuxcn chnroutes2-git 0.34827.5c99be0b-1
+archlinuxcn chnroutes2-git 0.34835.ea7d5ed9-1
 archlinuxcn chrome-remote-desktop 115.0.5790.10-1
 archlinuxcn chrome-remote-desktop-debug 115.0.5790.10-1
 archlinuxcn chromedriver 115.0.5790.170-1
@@ -23481,7 +23488,7 @@ archlinuxcn citra-canary-git 2:2496.r0.g399ed10f3-1
 archlinuxcn citra-canary-git-debug 2:2496.r0.g399ed10f3-1
 archlinuxcn citra-git r9589.c67c648c1-1
 archlinuxcn citra-git-debug r9589.c67c648c1-1
-archlinuxcn clang-git 18.0.0_r470295.370a7eae352ab-1
+archlinuxcn clang-git 18.0.0_r470333.4225f54bf576d-1
 archlinuxcn clash-dashboard-git 0.3.0.r204.ge910dd7-1
 archlinuxcn clash-dev-git 1.17.0.r12.g54b86ee-1
 archlinuxcn clash-dev-git-debug 1.17.0.r12.g54b86ee-1
@@ -23517,7 +23524,7 @@ archlinuxcn coin-or-ipopt 3.14.12-1
 archlinuxcn coin-or-ipopt-debug 3.14.12-1
 archlinuxcn collectd 5.12.0-11
 archlinuxcn collectd-debug 5.12.0-11
-archlinuxcn compiler-rt-git 18.0.0_r470295.370a7eae352ab-1
+archlinuxcn compiler-rt-git 18.0.0_r470333.4225f54bf576d-1
 archlinuxcn compton-tryone-git 0.1_beta2.99.g6e49259-1
 archlinuxcn conan 2.0.9-1
 archlinuxcn conoha-iso-git 0.4.3.r78.g94c2ee6-1
@@ -23585,7 +23592,7 @@ archlinuxcn dida365-debug 1.0.70-1
 archlinuxcn discord-game-sdk 3.2.1-2
 archlinuxcn discord-rpc-git 3.4.0.r10.g963aa9f-5
 archlinuxcn dislocker-noruby 0.7.3-2
-archlinuxcn dnsmasq-china-list-git 0.159620.3b5e930f1c-1
+archlinuxcn dnsmasq-china-list-git 0.159666.9eeabdb2dd-1
 archlinuxcn docker-rootless-extras 24.0.5-1
 archlinuxcn dolphin-emu-git 5.0.r19842.17fa9dfc4e6-1
 archlinuxcn dolphin-emu-git-debug 5.0.r19842.17fa9dfc4e6-1
@@ -23635,13 +23642,13 @@ archlinuxcn electron8-bin 1:8.5.5-5
 archlinuxcn electron8-bin-debug 1:8.5.5-5
 archlinuxcn elementary-planner 3.0.7-1
 archlinuxcn emacs-gcc-wayland-devel-bin 28.2.50.152031-3
-archlinuxcn emacs-git 30.0.50.167263-1
+archlinuxcn emacs-git 30.0.50.168061-1
 archlinuxcn emacs-go-mode-git 1.6.0.r13.gf21347ae-2
 archlinuxcn emacs-julia-mode-git 1:0.402.g7a8c868-2
 archlinuxcn emacs-llvm-mode-git 469615.54e8cfe6d6d8-1
-archlinuxcn emacs-markdown-mode-git 2.5.r95.g50ac14f-1
-archlinuxcn emacs-native-comp-git 30.0.50.167263-1
-archlinuxcn emacs-native-comp-pgtk-git 30.0.50.167263-1
+archlinuxcn emacs-markdown-mode-git 2.5.r97.g8781cf9-1
+archlinuxcn emacs-native-comp-git 30.0.50.168061-1
+archlinuxcn emacs-native-comp-pgtk-git 30.0.50.168053-1
 archlinuxcn emacs-ng-git 1:r166863.gdbf1cc80538-1
 archlinuxcn emacs-ng-git-debug 1:r166863.gdbf1cc80538-1
 archlinuxcn emacs-org-mode-git 1:9.6.1.r269.gaa2249787-1
@@ -23667,7 +23674,7 @@ archlinuxcn eternalterminal-server 6.2.4-3
 archlinuxcn evdev-right-click-emulation 20190313.350939-1
 archlinuxcn eww-wayland 0.4.0-1
 archlinuxcn eww-x11 0.4.0-1
-archlinuxcn exaile 4.1.2-1
+archlinuxcn exaile 4.1.3-1
 archlinuxcn extension-manager 0.4.2-1
 archlinuxcn extension-manager-debug 0.4.2-1
 archlinuxcn extra-cmake-modules-git 5.240.0.r3608.38039758-1
@@ -23677,8 +23684,8 @@ archlinuxcn fakeroot-tcp-debug 1.32.1-1
 archlinuxcn fanctl-git r58.fbb440c-1
 archlinuxcn fastfetch 1.12.2-1
 archlinuxcn fastfetch-debug 1.12.2-1
-archlinuxcn fastfetch-git r2604.eef8040e-1
-archlinuxcn fastfetch-git-debug r2604.eef8040e-1
+archlinuxcn fastfetch-git r2607.2c715684-1
+archlinuxcn fastfetch-git-debug r2607.2c715684-1
 archlinuxcn fava 1.25.1-1
 archlinuxcn fcitx-skin-material 0.5-1
 archlinuxcn fcitx5-anthy-git 5.0.14.r18.g2a4c9ab-1
@@ -23712,8 +23719,8 @@ archlinuxcn filebrowser-bin-debug 2.24.1-1
 archlinuxcn find-unicode-git 0.4.0.r42.g3afc33a.20230605-1
 archlinuxcn find-unicode-git-debug 0.4.0.r42.g3afc33a.20230605-1
 archlinuxcn firefox-appmenu 112.0.1-18
-archlinuxcn firefox-beta-bin 117.0b3-1
-archlinuxcn firefox-beta-bin-debug 117.0b3-1
+archlinuxcn firefox-beta-bin 117.0b4-1
+archlinuxcn firefox-beta-bin-debug 117.0b4-1
 archlinuxcn firefox-esr 115.1.0-1
 archlinuxcn firefox-esr-decentraleyes 2.0.17-2
 archlinuxcn firefox-esr-extension-privacybadger 2023.1.31-1
@@ -23889,11 +23896,11 @@ archlinuxcn gg 0.2.18-1
 archlinuxcn gg-debug 0.2.18-1
 archlinuxcn ghcup-hs-bin 0.1.19.4-1
 archlinuxcn ghcup-hs-bin-debug 0.1.19.4-1
-archlinuxcn ghidra-git 10.3.2.r340.26d4bd9104-1
+archlinuxcn ghidra-git 10.3.2.r390.74156281c6-1
 archlinuxcn gimp-devel 2.99.16-1
 archlinuxcn gimp-devel-debug 2.99.16-1
-archlinuxcn gimp-git 2:50406.89ad3a0ab5-1
-archlinuxcn gimp-git-debug 2:50406.89ad3a0ab5-1
+archlinuxcn gimp-git 2:50407.90cd3de741-1
+archlinuxcn gimp-git-debug 2:50407.90cd3de741-1
 archlinuxcn gimp-plugin-bimp 2.6-2
 archlinuxcn gimp-plugin-bimp-debug 2.6-2
 archlinuxcn git-cinnabar 0.6.2-1
@@ -23911,7 +23918,7 @@ archlinuxcn glmark2-git r978.9057c05-1
 archlinuxcn gnome-shell-extension-dash-to-dock 1:84-1
 archlinuxcn gnome-shell-extension-fixed-ime-list 8-1
 archlinuxcn gnome-shell-extension-gsconnect 2:55-1
-archlinuxcn gnome-shell-extension-gsconnect-git 55.r72.gab970437-1
+archlinuxcn gnome-shell-extension-gsconnect-git 55.r74.g4286e100-1
 archlinuxcn gnome-shell-extension-kimpanel-git 20220302-5
 archlinuxcn gnome-shell-extension-net-speed 8-1
 archlinuxcn gnome-shell-pomodoro 0.23.1-1
@@ -23926,8 +23933,8 @@ archlinuxcn goestools-git r400.865e5c7-2
 archlinuxcn goestools-git-debug r400.865e5c7-2
 archlinuxcn goldendict-git 1:1.5.0.r7.g7da1ccf2-1
 archlinuxcn goldendict-git-debug 1:1.5.0.r7.g7da1ccf2-1
-archlinuxcn goldendict-ng-git 23.07.25.r4965.c251a8f9-1
-archlinuxcn goldendict-ng-git-debug 23.07.25.r4965.c251a8f9-1
+archlinuxcn goldendict-ng-git 23.07.25.r4967.fd42f877-1
+archlinuxcn goldendict-ng-git-debug 23.07.25.r4967.fd42f877-1
 archlinuxcn goocanvas2 2.0.4-10
 archlinuxcn goocanvas2-debug 2.0.4-10
 archlinuxcn google-authenticator-libpam-git 1.09.r14.g366ace3-1
@@ -24019,8 +24026,8 @@ archlinuxcn guile1.8 1.8.8-11
 archlinuxcn gvim-lily 9.0.1677-1
 archlinuxcn gxemul 0.7.0-2
 archlinuxcn hamradio-menus 1.0-3
-archlinuxcn haruna-git 0.11.3.r98.g3de2b21-1
-archlinuxcn haruna-git-debug 0.11.3.r98.g3de2b21-1
+archlinuxcn haruna-git 0.11.3.r100.gd83e643-1
+archlinuxcn haruna-git-debug 0.11.3.r100.gd83e643-1
 archlinuxcn hath 1.6.1-1
 archlinuxcn haxm-dkms-git 2:410.4c524a1-2
 archlinuxcn herdtools7-git 7.52.r2058.g997ec874-1
@@ -24232,7 +24239,7 @@ archlinuxcn julia-git-finitediff-git 2.21.1-2
 archlinuxcn julia-git-fixedpointnumbers-git 0.8.4.0.44.g9f004f0-2
 archlinuxcn julia-git-fontconfig_jll-git 2.13.93+0-6
 archlinuxcn julia-git-formatting-git 0.4.2-5
-archlinuxcn julia-git-forwarddiff-git 0.10.33.0.21.ge3670ce-2
+archlinuxcn julia-git-forwarddiff-git 0.10.33.0.23.g16417ec-1
 archlinuxcn julia-git-freetype2_jll-git 2.0.v2.13.1+0.2.g357705f-2
 archlinuxcn julia-git-freqtables-git 0.4.5-4
 archlinuxcn julia-git-fribidi_jll-git 1.0.10+0-5
@@ -24307,7 +24314,7 @@ archlinuxcn julia-git-jlfzf-git 0.1.2.0.11.gb20b670-4
 archlinuxcn julia-git-jpegturbo-git 0.0.0.0.7.f731e5e-4
 archlinuxcn julia-git-jpegturbo_jll-git 2.1.91+0-2
 archlinuxcn julia-git-json-git 0.21.4.0.1.g48e4b21-2
-archlinuxcn julia-git-jump-git 1.13.0.0.2.ga325eb638d-1
+archlinuxcn julia-git-jump-git 1.13.0.0.3.gc9df1ada68-1
 archlinuxcn julia-git-juniper-git 0.9.0.0.7.g6253234-2
 archlinuxcn julia-git-labelledarrays-git 1.14.0.0.10.g4408001-1
 archlinuxcn julia-git-lame_jll-git 3.100.1+0.0.2.g188394f-5
@@ -24522,19 +24529,19 @@ archlinuxcn jupyter-nbextension-rise 5.7.1-5
 archlinuxcn k6 0.45.1-1
 archlinuxcn k6-debug 0.45.1-1
 archlinuxcn kaidan-git r1455.ad8c6a4-1
-archlinuxcn kate-git 23.11.70_r20875.g62739d4ca-1
-archlinuxcn kate-git-debug 23.11.70_r20875.g62739d4ca-1
+archlinuxcn kate-git 23.11.70_r20877.g2975b84b8-1
+archlinuxcn kate-git-debug 23.11.70_r20877.g2975b84b8-1
 archlinuxcn kazam 1.4.5-12
 archlinuxcn kcm-colorful-git 1.0.5.r0.g411e8c9-1
 archlinuxcn kdeconnect-git 21.07.80.r610.94bd3d1b-1
 archlinuxcn kdeconnect-git-debug 21.07.80.r610.94bd3d1b-1
-archlinuxcn kdenlive-git 23.11.70.r18500-1
-archlinuxcn kdenlive-git-debug 23.11.70.r18500-1
+archlinuxcn kdenlive-git 23.11.70.r18501-1
+archlinuxcn kdenlive-git-debug 23.11.70.r18501-1
 archlinuxcn kdeplasma-applets-fokus 1.5.5-2
 archlinuxcn kdiskmark-git 3.1.3.r18.gc8d9e4c-1
 archlinuxcn kdiskmark-git-debug 3.1.3.r18.gc8d9e4c-1
-archlinuxcn keepassxc-git 2.7.1.r215.ge1482dee2-1
-archlinuxcn keepassxc-git-debug 2.7.1.r215.ge1482dee2-1
+archlinuxcn keepassxc-git 2.7.1.r216.g5fb26d666-1
+archlinuxcn keepassxc-git-debug 2.7.1.r216.g5fb26d666-1
 archlinuxcn kega-fusion 3.63-17
 archlinuxcn kernel-modules-hook-reflink 0.1.11-1
 archlinuxcn keyd-git 2.4.3.r10.eeea96a-1
@@ -24559,8 +24566,8 @@ archlinuxcn kmonad-git 0.4.1.r367.gad69e1b-1
 archlinuxcn kmonad-git-debug 0.4.1.r367.gad69e1b-1
 archlinuxcn kmozillahelper 1:5.0.6-1
 archlinuxcn kodi-standalone-service 1.136-1
-archlinuxcn konsole-git 21.11.90.r1124.gd0994c76d-1
-archlinuxcn konsole-git-debug 21.11.90.r1124.gd0994c76d-1
+archlinuxcn konsole-git 21.11.90.r1125.g66f5bdc21-1
+archlinuxcn konsole-git-debug 21.11.90.r1125.g66f5bdc21-1
 archlinuxcn konsole-nord-git r13.1c86e23-1
 archlinuxcn konsole-snazzy-git r3.113050d-2
 archlinuxcn konsole-tomorrow-theme-git r1.6f43a05-2
@@ -24585,8 +24592,8 @@ archlinuxcn labelme 5.3.0-1
 archlinuxcn landrop-git r64.b9675d7-1
 archlinuxcn lastpass 4.101.0.2-1
 archlinuxcn latexdraw 4.0.3-6
-archlinuxcn latte-dock-git 0.10.8.r6063.61fa1b0e-1
-archlinuxcn latte-dock-git-debug 0.10.8.r6063.61fa1b0e-1
+archlinuxcn latte-dock-git 0.10.8.r6065.1aa9d9f8-1
+archlinuxcn latte-dock-git-debug 0.10.8.r6065.1aa9d9f8-1
 archlinuxcn lazydocker 0.18.1-1
 archlinuxcn lazynpm 0.1.4-1
 archlinuxcn lceda-pro 2.1.22-1
@@ -24612,7 +24619,7 @@ archlinuxcn lib32-bluez-libs 5.64-2
 archlinuxcn lib32-bluez-plugins 5.64-2
 archlinuxcn lib32-cblas 3.11.0-2
 archlinuxcn lib32-chromaprint 1.5.1-1
-archlinuxcn lib32-clang-git 18.0.0_r470294.43b8e86bf7664-1
+archlinuxcn lib32-clang-git 18.0.0_r470333.4225f54bf576d-1
 archlinuxcn lib32-dav1d 1.2.1-1
 archlinuxcn lib32-dav1d-debug 1.2.1-1
 archlinuxcn lib32-faac 1.30-4
@@ -24671,9 +24678,9 @@ archlinuxcn lib32-libsrtp-debug 1:2.5.0-1
 archlinuxcn lib32-libtiger 0.3.4-5
 archlinuxcn lib32-libvmaf 2.3.0-2
 archlinuxcn lib32-lilv 0.24.12-2
-archlinuxcn lib32-llvm-git 18.0.0_r470294.43b8e86bf7664-1
-archlinuxcn lib32-llvm-git-debug 18.0.0_r470294.43b8e86bf7664-1
-archlinuxcn lib32-llvm-libs-git 18.0.0_r470294.43b8e86bf7664-1
+archlinuxcn lib32-llvm-git 18.0.0_r470333.4225f54bf576d-1
+archlinuxcn lib32-llvm-git-debug 18.0.0_r470333.4225f54bf576d-1
+archlinuxcn lib32-llvm-libs-git 18.0.0_r470333.4225f54bf576d-1
 archlinuxcn lib32-lv2 1.18.2-1
 archlinuxcn lib32-lzo 2.10-3
 archlinuxcn lib32-mesa-git 1:23.0.0_devel.162640.0b82281e3e3b-1
@@ -24733,7 +24740,7 @@ archlinuxcn libbacktrace-git r77.9ae4f4a-1
 archlinuxcn libbacktrace-git-debug r77.9ae4f4a-1
 archlinuxcn libchewing-git 1:0.5.1.r215.g73bf7f4-1
 archlinuxcn libchewing-git-debug 1:0.5.1.r215.g73bf7f4-1
-archlinuxcn libclc-git 1:18.0.0_r470294.43b8e86bf7664-1
+archlinuxcn libclc-git 1:18.0.0_r470333.4225f54bf576d-1
 archlinuxcn libcpufeatures-git 2:v0.8.0.r5.gde1b9e6-1
 archlinuxcn libcpufeatures-git-debug 2:v0.8.0.r5.gde1b9e6-1
 archlinuxcn libcpuid-git 3:0.6.3.r25.g0ded44b-1
@@ -24786,8 +24793,8 @@ archlinuxcn libpasastro 1.4.1-1
 archlinuxcn libpcl 1.12-5
 archlinuxcn libpdfium-nojs 5790.r1.c739696a25-1
 archlinuxcn libpdfium-nojs-debug 5790.r1.c739696a25-1
-archlinuxcn libplacebo-git 1:6.292.0.r131.ga09b834c-1
-archlinuxcn libplacebo-git-debug 1:6.292.0.r131.ga09b834c-1
+archlinuxcn libplacebo-git 1:6.292.0.r131.ga09b834c-2
+archlinuxcn libplacebo-git-debug 1:6.292.0.r131.ga09b834c-2
 archlinuxcn libpthread-stubs 0.4-1
 archlinuxcn libqtxdg-git 3.11.0.1.gfb5ef48-7
 archlinuxcn libqtxdg-git-debug 3.11.0.1.gfb5ef48-7
@@ -24848,8 +24855,8 @@ archlinuxcn linux-clear-x64-v4-headers 6.4.8-1
 archlinuxcn linux-dctxmei 5.15.76-1
 archlinuxcn linux-dctxmei-docs 5.15.76-1
 archlinuxcn linux-dctxmei-headers 5.15.76-1
-archlinuxcn linux-git 6.5.rc4.r256.0108963f14e9-1
-archlinuxcn linux-git-headers 6.5.rc4.r256.0108963f14e9-1
+archlinuxcn linux-git 6.5.rc5.r0.52a93d39b17d-1
+archlinuxcn linux-git-headers 6.5.rc5.r0.52a93d39b17d-1
 archlinuxcn linux-jwrdegoede 6.5.0.202308070450.0f1b0eca81a9-1
 archlinuxcn linux-jwrdegoede-docs 6.5.0.202308070450.0f1b0eca81a9-1
 archlinuxcn linux-jwrdegoede-headers 6.5.0.202308070450.0f1b0eca81a9-1
@@ -24882,12 +24889,12 @@ archlinuxcn linux-xanmod-lts-headers 6.1.43-1
 archlinuxcn listenbrainz-mpd 2.2.0-1
 archlinuxcn listenbrainz-mpd-debug 2.2.0-1
 archlinuxcn litecli 1.9.0-2
-archlinuxcn lld-git 18.0.0_r470295.370a7eae352ab-1
-archlinuxcn lldb-git 18.0.0_r470295.370a7eae352ab-1
-archlinuxcn llvm-git 18.0.0_r470295.370a7eae352ab-1
-archlinuxcn llvm-git-debug 18.0.0_r470295.370a7eae352ab-1
+archlinuxcn lld-git 18.0.0_r470333.4225f54bf576d-1
+archlinuxcn lldb-git 18.0.0_r470333.4225f54bf576d-1
+archlinuxcn llvm-git 18.0.0_r470333.4225f54bf576d-1
+archlinuxcn llvm-git-debug 18.0.0_r470333.4225f54bf576d-1
 archlinuxcn llvm-julia 15.0.7-6
-archlinuxcn llvm-libs-git 18.0.0_r470295.370a7eae352ab-1
+archlinuxcn llvm-libs-git 18.0.0_r470333.4225f54bf576d-1
 archlinuxcn llvm-libs-julia 15.0.7-6
 archlinuxcn lnav-git 0.11.2.v124.gb791c573-1
 archlinuxcn lnav-git-debug 0.11.2.v124.gb791c573-1
@@ -24896,7 +24903,7 @@ archlinuxcn logcat-color3 0.10.0-1
 archlinuxcn logisim 2.7.1-8
 archlinuxcn lua-resty-core 0.1.27-1
 archlinuxcn lua-resty-lrucache 0.13-2
-archlinuxcn lutris-git 0.5.13.r179.g14e3f7db5-1
+archlinuxcn lutris-git 0.5.13.r180.gdd6df02c6-1
 archlinuxcn lux-dl 0.19.0-1
 archlinuxcn lux-dl-debug 0.19.0-1
 archlinuxcn lxqt-build-tools-git 0.13.0-1
@@ -24985,8 +24992,8 @@ archlinuxcn mosh-git-debug 1:1.4.0.r13.gcf54273-1
 archlinuxcn motrix 1.8.19-4
 archlinuxcn motrix-debug 1.8.19-4
 archlinuxcn mpdscribble 0.24-2
-archlinuxcn mpv-git 0.36.0_59_gf6de44dd6a-1
-archlinuxcn mpv-git-debug 0.36.0_59_gf6de44dd6a-1
+archlinuxcn mpv-git 0.36.0_59_gf6de44dd6a-2
+archlinuxcn mpv-git-debug 0.36.0_59_gf6de44dd6a-2
 archlinuxcn mpv-mpvacious 0.23-1
 archlinuxcn mpv-osc-modern-git r73.61a6957-1
 archlinuxcn mpv-osc-thumbfast-git r124.4241c7d-1
@@ -25014,8 +25021,8 @@ archlinuxcn namcap-git 3.4.2.r0.g1b4c487-1
 archlinuxcn nano-syntax-highlighting-git 621.1aa64a8-3
 archlinuxcn native-image-jdk11-bin 22.3.2-1
 archlinuxcn native-image-jdk11-bin-debug 22.3.2-1
-archlinuxcn nautilus-checksums 0.1.0-3
-archlinuxcn nautilus-checksums-debug 0.1.0-3
+archlinuxcn nautilus-checksums 0.1.0-4
+archlinuxcn nautilus-checksums-debug 0.1.0-4
 archlinuxcn nautilus-code 0.5-2
 archlinuxcn nautilus-code-debug 0.5-2
 archlinuxcn nautilus-metadata-editor 43.0.1-2
@@ -25139,8 +25146,8 @@ archlinuxcn ntfysh-bin 2.6.2-1
 archlinuxcn ntfysh-bin-debug 2.6.2-1
 archlinuxcn numix-circle-icon-theme-git 23.07.21.r0.g33645b4-1
 archlinuxcn numix-icon-theme 23.04.26.r0.g71b89af4f-1
-archlinuxcn nushell-git 0.83.2.r7559.gc8f3799c20-1
-archlinuxcn nushell-git-debug 0.83.2.r7559.gc8f3799c20-1
+archlinuxcn nushell-git 0.83.2.r7560.gbb6335830a-1
+archlinuxcn nushell-git-debug 0.83.2.r7560.gbb6335830a-1
 archlinuxcn nutstore 5.1.7-1
 archlinuxcn nvchecker-git 1:2.13dev.r6-1
 archlinuxcn nvidia-beta-dkms 535.86.05-1
@@ -25217,8 +25224,8 @@ archlinuxcn openturns 1.21-1
 archlinuxcn openturns-debug 1.21-1
 archlinuxcn opera-beta 101.0.4843.19-1
 archlinuxcn opera-beta-debug 101.0.4843.19-1
-archlinuxcn opera-developer 102.0.4879.0-1
-archlinuxcn opera-developer-debug 102.0.4879.0-1
+archlinuxcn opera-developer 103.0.4885.0-1
+archlinuxcn opera-developer-debug 103.0.4885.0-1
 archlinuxcn opsu 0.16.1-1
 archlinuxcn optimus-manager 1.5-4
 archlinuxcn oracle-instantclient-basic 21.1.0.0.0-2
@@ -25227,7 +25234,7 @@ archlinuxcn oracle-instantclient-odbc 21.1.0.0.0-2
 archlinuxcn oracle-instantclient-sqlplus 21.1.0.0.0-2
 archlinuxcn oracle-instantclient-tools 21.1.0.0.0-2
 archlinuxcn osc 1.1.2-2
-archlinuxcn osc-git 1.2.0.r4549.001bbdf3-1
+archlinuxcn osc-git 1.2.0.r4555.b36c2101-1
 archlinuxcn osdlyrics-git 1:0.5.13.r3.gcd1d7e6-1
 archlinuxcn osdlyrics-git-debug 1:0.5.13.r3.gcd1d7e6-1
 archlinuxcn otf-fantasque-sans-mono-noloopk 1.8.0-2
@@ -25252,8 +25259,8 @@ archlinuxcn palemoon 1:32.3.0-1
 archlinuxcn palemoon-debug 1:32.3.0-1
 archlinuxcn pam_pkcs11 0.6.12-2
 archlinuxcn pamac-aur 11.0.1-2
-archlinuxcn pandoc-bin 3.1.6-1
-archlinuxcn pandoc-bin-debug 3.1.6-1
+archlinuxcn pandoc-bin 3.1.6.1-1
+archlinuxcn pandoc-bin-debug 3.1.6.1-1
 archlinuxcn panoply 5.2.9-1
 archlinuxcn papermc 1.20.1+b108-1
 archlinuxcn paru 1.11.2-1
@@ -25322,7 +25329,7 @@ archlinuxcn pm2ml 2021.11.20.1-14
 archlinuxcn pnglite 0.1.17-2
 archlinuxcn pnmixer 0.7.2-1
 archlinuxcn poi 10.9.2.0.g69d7ab10-1
-archlinuxcn polly-git 18.0.0_r470295.370a7eae352ab-1
+archlinuxcn polly-git 18.0.0_r470333.4225f54bf576d-1
 archlinuxcn pomotroid-bin 0.13.0-2
 archlinuxcn postman-bin 10.16.0-1
 archlinuxcn pot-translation-bin 1.13.1-1
@@ -25612,8 +25619,8 @@ archlinuxcn python-timeloop 1.0.2-4
 archlinuxcn python-timm 0.9.5-1
 archlinuxcn python-tokenizers 1:0.13.3-2
 archlinuxcn python-tokenizers-debug 1:0.13.3-2
-archlinuxcn python-torchdata 0.6.1-1
-archlinuxcn python-torchdata-debug 0.6.1-1
+archlinuxcn python-torchdata 0.6.1-2
+archlinuxcn python-torchdata-debug 0.6.1-2
 archlinuxcn python-torchio 0.19.1-1
 archlinuxcn python-torchtext 1:0.15.2-1
 archlinuxcn python-torchtext-debug 1:0.15.2-1
@@ -25658,14 +25665,14 @@ archlinuxcn qcm-git r63.7048881-1
 archlinuxcn qcm-git-debug r63.7048881-1
 archlinuxcn qdl 1.0-9
 archlinuxcn qdl-debug 1.0-9
-archlinuxcn qemu-arch-extra-git 19:8.1.0.rc2.r46.g71934cf6bf-1
-archlinuxcn qemu-block-gluster-git 19:8.1.0.rc2.r46.g71934cf6bf-1
-archlinuxcn qemu-block-iscsi-git 19:8.1.0.rc2.r46.g71934cf6bf-1
-archlinuxcn qemu-git 19:8.1.0.rc2.r46.g71934cf6bf-1
-archlinuxcn qemu-git-debug 19:8.1.0.rc2.r46.g71934cf6bf-1
-archlinuxcn qemu-guest-agent-git 19:8.1.0.rc2.r46.g71934cf6bf-1
-archlinuxcn qemu-headless-arch-extra-git 19:8.1.0.rc2.r46.g71934cf6bf-1
-archlinuxcn qemu-headless-git 19:8.1.0.rc2.r46.g71934cf6bf-1
+archlinuxcn qemu-arch-extra-git 19:8.1.0.rc2.r66.g9400601a68-1
+archlinuxcn qemu-block-gluster-git 19:8.1.0.rc2.r66.g9400601a68-1
+archlinuxcn qemu-block-iscsi-git 19:8.1.0.rc2.r66.g9400601a68-1
+archlinuxcn qemu-git 19:8.1.0.rc2.r66.g9400601a68-1
+archlinuxcn qemu-git-debug 19:8.1.0.rc2.r66.g9400601a68-1
+archlinuxcn qemu-guest-agent-git 19:8.1.0.rc2.r66.g9400601a68-1
+archlinuxcn qemu-headless-arch-extra-git 19:8.1.0.rc2.r66.g9400601a68-1
+archlinuxcn qemu-headless-git 19:8.1.0.rc2.r66.g9400601a68-1
 archlinuxcn qlog-git 0.26.0.r0.g1c57371-1
 archlinuxcn qlog-git-debug 0.26.0.r0.g1c57371-1
 archlinuxcn qogir-icon-theme-git 2023.06.05.12.g3454a633-1
@@ -25691,8 +25698,8 @@ archlinuxcn qt6-base-24h 6.5.2-1.1
 archlinuxcn qt6-base-24h-debug 6.5.2-1.1
 archlinuxcn qt6-base-24hms 6.5.2-1.1
 archlinuxcn qt6-base-24hms-debug 6.5.2-1.1
-archlinuxcn qtcurve-git 1.9.0.rc1.151.g17e01a75-1
-archlinuxcn qtcurve-git-debug 1.9.0.rc1.151.g17e01a75-1
+archlinuxcn qtcurve-git 1.9.0.rc1.152.gbe3c459f-1
+archlinuxcn qtcurve-git-debug 1.9.0.rc1.152.gbe3c459f-1
 archlinuxcn qtermwidget-git 1.3.0.21.g769dad4-1
 archlinuxcn qtermwidget-git-debug 1.3.0.21.g769dad4-1
 archlinuxcn quarto-cli-bin 1.3.450-1
@@ -25713,8 +25720,8 @@ archlinuxcn rambox-bin 0.8.0-2
 archlinuxcn rar 6.23.0-1
 archlinuxcn rar-debug 6.23.0-1
 archlinuxcn raw2ometiff 0.5.0-2
-archlinuxcn rawtherapee-git 1:5.9.r240.g7e0f0b663-1
-archlinuxcn rawtherapee-git-debug 1:5.9.r240.g7e0f0b663-1
+archlinuxcn rawtherapee-git 1:5.9.r250.g0052f08e9-1
+archlinuxcn rawtherapee-git-debug 1:5.9.r250.g0052f08e9-1
 archlinuxcn rclone-browser 1.8.0-1
 archlinuxcn redmibook-hwdb-git 0.0.r2.gc050119-1
 archlinuxcn reicast-git 20.04.r51.g6cdb605dd-1
@@ -25728,8 +25735,8 @@ archlinuxcn restbase-git v1.1.4.r178.g50152c49-1
 archlinuxcn resvg 0.35.0-1
 archlinuxcn resvg-debug 0.35.0-1
 archlinuxcn retext-git 8.0.0.r29.ge4d253d-1
-archlinuxcn retroarch-git 1.15.0.r692.fcedac5d0d-1
-archlinuxcn retroarch-git-debug 1.15.0.r692.fcedac5d0d-1
+archlinuxcn retroarch-git 1.15.0.r694.fa80e5e6be-1
+archlinuxcn retroarch-git-debug 1.15.0.r694.fa80e5e6be-1
 archlinuxcn revda-git 5.3.0.r0.gb0d4443-1
 archlinuxcn revda-git-debug 5.3.0.r0.gb0d4443-1
 archlinuxcn rime-cloverpinyin 1.1.4-2
@@ -25758,8 +25765,8 @@ archlinuxcn rofi-theme-powermenu-1080p 1.6.1-4
 archlinuxcn rofi-theme-powermenu-720p 1.6.1-4
 archlinuxcn rofi-theme-used 1.6.1-4
 archlinuxcn rog-control-center-git 1:4.7.0.r7.g3ec37a4-1
-archlinuxcn rpcs3-git 0.0.29.15457.39910885d9-1
-archlinuxcn rpcs3-git-debug 0.0.29.15457.39910885d9-1
+archlinuxcn rpcs3-git 0.0.29.15458.91b68f3b45-1
+archlinuxcn rpcs3-git-debug 0.0.29.15458.91b68f3b45-1
 archlinuxcn rr-git 5.6.0.r234.gca3554bb-1
 archlinuxcn rssdrop 26.4614df7-1
 archlinuxcn rstudio-desktop-bin 2023.06.1.524-1
@@ -25801,11 +25808,11 @@ archlinuxcn rust-std-nightly-x86_64-pc-windows-gnu 4:1.73.0_20230802-4
 archlinuxcn rust-std-nightly-x86_64-unknown-linux-gnu 4:1.73.0_20230802-4
 archlinuxcn rust-std-nightly-x86_64-unknown-linux-musl 4:1.73.0_20230802-4
 archlinuxcn rustdesk 1.2.1-1
-archlinuxcn rustdesk-git 1:1.2.1.r277.g61110429-1
+archlinuxcn rustdesk-git 1:1.2.1.r289.g8d830382-1
 archlinuxcn rustfmt-nightly 4:1.73.0_20230802-4
 archlinuxcn rustpython-git r8267.6b68848f-1
 archlinuxcn rxvt-unicode-better-wheel-scrolling 9.22-5.1
-archlinuxcn ryujinx-git r2982.6e784e0aca-1
+archlinuxcn ryujinx-git r2983.3ab0a71c7b-1
 archlinuxcn safeeyes-git 2.1.6.r6.g20db043-1
 archlinuxcn sasm 3.14.0-2
 archlinuxcn sasm-debug 3.14.0-2
@@ -25820,8 +25827,8 @@ archlinuxcn screengrab-git 2.6.0.13.gb26ea90-1
 archlinuxcn screengrab-git-debug 2.6.0.13.gb26ea90-1
 archlinuxcn scribus-svn 25509-1
 archlinuxcn scribus-svn-debug 25509-1
-archlinuxcn scummvm-git r143585.674befeb759-1
-archlinuxcn scummvm-git-debug r143585.674befeb759-1
+archlinuxcn scummvm-git r143602.cb5f4969142-1
+archlinuxcn scummvm-git-debug r143602.cb5f4969142-1
 archlinuxcn sdbus-cpp 1.2.0-2
 archlinuxcn sdbus-cpp-doc 1.2.0-2
 archlinuxcn sddm-git 0.20.0.9.g9e7791d5-1
@@ -25877,7 +25884,7 @@ archlinuxcn slack-desktop 4.33.73-1
 archlinuxcn slack-desktop-debug 4.33.73-1
 archlinuxcn sleef-git 3.5.1.62.g85440a5-1
 archlinuxcn sleef-git-debug 3.5.1.62.g85440a5-1
-archlinuxcn smartdns-china-list-git 0.159620.3b5e930f1c-1
+archlinuxcn smartdns-china-list-git 0.159666.9eeabdb2dd-1
 archlinuxcn smug 0.3.3-1
 archlinuxcn snapraid 12.2-1
 archlinuxcn snapraid-debug 12.2-1
@@ -25892,7 +25899,7 @@ archlinuxcn sonixd 0.15.5-1
 archlinuxcn sonixd-debug 0.15.5-1
 archlinuxcn spectra 1.0.1-2
 archlinuxcn spigot 1.20.1+b157-1
-archlinuxcn spirv-llvm-translator-git 18.0.0_r470295.370a7eae352ab-1
+archlinuxcn spirv-llvm-translator-git 18.0.0_r470333.4225f54bf576d-1
 archlinuxcn spot-client 0.4.0-2
 archlinuxcn spot-client-debug 0.4.0-2
 archlinuxcn spotify 1:1.2.13.661-1
@@ -26020,7 +26027,7 @@ archlinuxcn ttf-arphic-extra 20100309-3
 archlinuxcn ttf-babelstone-han 15.0.5-1
 archlinuxcn ttf-comfortaa 3.105-1
 archlinuxcn ttf-fantasque-sans-mono-noloopk 1.8.0-2
-archlinuxcn ttf-iosevka-term 26.0.1-1
+archlinuxcn ttf-iosevka-term 26.0.2-1
 archlinuxcn ttf-itxe-writing 1.1-2
 archlinuxcn ttf-lxgw-wenkai 1.300-1
 archlinuxcn ttf-lxgw-wenkai-mono 1.300-1
@@ -26087,7 +26094,7 @@ archlinuxcn utools-debug 4.0.0-1
 archlinuxcn uvesafb-dkms 1.0.4-1
 archlinuxcn uxplay-git r994.85d5ee8-1
 archlinuxcn uxplay-git-debug r994.85d5ee8-1
-archlinuxcn v2ray-china-list 20230806002719-1
+archlinuxcn v2ray-china-list 20230807003049-1
 archlinuxcn v2ray-desktop 2.3.1-1
 archlinuxcn v2ray-git 5.7.0.r13.gd58649764-1
 archlinuxcn v2ray-git-debug 5.7.0.r13.gd58649764-1
@@ -26207,8 +26214,8 @@ archlinuxcn webkit2gtk-imgpaste-debug 2.40.4-1
 archlinuxcn websocketd 0.4.1-1
 archlinuxcn wev-git 1.0.0.r4.g0fc0549-1
 archlinuxcn wev-git-debug 1.0.0.r4.g0fc0549-1
-archlinuxcn wezterm-git 20230806.104044.211bce50-1
-archlinuxcn wezterm-git-debug 20230806.104044.211bce50-1
+archlinuxcn wezterm-git 20230806.161535.59b8664e-1
+archlinuxcn wezterm-git-debug 20230806.161535.59b8664e-1
 archlinuxcn wf-config-git 0.8.0.20210803.043821-1
 archlinuxcn wget-lily 1.21.4-1
 archlinuxcn wget-lily-debug 1.21.4-1
@@ -26241,7 +26248,7 @@ archlinuxcn wxmedit-debug 3.2-1
 archlinuxcn wxwidgets-gtk2 3.2.2.1-1
 archlinuxcn wxwidgets-gtk2-debug 3.2.2.1-1
 archlinuxcn x11docker 7.6.0-1
-archlinuxcn xbyak 6.72-1
+archlinuxcn xbyak 6.73-1
 archlinuxcn xcb-imdkit-git 1.0.4.r3.g0739f9d-1
 archlinuxcn xcb-imdkit-git-debug 1.0.4.r3.g0739f9d-1
 archlinuxcn xdg-desktop-portal-hyprland-git 1:r289.42747d2-1
@@ -26450,7 +26457,7 @@ arch4edu gmsh 4.11.1-3
 arch4edu gmsh-docs 4.11.1-3
 arch4edu google-chrome 115.0.5790.170-1
 arch4edu google-crc32c 1.1.2-4
-arch4edu grass 8.2.1-4
+arch4edu grass 8.3.0-1
 arch4edu gtsam 4.1.1-3
 arch4edu gtsam-mkl 4.1.1-3
 arch4edu guile2.0 2.0.14-7
@@ -26546,7 +26553,7 @@ arch4edu mmg 5.7.1-1
 arch4edu mongodb 6.0.7-1
 arch4edu mongodb-bin 6.0.8-1
 arch4edu mongodb-tools 1:100.7.4-1 [installed]
-arch4edu mongosh-bin 1.10.2-1
+arch4edu mongosh-bin 1.10.3-1
 arch4edu mpich 4.1.2-1
 arch4edu mpir 3.0.0-3
 arch4edu mumps 5.6.1-1
@@ -27742,7 +27749,7 @@ endeavouros endeavouros-skel-xfce4 3.7-1
 endeavouros endeavouros-theming 22.12.3.3-2
 endeavouros endeavouros-xfce4-terminal-colors 5-1
 endeavouros eos-apps-info 1.7-2
-endeavouros eos-bash-shared 23-22.5
+endeavouros eos-bash-shared 23-22.6
 endeavouros eos-downgrade 0.4-1
 endeavouros eos-dracut 1.2-1
 endeavouros eos-hooks 1.15-1
@@ -29385,10 +29392,10 @@ xerolinux_repo xdman 1:7.2.11-2
 xerolinux_repo xero-catppuccin-sddm 1.1-1
 xerolinux_repo xero-catppuccin-wallpapers 23.06-1
 xerolinux_repo xero-fix-scripts 1.4-2
-xerolinux_repo xero-g-config 23.08-13
-xerolinux_repo xero-kde-config 23.08-8
+xerolinux_repo xero-g-config 23.08-14
+xerolinux_repo xero-kde-config 23.08-9
 xerolinux_repo xero-pride-wallpapers-git 23.07-2
-xerolinux_repo xero-xfce-config 23.08-7
+xerolinux_repo xero-xfce-config 23.08-8
 xerolinux_repo xerolinux-mirrorlist 0.1.4-1
 xerolinux_repo xerolinux-rollback-git 0.1.34-1
 xerolinux_repo xerowelcome 1.2.7-9
@@ -29410,13 +29417,14 @@ xerolinux_repo_xl electron22-bin 22.3.18-1
 xerolinux_repo_xl etcher-bin 1.18.11-1
 xerolinux_repo_xl freeoffice 1064-1
 xerolinux_repo_xl geekbench 6.1.0-1
-xerolinux_repo_xl jellyfin-ffmpeg6-bin 6.0-4
+xerolinux_repo_xl jellyfin-ffmpeg6-bin 6.0-5
 xerolinux_repo_xl kde-wallpapers 22.12-1
 xerolinux_repo_xl mercury-browser-bin 115.1.0-1
 xerolinux_repo_xl nerd-fonts-gabmus 3.0.1-3
 xerolinux_repo_xl nerd-fonts-sarasa-mono 2.2.1-1
 xerolinux_repo_xl nomachine 8.8.1-1
 xerolinux_repo_xl plex-media-server 1.32.5.7349-1
+xerolinux_repo_xl session-desktop-bin 1.11.0-1
 xerolinux_repo_xl spotify 1:1.2.13.661-1
 xerolinux_repo_xl tabby-bin 1.0.197-1
 xerolinux_repo_xl teamviewer 15.44.5-1
