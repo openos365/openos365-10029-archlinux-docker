@@ -238,11 +238,11 @@ core sqlite-tcl 3.42.0-1
 core sudo 1.9.14.p3-1 [installed]
 core sysfsutils 2.1.1-1
 core syslinux 6.04.pre2.r11.gbf6db5b4-3
-core systemd 254-1 [installed]
-core systemd-libs 254-1 [installed]
-core systemd-resolvconf 254-1
-core systemd-sysvcompat 254-1 [installed]
-core systemd-ukify 254-1
+core systemd 254.1-1 [installed]
+core systemd-libs 254.1-1 [installed]
+core systemd-resolvconf 254.1-1
+core systemd-sysvcompat 254.1-1 [installed]
+core systemd-ukify 254.1-1
 core tar 1.35-1 [installed]
 core texinfo 7.0.3-1 [installed]
 core thin-provisioning-tools 1.0.5-1
@@ -13885,7 +13885,7 @@ multilib lib32-speexdsp 1.2.1-1
 multilib lib32-spirv-llvm-translator 15.0.0.r10+g78ad93b9-1
 multilib lib32-spirv-tools 2022.4-1
 multilib lib32-sqlite 3.42.0-1
-multilib lib32-systemd 254-1
+multilib lib32-systemd 254.1-1
 multilib lib32-taglib 1.13.1-1
 multilib lib32-tcl 8.6.13-1
 multilib lib32-tdb 1.4.8-1
@@ -14270,7 +14270,7 @@ chaotic-aur backintime-cli 1.3.3-4
 chaotic-aur backintime-cli-git 1.3.3.r50.gcee422e8-1
 chaotic-aur backintime-git 1.3.3.r50.gcee422e8-1
 chaotic-aur badwolf 1.2.2-2.4
-chaotic-aur balena-etcher 2:1.18.12-1
+chaotic-aur balena-etcher 2:1.18.12-1.1
 chaotic-aur baloo-git 5.104.0_r3144.ge69542db-1
 chaotic-aur bash-complete-alias 1.18.0-1
 chaotic-aur basilisk-bin 1:52.9.2023.07.18-1
@@ -14888,7 +14888,7 @@ chaotic-aur firefox-extension-flagfox 6.1.62-1
 chaotic-aur firefox-extension-localcdn 2.6.54-1
 chaotic-aur firefox-extension-plasma-integration-bin 1.8.1-1
 chaotic-aur firefox-extension-xdm-browser-monitor 2.2-1.3
-chaotic-aur firefox-nightly 118.0a1+20230809.1+hb19ed5a6579d-1
+chaotic-aur firefox-nightly 118.0a1+20230810.1+h7704c89f0e6b-1
 chaotic-aur firefox-pwa 2.7.3-1
 chaotic-aur firefox-userchromejs 111.0b4-1.2
 chaotic-aur firefox-wayland-hg r674395.4f4e986-1
@@ -15036,7 +15036,7 @@ chaotic-aur git-fixup-git v1.5.0.r8.g76c688c-1.1
 chaotic-aur git-git 2.42.0.rc0.r25.ga82fb66fed-1
 chaotic-aur github-desktop 3.2.7-2
 chaotic-aur gitify-bin 4.3.1-1.2
-chaotic-aur gitkraken 9.6.1-1
+chaotic-aur gitkraken 9.7.0-1
 chaotic-aur gittyup 1.3.0-1
 chaotic-aur gksu 2.0.2-6.2
 chaotic-aur glaxnimate-git 0.5.3_193_g047150a9-1
@@ -15099,7 +15099,7 @@ chaotic-aur goodvibes 0.7.6-1.2
 chaotic-aur goodvibes-git 0.7.6.r68.g36a9299-1.2
 chaotic-aur googerteller-git r41.9eb0527-1
 chaotic-aur google-chrome 115.0.5790.170-1
-chaotic-aur google-chrome-beta 116.0.5845.62-1
+chaotic-aur google-chrome-beta 116.0.5845.82-1
 chaotic-aur google-chrome-dev 117.0.5927.0-1
 chaotic-aur google-cloud-cli 442.0.0-1
 chaotic-aur google-earth-pro 7.3.6.9345-1
@@ -17779,7 +17779,7 @@ chaotic-aur virt-manager-meta 5-4
 chaotic-aur virtualbox-ext-oracle 7.0.10-1
 chaotic-aur virtualbox-unattended-templates 7.0.10-1
 chaotic-aur visual-studio-code-bin 1.81.0-1
-chaotic-aur visual-studio-code-insiders-bin 1691612000-1
+chaotic-aur visual-studio-code-insiders-bin 1691645598-1
 chaotic-aur vita3k-git r3315.a4a484f0-1
 chaotic-aur vital-synth 1.5.5-1
 chaotic-aur vivaldi-snapshot 6.2.3096.3-1
