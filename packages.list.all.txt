@@ -3,7 +3,7 @@ core amd-ucode 20230804.7be2766d-2
 core archlinux-keyring 20230704-1 [installed]
 core argon2 20190702-5 [installed]
 core attr 2.5.1-3 [installed]
-core audit 3.1.1-1 [installed]
+core audit 3.1.2-1 [installed]
 core autoconf 2.71-4 [installed]
 core automake 1.16.5-2 [installed]
 core b43-fwcutter 019-4
@@ -193,7 +193,7 @@ core npth 1.6-4 [installed]
 core nspr 4.35-1 [installed]
 core nss 3.92-1 [installed]
 core openldap 2.6.6-1
-core openssh 9.3p2-1 [installed]
+core openssh 9.4p1-1 [installed]
 core openssl 3.1.2-1 [installed]
 core openssl-1.1 1.1.1.u-1
 core p11-kit 0.25.0-1 [installed]
@@ -215,7 +215,7 @@ core pptpclient 1.10.0-3
 core procps-ng 4.0.3-1 [installed]
 core psmisc 23.6-1 [installed]
 core python 3.11.3-2 [installed]
-core python-audit 3.1.1-1
+core python-audit 3.1.2-1
 core python-brotli 1.0.9-12
 core python-capng 0.8.3-2
 core python-gpgme 1.21.0-1
@@ -11790,7 +11790,7 @@ extra skia-sharp 2.88.3-1
 extra skim 0.10.4-1
 extra skk-jisyo 20221030-1
 extra skktools 1.3.4-4
-extra skopeo 1.13.1-1
+extra skopeo 1.13.2-1
 extra skrooge 2.30.0-1
 extra sl 5.05-4
 extra slang 2.3.3-2 [installed]
@@ -14565,7 +14565,7 @@ chaotic-aur czkawka-cli 6.0.0-0.2
 chaotic-aur czkawka-git 6.0.0.r4.ga77cb27-1
 chaotic-aur czkawka-gui 6.0.0-0.2
 chaotic-aur dangerzone 0.4.2-3
-chaotic-aur darktable-git 4.5.0.r292.gd7eb938d65-1
+chaotic-aur darktable-git 4.5.0.r300.g04fce12a72-1
 chaotic-aur das-keyboard-q 3.3.3-1
 chaotic-aur dasel 1.24.3-1
 chaotic-aur dashbinsh 0.1-5.1
@@ -14582,7 +14582,7 @@ chaotic-aur dcamprof 1.0.6-1
 chaotic-aur ddcui-git v0.3.0.r0.g6a4e0b9-1
 chaotic-aur ddcutil-git 1.4.1.r0.g3475c71d-1
 chaotic-aur deadbeef 1.9.5-3
-chaotic-aur deadbeef-git r11358.c20439a6c-1
+chaotic-aur deadbeef-git r11362.246e3b10d-1
 chaotic-aur deadd-notification-center-git 2.1.1.r0.g6e330be-1
 chaotic-aur debtap 3.5.1-1.1
 chaotic-aur decaf-emu-git r5217.dd0b1be3-1.2
@@ -14596,7 +14596,7 @@ chaotic-aur deluge-git 1:2.1.1.dev61.g800111062-1
 chaotic-aur dendrite 0.13.1-1
 chaotic-aur denise 2.0-1
 chaotic-aur densify 0.3.1-3.3
-chaotic-aur depot-tools-git r9806.2d109056f-1
+chaotic-aur depot-tools-git r9807.e0790f142-1
 chaotic-aur deskreen 2.0.4-3
 chaotic-aur desmume-git 0.9.11.r1944.395548067-1
 chaotic-aur detwinner 0.4.2-2.1
@@ -15272,7 +15272,7 @@ chaotic-aur health 0.94.0-4
 chaotic-aur heimdall-grimler-git 2.0.2.r0.02b577e-2.1
 chaotic-aur heimer 4.1.0-1
 chaotic-aur helix-git 23.05.314.g57f093d836-1
-chaotic-aur helvum-git 0.4.0.r10.gd99c5e2-1
+chaotic-aur helvum-git 0.4.0.r11.g7145c83-1
 chaotic-aur heroic-games-launcher-bin 2.9.1-2
 chaotic-aur heroic-games-launcher-git 2.9.1.r14.gb622830b9-1
 chaotic-aur heroku-cli-bin 7.62.0-1.1
@@ -15292,7 +15292,7 @@ chaotic-aur hunspell-pt-br 3.2.15-1
 chaotic-aur hw-probe 1.6.5-1.1
 chaotic-aur hyperspace-bin 1:1.1.4-1.3
 chaotic-aur hypnotix 3.5-1
-chaotic-aur hyprland-git 0.28.0.r29.c4c3b590-1
+chaotic-aur hyprland-git 0.28.0.r30.e4e8ae8f-1
 chaotic-aur hyprland-nvidia 0.28.0-1
 chaotic-aur hyprland-nvidia-git 0.28.0.r18.gab73183c-1
 chaotic-aur hyprpaper-git r108.e498c43-1
@@ -16114,7 +16114,7 @@ chaotic-aur micromamba 1.4.9-1
 chaotic-aur micropad 4.2.1-1.2
 chaotic-aur microsoft-edge-beta-bin 116.0.1938.43-1
 chaotic-aur microsoft-edge-dev-bin 117.0.2024.1-1
-chaotic-aur microsoft-edge-stable-bin 115.0.1901.200-1
+chaotic-aur microsoft-edge-stable-bin 115.0.1901.203-1
 chaotic-aur migrate 4.15.2-1
 chaotic-aur miktex 23.5-1
 chaotic-aur milou-git 5.27.80_r811.gc498381-1
@@ -16350,7 +16350,7 @@ chaotic-aur obs-rtspserver 3.0.0-3
 chaotic-aur obs-streamfx 0.11.1-1.2
 chaotic-aur obs-studio-browser 29.1.3-2
 chaotic-aur obs-studio-browser-debug 29.1.3-2
-chaotic-aur obs-studio-git 29.1.0.528-1
+chaotic-aur obs-studio-git 29.1.0.530-1
 chaotic-aur obs-studio-rc 6:29.1.3-2
 chaotic-aur obs-studio-rc-debug 6:29.1.3-2
 chaotic-aur obs-studio-tytan652 29.1.3-2
@@ -16471,7 +16471,7 @@ chaotic-aur pamac-nosnap 10.5.1-1
 chaotic-aur pamac-tray-icon-plasma 0.1.3-1.4
 chaotic-aur paper-icon-theme-git 832.aa3e8af7-1.3
 chaotic-aur papirus-folders 1.12.0-1.1
-chaotic-aur papirus-icon-theme-git 1:20230801.r57.gce89efbc08-1
+chaotic-aur papirus-icon-theme-git 1:20230801.r62.g2d15f8a2fe-1
 chaotic-aur paq8o 9-1
 chaotic-aur parlatype 3.1-2.3
 chaotic-aur parlatype-libreoffice-extension 3.1.1-2.3
@@ -17322,7 +17322,7 @@ chaotic-aur spectral-matrix-git 218.r648.g30028a2-1.4
 chaotic-aur speedtest++ 1.14.r71.0f63cfb-1.2
 chaotic-aur spice-guest-tools-windows 0.141-1
 chaotic-aur spicetify-cli 2.22.1-1
-chaotic-aur spicetify-cli-git 2.22.1.r2.g3c449b9-1
+chaotic-aur spicetify-cli-git 2.22.2.r1.gab6fd65-1
 chaotic-aur spirv-cross 2023.05.12-1
 chaotic-aur spirv-llvm-translator-git 18.0.0_r469848.6ba4b213346f-1
 chaotic-aur spirv-tools-tkg-git 2023.4.rc2.r9.gd6300ee92-1
@@ -17347,7 +17347,7 @@ chaotic-aur ssacli 4.21.7.0-1
 chaotic-aur sshs 3.4.0-1
 chaotic-aur st 0.9-4
 chaotic-aur stacer 1.1.0-1.4
-chaotic-aur stacer-git 1.1.0.r108.g0f24534-1.3
+chaotic-aur stacer-git 1.1.0.r109.ga44d056-1
 chaotic-aur standardnotes-bin 3.169.21-1
 chaotic-aur startgame 1.2.3-1.3
 chaotic-aur steam-boilr-gui 1.9.1-1
@@ -24871,10 +24871,10 @@ archlinuxcn linux-cachyos-bore 6.4.9-1
 archlinuxcn linux-cachyos-rc 6.5.rc2-2
 archlinuxcn linux-ck-x64-v3 6.4.8-1
 archlinuxcn linux-ck-x64-v4 6.4.8-1
-archlinuxcn linux-clear-x64-v3 6.4.8-1
-archlinuxcn linux-clear-x64-v3-headers 6.4.8-1
-archlinuxcn linux-clear-x64-v4 6.4.8-1
-archlinuxcn linux-clear-x64-v4-headers 6.4.8-1
+archlinuxcn linux-clear-x64-v3 6.4.9-1
+archlinuxcn linux-clear-x64-v3-headers 6.4.9-1
+archlinuxcn linux-clear-x64-v4 6.4.9-1
+archlinuxcn linux-clear-x64-v4-headers 6.4.9-1
 archlinuxcn linux-dctxmei 5.15.76-1
 archlinuxcn linux-dctxmei-docs 5.15.76-1
 archlinuxcn linux-dctxmei-headers 5.15.76-1
@@ -26140,8 +26140,8 @@ archlinuxcn vapoursynth-plugin-rife-ncnn-vulkan-git 1:9.r0.g6c6d0fa-7
 archlinuxcn vapoursynth-plugin-rife-ncnn-vulkan-git-debug 1:9.r0.g6c6d0fa-7
 archlinuxcn vcpkg 2023.07.21-1
 archlinuxcn vcpkg-debug 2023.07.21-1
-archlinuxcn vcpkg-git 2023.07.21.r174.gc9fa965c2a-1
-archlinuxcn vcpkg-git-debug 2023.07.21.r174.gc9fa965c2a-1
+archlinuxcn vcpkg-git 2023.07.21.r184.gb73601a461-1
+archlinuxcn vcpkg-git-debug 2023.07.21.r184.gb73601a461-1
 archlinuxcn vdhcoapp 1.6.3-2
 archlinuxcn ventoy-bin 1.0.94-1
 archlinuxcn ventoy-bin-debug 1.0.94-1
