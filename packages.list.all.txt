@@ -46,7 +46,7 @@ core efivar 38-3
 core elfutils 0.189-3
 core expat 2.5.0-1 [installed]
 core fakeroot 1.32.1-1 [installed]
-core file 5.44-3 [installed]
+core file 5.45-1 [installed]
 core filesystem 2023.01.31-1 [installed]
 core findutils 4.9.0-3 [installed]
 core flex 2.6.4-5 [installed]
@@ -125,7 +125,7 @@ core libmnl 1.0.5-1 [installed]
 core libmpc 1.3.1-1 [installed]
 core libnetfilter_conntrack 1.0.9-1 [installed]
 core libnfnetlink 1.0.2-1 [installed]
-core libnftnl 1.2.5-1 [installed]
+core libnftnl 1.2.6-1 [installed]
 core libnghttp2 1.55.1-1 [installed]
 core libnl 3.7.0-3 [installed]
 core libnsl 2.0.0-3 [installed]
@@ -7029,7 +7029,7 @@ extra nextcloud-client 2:3.9.1-1
 extra nextcloud-client-cloudproviders 2:3.9.1-1
 extra nfacct 1.0.2-3
 extra nfoview 1.29-2
-extra nftables 1:1.0.7-2
+extra nftables 1:1.0.8-2
 extra nginx 1.24.0-1
 extra nginx-mainline 1.25.1-1
 extra nginx-mainline-src 1.25.1-1
@@ -13131,7 +13131,7 @@ extra websvn 2.8.2-1
 extra weechat 4.0.3-1
 extra weechat-matrix 0.3.0-10
 extra wesnoth 1:1.16.10-1
-extra weston 12.0.1-1
+extra weston 12.0.2-1
 extra wezterm 20230712.072601.f4abf8fd-1
 extra wezterm-shell-integration 20230712.072601.f4abf8fd-1
 extra wezterm-terminfo 20230712.072601.f4abf8fd-1
@@ -17806,7 +17806,7 @@ chaotic-aur vkbasalt-cli 3.1.1-1.5
 chaotic-aur vkd3d-proton-mingw-git 2.9.r120.g6f4b6b83-1
 chaotic-aur vkd3d-proton-tkg-git 1.1.r3544.g6f4b6b83-1
 chaotic-aur vkd3d-tkg-git 1.6.r86.gf9e7cb63-1
-chaotic-aur vlang-git 0.4.r273.gf7187a7816-1
+chaotic-aur vlang-git 0.4.r275.g11a8a46ade-1
 chaotic-aur vlc-git 4.0.0.r23113.gf7bb59d9f5-1.2
 chaotic-aur vlc-luajit 3.0.18-8
 chaotic-aur vmaf-git 2.3.1.r88.gddf0622c-1
@@ -23628,7 +23628,7 @@ archlinuxcn discord-game-sdk 3.2.1-2
 archlinuxcn discord-rpc-git 3.4.0.r10.g963aa9f-5
 archlinuxcn dislocker-noruby 0.7.3-3
 archlinuxcn dislocker-noruby-debug 0.7.3-3
-archlinuxcn dnsmasq-china-list-git 0.159838.d1e09d6a18-1
+archlinuxcn dnsmasq-china-list-git 0.159864.51729e3a9c-1
 archlinuxcn docker-rootless-extras 24.0.5-1
 archlinuxcn dolphin-emu-git 5.0.r19842.17fa9dfc4e6-1
 archlinuxcn dolphin-emu-git-debug 5.0.r19842.17fa9dfc4e6-1
@@ -23678,12 +23678,12 @@ archlinuxcn electron8-bin 1:8.5.5-5
 archlinuxcn electron8-bin-debug 1:8.5.5-5
 archlinuxcn elementary-planner 3.0.7-1
 archlinuxcn emacs-gcc-wayland-devel-bin 28.2.50.152031-3
-archlinuxcn emacs-git 30.0.50.168216-1
+archlinuxcn emacs-git 30.0.50.168224-1
 archlinuxcn emacs-go-mode-git 1.6.0.r13.gf21347ae-2
 archlinuxcn emacs-julia-mode-git 1:0.402.g7a8c868-2
 archlinuxcn emacs-llvm-mode-git 469615.54e8cfe6d6d8-1
 archlinuxcn emacs-markdown-mode-git 2.5.r103.gf8a91fe-1
-archlinuxcn emacs-native-comp-git 30.0.50.168216-1
+archlinuxcn emacs-native-comp-git 30.0.50.168224-1
 archlinuxcn emacs-native-comp-pgtk-git 30.0.50.168216-1
 archlinuxcn emacs-ng-git 1:r166863.gdbf1cc80538-1
 archlinuxcn emacs-ng-git-debug 1:r166863.gdbf1cc80538-1
@@ -24084,8 +24084,8 @@ archlinuxcn htpdate 1.3.7-1
 archlinuxcn htpdate-debug 1.3.7-1
 archlinuxcn httpry 0.1.8-2
 archlinuxcn hunspell-ja-git 1.r1.g9854fc6-2
-archlinuxcn hyprland-git 0.28.0.r36.73959871-1
-archlinuxcn hyprland-git-debug 0.28.0.r36.73959871-1
+archlinuxcn hyprland-git 0.28.0.r37.4b568ae5-1
+archlinuxcn hyprland-git-debug 0.28.0.r37.4b568ae5-1
 archlinuxcn hyprland-hidpi-xprop-git 0.28.0.r36.73959871-2
 archlinuxcn hyprland-hidpi-xprop-git-debug 0.28.0.r36.73959871-2
 archlinuxcn hyprland-nvidia 0.28.0-2
@@ -25769,8 +25769,8 @@ archlinuxcn rambox-bin 0.8.0-2
 archlinuxcn rar 6.23.0-1
 archlinuxcn rar-debug 6.23.0-1
 archlinuxcn raw2ometiff 0.5.0-2
-archlinuxcn rawtherapee-git 1:5.9.r258.gbd94fbd6b-1
-archlinuxcn rawtherapee-git-debug 1:5.9.r258.gbd94fbd6b-1
+archlinuxcn rawtherapee-git 1:5.9.r382.g9ae8c79c3-1
+archlinuxcn rawtherapee-git-debug 1:5.9.r382.g9ae8c79c3-1
 archlinuxcn rclone-browser 1.8.0-1
 archlinuxcn redmibook-hwdb-git 0.0.r2.gc050119-1
 archlinuxcn reicast-git 20.04.r51.g6cdb605dd-1
@@ -25865,8 +25865,8 @@ archlinuxcn ryujinx-git r2990.2efd74b9cb-2
 archlinuxcn safeeyes-git 2.1.6.r7.g068771d-1
 archlinuxcn sasm 3.14.0-2
 archlinuxcn sasm-debug 3.14.0-2
-archlinuxcn sayonara-player-git 1.8.0.beta1.r138.gf4bbc3ac-1
-archlinuxcn sayonara-player-git-debug 1.8.0.beta1.r138.gf4bbc3ac-1
+archlinuxcn sayonara-player-git 1.8.0.beta1.r141.g5768b739-1
+archlinuxcn sayonara-player-git-debug 1.8.0.beta1.r141.g5768b739-1
 archlinuxcn scalapack 2.2.1-2
 archlinuxcn scalapack-debug 2.2.1-2
 archlinuxcn scc 3.1.0-1
@@ -25933,7 +25933,7 @@ archlinuxcn slack-desktop 4.33.84-1
 archlinuxcn slack-desktop-debug 4.33.84-1
 archlinuxcn sleef-git 3.5.1.62.g85440a5-1
 archlinuxcn sleef-git-debug 3.5.1.62.g85440a5-1
-archlinuxcn smartdns-china-list-git 0.159838.d1e09d6a18-1
+archlinuxcn smartdns-china-list-git 0.159864.51729e3a9c-1
 archlinuxcn smug 0.3.3-1
 archlinuxcn snapraid 12.2-1
 archlinuxcn snapraid-debug 12.2-1
@@ -26252,8 +26252,8 @@ archlinuxcn waydroid-image 18.1_20230805-2
 archlinuxcn waydroid-image-gapps 18.1_20230422-8
 archlinuxcn wayfire-lily-git 0.8.0.20230615.115420.g98ea2a59-1
 archlinuxcn wayfire-lily-git-debug 0.8.0.20230615.115420.g98ea2a59-1
-archlinuxcn waylyrics-git 0.1.0_r261.g7e4002c-1
-archlinuxcn waylyrics-git-debug 0.1.0_r261.g7e4002c-1
+archlinuxcn waylyrics-git 0.1.0_r263.g3bbc486-1
+archlinuxcn waylyrics-git-debug 0.1.0_r263.g3bbc486-1
 archlinuxcn wdisplays-git 1.1.1.r4.g6233901-1
 archlinuxcn wdisplays-git-debug 1.1.1.r4.g6233901-1
 archlinuxcn webcamoid 9.1.1-2
@@ -26467,7 +26467,7 @@ arch4edu fakeroot-tcp 1.32.1-1
 arch4edu fastfetch 1.12.2-1
 arch4edu fbx-sdk 2020.1.1-1
 arch4edu fcl 0.7.0-1
-arch4edu fet-timetabling 6.9.4-1
+arch4edu fet-timetabling 6.9.5-1
 arch4edu flite1 1.4-6
 arch4edu flutter 3.10.6-1
 arch4edu fop-hyph 2.2-1
@@ -26769,7 +26769,7 @@ arch4edu python-multitasking 0.0.11-4
 arch4edu python-ninja 1.11.1-3
 arch4edu python-nocasedict 1.0.4-2
 arch4edu python-nocaselist 1.0.6-2
-arch4edu python-numba-git 0.58.0dev0.r446.g46059957a-1
+arch4edu python-numba-git 0.58.0dev0.r448.g6f0c5060a-1
 arch4edu python-numpy-mkl 1.25.2-1
 arch4edu python-nvd3 0.15.0-6
 arch4edu python-nvidia-ml-py 12.535.77-1
@@ -26796,7 +26796,7 @@ arch4edu python-pyqt5-webkit-debug 5.15.9-1
 arch4edu python-pytest-arraydiff 0.5.0-2
 arch4edu python-pytest-astropy 0.10.0-2
 arch4edu python-pytest-astropy-header 0.2.2-2
-arch4edu python-pytest-doctestplus 0.13.0-1
+arch4edu python-pytest-doctestplus 1.0.0-1
 arch4edu python-pytest-filter-subpackage 0.1.2-2
 arch4edu python-pytest-openfiles 0.5.0-2
 arch4edu python-pytest-remotedata 0.4.0-2
@@ -26907,7 +26907,7 @@ arch4edu r-bridgesampling 1.1.2-4
 arch4edu r-brio 1.1.3-12
 arch4edu r-brobdingnag 1.2.9-3
 arch4edu r-broom 1.0.5-1
-arch4edu r-bslib 0.5.0-2
+arch4edu r-bslib 0.5.1-1
 arch4edu r-bstats 0.0.0.9004-1
 arch4edu r-bsts 0.9.9-1
 arch4edu r-c50 0.1.8-3
@@ -27043,7 +27043,7 @@ arch4edu r-ggnetwork 0.5.12-1
 arch4edu r-ggparty 1.0.0-4
 arch4edu r-ggplot2 3.4.2-3
 arch4edu r-ggpol 0.0.7-4
-arch4edu r-ggpp 0.5.3-1
+arch4edu r-ggpp 0.5.4-1
 arch4edu r-ggrepel 0.9.3-3
 arch4edu r-ggridges 0.5.4-3
 arch4edu r-ggsci 3.0.0-3
@@ -27775,7 +27775,7 @@ arch4edu vundle-git 0.10.2.629.b255382-2
 arch4edu vvc-vtm 21.2-1
 arch4edu wd719x-firmware 1-7
 arch4edu weka 3.8.6-2
-arch4edu wemeet-bin 3.15.1.400-2
+arch4edu wemeet-bin 3.15.1.400-3
 arch4edu wscat 5.2.0-2
 arch4edu wxmedit 3.2-1
 arch4edu wxwidgets-gtk2 3.2.2.1-1
