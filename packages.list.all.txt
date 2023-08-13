@@ -625,7 +625,7 @@ extra aws-c-mqtt 0.8.14-1
 extra aws-c-s3 0.3.14-1
 extra aws-c-sdkutils 0.1.12-1
 extra aws-checksums 0.1.17-1
-extra aws-cli 1.27.162-1
+extra aws-cli 1.29.25-1
 extra aws-cli-v2 2.13.5-1
 extra aws-crt-cpp 0.20.7-1
 extra aws-sdk-cpp 1.11.124-1
@@ -8651,7 +8651,7 @@ extra python-agate-dbf 0.2.2-6
 extra python-agate-excel 0.2.5-6
 extra python-agate-sql 0.5.9-3
 extra python-ailment 9.2.27-2
-extra python-aiobotocore 2.5.2-1
+extra python-aiobotocore 2.6.0-1
 extra python-aioconsole 0.6.0-2
 extra python-aiodiscover 1.4.16-1
 extra python-aiodns 3.0.0-4
@@ -8791,8 +8791,8 @@ extra python-boolean.py 4.0-2
 extra python-booleanoperations 0.9.0-7
 extra python-boost-histogram 1.3.2-2
 extra python-boto 2.49.0.20190327-9
-extra python-boto3 1.26.162-1
-extra python-botocore 1.29.162-1
+extra python-boto3 1.28.25-1
+extra python-botocore 1.31.25-1
 extra python-bottle 0.12.25-3
 extra python-bottleneck 1.3.7-2
 extra python-bowler 0.9.0-7
@@ -9542,7 +9542,7 @@ extra python-mongomock 4.0.0-2
 extra python-monotonic 1.6-4
 extra python-more-itertools 10.1.0-1
 extra python-moreorless 0.4.0-6
-extra python-moto 4.1.13-1
+extra python-moto 4.1.14-1
 extra python-mpd2 3.1.0-2
 extra python-mpi4py 3.1.4-3
 extra python-mplhep 0.3.26-2
@@ -9795,7 +9795,7 @@ extra python-purl 1.6-4
 extra python-pwntools 4.10.0-1
 extra python-py 1.11.0-4
 extra python-py-cpuinfo 9.0.0-2
-extra python-py-partiql-parser 0.3.3-1
+extra python-py-partiql-parser 0.3.7-1
 extra python-py3c 1.4-2
 extra python-py7zr 0.20.5-2
 extra python-py_stringmatching 0.4.3-2
@@ -14504,7 +14504,7 @@ chaotic-aur clipman 1.6.2-1
 chaotic-aur cloaker-bin 2.1-1
 chaotic-aur cloudflare-warp-bin 2023.7.40-1
 chaotic-aur cmake-extras-git r290-1.2
-chaotic-aur cmake-git 3.27.2.523.g96cea249a2-1
+chaotic-aur cmake-git 3.27.2.524.g70885ac769-1
 chaotic-aur cmst-git 2023.03.14-1.2
 chaotic-aur cobang 0.10.1-1.2
 chaotic-aur cockroachdb-bin 22.2.2-1
@@ -16163,7 +16163,7 @@ chaotic-aur mobydroid 0.4-1.1
 chaotic-aur modemmanager-qt-git 5.105.0_r578.gb608599-1
 chaotic-aur modprobed-db 2.46-1.2
 chaotic-aur mojave-gtk-theme-git r527.a1f022c-1
-chaotic-aur mold-git v2.0.0_100_g00a68c5f-1
+chaotic-aur mold-git v2.1.0_0_gd78b7486-1
 chaotic-aur monkeysphere 0.44-1
 chaotic-aur moodle-dl-git v2.3.2.0.r1.g2e79839-1.1
 chaotic-aur moonlight-qt 4.3.1-1.3
@@ -24662,7 +24662,7 @@ archlinuxcn lib32-bluez-libs 5.64-2
 archlinuxcn lib32-bluez-plugins 5.64-2
 archlinuxcn lib32-cblas 3.11.0-2
 archlinuxcn lib32-chromaprint 1.5.1-1
-archlinuxcn lib32-clang-git 18.0.0_r470902.33e3b2c46084b-1
+archlinuxcn lib32-clang-git 18.0.0_r471079.1a38843f86df6-1
 archlinuxcn lib32-dav1d 1.2.1-1
 archlinuxcn lib32-dav1d-debug 1.2.1-1
 archlinuxcn lib32-faac 1.30-4
@@ -24721,9 +24721,9 @@ archlinuxcn lib32-libsrtp-debug 1:2.5.0-1
 archlinuxcn lib32-libtiger 0.3.4-5
 archlinuxcn lib32-libvmaf 2.3.0-2
 archlinuxcn lib32-lilv 0.24.12-2
-archlinuxcn lib32-llvm-git 18.0.0_r470902.33e3b2c46084b-1
-archlinuxcn lib32-llvm-git-debug 18.0.0_r470902.33e3b2c46084b-1
-archlinuxcn lib32-llvm-libs-git 18.0.0_r470902.33e3b2c46084b-1
+archlinuxcn lib32-llvm-git 18.0.0_r471079.1a38843f86df6-1
+archlinuxcn lib32-llvm-git-debug 18.0.0_r471079.1a38843f86df6-1
+archlinuxcn lib32-llvm-libs-git 18.0.0_r471079.1a38843f86df6-1
 archlinuxcn lib32-lv2 1.18.2-1
 archlinuxcn lib32-lzo 2.10-3
 archlinuxcn lib32-mesa-git 1:23.0.0_devel.162640.0b82281e3e3b-1
@@ -25194,8 +25194,8 @@ archlinuxcn ntfysh-bin 2.6.2-1
 archlinuxcn ntfysh-bin-debug 2.6.2-1
 archlinuxcn numix-circle-icon-theme-git 23.08.09.r0.g78b6336-1
 archlinuxcn numix-icon-theme 23.04.26.r0.g71b89af4f-1
-archlinuxcn nushell-git 0.83.2.r7585.ge77a0a48aa-1
-archlinuxcn nushell-git-debug 0.83.2.r7585.ge77a0a48aa-1
+archlinuxcn nushell-git 0.83.2.r7586.g7b1c7debcb-1
+archlinuxcn nushell-git-debug 0.83.2.r7586.g7b1c7debcb-1
 archlinuxcn nutstore 5.1.7-1
 archlinuxcn nvchecker-git 1:2.13dev.r6-1
 archlinuxcn nvidia-beta-dkms 535.98-1
@@ -25217,8 +25217,8 @@ archlinuxcn obfs4proxy 0.0.14-1
 archlinuxcn obkey-git 1.0.47.gcf99076-4
 archlinuxcn obs-build 20230809-1
 archlinuxcn obs-build-git 20230809.r1.g855fe84-1
-archlinuxcn obs-studio-git 29.1.0.543-1
-archlinuxcn obs-studio-git-debug 29.1.0.543-1
+archlinuxcn obs-studio-git 29.1.0.548-1
+archlinuxcn obs-studio-git-debug 29.1.0.548-1
 archlinuxcn ocaml-biniou 1.2.2-8
 archlinuxcn ocaml-compiler-libs-repackaged 0.12.4-7
 archlinuxcn ocaml-easy-format 1.3.4-5
@@ -25501,8 +25501,8 @@ archlinuxcn python-httpx-latest 0.24.1-1
 archlinuxcn python-huggingface-hub 1:0.16.4-1
 archlinuxcn python-hydra-core 1.3.2-2
 archlinuxcn python-id-validator 1.0.20-3
-archlinuxcn python-imagecodecs 2023.7.10-1
-archlinuxcn python-imagecodecs-debug 2023.7.10-1
+archlinuxcn python-imagecodecs 2023.8.12-1
+archlinuxcn python-imagecodecs-debug 2023.8.12-1
 archlinuxcn python-imagecorruptions 1.1.2-3
 archlinuxcn python-imagehash 4.3.1-2
 archlinuxcn python-imageio 2.31.1-1
@@ -25863,7 +25863,7 @@ archlinuxcn rustdesk-git 1:1.2.1.r418.ga1780d43-1
 archlinuxcn rustfmt-nightly 4:1.73.0_20230809-4
 archlinuxcn rustpython-git r8267.6b68848f-1
 archlinuxcn rxvt-unicode-better-wheel-scrolling 9.22-5.1
-archlinuxcn ryujinx-git r2990.2efd74b9cb-1
+archlinuxcn ryujinx-git r2990.2efd74b9cb-2
 archlinuxcn safeeyes-git 2.1.6.r7.g068771d-1
 archlinuxcn sasm 3.14.0-2
 archlinuxcn sasm-debug 3.14.0-2
@@ -26345,8 +26345,8 @@ archlinuxcn yosys-git-debug 0.32+46.r12474.008b725c1-1
 archlinuxcn youtube-dl-git 2021.12.17.r282.86e3cf5e58-1
 archlinuxcn yubico-piv-tool 2.3.1-1
 archlinuxcn yubico-piv-tool-debug 2.3.1-1
-archlinuxcn yuzu-early-access 3803-1
-archlinuxcn yuzu-early-access-debug 3803-1
+archlinuxcn yuzu-early-access 3804-1
+archlinuxcn yuzu-early-access-debug 3804-1
 archlinuxcn yuzu-git r24974.26ff214719-1
 archlinuxcn yuzu-git-debug r24974.26ff214719-1
 archlinuxcn yuzu-mainline-git 1521.r0.g26ff21471-1
