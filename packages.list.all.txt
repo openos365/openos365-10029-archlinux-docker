@@ -388,7 +388,7 @@ extra almanah 0.12.3-5
 extra alot 0.10-6
 extra alpine-chroot-install 0.14.0-3
 extra alpine-keyring 2.4-1
-extra alsa-card-profiles 1:0.3.77-1
+extra alsa-card-profiles 1:0.3.77-2
 extra alsa-firmware 1.2.4-3
 extra alsa-lib 1.2.9-1 [installed]
 extra alsa-oss 1.1.8-5
@@ -2923,7 +2923,7 @@ extra gst-plugin-gtk 1.22.5-1
 extra gst-plugin-libcamera 0.1.0-1
 extra gst-plugin-msdk 1.22.5-1
 extra gst-plugin-opencv 1.22.5-1
-extra gst-plugin-pipewire 1:0.3.77-1
+extra gst-plugin-pipewire 1:0.3.77-2
 extra gst-plugin-qml6 1.22.5-1
 extra gst-plugin-qmlgl 1.22.5-1
 extra gst-plugin-qsv 1.22.5-1
@@ -5560,7 +5560,7 @@ extra libphobos 1:2.105.0-1
 extra libphonenumber 1:8.13.15-1
 extra libpillowfight 0.3.0-8
 extra libpinyin 2.8.1-1
-extra libpipewire 1:0.3.77-1
+extra libpipewire 1:0.3.77-2
 extra libplacebo 5.264.1-2
 extra libplist 2.3.0-2 [installed]
 extra libpng 1.6.40-2 [installed]
@@ -8359,18 +8359,18 @@ extra pipe-rename 1.6.5-1
 extra pipectl 0.4.1-3
 extra piper 0.7-2
 extra pipesocks 2.3-4
-extra pipewire 1:0.3.77-1
-extra pipewire-alsa 1:0.3.77-1
-extra pipewire-audio 1:0.3.77-1
-extra pipewire-docs 1:0.3.77-1
-extra pipewire-ffado 1:0.3.77-1
-extra pipewire-jack 1:0.3.77-1
+extra pipewire 1:0.3.77-2
+extra pipewire-alsa 1:0.3.77-2
+extra pipewire-audio 1:0.3.77-2
+extra pipewire-docs 1:0.3.77-2
+extra pipewire-ffado 1:0.3.77-2
+extra pipewire-jack 1:0.3.77-2
 extra pipewire-media-session 1:0.4.2-2
-extra pipewire-pulse 1:0.3.77-1
-extra pipewire-roc 1:0.3.77-1
-extra pipewire-v4l2 1:0.3.77-1
-extra pipewire-x11-bell 1:0.3.77-1
-extra pipewire-zeroconf 1:0.3.77-1
+extra pipewire-pulse 1:0.3.77-2
+extra pipewire-roc 1:0.3.77-2
+extra pipewire-v4l2 1:0.3.77-2
+extra pipewire-x11-bell 1:0.3.77-2
+extra pipewire-zeroconf 1:0.3.77-2
 extra piping-server 0.16.0-1
 extra pitivi 2023.03-2
 extra pius 3.0.0-5
@@ -13766,7 +13766,7 @@ multilib lib32-libogg 1.3.5-1
 multilib lib32-libpcap 1.10.4-1
 multilib lib32-libpciaccess 0.17-1
 multilib lib32-libpgm 5.3.128-2
-multilib lib32-libpipewire 1:0.3.77-1
+multilib lib32-libpipewire 1:0.3.77-2
 multilib lib32-libpng 1.6.40-2
 multilib lib32-libpng12 1.2.59-2
 multilib lib32-libproxy 0.5.3-1
@@ -13864,9 +13864,9 @@ multilib lib32-pango 1:1.50.14-1
 multilib lib32-pcre 8.45-3
 multilib lib32-pcre2 10.42-1
 multilib lib32-pcsclite 2.0.0-1
-multilib lib32-pipewire 1:0.3.77-1
-multilib lib32-pipewire-jack 1:0.3.77-1
-multilib lib32-pipewire-v4l2 1:0.3.77-1
+multilib lib32-pipewire 1:0.3.77-2
+multilib lib32-pipewire-jack 1:0.3.77-2
+multilib lib32-pipewire-v4l2 1:0.3.77-2
 multilib lib32-pixman 0.42.2-1
 multilib lib32-polkit 123-1
 multilib lib32-popt 1.19-1
@@ -14449,7 +14449,7 @@ chaotic-aur chaotic-neofetch-git 7.1.0.r166.gccd5d9f5-1
 chaotic-aur chatbox-bin 0.6.6-1
 chaotic-aur chatgpt-desktop-bin 1.1.0-1
 chaotic-aur chatterino2-7tv-git v7.4.4.r78.g670fba29-1
-chaotic-aur chatterino2-git v2.4.4.r85.g5ee9697dd-1
+chaotic-aur chatterino2-git v2.4.4.r87.g1e3539107-1
 chaotic-aur check-broken-packages-pacman-hook-git r87.eec94bd-1
 chaotic-aur checkmake 0.2.2-1
 chaotic-aur cheese-git 44.1-1
@@ -15276,7 +15276,7 @@ chaotic-aur headset-bin 3.3.3-1.1
 chaotic-aur health 0.94.0-4
 chaotic-aur heimdall-grimler-git 2.0.2.r0.02b577e-2.1
 chaotic-aur heimer 4.1.0-1
-chaotic-aur helix-git 23.05.321.gee3171cc5-1
+chaotic-aur helix-git 23.05.323.g2caca1c4e9-1
 chaotic-aur helvum-git 0.4.0.r11.g7145c83-1
 chaotic-aur heroic-games-launcher-bin 2.9.1-2
 chaotic-aur heroic-games-launcher-git 2.9.1.r15.g1ca61fb92-1
@@ -15329,8 +15329,8 @@ chaotic-aur ignition-tools 2.0.0-2
 chaotic-aur ignition-transport-8 8.2.0-2.1
 chaotic-aur iir1 1.9.4-1
 chaotic-aur image-roll-bin 2.1.0-1.3
-chaotic-aur imagemagick-full-doc-git 7.1.1.15.r31.g53a44ebc6-1
-chaotic-aur imagemagick-full-git 7.1.1.15.r31.g53a44ebc6-1
+chaotic-aur imagemagick-full-doc-git 7.1.1.15.r32.ga64496fc6-1
+chaotic-aur imagemagick-full-git 7.1.1.15.r32.ga64496fc6-1
 chaotic-aur imagewriter 1.10.1432200249.1d253d9.2.16-1
 chaotic-aur imaginary-teleprompter-bin 2.4.0-7.3
 chaotic-aur imagine-git 0.7.1.r0.g278e380-1.3
@@ -16217,7 +16217,7 @@ chaotic-aur neofrog-git 7.1.0.r166.gccd5d9f5-1.1
 chaotic-aur neovide-git 0.11.0.r0.gcb9bbe2-1
 chaotic-aur neovim-drop-in 1-1.1
 chaotic-aur neovim-git 0.9.0.r1267.gd39361f5e0-1
-chaotic-aur neovim-nightly-bin 0.10.0+dev+800+g3d948a4dc-1
+chaotic-aur neovim-nightly-bin 0.10.0+dev+811+g58a1ef8e6-1
 chaotic-aur neovim-plug 0.11.0-3.1
 chaotic-aur neovim-plug-git 0.11.0.r12.ca0ae0a-1
 chaotic-aur neovim-remote 2.5.1-1.3
@@ -18055,7 +18055,7 @@ chaotic-aur yozo-office-fonts 8.0.1331.101ZH.S1-6.1
 chaotic-aur yozo-office-templates 8.0.1331.101ZH.S1-6.1
 chaotic-aur yp-tools 4.2.3-6.1
 chaotic-aur yt-dlg-git 1.2.0.r378.g2150105-1
-chaotic-aur yt-dlp-git 2023.07.06.r66.gdab87ca23-1
+chaotic-aur yt-dlp-git 2023.07.06.r67.g339c339fe-1
 chaotic-aur ytfzf-git r2028.1fa3176-1
 chaotic-aur ytmdl 2023.2.28-1.1
 chaotic-aur yuzu-early-access 3803-1
