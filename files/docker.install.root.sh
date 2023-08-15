@@ -160,6 +160,37 @@ pacman -Scc --noconfirm
 mkdir -p /opt/9138packages
 git config --global user.email "gnuhub@gmail.com"
 git config --global user.name "gnuhub"
+
+export HOME=/root
+export USER=root
+export JABBA_VERSION=0.11.2
+export JABBA_INDEX=https://github.com/typelevel/jdk-index/raw/main/index.json
+curl -sL https://github.com/shyiko/jabba/raw/master/install.sh | bash 
+. /root/.jabba/jabba.sh
+jabba ls-remote
+
+
+ jabba install corretto@20
+ jabba install corretto@19
+ jabba install corretto@17
+ jabba install corretto@11
+ jabba install corretto@8
+ jabba install graalvm@19
+ jabba install graalvm@17
+ jabba install graalvm@11
+ jabba install openj9@17
+ jabba install openj9@11
+ jabba install openj9@8
+ jabba install oracle@20
+ jabba install oracle@19
+ jabba install oracle@17
+ jabba install temurin@20
+ jabba install temurin@19
+ jabba install temurin@17
+ jabba install temurin@11
+ jabba install temurin@8
+
+ 
 cd /opt/9138packages
 cp /opt/9139.packages.sh ./
 chmod +x *.sh 
