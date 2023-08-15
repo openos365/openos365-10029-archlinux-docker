@@ -97,6 +97,7 @@ pacman -Syyu --noconfirm rsync
 pacman -Syyu --noconfirm expect
 pacman -Syyu --noconfirm minio-client
 pacman -Syyu --noconfirm yay
+pacman -Syyu --noconfirm golang
 pacman -Syyu --noconfirm pacman-contrib
 pacman -Syyu --noconfirm github-cli
 pacman -Syyu --noconfirm rclone
@@ -190,7 +191,21 @@ jabba ls-remote
  jabba install temurin@11
  jabba install temurin@8
 
- 
+curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/binscripts/gvm-installer | bash
+source /root/.gvm/scripts/gvm
+gvm install go1.17
+gvm use go1.17
+
+git clone https://github.com/cooperspencer/gickup.git
+cd gickup
+go build .
+cp -fv ./gickup /usr/bin/gickup
+which gickup
+gickup --help
+
+
+
+
 cd /opt/9138packages
 cp /opt/9139.packages.sh ./
 chmod +x *.sh 
