@@ -5999,7 +5999,7 @@ extra libutp r99.fda9f4b-1
 extra libuv 1.46.0-1 [installed]
 extra libva 2.19.0-1 [installed]
 extra libva-intel-driver 2.4.1-2
-extra libva-mesa-driver 1:23.1.5-1
+extra libva-mesa-driver 1:23.1.6-1
 extra libva-utils 2.19.0-1
 extra libva-vdpau-driver 0.7.4-6
 extra libvarlink 23-1
@@ -6711,11 +6711,11 @@ extra menyoki 1.7.0-1
 extra mephisto.lv2 0.18.2-3
 extra mercurial 6.5.1-1
 extra merkaartor 0.19.0-7
-extra mesa 1:23.1.5-1 [installed]
+extra mesa 1:23.1.6-1 [installed]
 extra mesa-amber 21.3.9-4
 extra mesa-demos 9.0.0-2
 extra mesa-utils 9.0.0-2
-extra mesa-vdpau 1:23.1.5-1
+extra mesa-vdpau 1:23.1.6-1
 extra mescc-tools 1.3-1
 extra meshbird 2.3-6
 extra meshroom 2021.1.0-10
@@ -7246,10 +7246,10 @@ extra opencascade 1:7.6.3-3
 extra opencc 1.1.6-2
 extra opencc-doc 1.1.6-2
 extra opencl-clhpp 2023.04.17-1
-extra opencl-clover-mesa 1:23.1.5-1
+extra opencl-clover-mesa 1:23.1.6-1
 extra opencl-headers 2:2023.04.17-2
 extra opencl-nvidia 535.98-1
-extra opencl-rusticl-mesa 1:23.1.5-1
+extra opencl-rusticl-mesa 1:23.1.6-1
 extra opencollada 1:1.6.68-3
 extra opencolorio 2.2.1-11
 extra openconnect 1:9.12-1
@@ -13070,13 +13070,13 @@ extra vulkan-extra-tools 1.3.250.0-1
 extra vulkan-headers 1:1.3.257-1
 extra vulkan-html-docs 1:1.3.257-1
 extra vulkan-icd-loader 1.3.255-1 [installed]
-extra vulkan-intel 1:23.1.5-1
-extra vulkan-mesa-layers 1:23.1.5-1
-extra vulkan-radeon 1:23.1.5-1
-extra vulkan-swrast 1:23.1.5-1
+extra vulkan-intel 1:23.1.6-1
+extra vulkan-mesa-layers 1:23.1.6-1
+extra vulkan-radeon 1:23.1.6-1
+extra vulkan-swrast 1:23.1.6-1
 extra vulkan-tools 1.3.255-1
 extra vulkan-validation-layers 1.3.250.0-2
-extra vulkan-virtio 1:23.1.5-1
+extra vulkan-virtio 1:23.1.6-1
 extra vulscan 2.0-4
 extra vultr-cli 2.17.0-1
 extra vulture 2.8-1
@@ -13803,7 +13803,7 @@ multilib lib32-libunwind 1.6.2-2
 multilib lib32-libusb 1.0.26-2
 multilib lib32-libva 2.19.0-1
 multilib lib32-libva-intel-driver 2.4.1-1
-multilib lib32-libva-mesa-driver 1:23.1.5-1
+multilib lib32-libva-mesa-driver 1:23.1.6-1
 multilib lib32-libva-vdpau-driver 0.7.4-7
 multilib lib32-libvdpau 1.5-1
 multilib lib32-libvisual 0.4.2-1
@@ -13844,11 +13844,11 @@ multilib lib32-llvm-libs 15.0.7-3
 multilib lib32-lm_sensors 1:3.6.0.r41.g31d1f125-2
 multilib lib32-lz4 1.9.4-1
 multilib lib32-mangohud 0.6.9.1-6
-multilib lib32-mesa 1:23.1.5-1
+multilib lib32-mesa 1:23.1.6-1
 multilib lib32-mesa-amber 21.3.9-5
 multilib lib32-mesa-demos 9.0.0-1
 multilib lib32-mesa-utils 9.0.0-1
-multilib lib32-mesa-vdpau 1:23.1.5-1
+multilib lib32-mesa-vdpau 1:23.1.6-1
 multilib lib32-mpg123 1.31.3-1
 multilib lib32-ncurses 6.4_20230520-1
 multilib lib32-nettle 3.9.1-1
@@ -13858,9 +13858,9 @@ multilib lib32-nvidia-cg-toolkit 3.1-8
 multilib lib32-nvidia-utils 535.98-1
 multilib lib32-ocl-icd 2.3.2-1
 multilib lib32-openal 1.23.1-1
-multilib lib32-opencl-clover-mesa 1:23.1.5-1
+multilib lib32-opencl-clover-mesa 1:23.1.6-1
 multilib lib32-opencl-nvidia 535.98-1
-multilib lib32-opencl-rusticl-mesa 1:23.1.5-1
+multilib lib32-opencl-rusticl-mesa 1:23.1.6-1
 multilib lib32-openssl 1:3.1.2-1
 multilib lib32-openssl-1.1 1.1.1.v-1
 multilib lib32-opus 1.4-1
@@ -13909,12 +13909,12 @@ multilib lib32-v4l-utils 1.24.1-1
 multilib lib32-virtualgl 3.1-1
 multilib lib32-vkd3d 1.7.1-1
 multilib lib32-vulkan-icd-loader 1.3.255-1
-multilib lib32-vulkan-intel 1:23.1.5-1
-multilib lib32-vulkan-mesa-layers 1:23.1.5-1
-multilib lib32-vulkan-radeon 1:23.1.5-1
-multilib lib32-vulkan-swrast 1:23.1.5-1
+multilib lib32-vulkan-intel 1:23.1.6-1
+multilib lib32-vulkan-mesa-layers 1:23.1.6-1
+multilib lib32-vulkan-radeon 1:23.1.6-1
+multilib lib32-vulkan-swrast 1:23.1.6-1
 multilib lib32-vulkan-validation-layers 1.3.250.0-3
-multilib lib32-vulkan-virtio 1:23.1.5-1
+multilib lib32-vulkan-virtio 1:23.1.6-1
 multilib lib32-wavpack 5.6.0-1
 multilib lib32-wayland 1.22.0-1
 multilib lib32-xcb-util 0.4.1-1
@@ -14542,7 +14542,7 @@ chaotic-aur corepaint 4.4.0-1.3
 chaotic-aur corepdf 4.4.0-1.3
 chaotic-aur coreutils-git 9.3.r142.g20b9a015e-1
 chaotic-aur coreutils-hybrid 9.1_0.0.20-1
-chaotic-aur coreutils-hybrid-git 0.0.20.r142.g7bc3c5d50-1
+chaotic-aur coreutils-hybrid-git 0.0.20.r144.gf1978955b-1
 chaotic-aur correios-git r18.0d75f6e-1
 chaotic-aur corrosion-git v0.3.0.r146.gdc1e4e5-1
 chaotic-aur cosmic-epoch-git r78.a9a8a74-1
@@ -14909,7 +14909,7 @@ chaotic-aur firejail-git 0.9.72.r9610.bfcf8bc31-1
 chaotic-aur firejail-pacman-hook 1-2.3
 chaotic-aur firetools-git 0.9.72.r3.g81ca775-1.2
 chaotic-aur fish-autopair 1.0.4-1
-chaotic-aur fish-git 2:3.6.1.r767.ga29aa4418-1
+chaotic-aur fish-git 2:3.6.1.r768.g566123edc-1
 chaotic-aur fish-systemd-git r10.4e922a2-2
 chaotic-aur fityk 1.3.2-1.3
 chaotic-aur flacon 11.2.0-1
@@ -15038,7 +15038,7 @@ chaotic-aur gifcurry 6.0.1.0_0-1.3
 chaotic-aur gigolo 0.5.2-1.3
 chaotic-aur gimp-elsamuko-git r88.b401697-1.2
 chaotic-aur gimp-extras 2.0.4-1.2
-chaotic-aur gimp-git 2:2.99.16.r230.gf67ba0d829-1
+chaotic-aur gimp-git 2:2.99.16.r231.g8f0e2fd5aa-1
 chaotic-aur gimp-plugin-normalmap 1.2.3-2.3
 chaotic-aur gis-weather 0.8.4.17-1
 chaotic-aur gis-weather-git 0.8.4.17.r3.g98fd207-1
@@ -15303,9 +15303,9 @@ chaotic-aur hunspell-pt-br 3.2.15-1
 chaotic-aur hw-probe 1.6.5-1.1
 chaotic-aur hyperspace-bin 1:1.1.4-1.3
 chaotic-aur hypnotix 3.5-1
-chaotic-aur hyprland-git 0.28.0.r65.37a211a2-1
+chaotic-aur hyprland-git 0.28.0.r68.942ee943-1
 chaotic-aur hyprland-nvidia 0.28.0-1
-chaotic-aur hyprland-nvidia-git 0.28.0.r66.g3d9545d2-1
+chaotic-aur hyprland-nvidia-git 0.28.0.r68.g942ee943-1
 chaotic-aur hyprpaper-git r108.e498c43-1
 chaotic-aur hyprpicker-git 0.1.1.r4.5ba3268-1
 chaotic-aur hyprshot 1.2.2-1
@@ -15759,7 +15759,7 @@ chaotic-aur lib32-lilv 0.24.20-1.2
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangohud-git 0.6.9.1.r116.g41f923b-1
-chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.176742.659b7eb2799b-1
+chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.176744.9fa26f69cc6b-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -16121,7 +16121,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.3
 chaotic-aur menulibre 1:2.2.3-2
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.36.0-1
-chaotic-aur mesa-tkg-git 23.3.0_devel.176742.659b7eb2799b-1
+chaotic-aur mesa-tkg-git 23.3.0_devel.176744.9fa26f69cc6b-1
 chaotic-aur mesen2-git r2746.9538c906-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -16813,8 +16813,8 @@ chaotic-aur premid 2.3.2-1
 chaotic-aur prestopalette 0.1.31-1.3
 chaotic-aur primus-vk-git r156.a7971a4-1
 chaotic-aur prismlauncher 7.2-1
-chaotic-aur prismlauncher-git 7.0.r781.geb4efa5a9-1
-chaotic-aur prismlauncher-git-debug 7.0.r781.geb4efa5a9-1
+chaotic-aur prismlauncher-git 7.0.r789.g3098aecf9-1
+chaotic-aur prismlauncher-git-debug 7.0.r789.g3098aecf9-1
 chaotic-aur prismlauncher-qt5 7.2-1
 chaotic-aur prismlauncher-qt5-git 7.0.r781.geb4efa5a9-1
 chaotic-aur prison-git 5.105.0_r423.g52975d3-1
@@ -23955,8 +23955,8 @@ archlinuxcn ghcup-hs-bin-debug 0.1.19.4-1
 archlinuxcn ghidra-git 10.3.2.r511.ba5fcdf4ed-1
 archlinuxcn gimp-devel 2.99.16-2
 archlinuxcn gimp-devel-debug 2.99.16-2
-archlinuxcn gimp-git 2:50468.f67ba0d829-1
-archlinuxcn gimp-git-debug 2:50468.f67ba0d829-1
+archlinuxcn gimp-git 2:50469.8f0e2fd5aa-1
+archlinuxcn gimp-git-debug 2:50469.8f0e2fd5aa-1
 archlinuxcn gimp-plugin-bimp 2.6-2
 archlinuxcn gimp-plugin-bimp-debug 2.6-2
 archlinuxcn git-cinnabar 0.6.2-1
@@ -25058,8 +25058,8 @@ archlinuxcn mosh-git-debug 1:1.4.0.r19.g1105d48-2
 archlinuxcn motrix 1.8.19-4
 archlinuxcn motrix-debug 1.8.19-4
 archlinuxcn mpdscribble 0.24-2
-archlinuxcn mpv-git 0.36.0_107_g36972aec53-1
-archlinuxcn mpv-git-debug 0.36.0_107_g36972aec53-1
+archlinuxcn mpv-git 0.36.0_120_g152a95f215-1
+archlinuxcn mpv-git-debug 0.36.0_120_g152a95f215-1
 archlinuxcn mpv-mpvacious 0.23-1
 archlinuxcn mpv-osc-modern-git r73.61a6957-1
 archlinuxcn mpv-osc-thumbfast-git r124.4241c7d-1
