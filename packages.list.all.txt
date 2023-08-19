@@ -3333,7 +3333,7 @@ extra haskell-feed 1.3.2.1-113
 extra haskell-fgl 5.8.1.1-6
 extra haskell-fgl-arbitrary 0.2.0.6-109
 extra haskell-file-embed 0.0.15.0-1
-extra haskell-filelock 0.1.1.5-172
+extra haskell-filelock 0.1.1.6-1
 extra haskell-filemanip 0.3.6.3-105
 extra haskell-filepath-bytestring 1.4.2.1.9-63
 extra haskell-filepattern 0.1.3-49
@@ -3771,7 +3771,7 @@ extra haskell-pandoc-server 0.1-96
 extra haskell-pandoc-types 1.23-27
 extra haskell-pango 0.13.8.2-51
 extra haskell-panic 0.4.0.1-24
-extra haskell-pantry 0.5.7-136
+extra haskell-pantry 0.5.7-137
 extra haskell-parallel 3.2.2.0-17
 extra haskell-parameterized-utils 2.1.6.0-35
 extra haskell-parsec-numbers 0.1.0-18
@@ -11973,7 +11973,7 @@ extra sslsplit 0.5.5-2
 extra ssr 0.6.0-1
 extra sssd 2.9.1-1
 extra sstp-client 1:1.0.18-1
-extra stack 2.7.5-325
+extra stack 2.7.5-326
 extra stalonetray 0.8.5-1
 extra stardict 3.0.6.2-1
 extra starship 1.16.0-1
@@ -14481,7 +14481,7 @@ chaotic-aur ckbcomp 1.221-1 [installed]
 chaotic-aur clamav-unofficial-sigs 7.2.5-1.1
 chaotic-aur clang-git 18.0.0_r469848.6ba4b213346f-1
 chaotic-aur clapper 0.5.2-1.3
-chaotic-aur clash-for-windows-bin 0.20.31-1
+chaotic-aur clash-for-windows-bin 0.20.32-1
 chaotic-aur clash-geoip 20230812-1
 chaotic-aur clash-meta 1.15.1-1
 chaotic-aur clash-premium-bin 2023.08.17-1
@@ -14507,7 +14507,7 @@ chaotic-aur clipman 1.6.2-1
 chaotic-aur cloaker-bin 2.1-1
 chaotic-aur cloudflare-warp-bin 2023.7.40-1
 chaotic-aur cmake-extras-git r290-1.2
-chaotic-aur cmake-git 3.27.3.583.g4f91cbba26-1
+chaotic-aur cmake-git 3.27.3.612.g54369c1aab-1
 chaotic-aur cmst-git 2023.03.14-1.2
 chaotic-aur cobang 0.10.1-1.2
 chaotic-aur cockroachdb-bin 22.2.2-1
@@ -14542,7 +14542,7 @@ chaotic-aur corepaint 4.4.0-1.3
 chaotic-aur corepdf 4.4.0-1.3
 chaotic-aur coreutils-git 9.3.r142.g20b9a015e-1
 chaotic-aur coreutils-hybrid 9.1_0.0.20-1
-chaotic-aur coreutils-hybrid-git 0.0.20.r149.g15c27cd54-1
+chaotic-aur coreutils-hybrid-git 0.0.20.r151.gf9d81b2aa-1
 chaotic-aur correios-git r18.0d75f6e-1
 chaotic-aur corrosion-git v0.3.0.r146.gdc1e4e5-1
 chaotic-aur cosmic-epoch-git r78.a9a8a74-1
@@ -14909,7 +14909,7 @@ chaotic-aur firejail-git 0.9.72.r9610.bfcf8bc31-1
 chaotic-aur firejail-pacman-hook 1-2.3
 chaotic-aur firetools-git 0.9.72.r3.g81ca775-1.2
 chaotic-aur fish-autopair 1.0.4-1
-chaotic-aur fish-git 2:3.6.1.r769.g2f86b31bd-1
+chaotic-aur fish-git 2:3.6.1.r775.gbc29b4aee-1
 chaotic-aur fish-systemd-git r10.4e922a2-2
 chaotic-aur fityk 1.3.2-1.3
 chaotic-aur flacon 11.2.0-1
@@ -17755,7 +17755,7 @@ chaotic-aur vazirmatn-fonts 33.003-1
 chaotic-aur vboot-utils 112.15359-1
 chaotic-aur vcpkg 2023.08.09-1
 chaotic-aur vdhcoapp-git 1.6.3.r6.g6beaae1-1
-chaotic-aur veloren-git weekly.r4.09646a9830-1
+chaotic-aur veloren-git weekly.r27.6fbca74e88-1
 chaotic-aur velox-git 0.0.2.r287.gfcc0412-1.1
 chaotic-aur ventoy-bin 1.0.94-1
 chaotic-aur via-bin 3.0.0-0
@@ -23313,7 +23313,7 @@ blackarch zykeys-debug 0.1-4
 blackarch zzuf 0.15-3
 archlinuxcn 1password 8.10.9-46
 archlinuxcn 3dmeshmetric-bin 1.4.3-1
-archlinuxcn 3dslicer 5.2.2-3
+archlinuxcn 3dslicer 5.4.0-1
 archlinuxcn 3dslicer-bin 5.4.0-1
 archlinuxcn 3dslicer-git 5.2.2.r28688.fb17af769b-1
 archlinuxcn 64gram-desktop 1:1.0.89-1
@@ -24107,11 +24107,11 @@ archlinuxcn httpry 0.1.8-2
 archlinuxcn hunspell-ja-git 1.r1.g9854fc6-2
 archlinuxcn hyprland-git 0.28.0.r68.942ee943-1
 archlinuxcn hyprland-git-debug 0.28.0.r68.942ee943-1
-archlinuxcn hyprland-hidpi-xprop-git 0.28.0.r65.37a211a2-1
-archlinuxcn hyprland-hidpi-xprop-git-debug 0.28.0.r65.37a211a2-1
+archlinuxcn hyprland-hidpi-xprop-git 0.28.0.r68.942ee943-1
+archlinuxcn hyprland-hidpi-xprop-git-debug 0.28.0.r68.942ee943-1
 archlinuxcn hyprland-nvidia 0.28.0-2
 archlinuxcn hyprland-nvidia-git r3232.942ee943-2
-archlinuxcn hyprland-nvidia-hidpi-git r3229.37a211a2-1
+archlinuxcn hyprland-nvidia-hidpi-git r3232.942ee943-1
 archlinuxcn hyprpaper-git r108.e498c43-1
 archlinuxcn hypseus-singe-git 2.11.1.r0.gfb981e2-1
 archlinuxcn hypseus-singe-git-debug 2.11.1.r0.gfb981e2-1
@@ -24497,7 +24497,7 @@ archlinuxcn julia-git-rmath_jll-git 0.4.0+0-2
 archlinuxcn julia-git-roots-git 2.0.19-1
 archlinuxcn julia-git-rotations-git 1.5.1-2
 archlinuxcn julia-git-runtimegeneratedfunctions-git 0.5.12-1
-archlinuxcn julia-git-scimlbase-git 1.94.0.0.27.g4d926fcc-1
+archlinuxcn julia-git-scimlbase-git 1.94.0.0.29.ga6b09ce1-1
 archlinuxcn julia-git-scratch-git 1.2.0.0.7.gb00c915-2
 archlinuxcn julia-git-sentinelarrays-git 1.4.0.0.1.g54fab55-2
 archlinuxcn julia-git-setfield-git 1.1.1.0.3.ge17539a-3
@@ -25058,8 +25058,8 @@ archlinuxcn mosh-git-debug 1:1.4.0.r19.g1105d48-2
 archlinuxcn motrix 1.8.19-4
 archlinuxcn motrix-debug 1.8.19-4
 archlinuxcn mpdscribble 0.24-2
-archlinuxcn mpv-git 0.36.0_122_g4eedb8710c-1
-archlinuxcn mpv-git-debug 0.36.0_122_g4eedb8710c-1
+archlinuxcn mpv-git 0.36.0_126_ga8192eda6c-1
+archlinuxcn mpv-git-debug 0.36.0_126_ga8192eda6c-1
 archlinuxcn mpv-mpvacious 0.23-1
 archlinuxcn mpv-osc-modern-git r73.61a6957-1
 archlinuxcn mpv-osc-thumbfast-git r124.4241c7d-1
@@ -26371,12 +26371,12 @@ archlinuxcn yosys-git-debug 0.32+51.r12479.6405bbab1-1
 archlinuxcn youtube-dl-git 2021.12.17.r282.86e3cf5e58-1
 archlinuxcn yubico-piv-tool 2.3.1-1
 archlinuxcn yubico-piv-tool-debug 2.3.1-1
-archlinuxcn yuzu-early-access 3820-1
-archlinuxcn yuzu-early-access-debug 3820-1
+archlinuxcn yuzu-early-access 3821-1
+archlinuxcn yuzu-early-access-debug 3821-1
 archlinuxcn yuzu-git r25009.ae1421265a-1
 archlinuxcn yuzu-git-debug r25009.ae1421265a-1
-archlinuxcn yuzu-mainline-git 1529.r0.g8ea89655d-1
-archlinuxcn yuzu-mainline-git-debug 1529.r0.g8ea89655d-1
+archlinuxcn yuzu-mainline-git 1531.r0.g75f5d96ea-1
+archlinuxcn yuzu-mainline-git-debug 1531.r0.g75f5d96ea-1
 archlinuxcn zafiro-icon-theme 1.3-3
 archlinuxcn zarchive-git 0.1.2.r0.gd2c7177-2
 archlinuxcn zchunk 1.3.0-1
