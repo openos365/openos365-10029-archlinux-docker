@@ -75,7 +75,7 @@ core groff 1.23.0-3 [installed]
 core grub 2:2.12rc1-1 [installed]
 core gssproxy 0.9.1-2
 core guile 3.0.9-1 [installed]
-core gzip 1.12-2 [installed]
+core gzip 1.12-3 [installed]
 core hdparm 9.65-1
 core hwdata 0.373-1 [installed]
 core iana-etc 20230629-1 [installed]
@@ -204,7 +204,7 @@ core pam 1.5.3-3 [installed]
 core pambase 20221020-1 [installed]
 core patch 2.7.6-10 [installed]
 core pciutils 3.10.0-1 [installed]
-core pcre 8.45-3 [installed]
+core pcre 8.45-4 [installed]
 core pcre2 10.42-2 [installed]
 core perl 5.38.0-1 [installed]
 core pinentry 1.2.1-1 [installed]
@@ -7378,7 +7378,7 @@ extra openvr 1.23.8-1
 extra openvswitch 3.1.1-1
 extra openxr 1.0.28-1
 extra openzwave 1.6-6
-extra opera 101.0.4843.43-1
+extra opera 101.0.4843.58-1
 extra opera-ffmpeg-codecs 115.0.5790.171-1
 extra operator-sdk 1.31.0-1
 extra ophcrack 3.8.0-4
@@ -13596,7 +13596,7 @@ extra zfp 1.0.0-2
 extra zh-autoconvert 0.3.16-5
 extra zig 0.10.1-3
 extra zigbee2mqtt 1.32.2-1
-extra zim 0.75.1-2
+extra zim 0.75.2-1
 extra zim-tools 3.2.0-3
 extra zimg 3.0.5-1 [installed]
 extra zint 2.12.0-1
@@ -14542,7 +14542,7 @@ chaotic-aur corepaint 4.4.0-1.3
 chaotic-aur corepdf 4.4.0-1.3
 chaotic-aur coreutils-git 9.3.r143.g27c76b83b-1
 chaotic-aur coreutils-hybrid 9.1_0.0.20-1
-chaotic-aur coreutils-hybrid-git 0.0.20.r159.gabffe6c76-1
+chaotic-aur coreutils-hybrid-git 0.0.20.r160.gb5746f794-1
 chaotic-aur correios-git r18.0d75f6e-1
 chaotic-aur corrosion-git v0.3.0.r146.gdc1e4e5-1
 chaotic-aur cosmic-epoch-git r78.a9a8a74-1
@@ -14773,7 +14773,7 @@ chaotic-aur fann 2.2.0-5.1
 chaotic-aur farbfeld 4-2
 chaotic-aur fast 0.0.4-1
 chaotic-aur fastfetch 1.12.2-1
-chaotic-aur fastfetch-git 1.12.2.r535.g5a43adb6-1
+chaotic-aur fastfetch-git 1.12.2.r537.g970863e7-1
 chaotic-aur fastgame-git 0.2.0.r38.g9a417b7-1
 chaotic-aur fatrat-git 1.2.0.b2.r60.g1b0dd1f-1
 chaotic-aur faudio-tkg-git 23.08.r0.g29a7d3a-1
@@ -14930,11 +14930,11 @@ chaotic-aur flif 0.4-1
 chaotic-aur flightcore 1.22.0-1
 chaotic-aur flite1 1.4-6
 chaotic-aur floorp 11.1.2-1
-chaotic-aur fluent-cursor-theme-git 2023.06.07.r6.ge87ed73-1
-chaotic-aur fluent-gtk-theme-git 2023.06.20.r3.ga65a7a9-1
-chaotic-aur fluent-icon-theme-git 2023.06.07.r6.ge87ed73-1
+chaotic-aur fluent-cursor-theme-git 2023.06.07.r9.gde77214-1
+chaotic-aur fluent-gtk-theme-git 2023.06.20.r4.g20665fa-1
+chaotic-aur fluent-icon-theme-git 2023.06.07.r9.gde77214-1
 chaotic-aur fluent-kde-theme-git r94.83d5cc2-1
-chaotic-aur fluent-round-icon-theme-git 2023.06.07.r6.ge87ed73-1
+chaotic-aur fluent-round-icon-theme-git 2023.06.07.r9.gde77214-1
 chaotic-aur fluffychat 1.13.0-1
 chaotic-aur flutter 3.13.0-1
 chaotic-aur flux-bin 2.0.1-1
@@ -17066,7 +17066,7 @@ chaotic-aur qmplay2-git 23.08.08.r18.gf6a271dd-1
 chaotic-aur qnapi-git 0.2.3snapshot.r5.gd4e0378-1.3
 chaotic-aur qogir-gtk-theme 2023.05.24-1
 chaotic-aur qogir-gtk-theme-git 2023.05.24.r10.gcfc6c87-1
-chaotic-aur qogir-icon-theme-git 2023.06.05.r15.g8304bfe5-1
+chaotic-aur qogir-icon-theme-git 2023.06.05.r16.g4f199dbc-1
 chaotic-aur qogir-kde-theme-git r96.a990e5e-1
 chaotic-aur qomui 0.8.2-2.3
 chaotic-aur qomui-git 0.8.2.r22.23650ab-3.3
@@ -17512,7 +17512,7 @@ chaotic-aur themix-gui-git 1.15.1.r121.g72582054-1
 chaotic-aur themix-icons-archdroid-git 1.0.3.r0.gb90779de4-1.1
 chaotic-aur themix-icons-gnome-colors-git 5.5.6.r0.gd2cb7eb-2.3
 chaotic-aur themix-icons-numix-git 23.04.26.r0.g71b89af4f.23.02.11.r0.gb8ab58632-1.1
-chaotic-aur themix-icons-papirus-git 20230801.r79.g3c1ca898d6-1
+chaotic-aur themix-icons-papirus-git 20230801.r80.ga92f098588-1
 chaotic-aur themix-icons-suru-plus-aspromauros-git 3.0.r0.gd43a8ec4-2.1
 chaotic-aur themix-icons-suru-plus-git 30.0.r2.g9bd895f32-2.1
 chaotic-aur themix-import-images-git 1.15.1.r121.g72582054-1
@@ -17867,8 +17867,8 @@ chaotic-aur waydroid-script-git r147.4db9bb3-1
 chaotic-aur wayfire 0.7.5-1
 chaotic-aur wayfire-git r2706.004fcea8-1
 chaotic-aur wayfire-plugins-extra 0.7.5-1
-chaotic-aur wayland-docs-git 1.22.0.r24.gedb943d-1
-chaotic-aur wayland-git 1.22.0.r24.gedb943d-1
+chaotic-aur wayland-docs-git 1.22.0.r24.gedb943dc-1
+chaotic-aur wayland-git 1.22.0.r24.gedb943dc-1
 chaotic-aur wayland-protocols-git 1.32.r2.g5293896-1
 chaotic-aur waynergy-git r320.13ea71c-1
 chaotic-aur waypipe-git 0.8.6.r2.ga55cd3b-1
