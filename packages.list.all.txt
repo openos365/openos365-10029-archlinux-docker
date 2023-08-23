@@ -4573,8 +4573,8 @@ extra jbigkit 2.1-6
 extra jc 1.23.4-1
 extra jconvolver 1.1.0-3
 extra jdk-openjdk 20.0.2.u9-3
-extra jdk11-openjdk 11.0.20.u8-2
-extra jdk17-openjdk 17.0.8.u7-1
+extra jdk11-openjdk 11.0.20.1.u1-1
+extra jdk17-openjdk 17.0.8.1.u1-1
 extra jdk8-openjdk 8.382.u05-1
 extra jedi-language-server 0.40.0-2
 extra jemalloc 1:5.3.0-2
@@ -4601,10 +4601,10 @@ extra jpegoptim 1.5.4-1
 extra jq 1.6-4 [installed]
 extra jre-openjdk 20.0.2.u9-3
 extra jre-openjdk-headless 20.0.2.u9-3
-extra jre11-openjdk 11.0.20.u8-2
-extra jre11-openjdk-headless 11.0.20.u8-2
-extra jre17-openjdk 17.0.8.u7-1
-extra jre17-openjdk-headless 17.0.8.u7-1
+extra jre11-openjdk 11.0.20.1.u1-1
+extra jre11-openjdk-headless 11.0.20.1.u1-1
+extra jre17-openjdk 17.0.8.1.u1-1
+extra jre17-openjdk-headless 17.0.8.1.u1-1
 extra jre8-openjdk 8.382.u05-1
 extra jre8-openjdk-headless 8.382.u05-1
 extra jrnl 4.0.1-1
@@ -7281,10 +7281,10 @@ extra openipmi 2.0.33-4
 extra openjade 1.3.2-7
 extra openjdk-doc 20.0.2.u9-3
 extra openjdk-src 20.0.2.u9-3
-extra openjdk11-doc 11.0.20.u8-2
-extra openjdk11-src 11.0.20.u8-2
-extra openjdk17-doc 17.0.8.u7-1
-extra openjdk17-src 17.0.8.u7-1
+extra openjdk11-doc 11.0.20.1.u1-1
+extra openjdk11-src 11.0.20.1.u1-1
+extra openjdk17-doc 17.0.8.1.u1-1
+extra openjdk17-src 17.0.8.1.u1-1
 extra openjdk8-doc 8.382.u05-1
 extra openjdk8-src 8.382.u05-1
 extra openjpeg2 2.5.0-2 [installed]
@@ -12873,7 +12873,7 @@ extra uwsgi-plugin-zabbix 2.0.22-1
 extra uwsgitop 0.11-6
 extra uwufetch 2.1-1
 extra v2ray 5.7.0-1
-extra v2ray-domain-list-community 20230820095208-1
+extra v2ray-domain-list-community 20230821154916-1
 extra v2ray-geoip 202308170035-1
 extra v4l-utils 1.24.1-2 [installed]
 extra v4l2loopback-dkms 0.12.7-2
@@ -14778,7 +14778,7 @@ chaotic-aur fancontrol-gui v0.8-1.3
 chaotic-aur fancontrol-gui-git v0.8.r23.g5bfa8fa-1.3
 chaotic-aur fancontrol-kcm v0.8-1.3
 chaotic-aur fancontrol-kcm-git v0.8.r23.g5bfa8fa-1.2
-chaotic-aur fancytasks 1.1.1.r17.g449d8a2-1.2
+chaotic-aur fancytasks 1.1.2.r1.gaa62ecf-1
 chaotic-aur fann 2.2.0-5.1
 chaotic-aur farbfeld 4-2
 chaotic-aur fast 0.0.4-1
@@ -15364,7 +15364,7 @@ chaotic-aur informant 0.4.6-1
 chaotic-aur input-leap-git 2.4.0+640+gad3c0e32-1
 chaotic-aur input-leap-headless-git 2.4.0+640+gad3c0e32-1
 chaotic-aur input-remapper-git 2.0.0.r12.gf23b0a02-1
-chaotic-aur insomnia 2023.5.5-1
+chaotic-aur insomnia 2023.5.6-1
 chaotic-aur inspircd 3.16.1-2
 chaotic-aur insync 3.8.6.50504-1
 chaotic-aur insync-caja 3.7.9.50368-1.2
@@ -15395,7 +15395,7 @@ chaotic-aur itch-setup-bin 1.26.0-1
 chaotic-aur itcl3 3.4.4-1
 chaotic-aur itk-snap-bin 4.0.0-2
 chaotic-aur j9-git r4387.a6f48f96-1.2
-chaotic-aur jackett 0.21.681-1
+chaotic-aur jackett 0.21.687-1
 chaotic-aur jade-application-kit 3.5.7-2.3
 chaotic-aur jameica 2.10.4-1.2
 chaotic-aur jamesdsp 2.6.1-1
@@ -15776,7 +15776,7 @@ chaotic-aur lib32-lilv 0.24.20-1.2
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangohud-git 0.6.9.1.r123.g0815232-1
-chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.176910.aef257fd152-1
+chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.176910.aef257fd1527-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -16067,7 +16067,7 @@ chaotic-aur ludusavi 0.21.0-1
 chaotic-aur lunar-client 3.0.5-1
 chaotic-aur lunarvim-git 1.2.0.r209.g420817e6-1
 chaotic-aur lutris-git 0.5.13.r223.g0739c393-1
-chaotic-aur luxtorpeda-git 66.0.1.r428.7300f57-1
+chaotic-aur luxtorpeda-git 66.0.1.r429.7943035-1
 chaotic-aur lxqt-kwin-desktop-git 0.17.0-1.3
 chaotic-aur lyx 2.3.7-2.2
 chaotic-aur m4b-tool-bin 0.4.2~20230214-2
@@ -16139,7 +16139,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.3
 chaotic-aur menulibre 1:2.2.3-2
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.36.0-1
-chaotic-aur mesa-tkg-git 23.3.0_devel.176910.aef257fd152-1
+chaotic-aur mesa-tkg-git 23.3.0_devel.176910.aef257fd1527-1
 chaotic-aur mesen2-git r2747.80f44271-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -16181,7 +16181,7 @@ chaotic-aur miredo 1.2.6+r159+ge5f5652-1.1
 chaotic-aur mkbold-mkitalic 0.11-2
 chaotic-aur mkinitcpio-firmware 1.4.0-1
 chaotic-aur mkinitcpio-openswap 0.1.0-3.1
-chaotic-aur mkosi-git 15.1.r48.g2614316-1
+chaotic-aur mkosi-git 15.1.r49.g2272695-1
 chaotic-aur mmsd-git r648.f4b8b32-1.1
 chaotic-aur moarvm 2023.06-1
 chaotic-aur mobydroid 0.4-1.1
@@ -16523,7 +16523,7 @@ chaotic-aur paru 1.11.1-1.3
 chaotic-aur paru-git 1.11.2.r183.g499033b-1
 chaotic-aur passbook 0.8-1.4
 chaotic-aur passbook-git 0.8.r36.g750825d-1.4
-chaotic-aur path-of-building-community-git 2.31.2.r7170.60.517-1
+chaotic-aur path-of-building-community-git 2.31.2.r7171.60.517-1
 chaotic-aur patool 1.12-5.6
 chaotic-aur pcem 17-4.2
 chaotic-aur pcf-unifont 15.0.06-2
@@ -17251,7 +17251,8 @@ chaotic-aur ruffle-nightly-bin 2023.08.23-1
 chaotic-aur runescape-launcher 2.2.11-1
 chaotic-aur rusnapshot-git 33.b19e757-1
 chaotic-aur rustc-demangle 0.1.21-1
-chaotic-aur rustdesk-nightly 1.2.1-0
+chaotic-aur rustdesk-appimage-nightly 1.2.3-0
+chaotic-aur rustdesk-nightly 1.2.3-0
 chaotic-aur rustdesk-server-bin 1.1.8_2-1
 chaotic-aur rustow-git 0.4.beta.r7.g858b15e-1
 chaotic-aur rustup-git 1.26.0.r118.ga4dd7d03-1
@@ -17645,7 +17646,7 @@ chaotic-aur torrent-file-editor-qt5-git 0.3.18.r19.g58ec77e-1
 chaotic-aur touche 2.0.9-1
 chaotic-aur tpmmanager 0.9.0-1
 chaotic-aur trackma-git 0.8.6.r28.g269ae01-1
-chaotic-aur tracktion-waveform 12.5.5-1
+chaotic-aur tracktion-waveform 12.5.11-1
 chaotic-aur tradingview 2.4.0-1
 chaotic-aur traitor-git 0.0.14.r4.g0d221ba-1
 chaotic-aur transset-df 6-8
@@ -17842,7 +17843,7 @@ chaotic-aur vkbasalt-cli 3.1.1-1.5
 chaotic-aur vkd3d-proton-mingw-git 2.9.r136.g72c01d73-1
 chaotic-aur vkd3d-proton-tkg-git 1.1.r3560.g72c01d73-1
 chaotic-aur vkd3d-tkg-git 1.6.r86.gf9e7cb63-1
-chaotic-aur vlang-git 0.4.r343.gc9e46d34aa-1
+chaotic-aur vlang-git 0.4.r345.gd60c8171ee-1
 chaotic-aur vlc-git 4.0.0.r23113.gf7bb59d9f5-1.2
 chaotic-aur vlc-luajit 3.0.18-8
 chaotic-aur vmaf-git 2.3.1.r151.g14636039-1
@@ -17907,7 +17908,7 @@ chaotic-aur webstorm-jre 2023.2-1
 chaotic-aur webtorrent-desktop-bin 0.24.0-1
 chaotic-aur webwatcher-git r24.3d3099f-2.2
 chaotic-aur wev 1.0.0-12
-chaotic-aur wezterm-git 20230822.095359.4d33b3b5-1
+chaotic-aur wezterm-git 20230822.233408.c91e124f-1
 chaotic-aur wf-config 0.7.1-3
 chaotic-aur wf-osk-git r13.d2e2e32-1.3
 chaotic-aur wf-shell 0.7.0-3
@@ -17958,7 +17959,7 @@ chaotic-aur wob 0.14.2-1
 chaotic-aur woeusb 5.2.4-1.1
 chaotic-aur woeusb-ng 0.2.12-3
 chaotic-aur woof-doom 11.3.0-1
-chaotic-aur woof-doom-git 11.3.0.r54.4be06980-1
+chaotic-aur woof-doom-git 11.3.0.r55.f5e237b5-1
 chaotic-aur wordnet-cli 3.1-4
 chaotic-aur wordnet-common 3.1-4
 chaotic-aur wordnet-tk 3.1-4
@@ -29150,7 +29151,7 @@ xerolinux_repo aria2cd 1.3-12
 xerolinux_repo asian-fonts 2-2
 xerolinux_repo ast-firmware 501-1
 xerolinux_repo aura-bin 3.2.9-1
-xerolinux_repo auto-cpufreq 1.9.8-1
+xerolinux_repo auto-cpufreq 1.9.9-1
 xerolinux_repo bash-pipes 1.3.0-9
 xerolinux_repo bauh 0.10.5-1
 xerolinux_repo beautyline 1:20230729-1
@@ -29261,12 +29262,12 @@ xerolinux_repo kvantum-theme-libadwaita-git r21.61f2e0b-1
 xerolinux_repo kvantum-theme-nordic-git 2.2.0.r66.gbe84944-1
 xerolinux_repo kvantum-theme-sweet-git r316.4361631-1
 xerolinux_repo kwin-bismuth 3.1.4-4
-xerolinux_repo kwin-effects-burn-my-windows-git r1325.834f143-1
+xerolinux_repo kwin-effects-burn-my-windows-git r1335.41f02c2-1
 xerolinux_repo kwin-effects-sliding-notifications 1.5.0-1
 xerolinux_repo kwin-polonium 0.6.0-1
 xerolinux_repo kwin-scripts-forceblur 0.6.1-1
 xerolinux_repo lastpass 4.101.0.2-1
-xerolinux_repo latte-dock-git r6066.3b67d2112-1
+xerolinux_repo latte-dock-git r6067.4f7f4c239-1
 xerolinux_repo layan-gtk-theme-git 202305238gb2b5715-1
 xerolinux_repo layan-kde-git r71.4badb5f-1
 xerolinux_repo ldmtool 0.2.5-1
@@ -29367,8 +29368,8 @@ xerolinux_repo plasma5-applets-panon 0.4.6-2
 xerolinux_repo plex-media-player 2.58.1-3
 xerolinux_repo pm2ml 2021.11.20.1-14
 xerolinux_repo pnpm 7.17.0-1
-xerolinux_repo pop-launcher-git 1.2.1.r47.gce2ba21-3
-xerolinux_repo pop-shell-plugin-system76-power-git 1.2.1.r47.gce2ba21-3
+xerolinux_repo pop-launcher-git 1.2.1.r48.g0febac5-1
+xerolinux_repo pop-shell-plugin-system76-power-git 1.2.1.r48.g0febac5-1
 xerolinux_repo pop-shell-shortcuts-git 1:r30.52cc83f-3
 xerolinux_repo powerpill 2021.11-14
 xerolinux_repo prime 1.0-14
@@ -29413,7 +29414,7 @@ xerolinux_repo realvnc-vnc-server 7.6.0-1
 xerolinux_repo realvnc-vnc-viewer 7.6.0-1
 xerolinux_repo repoctl 0.21-3
 xerolinux_repo rtl8821ce-dkms-git 1.0.5.r158.ga478095-1
-xerolinux_repo rtw89-dkms-git 1:r529.8f8efa6-1
+xerolinux_repo rtw89-dkms-git 1:r556.a90a30a-1
 xerolinux_repo samba-support 1-4
 xerolinux_repo sayonara-player 1.7.0_stable3-1
 xerolinux_repo scanner-support 1-5
@@ -29528,7 +29529,7 @@ xerolinux_repo yay-bin 12.1.2-1
 xerolinux_repo yt-dlg 1.8.5-1
 xerolinux_repo yt-dlp-drop-in 1.1-1
 xerolinux_repo zafiro-icon-theme 1.3-3
-xerolinux_repo zafiro-icon-theme-git 1.3.r40.geb4691f-2
+xerolinux_repo zafiro-icon-theme-git 1.3.r41.g86f4918-1
 xerolinux_repo zramd 0.9.2-1
 xerolinux_repo_xl airdroid-nativefier 1-1
 xerolinux_repo_xl amarok 2.9.71-5
