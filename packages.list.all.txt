@@ -88,7 +88,7 @@ core iputils 20221126-2 [installed]
 core iw 5.19-2
 core jansson 2.14-2 [installed]
 core jfsutils 1.1.15-8
-core json-c 0.16-1 [installed]
+core json-c 0.17-1 [installed]
 core kbd 2.6.2-1 [installed]
 core keyutils 1.6.3-2 [installed]
 core kmod 30-3 [installed]
@@ -150,9 +150,9 @@ core libxml2 2.11.5-1 [installed]
 core libxml2-docs 2.11.5-1
 core licenses 20230729-1 [installed]
 core links 2.29-1
-core linux 6.4.11.arch2-1
+core linux 6.4.12.arch1-1
 core linux-api-headers 6.4-1 [installed]
-core linux-docs 6.4.11.arch2-1
+core linux-docs 6.4.12.arch1-1
 core linux-firmware 20230804.7be2766d-2
 core linux-firmware-bnx2x 20230804.7be2766d-2
 core linux-firmware-liquidio 20230804.7be2766d-2
@@ -162,7 +162,7 @@ core linux-firmware-nfp 20230804.7be2766d-2
 core linux-firmware-qcom 20230804.7be2766d-2
 core linux-firmware-qlogic 20230804.7be2766d-2
 core linux-firmware-whence 20230804.7be2766d-2
-core linux-headers 6.4.11.arch2-1
+core linux-headers 6.4.12.arch1-1
 core linux-lts 6.1.47-1
 core linux-lts-docs 6.1.47-1
 core linux-lts-headers 6.1.47-1
@@ -293,7 +293,7 @@ extra acme-user 1.0.1-1
 extra acme.sh 3.0.6-1
 extra acorn 1:8.10.0-1
 extra acpi 1.7-3
-extra acpi_call 1.2.2-151
+extra acpi_call 1.2.2-152
 extra acpi_call-dkms 1.2.2-1
 extra acpi_call-lts 1.2.2-138
 extra acpica 20221020-1
@@ -388,7 +388,7 @@ extra almanah 0.12.3-5
 extra alot 0.10-6
 extra alpine-chroot-install 0.14.0-3
 extra alpine-keyring 2.4-1
-extra alsa-card-profiles 1:0.3.77-2
+extra alsa-card-profiles 1:0.3.78-1
 extra alsa-firmware 1.2.4-3
 extra alsa-lib 1.2.9-1 [installed]
 extra alsa-oss 1.1.8-5
@@ -677,8 +677,8 @@ extra bat-extras 2023.06.15-1
 extra batctl 2023.0-1
 extra bazel 6.3.2-1
 extra bbpager 0.4.7-9
-extra bbswitch 0.8-619
-extra bbswitch-dkms 0.8-619
+extra bbswitch 0.8-620
+extra bbswitch-dkms 0.8-620
 extra bc 1.07.1-4
 extra bcc 0.28.0-1
 extra bcc-tools 0.28.0-1
@@ -811,7 +811,7 @@ extra bridge-utils 1.7.1-1
 extra brightnessctl 0.5.1-2
 extra brltty 6.6-2
 extra brltty-udev-generic 6.6-2
-extra broadcom-wl 6.30.223.271-495
+extra broadcom-wl 6.30.223.271-496
 extra broadcom-wl-dkms 6.30.223.271-36
 extra brook 20221010-1
 extra broot 1.25.0-1
@@ -1378,7 +1378,7 @@ extra debootstrap 1.0.128-1
 extra deepin-account-faces 1.0.14-1
 extra deepin-album 6.0.3-1
 extra deepin-anything 5.0.18-1
-extra deepin-anything-arch 6.1.2-17
+extra deepin-anything-arch 6.1.2-18
 extra deepin-anything-dkms 5.0.18-1
 extra deepin-api 5.5.32-2
 extra deepin-app-services 0.0.22-1
@@ -2204,7 +2204,7 @@ extra fltk 1.3.8-2
 extra fltk-docs 1.3.8-2
 extra fluajho 1.7.3-1
 extra fluid 1.2.0-1
-extra fluidd 1.25.1-1
+extra fluidd 1.25.2-1
 extra fluidsynth 2.3.3-1
 extra fluxbox 1.3.7+211+g9d8202f3-1
 extra fluxctl 1.25.4-1
@@ -2406,7 +2406,7 @@ extra gambas3-script 3.18.3-2
 extra gambit-c 4.9.4-4
 extra gameconqueror 0.17-7
 extra gamemode 1.7-1
-extra gamescope 3.12.0-1
+extra gamescope 3.12.3-1
 extra gammaray 2.11.3-3
 extra gammastep 2.0.9-2
 extra gammu 1.42.0-1
@@ -2926,7 +2926,7 @@ extra gst-plugin-gtk 1.22.5-1
 extra gst-plugin-libcamera 0.1.0-1
 extra gst-plugin-msdk 1.22.5-1
 extra gst-plugin-opencv 1.22.5-1
-extra gst-plugin-pipewire 1:0.3.77-2
+extra gst-plugin-pipewire 1:0.3.78-1
 extra gst-plugin-qml6 1.22.5-1
 extra gst-plugin-qmlgl 1.22.5-1
 extra gst-plugin-qsv 1.22.5-1
@@ -4269,7 +4269,7 @@ extra hledger-web 1.29-36
 extra hlint 3.3.6-109
 extra hm 17.0-1
 extra hoel 1.4.27-1
-extra home-assistant 1:2023.8.2-1
+extra home-assistant 1:2023.8.4-1
 extra homebank 5.6.6-1
 extra hoogle 5.0.18.3-171
 extra hopenpgp-tools 0.23.7-138
@@ -4870,7 +4870,7 @@ extra klettres 23.04.3-1
 extra klickety 23.04.3-1
 extra klines 23.04.3-1
 extra klipper 0.11.0-2
-extra klipperscreen 0.3.4-1
+extra klipperscreen 0.3.5-1
 extra klystrack-plus 0.10.0.alpha2-1
 extra kmag 23.04.3-1
 extra kmahjongg 23.04.3-1
@@ -5564,7 +5564,7 @@ extra libphobos 1:2.105.0-1
 extra libphonenumber 1:8.13.18-1
 extra libpillowfight 0.3.0-8
 extra libpinyin 2.8.1-1
-extra libpipewire 1:0.3.77-2
+extra libpipewire 1:0.3.78-1
 extra libplacebo 5.264.1-2
 extra libplist 2.3.0-2 [installed]
 extra libpng 1.6.40-2 [installed]
@@ -6139,9 +6139,9 @@ extra linux-rt-lts 6.1.38.12.realtime1-4
 extra linux-rt-lts-docs 6.1.38.12.realtime1-4
 extra linux-rt-lts-headers 6.1.38.12.realtime1-4
 extra linux-tools-meta 6.3-4
-extra linux-zen 6.4.11.zen2-1
-extra linux-zen-docs 6.4.11.zen2-1
-extra linux-zen-headers 6.4.11.zen2-1
+extra linux-zen 6.4.12.zen1-1
+extra linux-zen-docs 6.4.12.zen1-1
+extra linux-zen-headers 6.4.12.zen1-1
 extra linuxconsole 1.8.1-1
 extra linuxdoc-tools 0.9.82-2
 extra linuxsampler 2.2.0-3
@@ -6794,8 +6794,8 @@ extra mkinitcpio-tinyssh 0.0.4-4
 extra mkinitcpio-utils 0.0.4-1
 extra mkosi 15.1-2
 extra mktorrent 1.1-6
-extra mkvtoolnix-cli 78.0-2
-extra mkvtoolnix-gui 78.0-2
+extra mkvtoolnix-cli 79.0-1
+extra mkvtoolnix-gui 79.0-1
 extra mlite 0.4.0-1
 extra mlt 7.18.0-1
 extra mlton 20210117-5
@@ -6996,7 +6996,7 @@ extra netcdf-openmpi 4.9.2-3
 extra netcf 0.2.8-8
 extra netctl 1.28-2
 extra netdata 1.42.1-1
-extra netfilter-fullconenat r73.0cf3b48-316
+extra netfilter-fullconenat r73.0cf3b48-317
 extra nethack 3.6.7-5
 extra nethogs 0.8.7-1
 extra netpbm 10.73.43-1
@@ -7152,12 +7152,12 @@ extra nushell 0.84.0-1
 extra nuspell 5.1.2-3
 extra nut 2.8.0-3
 extra nvchecker 2.12-2
-extra nvidia 535.104.05-1
+extra nvidia 535.104.05-2
 extra nvidia-cg-toolkit 3.1-6
 extra nvidia-dkms 535.104.05-1
 extra nvidia-lts 1:535.104.05-4
-extra nvidia-open 535.104.05-1
-extra nvidia-open-dkms 535.104.05-1
+extra nvidia-open 535.104.05-2
+extra nvidia-open-dkms 535.104.05-2
 extra nvidia-prime 1.0-4
 extra nvidia-settings 535.104.05-1
 extra nvidia-utils 535.104.05-1
@@ -7504,12 +7504,12 @@ extra pantheon-calculator 2.0.2-1
 extra pantheon-calendar 7.0.0-1
 extra pantheon-camera 6.2.2-1
 extra pantheon-code 7.1.0-1
-extra pantheon-default-settings 7.0.2-1
-extra pantheon-files 6.4.1-1
+extra pantheon-default-settings 7.1.0-1
+extra pantheon-files 6.5.0-1
 extra pantheon-geoclue2-agent 1.0.6-1
 extra pantheon-mail 7.2.0-1
 extra pantheon-music 7.1.0-1
-extra pantheon-notifications 7.0.0-1
+extra pantheon-notifications 7.0.1-1
 extra pantheon-onboarding 7.2.0-1
 extra pantheon-photos 2.8.0-2
 extra pantheon-polkit-agent 1.0.5-1
@@ -8367,18 +8367,18 @@ extra pipe-rename 1.6.5-1
 extra pipectl 0.4.1-3
 extra piper 0.7-2
 extra pipesocks 2.3-4
-extra pipewire 1:0.3.77-2
-extra pipewire-alsa 1:0.3.77-2
-extra pipewire-audio 1:0.3.77-2
-extra pipewire-docs 1:0.3.77-2
-extra pipewire-ffado 1:0.3.77-2
-extra pipewire-jack 1:0.3.77-2
+extra pipewire 1:0.3.78-1
+extra pipewire-alsa 1:0.3.78-1
+extra pipewire-audio 1:0.3.78-1
+extra pipewire-docs 1:0.3.78-1
+extra pipewire-ffado 1:0.3.78-1
+extra pipewire-jack 1:0.3.78-1
 extra pipewire-media-session 1:0.4.2-2
-extra pipewire-pulse 1:0.3.77-2
-extra pipewire-roc 1:0.3.77-2
-extra pipewire-v4l2 1:0.3.77-2
-extra pipewire-x11-bell 1:0.3.77-2
-extra pipewire-zeroconf 1:0.3.77-2
+extra pipewire-pulse 1:0.3.78-1
+extra pipewire-roc 1:0.3.78-1
+extra pipewire-v4l2 1:0.3.78-1
+extra pipewire-x11-bell 1:0.3.78-1
+extra pipewire-zeroconf 1:0.3.78-1
 extra piping-server 0.16.0-1
 extra pitivi 2023.03-2
 extra pius 3.0.0-5
@@ -8973,7 +8973,7 @@ extra python-dbapi-compliance 1.15.0-3
 extra python-dbfread 2.0.7-5
 extra python-dbus-client-gen 0.8-4
 extra python-dbus-deviation 0.6.1-6
-extra python-dbus-fast 1.91.2-1
+extra python-dbus-fast 1.94.0-1
 extra python-dbus-next 0.2.3-4
 extra python-dbus-signature-pyparsing 0.04-4
 extra python-dbusmock 0.29.1-1
@@ -10891,7 +10891,7 @@ extra qxmpp-qt6 1.5.5-1
 extra r 4.3.1-2
 extra r10k 3.15.2-1
 extra r2ghidra 5.8.4-1
-extra r8168 8.051.02-64
+extra r8168 8.051.02-65
 extra r8168-lts 8.051.02-52
 extra rabbitmq 3.12.0-1
 extra rabbitmqadmin 3.12.0-1
@@ -12098,7 +12098,7 @@ extra switchboard-plug-bluetooth 2.3.6-2
 extra switchboard-plug-datetime 2.2.0-2
 extra switchboard-plug-desktop 6.5.0-1
 extra switchboard-plug-display 7.0.0-1
-extra switchboard-plug-keyboard 3.2.0-1
+extra switchboard-plug-keyboard 3.2.1-1
 extra switchboard-plug-locale 2.5.9-1
 extra switchboard-plug-mouse-touchpad 7.0.0-1
 extra switchboard-plug-network 2.4.4-1
@@ -12540,8 +12540,8 @@ extra tldp-howtos-html-single 20161114-3
 extra tldp-howtos-txt 20161114-3
 extra tldr 3.2.0-1
 extra tllist 1.1.0-1
-extra tlp 1.5.0-6
-extra tlp-rdw 1.5.0-6
+extra tlp 1.6.0-1
+extra tlp-rdw 1.6.0-1
 extra tlsh 4.8.2-2
 extra tmate 2.4.0-3
 extra tmon 6.3-4
@@ -12554,9 +12554,9 @@ extra tokei 12.1.2-1
 extra tokodon 23.04.3-1
 extra tolua++ 1.0.93-4
 extra tomcat-native 2.0.5-1
-extra tomcat10 10.1.12-1
-extra tomcat8 8.5.92-1
-extra tomcat9 9.0.79-1
+extra tomcat10 10.1.13-1
+extra tomcat8 8.5.93-1
+extra tomcat9 9.0.80-1
 extra toml-bombadil 3.1.0-2
 extra tomlplusplus 3.3.0-1
 extra toolame 02l-14
@@ -12575,7 +12575,7 @@ extra touchegg 2.0.17-1
 extra towncrier 22.12.0-3
 extra toxcore 1:0.2.18-2
 extra toxic 0.11.3-3
-extra tp_smapi 0.44-2
+extra tp_smapi 0.44-3
 extra tp_smapi-lts 0.43-334
 extra tpacpi-bat 3.1-3
 extra tpm2-abrmd 3.0.0-1
@@ -12875,7 +12875,7 @@ extra uwsgi-plugin-zabbix 2.0.22-1
 extra uwsgitop 0.11-6
 extra uwufetch 2.1-1
 extra v2ray 5.7.0-1
-extra v2ray-domain-list-community 20230821154916-1
+extra v2ray-domain-list-community 20230825070118-1
 extra v2ray-geoip 202308240036-1
 extra v4l-utils 1.24.1-2 [installed]
 extra v4l2loopback-dkms 0.12.7-2
@@ -12917,8 +12917,8 @@ extra vegeta 12.10.0-1
 extra veracrypt 1.25.9-4
 extra verdict 1.4.1-1
 extra verilator 5.014-1
-extra vhba-module 20211218-146
-extra vhba-module-dkms 20211218-146
+extra vhba-module 20211218-147
+extra vhba-module-dkms 20211218-147
 extra vhs 0.6.0-1
 extra vice 3.7-1
 extra vicious 2.6.0-1
@@ -13031,7 +13031,7 @@ extra virtualbox-guest-iso 7.0.10-1
 extra virtualbox-guest-utils 7.0.10-2
 extra virtualbox-guest-utils-nox 7.0.10-2
 extra virtualbox-host-dkms 7.0.10-2
-extra virtualbox-host-modules-arch 7.0.10-12
+extra virtualbox-host-modules-arch 7.0.10-13
 extra virtualbox-sdk 7.0.10-2
 extra virtualgl 3.1-1
 extra vis 0.8-1
@@ -13564,7 +13564,7 @@ extra yubikey-personalization 1.20.0-3
 extra yubikey-personalization-gui 3.1.25-2
 extra yubikey-touch-detector 1.10.1-1
 extra yubioath-desktop 5.1.0-3
-extra yuzu 1523-1
+extra yuzu 1536-1
 extra z 1.11-2
 extra z3 4.12.1-2
 extra zabbix-agent 6.4.4-1
@@ -13719,7 +13719,7 @@ multilib lib32-icu 73.2-1
 multilib lib32-imlib2 1.12.0-1
 multilib lib32-jack2 1.9.22-1
 multilib lib32-jansson 2.14-1
-multilib lib32-json-c 0.16-1
+multilib lib32-json-c 0.17-1
 multilib lib32-json-glib 1.6.6-2
 multilib lib32-keyutils 1.6.3-1
 multilib lib32-krb5 1.20.1-1
@@ -13782,7 +13782,7 @@ multilib lib32-libogg 1.3.5-1
 multilib lib32-libpcap 1.10.4-1
 multilib lib32-libpciaccess 0.17-1
 multilib lib32-libpgm 5.3.128-2
-multilib lib32-libpipewire 1:0.3.77-2
+multilib lib32-libpipewire 1:0.3.78-1
 multilib lib32-libpng 1.6.40-2
 multilib lib32-libpng12 1.2.59-2
 multilib lib32-libproxy 0.5.3-1
@@ -13880,9 +13880,9 @@ multilib lib32-pango 1:1.50.14-1
 multilib lib32-pcre 8.45-3
 multilib lib32-pcre2 10.42-1
 multilib lib32-pcsclite 2.0.0-1
-multilib lib32-pipewire 1:0.3.77-2
-multilib lib32-pipewire-jack 1:0.3.77-2
-multilib lib32-pipewire-v4l2 1:0.3.77-2
+multilib lib32-pipewire 1:0.3.78-1
+multilib lib32-pipewire-jack 1:0.3.78-1
+multilib lib32-pipewire-v4l2 1:0.3.78-1
 multilib lib32-pixman 0.42.2-1
 multilib lib32-polkit 123-1
 multilib lib32-popt 1.19-1
@@ -15351,8 +15351,8 @@ chaotic-aur ignition-tools 2.0.0-2
 chaotic-aur ignition-transport-8 8.2.0-2.1
 chaotic-aur iir1 1.9.4-1
 chaotic-aur image-roll-bin 2.1.0-1.3
-chaotic-aur imagemagick-full-doc-git 7.1.1.15.r137.g2b4275854-1
-chaotic-aur imagemagick-full-git 7.1.1.15.r137.g2b4275854-1
+chaotic-aur imagemagick-full-doc-git 7.1.1.15.r138.gded0dbca6-1
+chaotic-aur imagemagick-full-git 7.1.1.15.r138.gded0dbca6-1
 chaotic-aur imagewriter 1.10.1432200249.1d253d9.2.16-1
 chaotic-aur imaginary-teleprompter-bin 2.4.0-7.3
 chaotic-aur imagine-git 0.7.1.r0.g278e380-1.3
@@ -15513,7 +15513,7 @@ chaotic-aur kded-git 5.103.0_r491.gb4068a7-1
 chaotic-aur kdegraphics-mobipocket-git 22.12.3_r289.gea9ef4d-1
 chaotic-aur kdelibs4support-git 5.102.0_r1145.g9f1399ec-1
 chaotic-aur kdenlive-git 23.03.70.r17481-1
-chaotic-aur kdenlive-stabledeps-git 23.11.70.r18622-1
+chaotic-aur kdenlive-stabledeps-git 23.11.70.r18623-1
 chaotic-aur kdepim-addons-git 5.22.40_r5100.ge169155b1-1
 chaotic-aur kdepim-runtime-git 23.03.40_r15655.g219738e81-1
 chaotic-aur kdeplasma-addons-git 5.27.80_r9320.g96a6e8313-1
@@ -16205,7 +16205,7 @@ chaotic-aur mpc-qt 23.02-1.2
 chaotic-aur mpd-mpris 0.4.1-1
 chaotic-aur mpir 3.0.0-3
 chaotic-aur mpv-full 0.36.0-1.2
-chaotic-aur mpv-full-git 0.36.0.r165.gce79976498-1
+chaotic-aur mpv-full-git 0.36.0.r166.gc0fb9b4b83-1
 chaotic-aur mpv-vapoursynth-git 0.36.0.r78.g13c6e060e2-1
 chaotic-aur mpvpaper 1.3-3
 chaotic-aur mrtg 2.17.10-2
@@ -18061,7 +18061,7 @@ chaotic-aur xpadneo-dkms 0.9.5-3
 chaotic-aur xpadneo-dkms-git 0.9.r144.g9b3b696-1
 chaotic-aur xplayer 2.4.2-2.3
 chaotic-aur xplayer-plparser 1.0.3-1.1
-chaotic-aur xpra-git 4.4.r2151.g8407e14a0-1
+chaotic-aur xpra-git 4.4.r2152.g126480685-1
 chaotic-aur xpra-html5-git 8.0.r32.g537ed57-1
 chaotic-aur xrdp 0.9.22.1-1
 chaotic-aur xschem 3.1.0-1
@@ -18107,7 +18107,7 @@ chaotic-aur yozo-office-fonts 8.0.1331.101ZH.S1-6.1
 chaotic-aur yozo-office-templates 8.0.1331.101ZH.S1-6.1
 chaotic-aur yp-tools 4.2.3-6.1
 chaotic-aur yt-dlg-git 1.2.0.r378.g2150105-1
-chaotic-aur yt-dlp-git 2023.07.06.r71.g7cccab79e-1
+chaotic-aur yt-dlp-git 2023.07.06.r72.gfcd6a76ad-1
 chaotic-aur ytfzf-git r2033.5b2f349-1
 chaotic-aur ytmdl 2023.2.28-1.1
 chaotic-aur yuzu-early-access 3832-1
@@ -29206,7 +29206,6 @@ xerolinux_repo fancontrol-gui v0.8-1
 xerolinux_repo fingerprint-gui 1.09-7
 xerolinux_repo flatseal 2.0.2-1
 xerolinux_repo fm6000 6000.1-1
-xerolinux_repo fmt9 9.1.0-5
 xerolinux_repo fonts-tlwg 0.7.3-1
 xerolinux_repo freedownloadmanager 6.19.1.5263-2
 xerolinux_repo ftl-sdk 0.10.1-3
@@ -29247,8 +29246,6 @@ xerolinux_repo hplip-plugin 3.23.5-1
 xerolinux_repo hw-probe 1.6.5-1
 xerolinux_repo hypnotix 3.6-1
 xerolinux_repo hypnotix-wayland 3.6-1
-xerolinux_repo hyprland-nvidia-git 0.28.0.r89.g90c03e5b-1
-xerolinux_repo hyprland-workspaces 1.2.4-1
 xerolinux_repo icoextract 0.1.4-2
 xerolinux_repo input-devices-support 1.0.2-3
 xerolinux_repo ipw2100-fw 1.3-10
@@ -29340,7 +29337,6 @@ xerolinux_repo nordic-kde-git 2.2.0.r66.gbe84944-1
 xerolinux_repo nordic-wallpapers 22.02-1
 xerolinux_repo noto-color-emoji-fontconfig 1.0.0-1
 xerolinux_repo nvflash 5.792-1
-xerolinux_repo nwg-dock-hyprland 0.1.5-1
 xerolinux_repo obs-pipewire-audio-capture-bin 1.1.1-2
 xerolinux_repo ocenaudio-bin 3.12.5-1
 xerolinux_repo ocs-url 3.1.0-7
@@ -29359,6 +29355,7 @@ xerolinux_repo otf-nerd-fonts-fira-code 2.3.0-1
 xerolinux_repo otf-nerd-fonts-monacob-mono 3.0.2-1
 xerolinux_repo otf-nerd-fonts-victor-mono 2.3.0-1
 xerolinux_repo pace 1.4.2-1
+xerolinux_repo pacman-mirrorup 0.14.0-1
 xerolinux_repo pacseek-bin 1.7.10-2
 xerolinux_repo pacui 1.14-1
 xerolinux_repo pamac-cli 11.6.0-0.1
@@ -29439,7 +29436,6 @@ xerolinux_repo simplescreenrecorder 0.4.4-2
 xerolinux_repo simplex-chat-bin 1:5.2.3-1
 xerolinux_repo snap-pac-grub 2.0.2-1
 xerolinux_repo snapper-support 1.1.2-2
-xerolinux_repo spdlog-git 1.12.0.r9.gcedfeeb9-1
 xerolinux_repo spotify-adblock-git 1:1.0.2.r5.g5a3281d-1
 xerolinux_repo statusnotifier 1.0.0-1
 xerolinux_repo sublime-merge 2085-1
@@ -29511,7 +29507,6 @@ xerolinux_repo vmware-keymaps 1.0-3
 xerolinux_repo vmware-unlocker-bin 4.2.5-1
 xerolinux_repo vvv-bin 1.4.0-1
 xerolinux_repo wallpaper-engine-plasma 0.5.4-4
-xerolinux_repo waybar-hyprland-git 0.9.22.r12.gb6658430-1
 xerolinux_repo waydroid 1.4.1-1
 xerolinux_repo waydroid-settings 22.1217-10
 xerolinux_repo wd719x-firmware 1-7
