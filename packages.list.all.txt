@@ -966,7 +966,7 @@ extra cargo-spellcheck 0.13.0-1
 extra cargo-supply-chain 0.3.2-1
 extra cargo-tarpaulin 0.26.1-2
 extra cargo-tauri 1.4.0-1
-extra cargo-udeps 0.1.41-2
+extra cargo-udeps 0.1.42-1
 extra cargo-update 13.0.4-1
 extra cargo-watch 8.4.0-1
 extra cargo-zigbuild 0.17.1-1
@@ -1317,7 +1317,7 @@ extra cyrus-sasl 2.1.28-3
 extra cyrus-sasl-gssapi 2.1.28-3
 extra cyrus-sasl-ldap 2.1.28-3
 extra cyrus-sasl-sql 2.1.28-3
-extra cython 3.0.1-1
+extra cython 3.0.2-1
 extra cython0 0.29.36-1
 extra d-containers 0.8.0-9
 extra d-feet 0.3.16-3
@@ -5916,7 +5916,6 @@ extra libsigc++-3.0 3.4.0-1
 extra libsigc++-3.0-docs 3.4.0-1
 extra libsigc++-docs 2.12.0-1
 extra libsignal-protocol-c 2.3.3-1
-extra libsignon-glib 2.1-6
 extra libsigrok 0.5.2-12
 extra libsigrokdecode 0.5.3-6
 extra libsigsegv 2.14-2
@@ -10750,7 +10749,6 @@ extra qspectrumanalyzer 2.2.0-9
 extra qstardict 1.3-3
 extra qstopmotion 2.5.2-2
 extra qsynth 0.9.11-1
-extra qt-gstreamer 1.2.0-4
 extra qt5-3d 5.15.10-1
 extra qt5-base 5.15.10+kde+r152-1 [installed]
 extra qt5-charts 5.15.10-1
@@ -11621,7 +11619,7 @@ extra sage-data-graphs 20210214-1
 extra sage-data-polytopes_db 20170220-2
 extra sage-notebook-exporter 3.4-2
 extra sagemath 10.1-1
-extra sagemath-doc 10.0-1
+extra sagemath-doc 10.1-1
 extra sagetex 3.6.1-4
 extra salt 3006.1-2
 extra samba 4.18.6-1
@@ -12195,30 +12193,11 @@ extra teensy_loader_cli 2.2-2
 extra teeworlds 0.7.5-2
 extra tekton-cli 0.29.1-1
 extra telegram-desktop 4.9.3-1
-extra telegram-qt 0.1.0-6
-extra telepathy-accounts-signon 2.1-3
-extra telepathy-farstream 0.6.2-7
 extra telepathy-gabble 0.18.4-4
 extra telepathy-glib 0.24.2-2
-extra telepathy-haze 0.8.1-1
 extra telepathy-idle 0.2.2-2
-extra telepathy-kde-accounts-kcm 23.04.3-1
-extra telepathy-kde-approver 23.04.3-1
-extra telepathy-kde-auth-handler 23.04.3-1
-extra telepathy-kde-call-ui 23.04.3-1
-extra telepathy-kde-common-internals 23.04.3-1
-extra telepathy-kde-contact-list 23.04.3-1
-extra telepathy-kde-contact-runner 23.04.3-1
-extra telepathy-kde-desktop-applets 23.04.3-1
-extra telepathy-kde-filetransfer-handler 23.04.3-1
-extra telepathy-kde-integration-module 23.04.3-1
-extra telepathy-kde-send-file 23.04.3-1
-extra telepathy-kde-text-ui 23.04.3-1
 extra telepathy-logger 0.8.2-5
-extra telepathy-logger-qt 17.09.0-1
 extra telepathy-mission-control 5.16.6-2
-extra telepathy-morse 0.1.0-3
-extra telepathy-qt 0.9.8-2
 extra telepathy-salut 0.8.1-7
 extra tellico 3.5.1-1
 extra telly-skout 23.08.0-1
@@ -14455,7 +14434,7 @@ chaotic-aur chaotic-neofetch-git 7.1.0.r166.gccd5d9f5-1
 chaotic-aur chatbox-bin 0.6.6-1
 chaotic-aur chatgpt-desktop-bin 1.1.0-1
 chaotic-aur chatterino2-7tv-git v7.4.4.r78.g670fba29-1
-chaotic-aur chatterino2-git v2.4.5.r0.g05a72d335-1
+chaotic-aur chatterino2-git v2.4.5.r1.g15bd72eed-1
 chaotic-aur check-broken-packages-pacman-hook-git r87.eec94bd-1
 chaotic-aur checkmake 0.2.2-1
 chaotic-aur cheese-git 44.1-1
@@ -17305,7 +17284,7 @@ chaotic-aur simple-mtpfs 0.4.0-1.1
 chaotic-aur simple64 2023.08.4-1
 chaotic-aur simplenote-electron-bin 2.21.0-1.3
 chaotic-aur simplescreenrecorder 0.4.4-2
-chaotic-aur simutrans-extended-git r21795.210bfad57-1
+chaotic-aur simutrans-extended-git r21799.50c0ba98d-1
 chaotic-aur sing-geoip 20230712-2
 chaotic-aur sing-geosite 20230707041058-1
 chaotic-aur sioyek 2.0.0-2.2
@@ -17932,8 +17911,8 @@ chaotic-aur wlogout 1.1.1-3.3
 chaotic-aur wlr-randr 0.3.0-1
 chaotic-aur wlr-randr-git 0.3.0+1+gb9fad41-1
 chaotic-aur wlrobs-hg r64.f72d5cb3cbbd-1
-chaotic-aur wlroots-git 0.17.0.r6571.717ded9b-1
-chaotic-aur wlroots-git-debug 0.17.0.r6571.717ded9b-1
+chaotic-aur wlroots-git 0.17.0.r6571.717ded9bb-1
+chaotic-aur wlroots-git-debug 0.17.0.r6571.717ded9bb-1
 chaotic-aur wlsunset 0.3.0-1
 chaotic-aur wluma 4.3.0-1
 chaotic-aur wmenu 0.1.4-1
@@ -17941,7 +17920,7 @@ chaotic-aur wob 0.14.2-1
 chaotic-aur woeusb 5.2.4-1.1
 chaotic-aur woeusb-ng 0.2.12-3
 chaotic-aur woof-doom 11.3.0-1
-chaotic-aur woof-doom-git 11.3.0.r59.288f8819-1
+chaotic-aur woof-doom-git 11.3.0.r60.6b17ece2-1
 chaotic-aur wordnet-cli 3.1-4
 chaotic-aur wordnet-common 3.1-4
 chaotic-aur wordnet-tk 3.1-4
@@ -18042,7 +18021,7 @@ chaotic-aur xpadneo-dkms 0.9.5-3
 chaotic-aur xpadneo-dkms-git 0.9.r144.g9b3b696-1
 chaotic-aur xplayer 2.4.2-2.3
 chaotic-aur xplayer-plparser 1.0.3-1.1
-chaotic-aur xpra-git 4.4.r2164.g5f7d21d4f-1
+chaotic-aur xpra-git 4.4.r2168.g0521a5a5b-1
 chaotic-aur xpra-html5-git 8.0.r39.gb78f51d-1
 chaotic-aur xrdp 0.9.22.1-1
 chaotic-aur xschem 3.1.0-1
