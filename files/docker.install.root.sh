@@ -208,6 +208,35 @@ git clone https://github.com/nvm-sh/nvm.git .nvm
 cd .nvm
 git checkout v0.39.5
 
+. /root/.nvm/nvm.sh
+nvm install v14.21.3
+nvm use v14.21.3
+npm install yarn -g
+npm install meteor -g
+export PATH=$HOME/.meteor:$PATH
+echo $PATH
+which node
+node --version
+set -x
+
+
+cd /root/
+rm -rf steedos-platform
+git clone --depth=1 -b 2.5 https://github.com/steedos/steedos-platform.git
+cd steedos-platorm
+cd steedos-platform
+yarn --frozen-lockfile
+export PATH=$(yarn bin):$PATH
+yarn list > yarn.list.origin.txt
+cd creator
+which meteor
+meteor --version
+yarn --frozen-lockfile
+meteor list
+meteor list > meteor.list.origin.txt
+meteor list --tree > meteor.list.tree.origin.txt
+yarn build-debug
+yarn list > yarn.creator.list.origin.txt
 
 cd /opt/9138packages
 cp /opt/9139.packages.sh ./
