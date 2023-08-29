@@ -299,7 +299,7 @@ extra acpi_call-lts 1.2.2-140
 extra acpica 20230628-1
 extra acpid 2.0.34-1
 extra acpilight 1.2-2
-extra acsccid 1.1.9-1
+extra acsccid 1.1.10-1
 extra activity-log-manager 0.9.7-9
 extra adapta-gtk-theme 3.95.0.11-2
 extra adios2 2.8.3-4
@@ -1031,7 +1031,7 @@ extra cervisia 23.08.0-1
 extra cfitsio 1:4.3.0-1
 extra cfr 0.152-2
 extra cfssl 1.6.4-1
-extra cgal 5.5.2-1
+extra cgal 5.6-1
 extra cgasm 1.0.0-4
 extra cgdb 0.8.0-1
 extra cgit 1.2.3-3
@@ -4794,7 +4794,7 @@ extra keycloak 22.0.1-1
 extra keycloak-archlinux-theme 1.2.0-1
 extra keycloak-hcaptcha 1.0.0.r8.g4ce3f58-1
 extra keycloak-metrics-spi 4.0.0-1
-extra keysmith 23.08.0-1
+extra keysmith 23.08.0-2
 extra keystone 0.9.2-5
 extra kfilemetadata 5.109.0-1
 extra kfind 23.08.0-1
@@ -8534,7 +8534,7 @@ extra pragha 1.3.4-5
 extra premake 5.0beta2-1
 extra premake3 3.7-5
 extra presage 0.9.1-2
-extra prettier 3.0.2-1
+extra prettier 3.0.3-1
 extra prettyping 1:1.0.1-3
 extra primecount 7.9-1
 extra primesieve 11.1-1
@@ -9119,7 +9119,7 @@ extra python-filelock 3.12.2-1
 extra python-filetype 1.2.0-2
 extra python-findpython 0.3.1-1
 extra python-fints 4.0.0-1
-extra python-fiona 1.9.3-3
+extra python-fiona 1.9.4.post1-1
 extra python-fire 0.5.0-2
 extra python-first 2.0.2-6
 extra python-fissix 21.11.13-2
@@ -9491,7 +9491,7 @@ extra python-lru-dict 1.2.0-1
 extra python-lsp-black 1.2.1-2
 extra python-lsp-jsonrpc 1.0.0-4
 extra python-lsp-server 1.7.4-1
-extra python-lsprotocol 2023.0.0a2-1
+extra python-lsprotocol 2023.0.0a3-1
 extra python-lttngust 2.13.5-2
 extra python-lupa 2.0-2
 extra python-lxml 4.9.2-3
@@ -9867,7 +9867,7 @@ extra python-pydyf 0.7.0-1
 extra python-pyee 9.1.0-2
 extra python-pyelftools 0.29-2
 extra python-pyenchant 3.2.2-2
-extra python-pyerfa 2.0.0.2-1
+extra python-pyerfa 2.0.0.3-1
 extra python-pyface 8.0.0-2
 extra python-pyfakefs 5.2.4-1
 extra python-pyfiglet 0.8.post1-7
@@ -9994,7 +9994,7 @@ extra python-pyswip 0.2.10-3
 extra python-pytables 3.7.0-5
 extra python-pytddmon 1.0.8-9
 extra python-pyte 0.8.1-2
-extra python-pytesseract 0.3.10-2
+extra python-pytesseract 0.3.11-1
 extra python-pytest 7.4.0-1
 extra python-pytest-aiohttp 1.0.4-3
 extra python-pytest-asyncio 0.21.1-1
@@ -10405,7 +10405,7 @@ extra python-textdistance 4.5.0-2
 extra python-texttable 1.6.7-2
 extra python-tftpy 0.8.2-2
 extra python-threadloop 1.0.2-7
-extra python-threadpoolctl 3.1.0-2
+extra python-threadpoolctl 3.2.0-1
 extra python-threat9-test-bed 0.6.0+2+g1ed61b3-9
 extra python-three-merge 0.1.1-4
 extra python-thrift 0.18.1-2
@@ -10765,7 +10765,7 @@ extra qt5-base 5.15.10+kde+r152-1 [installed]
 extra qt5-charts 5.15.10-1
 extra qt5-connectivity 5.15.10+kde+r6-1
 extra qt5-datavis3d 5.15.10-1
-extra qt5-declarative 5.15.10+kde+r29-1 [installed]
+extra qt5-declarative 5.15.10+kde+r31-1 [installed]
 extra qt5-doc 5.15.10-1
 extra qt5-examples 5.15.10-1
 extra qt5-feedback 0.0.0.20150918-4
@@ -12075,7 +12075,7 @@ extra surge-xt-vst3 1.2.3-2
 extra suscan 0.3.0-1
 extra sushi 44.2-1
 extra suwidgets 0.3.0-1
-extra svelte-language-server 0.15.17-1
+extra svelte-language-server 0.15.18-1
 extra svgcleaner 0.9.5-3
 extra svgpart 23.08.0-1
 extra svt-av1 1.7.0-1 [installed]
@@ -12733,9 +12733,9 @@ extra twine 4.0.2-4
 extra twolame 0.4.0-3
 extra txt2man 1.7.1-3
 extra txt2tags 3.8-2
-extra typescript 5.1.6-1
+extra typescript 5.2.2-1
 extra typescript-language-server 3.3.2-1
-extra typescript-svelte-plugin 0.3.30-1
+extra typescript-svelte-plugin 0.3.31-1
 extra typos 1.16.8-1
 extra typst 1:0.7.0-1
 extra uasm 2.56.2-1
@@ -16214,7 +16214,7 @@ chaotic-aur mutter-performance-docs 1:44.4-1
 chaotic-aur mutter-rounded 42.3-1.1
 chaotic-aur mutter-x11-scaling 44.4-1
 chaotic-aur myman 0.7.0-7
-chaotic-aur mypy-git v0.520.r5193.g171402834-1
+chaotic-aur mypy-git v0.520.r5194.g6c16143c3-1
 chaotic-aur mysql 8.0.34-1
 chaotic-aur mysql-clients 8.0.34-1
 chaotic-aur mystiq 23.05.15-3
@@ -17814,7 +17814,7 @@ chaotic-aur vkbasalt-cli 3.1.1-1.5
 chaotic-aur vkd3d-proton-mingw-git 2.9.r143.g2ad6cfde-1
 chaotic-aur vkd3d-proton-tkg-git 1.1.r3566.g0a71c8e3-1
 chaotic-aur vkd3d-tkg-git 1.6.r86.gf9e7cb63-1
-chaotic-aur vlang-git 0.4.r361.g6af17a86e2-1
+chaotic-aur vlang-git 0.4.r362.g80db36496b-1
 chaotic-aur vlc-git 4.0.0.r23113.gf7bb59d9f5-1.2
 chaotic-aur vlc-luajit 3.0.18-8
 chaotic-aur vmaf-git 2.3.1.r88.gddf0622c-1
@@ -23720,11 +23720,11 @@ archlinuxcn etcd 3.5.8-1
 archlinuxcn etcd-debug 3.5.8-1
 archlinuxcn etcdctl 3.5.8-1
 archlinuxcn etcdutl 3.5.8-1
-archlinuxcn eternalterminal 6.2.4-3
-archlinuxcn eternalterminal-client 6.2.4-3
-archlinuxcn eternalterminal-debug 6.2.4-3
-archlinuxcn eternalterminal-htm 6.2.4-3
-archlinuxcn eternalterminal-server 6.2.4-3
+archlinuxcn eternalterminal 6.2.4-4
+archlinuxcn eternalterminal-client 6.2.4-4
+archlinuxcn eternalterminal-debug 6.2.4-4
+archlinuxcn eternalterminal-htm 6.2.4-4
+archlinuxcn eternalterminal-server 6.2.4-4
 archlinuxcn evdev-right-click-emulation 20190313.350939-1
 archlinuxcn eww-wayland 0.4.0-1
 archlinuxcn eww-x11 0.4.0-1
@@ -24971,7 +24971,7 @@ archlinuxcn logcat-color3 0.10.0-1
 archlinuxcn logisim 2.7.1-8
 archlinuxcn lua-resty-core 0.1.27-1
 archlinuxcn lua-resty-lrucache 0.13-2
-archlinuxcn lutris-git 0.5.13.r257.g25d132046-1
+archlinuxcn lutris-git 0.5.13.r259.g097b07669-1
 archlinuxcn lux-dl 0.19.0-1
 archlinuxcn lux-dl-debug 0.19.0-1
 archlinuxcn lxqt-build-tools-git 0.13.0-1
@@ -25056,8 +25056,8 @@ archlinuxcn moonlight-qt-debug 4.3.1-3
 archlinuxcn moonplayer 4.3-1
 archlinuxcn moonplayer-debug 4.3-1
 archlinuxcn moonplayer-plugins 27.5d1471f-6
-archlinuxcn mosh-git 1:1.4.0.r19.g1105d48-2
-archlinuxcn mosh-git-debug 1:1.4.0.r19.g1105d48-2
+archlinuxcn mosh-git 1:1.4.0.r19.g1105d48-3
+archlinuxcn mosh-git-debug 1:1.4.0.r19.g1105d48-3
 archlinuxcn motrix 1.8.19-4
 archlinuxcn motrix-debug 1.8.19-4
 archlinuxcn mpdscribble 0.24-2
@@ -25467,8 +25467,8 @@ archlinuxcn python-carbon 1.1.10-2
 archlinuxcn python-cas 1.6.0-3
 archlinuxcn python-chumpy 0.70-3
 archlinuxcn python-cityscapesscripts 2.2.2-1
-archlinuxcn python-cld3-git 0.2.3.20200117-11
-archlinuxcn python-cld3-git-debug 0.2.3.20200117-11
+archlinuxcn python-cld3-git 0.2.3.20200117-12
+archlinuxcn python-cld3-git-debug 0.2.3.20200117-12
 archlinuxcn python-clickgen 2.1.3-2
 archlinuxcn python-coloredlogs 15.0.1-5
 archlinuxcn python-colorful 0.5.5-2
@@ -25592,8 +25592,8 @@ archlinuxcn python-numpymaxflow-debug 0.0.5-2
 archlinuxcn python-nvidia-dali 1.28.0-1
 archlinuxcn python-nvidia-dali-debug 1.28.0-1
 archlinuxcn python-nvidia-ml-py 12.535.77-1
-archlinuxcn python-onnx 1:1.14.1-1
-archlinuxcn python-onnx-debug 1:1.14.1-1
+archlinuxcn python-onnx 1:1.14.1-2
+archlinuxcn python-onnx-debug 1:1.14.1-2
 archlinuxcn python-onnxconverter-common 1.14.0-1
 archlinuxcn python-opencensus 0.11.2-2
 archlinuxcn python-openrazer 3.6.1-1
@@ -26037,8 +26037,8 @@ archlinuxcn symbiyosys-git r575.85dd50b-1
 archlinuxcn syncthing-gtk 0.9.4.5-2
 archlinuxcn synergy-git 1:1.14.7.5.snapshot.r6.gcfe20bea1-1
 archlinuxcn synergy-git-debug 1:1.14.7.5.snapshot.r6.gcfe20bea1-1
-archlinuxcn sysdig-lily 0.32.1-2
-archlinuxcn sysdig-lily-debug 0.32.1-2
+archlinuxcn sysdig-lily 0.32.1-3
+archlinuxcn sysdig-lily-debug 0.32.1-3
 archlinuxcn sysmontask-git 1:1.3.9+16+g7c96959-5
 archlinuxcn system-tools-backends 2.10.2-5
 archlinuxcn systemd-numlockontty 0.1-13
@@ -26182,8 +26182,8 @@ archlinuxcn usql-debug 0.15.0-1
 archlinuxcn utools 4.0.0-1
 archlinuxcn utools-debug 4.0.0-1
 archlinuxcn uvesafb-dkms 1.0.4-1
-archlinuxcn uxplay-git r995.66007cc-1
-archlinuxcn uxplay-git-debug r995.66007cc-1
+archlinuxcn uxplay-git r997.fcb4789-1
+archlinuxcn uxplay-git-debug r997.fcb4789-1
 archlinuxcn v2ray-china-list 20230829002421-1
 archlinuxcn v2ray-desktop 2.3.1-1
 archlinuxcn v2ray-git 5.7.0.r22.g88b5b551c-1
@@ -26197,8 +26197,8 @@ archlinuxcn vala-language-server 0.48.7-2
 archlinuxcn vala-language-server-debug 0.48.7-2
 archlinuxcn vale-git 2.28.2.r13.gc87ac4bc-1
 archlinuxcn vale-git-debug 2.28.2.r13.gc87ac4bc-1
-archlinuxcn vapoursynth-plugin-rife-ncnn-vulkan-git 1:9.r0.g6c6d0fa-7
-archlinuxcn vapoursynth-plugin-rife-ncnn-vulkan-git-debug 1:9.r0.g6c6d0fa-7
+archlinuxcn vapoursynth-plugin-rife-ncnn-vulkan-git 1:9.r0.g6c6d0fa-8
+archlinuxcn vapoursynth-plugin-rife-ncnn-vulkan-git-debug 1:9.r0.g6c6d0fa-8
 archlinuxcn vcpkg 2023.08.09-1
 archlinuxcn vcpkg-debug 2023.08.09-1
 archlinuxcn vcpkg-git 2023.08.09.r140.g927bc12e31-1
@@ -26405,8 +26405,8 @@ archlinuxcn zfs-dkms 2.1.12-2
 archlinuxcn zfs-dkms-git 2:2.2.99.r74.gcad00d5180-1
 archlinuxcn zfs-utils 2.1.12-2
 archlinuxcn zfs-utils-debug 2.1.12-2
-archlinuxcn zfs-utils-git 2:2.2.99.r73.gbee9cfb813-1
-archlinuxcn zfs-utils-git-debug 2:2.2.99.r73.gbee9cfb813-1
+archlinuxcn zfs-utils-git 2:2.2.99.r74.gcad00d5180-1
+archlinuxcn zfs-utils-git-debug 2:2.2.99.r74.gcad00d5180-1
 archlinuxcn zju-connect-bin 0.3.0-9
 archlinuxcn zju-connect-bin-debug 0.3.0-9
 archlinuxcn zlib-ng 2.1.3-3
