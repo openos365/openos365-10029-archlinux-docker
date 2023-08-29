@@ -105,6 +105,7 @@ pacman -Syyu --noconfirm jq
 pacman -Syyu --noconfirm git-lfs
 pacman -Syyu --noconfirm nvm
 pacman -Syyu --noconfirm mongodb-tools
+pacman -Syyu --noconfirm perl-rename
 
 
 
