@@ -203,7 +203,10 @@ cp -fv ./gickup /usr/bin/gickup
 which gickup
 gickup --help
 
-
+cd /root/
+git clone https://github.com/nvm-sh/nvm.git .nvm
+cd .nvm
+git checkout v0.39.5
 
 
 cd /opt/9138packages
