@@ -62,8 +62,8 @@ core gcc-libs 13.2.1-3 [installed]
 core gcc-objc 13.2.1-3
 core gdbm 1.23-2 [installed]
 core gettext 0.22-1 [installed]
-core glib2 2.76.4-1 [installed]
-core glib2-docs 2.76.4-1
+core glib2 2.76.5-1 [installed]
+core glib2-docs 2.76.5-1
 core glibc 2.38-3 [installed]
 core gmp 6.3.0-1 [installed]
 core gnupg 2.2.41-1 [installed]
@@ -386,7 +386,7 @@ extra almanah 0.12.3-5
 extra alot 0.10-6
 extra alpine-chroot-install 0.14.0-3
 extra alpine-keyring 2.4-1
-extra alsa-card-profiles 1:0.3.78-1
+extra alsa-card-profiles 1:0.3.79-1
 extra alsa-firmware 1.2.4-3
 extra alsa-lib 1.2.9-1 [installed]
 extra alsa-oss 1.1.8-5
@@ -437,8 +437,8 @@ extra antlr4 4.13.0-1
 extra antlr4-runtime 4.13.0-1
 extra anura 4.0.0-2
 extra anything-sync-daemon 6.0.0-2
-extra aom 3.6.1-1 [installed]
-extra aom-docs 3.6.1-1
+extra aom 3.7.0-1 [installed]
+extra aom-docs 3.7.0-1
 extra apache 2.4.57-1
 extra apache-orc 1.9.0-3
 extra apcupsd 3.14.14-7
@@ -511,7 +511,7 @@ extra arp-scan 1.10.0-2
 extra arpack 3.9.0-2
 extra arpwatch 3.3-3
 extra arrayfire 3.8.3-2
-extra arrow 13.0.0-1
+extra arrow 13.0.0-2
 extra arti 1.1.7-1
 extra artikulate 23.08.0-1
 extra artyfx 1.3.1-2
@@ -719,9 +719,9 @@ extra binocle 0.3.1-1
 extra binwalk 2.3.4-2
 extra bird 2.13.1-1
 extra birdfont 2.32.3-1
-extra bitcoin-daemon 25.0-2
-extra bitcoin-qt 25.0-2
-extra bitcoin-tx 25.0-2
+extra bitcoin-daemon 25.0-3
+extra bitcoin-qt 25.0-3
+extra bitcoin-tx 25.0-3
 extra bitsery 5.2.3-1
 extra bitwarden 2023.7.1-1
 extra bitwarden-cli 2023.7.0-1
@@ -2267,9 +2267,9 @@ extra freeplane 1.11.5-1
 extra freeradius 3.2.3-3
 extra freerdp 2:2.10.0-4
 extra freetds 1.3.20-1
-extra freetype2 2.13.1-1 [installed]
-extra freetype2-demos 2.13.1-1
-extra freetype2-docs 2.13.1-1
+extra freetype2 2.13.2-1 [installed]
+extra freetype2-demos 2.13.2-1
+extra freetype2-docs 2.13.2-1
 extra freeverb3 3.2.1-4
 extra freewheeling 0.6.6-4
 extra frei0r-plugins 2.3.0-2
@@ -2928,7 +2928,7 @@ extra gst-plugin-gtk 1.22.5-1
 extra gst-plugin-libcamera 0.1.0-1
 extra gst-plugin-msdk 1.22.5-1
 extra gst-plugin-opencv 1.22.5-1
-extra gst-plugin-pipewire 1:0.3.78-1
+extra gst-plugin-pipewire 1:0.3.79-1
 extra gst-plugin-qml6 1.22.5-1
 extra gst-plugin-qmlgl 1.22.5-1
 extra gst-plugin-qsv 1.22.5-1
@@ -4394,7 +4394,7 @@ extra ibus-sunpinyin 3.0.0rc1+32+gf39c195-3
 extra ibus-table 1.17.0-2
 extra ibus-table-chinese 1.8.12-1
 extra ibus-table-extraphrase 1.3.9.20110826-4
-extra ibus-typing-booster 2.23.4-1
+extra ibus-typing-booster 2.24.0-1
 extra ibus-unikey 0.6.1-7
 extra icecast 2.4.4-5
 extra icedtea-web 1.8.8-1
@@ -5563,7 +5563,7 @@ extra libphobos 1:2.105.0-1
 extra libphonenumber 1:8.13.19-1
 extra libpillowfight 0.3.0-8
 extra libpinyin 2.8.1-1
-extra libpipewire 1:0.3.78-1
+extra libpipewire 1:0.3.79-1
 extra libplacebo 5.264.1-2
 extra libplist 2.3.0-2 [installed]
 extra libpng 1.6.40-2 [installed]
@@ -8373,18 +8373,18 @@ extra pipe-rename 1.6.5-1
 extra pipectl 0.4.1-3
 extra piper 0.7-2
 extra pipesocks 2.3-4
-extra pipewire 1:0.3.78-1
-extra pipewire-alsa 1:0.3.78-1
-extra pipewire-audio 1:0.3.78-1
-extra pipewire-docs 1:0.3.78-1
-extra pipewire-ffado 1:0.3.78-1
-extra pipewire-jack 1:0.3.78-1
+extra pipewire 1:0.3.79-1
+extra pipewire-alsa 1:0.3.79-1
+extra pipewire-audio 1:0.3.79-1
+extra pipewire-docs 1:0.3.79-1
+extra pipewire-ffado 1:0.3.79-1
+extra pipewire-jack 1:0.3.79-1
 extra pipewire-media-session 1:0.4.2-2
-extra pipewire-pulse 1:0.3.78-1
-extra pipewire-roc 1:0.3.78-1
-extra pipewire-v4l2 1:0.3.78-1
-extra pipewire-x11-bell 1:0.3.78-1
-extra pipewire-zeroconf 1:0.3.78-1
+extra pipewire-pulse 1:0.3.79-1
+extra pipewire-roc 1:0.3.79-1
+extra pipewire-v4l2 1:0.3.79-1
+extra pipewire-x11-bell 1:0.3.79-1
+extra pipewire-zeroconf 1:0.3.79-1
 extra piping-server 0.16.0-1
 extra pitivi 2023.03-2
 extra pius 3.0.0-5
@@ -13681,7 +13681,7 @@ multilib lib32-flex 2.6.4-4
 multilib lib32-fluidsynth 2.3.3-1
 multilib lib32-fontconfig 2:2.14.2-1
 multilib lib32-freeglut 3.4.0-1
-multilib lib32-freetype2 2.13.1-1
+multilib lib32-freetype2 2.13.2-1
 multilib lib32-fribidi 1.0.13-2
 multilib lib32-gamemode 1.7-1
 multilib lib32-gdk-pixbuf2 2.42.10-2
@@ -13690,7 +13690,7 @@ multilib lib32-giflib 5.2.1-1
 multilib lib32-glew 2.2.0-4
 multilib lib32-glew1.10 1.10.0-5
 multilib lib32-glib-networking 2.76.1-1
-multilib lib32-glib2 2.76.4-1
+multilib lib32-glib2 2.76.5-1
 multilib lib32-glu 9.0.3-1
 multilib lib32-gmp 6.2.1-1
 multilib lib32-gnutls 3.8.1-1
@@ -13771,7 +13771,7 @@ multilib lib32-libogg 1.3.5-1
 multilib lib32-libpcap 1.10.4-1
 multilib lib32-libpciaccess 0.17-1
 multilib lib32-libpgm 5.3.128-2
-multilib lib32-libpipewire 1:0.3.78-1
+multilib lib32-libpipewire 1:0.3.79-1
 multilib lib32-libpng 1.6.40-2
 multilib lib32-libpng12 1.2.59-2
 multilib lib32-libproxy 0.5.3-1
@@ -13869,9 +13869,9 @@ multilib lib32-pango 1:1.50.14-1
 multilib lib32-pcre 8.45-3
 multilib lib32-pcre2 10.42-1
 multilib lib32-pcsclite 2.0.0-1
-multilib lib32-pipewire 1:0.3.78-1
-multilib lib32-pipewire-jack 1:0.3.78-1
-multilib lib32-pipewire-v4l2 1:0.3.78-1
+multilib lib32-pipewire 1:0.3.79-1
+multilib lib32-pipewire-jack 1:0.3.79-1
+multilib lib32-pipewire-v4l2 1:0.3.79-1
 multilib lib32-pixman 0.42.2-1
 multilib lib32-polkit 123-1
 multilib lib32-popt 1.19-1
@@ -15061,7 +15061,7 @@ chaotic-aur glib2-patched-thumbnailer 2.76.3-1
 chaotic-aur glib2-selinux 2.74.1-1
 chaotic-aur glib2-selinux-docs 2.74.1-1
 chaotic-aur glrnvim 1.3.2-0
-chaotic-aur glslang-git 13.0.0.r2.ga1f8cd42-1
+chaotic-aur glslang-git 13.0.0.r3.ge3a711b6-1
 chaotic-aur gmenu 0.3.1-1
 chaotic-aur gmsh-bin 4.11.1-1.2
 chaotic-aur gmusicbrowser 1.1.16-1.1
@@ -16189,7 +16189,7 @@ chaotic-aur mpc-qt 23.02-1.2
 chaotic-aur mpd-mpris 0.4.1-1
 chaotic-aur mpir 3.0.0-3
 chaotic-aur mpv-full 0.36.0-1.4
-chaotic-aur mpv-full-git 0.36.0.r226.g998c3a163c-1
+chaotic-aur mpv-full-git 0.36.0.r230.g7f7513132f-1
 chaotic-aur mpv-vapoursynth-git 0.36.0.r226.g998c3a163c-1
 chaotic-aur mpvpaper 1.3-3
 chaotic-aur mrtg 2.17.10-2
@@ -16234,7 +16234,7 @@ chaotic-aur nekoray 3.19-1
 chaotic-aur neo-matrix-git r34.6ba93ac-1
 chaotic-aur neofetch-git 7.1.0.r166.gccd5d9f5-1
 chaotic-aur neofrog-git 7.1.0.r166.gccd5d9f5-1.1
-chaotic-aur neovide-git 0.11.1.r10.g9620a1a-1
+chaotic-aur neovide-git 0.11.1.r11.g598f777-1
 chaotic-aur neovim-drop-in 1-1.1
 chaotic-aur neovim-git 0.9.0.r1575.g597355deae-1
 chaotic-aur neovim-nightly-bin 0.10.0+dev+1002+gee56daebb-1
@@ -16372,13 +16372,13 @@ chaotic-aur obs-gstreamer 1:0.4.0-1
 chaotic-aur obs-plugin-looking-glass-git 2:B6.r54.g219c73ed-1
 chaotic-aur obs-rtspserver 3.0.0-3
 chaotic-aur obs-streamfx 0.11.1-1.2
-chaotic-aur obs-studio-browser 29.1.3-2
-chaotic-aur obs-studio-browser-debug 29.1.3-2
+chaotic-aur obs-studio-browser 29.1.3-3
+chaotic-aur obs-studio-browser-debug 29.1.3-3
 chaotic-aur obs-studio-git 30.0.0.beta2-1
 chaotic-aur obs-studio-rc 6:29.1.3-2
 chaotic-aur obs-studio-rc-debug 6:29.1.3-2
-chaotic-aur obs-studio-tytan652 29.1.3-2
-chaotic-aur obs-studio-tytan652-debug 29.1.3-2
+chaotic-aur obs-studio-tytan652 29.1.3-3
+chaotic-aur obs-studio-tytan652-debug 29.1.3-3
 chaotic-aur obs-vaapi 0.4.0-1
 chaotic-aur obs-vkcapture-git r264.ed3532b-1
 chaotic-aur obsidian-2-theme-git 2.23.r0.gd72fab4-1
@@ -16523,7 +16523,7 @@ chaotic-aur peazip-qt5 9.3.0-1
 chaotic-aur pebbles-git r445.5e5e455-1.2
 chaotic-aur pegasus-frontend-git alpha16.r65.g6dd137e4-1
 chaotic-aur pencil 3.1.1-2.2
-chaotic-aur penguins-eggs 9.5.20-1
+chaotic-aur penguins-eggs 9.5.21-5
 chaotic-aur pepper-flash 32.0.0.465-1.1
 chaotic-aur perl-authen-pam 0.16-11
 chaotic-aur perl-crypt-rijndael 1.16-2
@@ -17250,7 +17250,7 @@ chaotic-aur rustdesk-nightly 1.2.3-0
 chaotic-aur rustdesk-server-bin 1.1.8_2-1
 chaotic-aur rustow-git 0.4.beta.r7.g858b15e-1
 chaotic-aur rustup-git 1.26.0.r131.gd4c68448-1
-chaotic-aur ryujinx-git r3015.437c78e19-1
+chaotic-aur ryujinx-git r3015.437c78e198-1
 chaotic-aur ryzen-controller-bin 2.6.0-1
 chaotic-aur ryzen_smu-dkms-git 162.e61177d-1
 chaotic-aur ryzenadj-git 0.13.0.r10.g7201ff2-1
@@ -17525,7 +17525,7 @@ chaotic-aur themix-gui-git 1.15.1.r121.g72582054-1
 chaotic-aur themix-icons-archdroid-git 1.0.3.r0.gb90779de4-1.1
 chaotic-aur themix-icons-gnome-colors-git 5.5.6.r0.gd2cb7eb-2.3
 chaotic-aur themix-icons-numix-git 23.04.26.r0.g71b89af4f.23.02.11.r0.gb8ab58632-1.1
-chaotic-aur themix-icons-papirus-git 20230801.r138.g7f7d597433-1
+chaotic-aur themix-icons-papirus-git 20230901.r0.g17a6184e41-1
 chaotic-aur themix-icons-suru-plus-aspromauros-git 3.0.r0.gd43a8ec4-2.1
 chaotic-aur themix-icons-suru-plus-git 30.0.r2.g9bd895f32-2.1
 chaotic-aur themix-import-images-git 1.15.1.r121.g72582054-1
@@ -17835,7 +17835,7 @@ chaotic-aur vkd3d-tkg-git 1.6.r86.gf9e7cb63-1
 chaotic-aur vlang-git 0.4.r376.g58b6ba81d1-1
 chaotic-aur vlc-git 4.0.0.r23113.gf7bb59d9f5-1.2
 chaotic-aur vlc-luajit 3.0.18-8
-chaotic-aur vmaf-git 2.3.1.r152.g265263ff-1
+chaotic-aur vmaf-git 2.3.1.r88.gddf0622c-1
 chaotic-aur vmware-keymaps 1.0-3.1
 chaotic-aur vmware-workstation 17.0.2-2
 chaotic-aur vnote 3.16.0-1
