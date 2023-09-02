@@ -72,7 +72,7 @@ core gpgme 1.22.0-1 [installed]
 core gpm 1.20.7.r38.ge82d1a6-5 [installed]
 core grep 3.11-1 [installed]
 core groff 1.23.0-3 [installed]
-core grub 2:2.12rc1-1
+core grub 2:2.12rc1-1 [installed]
 core gssproxy 0.9.1-2
 core guile 3.0.9-1 [installed]
 core gzip 1.12-3 [installed]
@@ -465,7 +465,7 @@ extra arc-solid-gtk-theme 20221218-1
 extra arch-audit 0.1.20-1
 extra arch-audit-gtk 0.3.1-1
 extra arch-hs 0.11.1.0-36
-extra arch-install-scripts 28-1
+extra arch-install-scripts 28-1 [installed]
 extra arch-rebuild-order 0.4.1-1
 extra arch-release-promotion 0.2.2-3
 extra arch-repro-status 1.3.10-1
@@ -474,7 +474,7 @@ extra arch-wiki-docs 20230901-1
 extra arch-wiki-lite 20230901-1
 extra archey3 0.5-13
 extra archinstall 2.6.0-1
-extra archiso 72-1
+extra archiso 72-1 [installed]
 extra archivetools 3-3
 extra archlinux-appstream-data 20230827-2
 extra archlinux-contrib 20221211-1
@@ -553,8 +553,8 @@ extra astyle 3.4.5-1
 extra asunder 3.0.1-1
 extra asymptote 2.86-3
 extra at 3.2.5-2
-extra at-spi2-core 2.48.3-2
-extra at-spi2-core-docs 2.48.3-2
+extra at-spi2-core 2.48.4-1
+extra at-spi2-core-docs 2.48.4-1
 extra at51 1.0.0-4
 extra atftp 0.8.0-3
 extra atkmm 2.28.3-1
@@ -1102,7 +1102,7 @@ extra cl-trivial-features 1.0.r3.g35c5eeb-2
 extra cl-trivial-garbage 0.21.r8.gb3af9c0-2
 extra cl-trivial-gray-streams 2.0.0.r47.g2b3823e-1
 extra cl-unicode 0.1.6.r11.g2790a6b-1
-extra clamav 1.0.1-1
+extra clamav 1.2.0-1
 extra clamtk 6.14-1
 extra clang 16.0.6-1
 extra clang14 14.0.6-1
@@ -1355,7 +1355,7 @@ extra dblatex 0.3.12-6
 extra dbmail 3.3.1-1
 extra dbmate 2.4.0-1
 extra dbus-broker 33-1
-extra dbus-c++ 0.9.0-10
+extra dbus-c++ 0.9.0-11
 extra dbus-client-gen 0.4-8
 extra dbus-glib 0.112-3
 extra dbus-python 1.3.2-2
@@ -1787,7 +1787,7 @@ extra erlang-cl 1.2.4-7
 extra erlang-docs 26.0-1
 extra erlang-nox 26.0.2-1
 extra erlang-unixodbc 26.0.2-1
-extra erofs-utils 1.6-1
+extra erofs-utils 1.6-1 [installed]
 extra esbuild 0.19.2-1
 extra esh 0.3.2-1
 extra eslint 8.48.0-1
@@ -4471,7 +4471,7 @@ extra intel-oneapi-compiler-shared-runtime-libs 2023.2.0-1
 extra intel-oneapi-dev-utilities 2021.9.0_44447-2
 extra intel-oneapi-dpcpp-cpp 2023.2.0-1
 extra intel-oneapi-dpcpp-debugger 2023.2.0_49330-1
-extra intel-oneapi-mkl 2023.2.0_49495-1
+extra intel-oneapi-mkl 2023.2.0_49495-2
 extra intel-oneapi-openmp 2023.2.0-1
 extra intel-oneapi-tbb 2021.10.0-1
 extra intel-ucode 20230808-1
@@ -4591,7 +4591,7 @@ extra jmol 16.1.35-1
 extra jnettop 0.13.0-9
 extra jnoisemeter 0.2.2-2
 extra jo 1.9-1
-extra john 1.9.0.jumbo1-8
+extra john 1.9.0.jumbo1-9
 extra jose 11-2
 extra josm 18721-1
 extra joyutils 1.8.1-1
@@ -6869,7 +6869,7 @@ extra msolve 0.5.0-1
 extra msr-tools 1.3-4
 extra mtd-utils 2.1.5-1
 extra mtdev 1.1.6-2 [installed]
-extra mtools 1:4.0.43-1
+extra mtools 1:4.0.43-1 [installed]
 extra mtpaint 3.50.09-3
 extra mtpfs 1.1-4
 extra mtr 0.95-3
@@ -7068,7 +7068,7 @@ extra nicotine+ 3.2.9-2
 extra nikola 8.2.4-4
 extra nikto 2.1.6-3
 extra nim 1.6.10-2
-extra ninja 1.11.1-3
+extra ninja 1.11.1-3 [installed]
 extra ninjas2 0.2.0-3
 extra ninjas2-lv2 0.2.0-3
 extra ninjas2-standalone 0.2.0-3
@@ -7087,7 +7087,7 @@ extra nlopt 2.7.1-8
 extra nltk-data 3.7-1
 extra nm-cloud-setup 1.42.6-1
 extra nm-connection-editor 1.32.0-3
-extra nmap 7.94-1
+extra nmap 7.94-2
 extra nmon 16p-1
 extra nnn 4.9-1
 extra node-gyp 9.4.0-1
@@ -8626,7 +8626,7 @@ extra pwgen 2.08-2
 extra pwndbg 2023.03.19-3
 extra pwru 1.0.0-1
 extra py3status 3.51-1
-extra pyalpm 0.10.6-5
+extra pyalpm 0.10.6-5 [installed]
 extra pyannotate 1.2.0-6
 extra pybind11 2.11.1-1
 extra pycharm-community-edition 2023.1.3-1
@@ -13137,7 +13137,7 @@ extra wezterm-shell-integration 20230712.072601.f4abf8fd-1
 extra wezterm-terminfo 20230712.072601.f4abf8fd-1
 extra wf-recorder 0.4.0-1
 extra wgcf 2.2.16-1
-extra wget 1.21.4-1
+extra wget 1.21.4-1 [installed]
 extra wgetpaste 2.33-1
 extra when 1.1.45-1
 extra whipper 0.10.0-5
@@ -13480,7 +13480,7 @@ extra xreader 3.8.2-1
 extra xrootd 5.5.5-1
 extra xsane 0.999-6
 extra xsane-gimp 0.999-6
-extra xscreensaver 6.07-1
+extra xscreensaver 6.07-2
 extra xsd 4.0.0-5
 extra xsecurelock 1.8.0-1
 extra xsel 1.2.1-1
@@ -13625,7 +13625,7 @@ extra zps 1.2.8-1
 extra zram-generator 1.1.2-1
 extra zsa-udev 2.1.3.r12.g7ce7ff3-1
 extra zsa-wally-cli 2.0.1-5
-extra zsh 5.9-4
+extra zsh 5.9-4 [installed]
 extra zsh-autosuggestions 0.7.0-2
 extra zsh-completions 0.34.0-4
 extra zsh-doc 5.9-4
@@ -13653,7 +13653,7 @@ multilib lib32-alsa-oss 1.1.8-4
 multilib lib32-alsa-plugins 1.2.7.1-2
 multilib lib32-amdvlk 2023.Q3.1-1
 multilib lib32-apitrace 11.1-1
-multilib lib32-at-spi2-core 2.48.3-1
+multilib lib32-at-spi2-core 2.48.4-1
 multilib lib32-attr 2.5.1-1
 multilib lib32-brotli 1.0.9-12
 multilib lib32-bzip2 1.0.8-3
@@ -14047,7 +14047,7 @@ archcraft ckbcomp 1.221-1 [installed]
 archcraft cwm 7.1-3
 archcraft downgrade 11.3.0-1
 archcraft evilwm 1.4.2-1
-archcraft grub 2.06.r261.g2f4430cc0-4
+archcraft grub 2.06.r261.g2f4430cc0-4 [installed: 2:2.12rc1-1]
 archcraft gtk3-nocsd-git r82.512c2bd-1
 archcraft i3lock-color 2.13.c.4-1
 archcraft ksuperkey 0.4-2
@@ -14745,7 +14745,7 @@ chaotic-aur extundelete 0.2.4-1
 chaotic-aur f2c 20230428-1
 chaotic-aur f3 8.0-2
 chaotic-aur f3-qt-git v2.1.0.r16.g10ab886-1.2
-chaotic-aur f3d-git nightly.r0.ga51e84c0-1
+chaotic-aur f3d-git nightly.r3.gc28fa96e-1
 chaotic-aur fabric-installer 0.11.2-1
 chaotic-aur fairy-stockfish 14.0.1-1
 chaotic-aur fairy-stockfish-git r6523.f4ee917c-1
@@ -15384,11 +15384,11 @@ chaotic-aur jdk-doc 20.0.2-1
 chaotic-aur jdk-temurin 20.0.2.u9-1
 chaotic-aur jdownloader2 latest-17.1
 chaotic-aur jdupes 1.27.3-1
-chaotic-aur jellyfin-git 10.8.0.alpha5.r2191.g5491840c2a-1
+chaotic-aur jellyfin-git 10.8.0.alpha5.r2194.gfe63b7d35a-1
 chaotic-aur jellyfin-media-player 1.9.1-1.4
 chaotic-aur jellyfin-media-player-git r1711.5391553-1
-chaotic-aur jellyfin-server-git 10.8.0.alpha5.r2191.g5491840c2a-1
-chaotic-aur jellyfin-web-git 10.8.0.alpha5.r2191.g5491840c2a-1
+chaotic-aur jellyfin-server-git 10.8.0.alpha5.r2194.gfe63b7d35a-1
+chaotic-aur jellyfin-web-git 10.8.0.alpha5.r2194.gfe63b7d35a-1
 chaotic-aur jetbrains-toolbox 2.0.2.16660-1
 chaotic-aur jeuclid-core 3.1.9-1.1
 chaotic-aur jgoodies-looks 2.8.0-4.1
@@ -15731,7 +15731,7 @@ chaotic-aur lib32-lilv 0.24.20-1.2
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangohud-git 0.6.9.1.r124.gf667002-1
-chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.177263.2ae94b38943-1
+chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.177264.3e457c6b7e9-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -16093,7 +16093,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.3
 chaotic-aur menulibre 1:2.2.3-2
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.36.0-1
-chaotic-aur mesa-tkg-git 23.3.0_devel.177263.2ae94b38943-1
+chaotic-aur mesa-tkg-git 23.3.0_devel.177264.3e457c6b7e9-1
 chaotic-aur mesen2-git r2747.80f44271-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -17201,7 +17201,7 @@ chaotic-aur rtx 2023.8.10-1
 chaotic-aur ruby-build 20230614-1
 chaotic-aur rubymine 2023.2.1-1
 chaotic-aur rufetch 0.2.2-1
-chaotic-aur ruffle-git 1:r10513.5edba670d-1
+chaotic-aur ruffle-git 1:r10516.2996f9757-1
 chaotic-aur ruffle-nightly-bin 2023.09.01-1
 chaotic-aur runescape-launcher 2.2.11-1
 chaotic-aur rusnapshot-git 33.b19e757-1
@@ -17787,7 +17787,7 @@ chaotic-aur vkbasalt-cli 3.1.1-1.5
 chaotic-aur vkd3d-proton-mingw-git 2.9.r174.g6c05c130-1
 chaotic-aur vkd3d-proton-tkg-git 1.1.r3598.g6c05c130-1
 chaotic-aur vkd3d-tkg-git 1.6.r86.gf9e7cb63-1
-chaotic-aur vlang-git 0.4.r384.g9f77630f41-1
+chaotic-aur vlang-git 0.4.r385.g7492add2d3-1
 chaotic-aur vlc-git 4.0.0.r23113.gf7bb59d9f5-1.2
 chaotic-aur vlc-luajit 3.0.18-8
 chaotic-aur vmaf-git 2.3.1.r88.gddf0622c-1
@@ -19087,7 +19087,7 @@ blackarch gksu 2.0.2-7
 blackarch gloom 1:93.cd6e927-1
 blackarch glue 380.8703380-6
 blackarch gmsadumper 16.cbc13e0-2
-blackarch gnuradio 3.10.7.0-3
+blackarch gnuradio 3.10.7.0-4
 blackarch gnutls2 2.12.23-1
 blackarch go-windapsearch v0.3.0.r22.ged05587-2
 blackarch go-windapsearch-debug v0.3.0.r22.ged05587-2
@@ -19307,7 +19307,7 @@ blackarch hydra 9.5-1
 blackarch hyenae 0.36_1-3
 blackarch hyperfox 121.1a8c26f-2
 blackarch hyperion-crypter 2.3.1-1
-blackarch i2pd 2.48.0-1
+blackarch i2pd 2.48.0-2
 blackarch iaito 5.8.4-2
 blackarch iaxflood 3:0.1-2
 blackarch iaxscan 0.02-2
@@ -19722,7 +19722,7 @@ blackarch mdk4 4.2-1
 blackarch mdns-recon 11.69b864e-1
 blackarch mdns-scan 0.5-5
 blackarch meanalyzer 1.273.0-2
-blackarch medusa 2.2-11
+blackarch medusa 2.2-12
 blackarch meg 87.9daab00-2
 blackarch melkor 1.0-2
 blackarch memdump 1.01-7
@@ -20407,7 +20407,8 @@ blackarch pymeta 13.fa74e64-1
 blackarch pyminifakedns 0.1-6
 blackarch pymssql 2.1.5-1
 blackarch pyqt3 3.18.1-1
-blackarch pyqt4-common 4.12.3-11
+blackarch pyqt4-common 4.12.3-12
+blackarch pyqt4-debug 4.12.3-12
 blackarch pyqt5-common 5.15.4-1
 blackarch pyrasite 2.0-3
 blackarch pyrdp 1989.6b56617-1
@@ -21045,7 +21046,7 @@ blackarch python-pyptlib 0.0.6-8
 blackarch python-pypugjs 5.9.4-4
 blackarch python-pypykatz 0.6.8-1
 blackarch python-pyqodeng-core 0.0.4-2
-blackarch python-pyqt4 4.12.3-11
+blackarch python-pyqt4 4.12.3-12
 blackarch python-pyric 184.bc0dce3-5
 blackarch python-pyrtlsdr 1:0.3.0-1
 blackarch python-pysafebrowsing 0.1.2-2
@@ -21484,6 +21485,8 @@ blackarch python2-daemon 2.2.4-4
 blackarch python2-darts.util.lru 7.5ef01b1-5
 blackarch python2-dateparser 1.1.0-2
 blackarch python2-dateutil 2.8.2-2
+blackarch python2-dbus 1.2.18-1
+blackarch python2-dbus-debug 1.2.18-1
 blackarch python2-debug 2.7.18-8
 blackarch python2-decorator 4.4.2-4
 blackarch python2-defusedxml 0.7.1-2
@@ -21927,7 +21930,7 @@ blackarch python2-pypermacc 4.d896512-5
 blackarch python2-pyprind 2.11.3-3
 blackarch python2-pyptlib 0.0.6-8
 blackarch python2-pypykatz 0.3.9-1
-blackarch python2-pyqt4 4.12.3-11
+blackarch python2-pyqt4 4.12.3-12
 blackarch python2-pyqt5 5.15.4-1
 blackarch python2-pyric 184.bc0dce3-5
 blackarch python2-pyroute2 0.5.7-3
@@ -22218,7 +22221,8 @@ blackarch qscintilla-qt3 1.7.1-1
 blackarch qscintilla-qt4 1:2.10.4-1
 blackarch qsreplace 3.0b053d2-1
 blackarch qt3 3.3.8b-1
-blackarch qt4 4.8.7-30
+blackarch qt4 4.8.7-31
+blackarch qt4-debug 4.8.7-31
 blackarch qt5-webkit 5.212.0alpha4-19
 blackarch qtwebkit 2.3.4-7
 blackarch quark-engine 21.6.2-5
@@ -22415,8 +22419,8 @@ blackarch rustpad v1.8.1.r1.g11ce343-1
 blackarch rustscan 2.1.1-1
 blackarch rvi-capture 14.a2e129b-5
 blackarch rww-attack 0.9.2-6
-blackarch rz-cutter 2.2.0-2
-blackarch rz-ghidra 0.5.0-1
+blackarch rz-cutter 2.3.1-1
+blackarch rz-ghidra 0.6.0-1
 blackarch s3-fuzzer 4.0a2a6f0-3
 blackarch s3scanner 430.bfd0fce-1
 blackarch safecopy 1.7-6
@@ -22591,7 +22595,7 @@ blackarch slowhttptest 1.9.0-1
 blackarch slowloris 0.7-9
 blackarch slowloris-py 30.eb7f632-1
 blackarch slurp-scanner 90.6a4eaaf-2
-blackarch smali 2.5.2-1
+blackarch smali 2.5.2-2
 blackarch smali-cfgs 6.4450418-2
 blackarch smalisca 58.1aa7a16-6
 blackarch smap 24.3ed1ac7-1
@@ -23359,7 +23363,7 @@ archlinuxcn archey-git r146.b74e40br146.b74e40b-3
 archlinuxcn archey4 4.14.2.0-1
 archlinuxcn archlinux-artwork 1.6-6
 archlinuxcn archlinux-java-run 9-1
-archlinuxcn archlinuxcn-keyring 20230316-1
+archlinuxcn archlinuxcn-keyring 20230316-1 [installed]
 archlinuxcn archlinuxcn-mirrorlist-git 20230825-1
 archlinuxcn archrepo2-git 2:0.5.r23.g954068b-3
 archlinuxcn arduino-ide-bin 2.2.1-1
@@ -29093,7 +29097,7 @@ arcolinux_repo_xlarge whatsapp-nativefier 2.2322.15-1
 arcolinux_repo_xlarge wps-office 11.1.0.11704-1
 arcolinux_repo_xlarge wps-office-mime 11.1.0.11704-1
 arcolinux_repo_xlarge zoom 5.15.5-1
-xhbp grub 2:2.06.r499.ge67a551a4-2
+xhbp grub 2:2.06.r499.ge67a551a4-2 [installed: 2:2.12rc1-1]
 xiso calamares-app 3.3.0alpha3-3
 xiso calamares-cfg 3.3.0.1-1
 xiso calamares-g-cfg 3.3.0.1-1
