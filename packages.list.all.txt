@@ -2545,7 +2545,7 @@ extra gist 6.0.0-1
 extra git 2.42.0-1 [installed]
 extra git-absorb 0.6.10-2
 extra git-annex 10.20230626-22
-extra git-branchless 0.7.1-3
+extra git-branchless 0.8.0-1
 extra git-bug 0.8.0-1
 extra git-cliff 1.3.0-1
 extra git-credential-gopass 1.15.5-1
@@ -2572,7 +2572,7 @@ extra gitolite 3.6.13-1
 extra gitoxide 0.28.0-1
 extra gitprompt-rs 0.3.0-1
 extra gitsign 0.7.1-1
-extra gitui 0.24.0-1
+extra gitui 0.24.1-1
 extra givaro 4.2.0-1
 extra gjs 2:1.76.2-1
 extra gkrellm 2.3.11-3
@@ -14198,7 +14198,7 @@ chaotic-aur archiso-git 71.r8.g8ddd08f-1
 chaotic-aur archlinux-java-run 9-1.1
 chaotic-aur ardour-git 7.4.r288.gebcaffd19f-1
 chaotic-aur ares-emu 133-4
-chaotic-aur ares-emu-git 133.r118.gb11ff923b-1
+chaotic-aur ares-emu-git 133.r119.g546aed685-1
 chaotic-aur ark-git 23.03.70_r5003.gaaeebe0c-1
 chaotic-aur arkenfox-user.js-git 115.0.r0.g4d78abf-1
 chaotic-aur arm-linux-gnueabi-binutils 2.41-1
@@ -14767,7 +14767,7 @@ chaotic-aur ferdium-bin 6.4.1-1
 chaotic-aur ferdium-nightly-bin 6.5.0.nightly.2-1
 chaotic-aur ff2mpv-native-messaging-host-git r75.96897a8-1
 chaotic-aur ffmpeg-full 6.0-4
-chaotic-aur ffmpeg-git 6.1.r111888.gfc993e7a53-1
+chaotic-aur ffmpeg-git 6.1.r111891.g966088cc6a-1
 chaotic-aur ffmpeg-obs 6.0.r12.ga6dc929-6
 chaotic-aur ffmpegthumbs-git 23.07.70.r261-1
 chaotic-aur ffsend-bin 0.2.76-1.1
@@ -15840,7 +15840,7 @@ chaotic-aur libpamac-aur 11.6.1-0
 chaotic-aur libpamac-nosnap 1:11.5.4-1
 chaotic-aur libpdfium-nojs 5845.r0.6c2c8ce87d-1
 chaotic-aur libpipewire-common-git 0.3.79.r48.g8e6d0701-1
-chaotic-aur libplacebo-git 6.292.0.257.gc99e3c2b-1
+chaotic-aur libplacebo-git 6.292.0.260.g648efac6-1
 chaotic-aur libpthread-stubs 0.4-1
 chaotic-aur libqaccessibilityclient-git v0.4.0.r47.0f08684-1
 chaotic-aur libqalculate-git r1459.649d91f-1
@@ -16116,9 +16116,9 @@ chaotic-aur mindustry-git 7.0.145.1.r206.g90ed5f2750-1
 chaotic-aur mindustry-server 1:7.0.145.1-1
 chaotic-aur minecraft-launcher 1:1.0.1221-1.4
 chaotic-aur minecraft-technic-launcher 4.812-1
-chaotic-aur minetest-common-git 1:5.7.0.r219.gf080aa29b-1
-chaotic-aur minetest-git 1:5.7.0.r219.gf080aa29b-1
-chaotic-aur minetest-server-git 1:5.7.0.r219.gf080aa29b-1
+chaotic-aur minetest-common-git 1:5.7.0.r221.g83b85ba16-1
+chaotic-aur minetest-git 1:5.7.0.r221.g83b85ba16-1
+chaotic-aur minetest-server-git 1:5.7.0.r221.g83b85ba16-1
 chaotic-aur mingw-w64-tools 10.0.0-1
 chaotic-aur minigalaxy 1.2.5-1
 chaotic-aur minq-ananicy-git 2.2.1.r320.g62771a8-1
@@ -16185,7 +16185,7 @@ chaotic-aur mutter-performance-docs 1:44.4-2
 chaotic-aur mutter-rounded 42.3-1.1
 chaotic-aur mutter-x11-scaling 44.4-1
 chaotic-aur myman 0.7.0-7
-chaotic-aur mypy-git v0.520.r5210.g5adf93480-1
+chaotic-aur mypy-git v0.520.r5213.gcc8a4b50f-1
 chaotic-aur mysql 8.0.34-1
 chaotic-aur mysql-clients 8.0.34-1
 chaotic-aur mystiq 23.05.15-3
@@ -17210,7 +17210,7 @@ chaotic-aur rustdesk-nightly 1.2.3-0
 chaotic-aur rustdesk-server-bin 1.1.8_2-1
 chaotic-aur rustow-git 0.4.beta.r7.g858b15e-1
 chaotic-aur rustup-git 1.26.0.r131.gd4c68448-1
-chaotic-aur ryujinx-git r3016.12cbacffc-1
+chaotic-aur ryujinx-git r3017.93cd32787-1
 chaotic-aur ryzen-controller-bin 2.6.0-1
 chaotic-aur ryzen_smu-dkms-git 162.e61177d-1
 chaotic-aur ryzenadj-git 0.13.0.r10.g7201ff2-1
@@ -23686,8 +23686,8 @@ archlinuxcn emacs-go-mode-git 1.6.0.r14.g8dce1e3b-1
 archlinuxcn emacs-julia-mode-git 1:0.402.g7a8c868-2
 archlinuxcn emacs-llvm-mode-git 472768.0f1c1be19680-1
 archlinuxcn emacs-markdown-mode-git 2.6.r1.g50e4452-1
-archlinuxcn emacs-native-comp-git 30.0.50.168577-1
-archlinuxcn emacs-native-comp-pgtk-git 30.0.50.168577-1
+archlinuxcn emacs-native-comp-git 30.0.50.168582-1
+archlinuxcn emacs-native-comp-pgtk-git 30.0.50.168583-1
 archlinuxcn emacs-ng-git 1:r166863.gdbf1cc80538-1
 archlinuxcn emacs-ng-git-debug 1:r166863.gdbf1cc80538-1
 archlinuxcn emacs-org-mode-git 1:9.6.1.r269.gaa2249787-1
@@ -24091,8 +24091,8 @@ archlinuxcn htpdate 1.3.7-1
 archlinuxcn htpdate-debug 1.3.7-1
 archlinuxcn httpry 0.1.8-2
 archlinuxcn hunspell-ja-git 1.r1.g9854fc6-2
-archlinuxcn hyprland-git 0.29.0.r21.f69c5469-1
-archlinuxcn hyprland-git-debug 0.29.0.r21.f69c5469-1
+archlinuxcn hyprland-git 0.29.0.r26.00bee91b-1
+archlinuxcn hyprland-git-debug 0.29.0.r26.00bee91b-1
 archlinuxcn hyprland-hidpi-xprop-git 0.29.0.r21.f69c5469-1
 archlinuxcn hyprland-hidpi-xprop-git-debug 0.29.0.r21.f69c5469-1
 archlinuxcn hyprland-nvidia 0.29.0-1
@@ -24905,10 +24905,10 @@ archlinuxcn linux-cachyos-bore 6.5.0-2
 archlinuxcn linux-cachyos-rc 6.5.rc7-2
 archlinuxcn linux-ck-x64-v3 6.5-1
 archlinuxcn linux-ck-x64-v4 6.5-1
-archlinuxcn linux-clear-x64-v3 6.4.13-1
-archlinuxcn linux-clear-x64-v3-headers 6.4.13-1
-archlinuxcn linux-clear-x64-v4 6.4.13-1
-archlinuxcn linux-clear-x64-v4-headers 6.4.13-1
+archlinuxcn linux-clear-x64-v3 6.4.14-1
+archlinuxcn linux-clear-x64-v3-headers 6.4.14-1
+archlinuxcn linux-clear-x64-v4 6.4.14-1
+archlinuxcn linux-clear-x64-v4-headers 6.4.14-1
 archlinuxcn linux-dctxmei 5.15.76-1
 archlinuxcn linux-dctxmei-docs 5.15.76-1
 archlinuxcn linux-dctxmei-headers 5.15.76-1
@@ -26109,7 +26109,7 @@ archlinuxcn ttf-arphic-extra 20100309-3
 archlinuxcn ttf-babelstone-han 15.0.5-1
 archlinuxcn ttf-comfortaa 3.105-1
 archlinuxcn ttf-fantasque-sans-mono-noloopk 1.8.0-2
-archlinuxcn ttf-iosevka-term 26.2.2-1
+archlinuxcn ttf-iosevka-term 26.3.0-1
 archlinuxcn ttf-itxe-writing 1.1-2
 archlinuxcn ttf-lxgw-wenkai 1.300-1
 archlinuxcn ttf-lxgw-wenkai-mono 1.300-1
@@ -26161,8 +26161,8 @@ archlinuxcn uksmd 6.4.1-1
 archlinuxcn uksmd-debug 6.4.1-1
 archlinuxcn unagi 0.3.4-3
 archlinuxcn unciv 4.7.19.REL-1
-archlinuxcn ungoogled-chromium 116.0.5845.96-1
-archlinuxcn ungoogled-chromium-debug 116.0.5845.96-1
+archlinuxcn ungoogled-chromium 116.0.5845.140-1
+archlinuxcn ungoogled-chromium-debug 116.0.5845.140-1
 archlinuxcn unzip-natspec 6.0-7
 archlinuxcn upscayl-bin 2.5.5-2
 archlinuxcn upscayl-bin-debug 2.5.5-2
