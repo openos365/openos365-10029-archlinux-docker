@@ -3174,7 +3174,7 @@ extra haskell-chunked-data 0.3.1-232
 extra haskell-ci 0.12.1-436
 extra haskell-cipher-aes 0.2.11-305
 extra haskell-cipher-aes128 0.7.0.6-7
-extra haskell-citeproc 0.8.1-45
+extra haskell-citeproc 0.8.1-46
 extra haskell-clash-lib 1.6.4-83
 extra haskell-clash-prelude 1.6.4-62
 extra haskell-classy-prelude 1.5.0.2-77
@@ -3440,7 +3440,7 @@ extra haskell-hackage-db 2.1.3-8
 extra haskell-hackage-security 0.6.2.3-43
 extra haskell-haddock-library 1.10.0-225
 extra haskell-hadrian 0.1.0.0-107
-extra haskell-hakyll 4.16.0.0-33
+extra haskell-hakyll 4.16.0.0-34
 extra haskell-half 0.3.1-132
 extra haskell-happstack-server 7.8.0.2-11
 extra haskell-hashable 1.4.2.0-25
@@ -3768,10 +3768,10 @@ extra haskell-optparse-simple 0.1.1.4-260
 extra haskell-ordered-containers 0.2.3-1
 extra haskell-ormolu 0.3.0.0-67
 extra haskell-pager 0.1.1.0-10
-extra haskell-pandoc 3.1.2-27
-extra haskell-pandoc-lua-engine 0.2-26
+extra haskell-pandoc 3.1.2-28
+extra haskell-pandoc-lua-engine 0.2-27
 extra haskell-pandoc-lua-marshal 0.2.2-15
-extra haskell-pandoc-server 0.1-101
+extra haskell-pandoc-server 0.1-102
 extra haskell-pandoc-types 1.23-28
 extra haskell-pango 0.13.8.2-52
 extra haskell-panic 0.4.0.1-24
@@ -4100,7 +4100,7 @@ extra haskell-unagi-chan 0.4.1.4-65
 extra haskell-unagi-streams 0.2.7-26
 extra haskell-unbounded-delays 0.1.1.1-6
 extra haskell-unexceptionalio 0.5.1-8
-extra haskell-unicode-collation 0.1.3.4-6
+extra haskell-unicode-collation 0.1.3.5-1
 extra haskell-unicode-data 0.4.0.1-14
 extra haskell-unicode-show 0.1.1.1-45
 extra haskell-unicode-transforms 0.4.0.1-51
@@ -7493,9 +7493,9 @@ extra pam_mount 2.20-1
 extra pam_wrapper 1.1.4-4
 extra pamixer 1.6-2
 extra pan 0.154-1
-extra pandoc-cli 0.1.1-33
-extra pandoc-crossref 0.3.16.0-25
-extra pandoc-plot 1.7.0-35
+extra pandoc-cli 0.1.1-34
+extra pandoc-crossref 0.3.16.0-26
+extra pandoc-plot 1.7.0-36
 extra pango 1:1.50.14-1 [installed]
 extra pango-docs 1:1.50.14-1
 extra pango-perl 1.227-16
@@ -7529,7 +7529,7 @@ extra pantheon-videos 3.0.0-1
 extra paperkey 1.6-3
 extra paperwork 2.1.2-2
 extra papilo 2.1.2-3
-extra papirus-icon-theme 20230801-1
+extra papirus-icon-theme 20230901-1
 extra pappl 1.3.2-1
 extra paprefs 1.2-1
 extra par2cmdline 0.8.1-2
@@ -8006,7 +8006,7 @@ extra perl-namespace-autoclean 0.29-5
 extra perl-namespace-clean 0.27-9
 extra perl-net-cidr-lite 0.22-4
 extra perl-net-dbus 1.2.0-5
-extra perl-net-dns 1.39-2
+extra perl-net-dns 1.40-1
 extra perl-net-dns-resolver-mock 1.20230216-2
 extra perl-net-dns-resolver-programmable 0.009-9
 extra perl-net-dns-sec 1.21-2
@@ -9733,7 +9733,7 @@ extra python-pg8000 1.30.1-1
 extra python-pgpy 0.6.0-2
 extra python-pgspecial 2.1.0-2
 extra python-phitigra 0.2.6-2
-extra python-phonenumbers 8.13.18-1
+extra python-phonenumbers 8.13.19-1
 extra python-phpserialize 1.3-11
 extra python-piccata 2.0.3-2
 extra python-pickleshare 0.7.5-9
@@ -10027,7 +10027,7 @@ extra python-pytest-ignore-flaky 2.0.0-1
 extra python-pytest-isort 3.1.0-2
 extra python-pytest-jupyter 0.7.0-3
 extra python-pytest-lazy-fixture 0.6.3-6
-extra python-pytest-localserver 0.7.1-2
+extra python-pytest-localserver 0.8.0-2
 extra python-pytest-lsp 0.3.0-1
 extra python-pytest-metadata 3.0.0-1
 extra python-pytest-mock 3.11.1-1
@@ -10976,6 +10976,7 @@ extra remake 4.3+dbg1.6-2
 extra remind 4.2.5-1
 extra remmina 1:1.4.31-1
 extra renameutils 0.12.0-7
+extra renderdoc 1.28-2
 extra repgrep 0.14.3-1
 extra repo 2.36-1
 extra repod 0.2.2-2
@@ -12842,7 +12843,7 @@ extra utox 0.18.1-3
 extra uucp 1.07-7
 extra uudeview 0.5.20-17
 extra uusi 0.4.2.0-132
-extra uutils-coreutils 0.0.20-1
+extra uutils-coreutils 0.0.21-1
 extra uvicorn 0.23.2-1
 extra uwsgi 2.0.22-1
 extra uwsgi-plugin-cgi 2.0.22-1
@@ -14529,7 +14530,7 @@ chaotic-aur corepaint 4.5.0-1
 chaotic-aur corepdf 4.5.0-1
 chaotic-aur coreutils-git 9.4.r15.g9cd52bd99-1
 chaotic-aur coreutils-hybrid 9.1_0.0.20-1
-chaotic-aur coreutils-hybrid-git 0.0.20.r240.gf8845cde2-1
+chaotic-aur coreutils-hybrid-git 0.0.21.r0.g7c7a6083d-1
 chaotic-aur correios-git r18.0d75f6e-1
 chaotic-aur corrosion-git v0.3.0.r146.gdc1e4e5-1
 chaotic-aur cosmic-epoch-git r78.a9a8a74-1
@@ -14704,11 +14705,11 @@ chaotic-aur elm-bin 0.19.1-1
 chaotic-aur elm-format-bin 0.8.5-1
 chaotic-aur elm-language-server 2.7.0-1
 chaotic-aur elm-platform-bin 0.19.1-2
-chaotic-aur emacs-git 30.0.50.168582-1
-chaotic-aur emacs-git-noway-widgets 30.0.50.168582-1
+chaotic-aur emacs-git 30.0.50.168611-1
+chaotic-aur emacs-git-noway-widgets 30.0.50.168611-1
 chaotic-aur emacs-ng 30.0.50-5
 chaotic-aur emacs-ng-git 1:r166863.gdbf1cc80538-1.2
-chaotic-aur emacs-pgtk-native-comp-git 30.0.50.168582-1
+chaotic-aur emacs-pgtk-native-comp-git 30.0.50.168611-1
 chaotic-aur emerald-gtk3 0.8.18-2.5
 chaotic-aur emote 4.0.1-2
 chaotic-aur emulationstation 2.11.2-1.2
@@ -14756,7 +14757,7 @@ chaotic-aur fancytasks 1.1.4.r0.ge2d793d-1
 chaotic-aur farbfeld 4-2
 chaotic-aur fast 0.0.4-1
 chaotic-aur fastfetch 2.0.5-1
-chaotic-aur fastfetch-git 2.0.5.r15.g9500ca8f-1
+chaotic-aur fastfetch-git 2.0.5.r22.g10853fdf-1
 chaotic-aur fastgame-git 0.2.0.r38.g9a417b7-1
 chaotic-aur fatrat-git 1.2.0.b2.r60.g1b0dd1f-1
 chaotic-aur faudio-tkg-git 23.09.r0.g6048041-1
@@ -15064,7 +15065,7 @@ chaotic-aur gnome-shell-extension-dash-to-dock 1:85-1
 chaotic-aur gnome-shell-extension-dash-to-panel-git 56.r1.gbe8214d-1.2
 chaotic-aur gnome-shell-extension-desktop-icons-ng 47.0.4-1
 chaotic-aur gnome-shell-extension-desktop-icons-ng-git 47.0.3.r4.g6d2c57e-1
-chaotic-aur gnome-shell-extension-fly-pie-git 21.r17.g29170bd-1
+chaotic-aur gnome-shell-extension-fly-pie-git 21.r19.g3191916-1
 chaotic-aur gnome-shell-extension-gnome-ui-tune-git 1.7.3.r0.gc03e0e0-1.2
 chaotic-aur gnome-shell-extension-gsconnect 2:55-1
 chaotic-aur gnome-shell-extension-gsconnect-git 55.r84.gb5805bfe-1
@@ -15091,7 +15092,7 @@ chaotic-aur gojq 0.12.13-1
 chaotic-aur goland 2023.2.1-1
 chaotic-aur goland-jre 2023.2.1-1
 chaotic-aur goldendict-git 1:1.5.0.r7.g7da1ccf2-1
-chaotic-aur goldendict-webengine-pr-git 22.12.02.r66.g8ccf1314-1
+chaotic-aur goldendict-webengine-pr-git 22.12.02.r66.ge06fc3e2-1
 chaotic-aur goocanvas2 2.0.4-9.3
 chaotic-aur goodvibes 0.7.6-1.2
 chaotic-aur goodvibes-git 0.7.6.r73.g43a4465-1
@@ -15289,7 +15290,7 @@ chaotic-aur hw-probe 1.6.5-1.1
 chaotic-aur hyperspace-bin 1:1.1.4-1.3
 chaotic-aur hypnotix 3.6-1
 chaotic-aur hyprland-git 0.29.1.r2.8fefb180-1
-chaotic-aur hyprland-nvidia 0.29.0-1
+chaotic-aur hyprland-nvidia 0.29.1-1
 chaotic-aur hyprland-nvidia-git 0.29.1.r2.g8fefb180-1
 chaotic-aur hyprpaper-git r109.5e73eb6-1
 chaotic-aur hyprpicker-git 0.1.1.r4.5ba3268-1
@@ -15790,7 +15791,7 @@ chaotic-aur libcmrt 1.0.6-2.3
 chaotic-aur libcotp 2.0.0-1
 chaotic-aur libcprime 4.5.0-1
 chaotic-aur libcyaml 1.3.1-1
-chaotic-aur libdatachannel 0.18.5-1
+chaotic-aur libdatachannel 0.18.6-1
 chaotic-aur libdigidocpp 3.16.0.1442-1
 chaotic-aur libdovi 3.2.0-1
 chaotic-aur libdrm-git 2.4.116.r0.g7bdb135f-1
@@ -16020,7 +16021,7 @@ chaotic-aur luckybackup 0.5.0-1.3
 chaotic-aur ludusavi 0.21.0-1
 chaotic-aur lunar-client 3.0.7-1
 chaotic-aur lunarvim-git 1.2.0.r214.g023fb27b-1
-chaotic-aur lutris-git 0.5.13.r259.g097b0766-1
+chaotic-aur lutris-git 0.5.13.r261.g80719ab5-1
 chaotic-aur luxtorpeda-git 66.0.1.r429.7943035-1
 chaotic-aur lxqt-kwin-desktop-git 0.17.0-1.3
 chaotic-aur lyx 2.3.7-2.2
@@ -16076,7 +16077,7 @@ chaotic-aur mcpelauncher-linux-git v0.11.0.qt6.r0.g66acade-1
 chaotic-aur mcpelauncher-ui-git v0.11.0.qt6.r0.gb5238fb-1
 chaotic-aur mcstatus 9.4.2-1.4
 chaotic-aur media-downloader 2.7.0-1.2
-chaotic-aur media-downloader-git 3.3.0.r28.g5320034-1
+chaotic-aur media-downloader-git 3.3.0.r30.gb3b1542-1
 chaotic-aur mediainfo-gui-qt 23.07-1
 chaotic-aur mediawriter 5.0.6-1
 chaotic-aur mednaffe 0.9.2-1.3
@@ -16112,7 +16113,7 @@ chaotic-aur migrate 4.16.2-1
 chaotic-aur miktex 23.5-1
 chaotic-aur milou-git 5.27.80_r811.gc498381-1
 chaotic-aur mindustry 1:7.0.145.1-1
-chaotic-aur mindustry-git 7.0.145.1.r213.g798b493334-1
+chaotic-aur mindustry-git 7.0.145.1.r215.g2882f7840e-1
 chaotic-aur mindustry-server 1:7.0.145.1-1
 chaotic-aur minecraft-launcher 1:1.0.1221-1.4
 chaotic-aur minecraft-technic-launcher 4.812-1
