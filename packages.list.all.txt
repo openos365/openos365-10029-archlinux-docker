@@ -464,7 +464,7 @@ extra arc-icon-theme 20161122-3
 extra arc-solid-gtk-theme 20221218-1
 extra arch-audit 0.1.20-1
 extra arch-audit-gtk 0.3.1-1
-extra arch-hs 0.11.1.0-36
+extra arch-hs 0.11.1.0-37
 extra arch-install-scripts 28-1 [installed]
 extra arch-rebuild-order 0.4.1-1
 extra arch-release-promotion 0.2.2-3
@@ -1330,7 +1330,7 @@ extra d2 0.6.0-1
 extra dagger 0.8.1-1
 extra danmaq 0.2.3.2-1
 extra dante 1.4.3-3
-extra darcs 2.16.5-179
+extra darcs 2.16.5-180
 extra dark-reader 4.9.65-1
 extra darkhttpd 1.14-1
 extra darkstat 3.0.721-2
@@ -1481,12 +1481,12 @@ extra dfu-util 0.11-2
 extra dg 1.1.0.20160916-7
 extra dgedit 0.10.0-2
 extra dgen-sdl 1.33-4
-extra dhall 1.41.2-84
-extra dhall-bash 1.0.40-192
-extra dhall-docs 1.0.11-25
-extra dhall-json 1.7.11-99
-extra dhall-lsp-server 1.1.2-114
-extra dhall-yaml 1.2.11-99
+extra dhall 1.41.2-85
+extra dhall-bash 1.0.40-193
+extra dhall-docs 1.0.11-26
+extra dhall-json 1.7.11-100
+extra dhall-lsp-server 1.1.2-115
+extra dhall-yaml 1.2.11-100
 extra dhclient 4.4.3.P1-2
 extra dhcp 4.4.3.P1-2
 extra dhcp-helper 1.2-2
@@ -2544,7 +2544,7 @@ extra girara 0.4.0-1
 extra gist 6.0.0-1
 extra git 2.42.0-1 [installed]
 extra git-absorb 0.6.10-2
-extra git-annex 10.20230626-22
+extra git-annex 10.20230626-23
 extra git-branchless 0.8.0-1
 extra git-bug 0.8.0-1
 extra git-cliff 1.3.0-1
@@ -2601,7 +2601,7 @@ extra glibmm-2.68-docs 2.76.0-1
 extra glibmm-docs 2.66.6-1
 extra glide 0.5.11-2
 extra glider 0.16.3-1
-extra glirc 2.39.0.1-134
+extra glirc 2.39.0.1-135
 extra glm 0.9.9.8-2
 extra glmark2 2023.01-1
 extra glob2 0.9.4.4-47
@@ -3076,7 +3076,7 @@ extra haskell-ansi-wl-pprint 0.6.9-380
 extra haskell-ap-normalize 0.1.0.1-8
 extra haskell-appar 0.1.8-13
 extra haskell-apply-refact 0.9.3.0-183
-extra haskell-arch-web 0.2-28
+extra haskell-arch-web 0.2-29
 extra haskell-arithmoi 0.13.0.0-3
 extra haskell-arrows 0.4.4.2-107
 extra haskell-asn1-encoding 0.9.6-209
@@ -3089,10 +3089,10 @@ extra haskell-atomic-primops 0.8.4-157
 extra haskell-atomic-write 0.2.0.7-221
 extra haskell-attoparsec 0.14.4-55
 extra haskell-attoparsec-iso8601 1.1.0.0-31
-extra haskell-authenticate 1.3.5.1-186
+extra haskell-authenticate 1.3.5.1-187
 extra haskell-authenticate-oauth 1.7-176
 extra haskell-auto-update 0.1.6-309
-extra haskell-aws 0.24-53
+extra haskell-aws 0.24-54
 extra haskell-barbies 2.0.4.0-18
 extra haskell-base-compat 0.12.2-1
 extra haskell-base-compat-batteries 0.12.2-48
@@ -3155,7 +3155,7 @@ extra haskell-cabal-doctest 1.0.9-1
 extra haskell-cabal-install-parsers 0.4.2-226
 extra haskell-cairo 0.13.8.2-33
 extra haskell-call-stack 0.4.0-147
-extra haskell-casa-client 0.0.1-609
+extra haskell-casa-client 0.0.1-610
 extra haskell-casa-types 0.0.2-372
 extra haskell-case-insensitive 1.2.1.0-184
 extra haskell-cassava 0.5.3.0-59
@@ -3185,7 +3185,7 @@ extra haskell-cmark-gfm 0.2.5-21
 extra haskell-cmdargs 0.10.22-1
 extra haskell-co-log-core 0.3.2.0-8
 extra haskell-code-page 0.2.1-5
-extra haskell-coinbase-pro 0.9.3.2-76
+extra haskell-coinbase-pro 0.9.3.2-77
 extra haskell-colour 2.3.6-172
 extra haskell-colourista 0.1.0.2-19
 extra haskell-commonmark 0.2.3-2
@@ -3235,7 +3235,7 @@ extra haskell-cryptohash-md5 0.11.101.0-82
 extra haskell-cryptohash-sha1 0.11.101.0-64
 extra haskell-cryptohash-sha256 0.11.102.1-72
 extra haskell-crypton 0.32-2
-extra haskell-crypton-connection 0.3.1-7
+extra haskell-crypton-connection 0.3.1-8
 extra haskell-crypton-x509 1.7.6-5
 extra haskell-crypton-x509-store 1.6.9-5
 extra haskell-crypton-x509-system 1.6.7-5
@@ -3271,7 +3271,7 @@ extra haskell-data-serializer 0.3.5-165
 extra haskell-data-textual 0.3.0.3-286
 extra haskell-data-tree-print 0.1.0.2-128
 extra haskell-dataenc 0.14.0.7-30
-extra haskell-dav 1.3.4-591
+extra haskell-dav 1.3.4-592
 extra haskell-dbus 1.2.22-174
 extra haskell-dbus-hslogger 0.1.0.1-437
 extra haskell-dec 0.0.5-3
@@ -3420,7 +3420,7 @@ extra haskell-gi-pango 1.0.29-22
 extra haskell-gi-xlib 2.0.12-54
 extra haskell-gio 0.13.10.0-2
 extra haskell-git-lfs 1.2.0-80
-extra haskell-githash 0.1.6.3-69
+extra haskell-githash 0.1.6.3-70
 extra haskell-gitrev 1.3.1-31
 extra haskell-glib 0.13.8.2-50
 extra haskell-glob 0.10.2-71
@@ -3440,7 +3440,7 @@ extra haskell-hackage-db 2.1.3-8
 extra haskell-hackage-security 0.6.2.3-43
 extra haskell-haddock-library 1.10.0-225
 extra haskell-hadrian 0.1.0.0-107
-extra haskell-hakyll 4.16.0.0-34
+extra haskell-hakyll 4.16.0.0-35
 extra haskell-half 0.3.1-132
 extra haskell-happstack-server 7.8.0.2-11
 extra haskell-hashable 1.4.2.0-25
@@ -3498,13 +3498,13 @@ extra haskell-hls-splice-plugin 1.0.3.0-47
 extra haskell-hls-stylish-haskell-plugin 1.0.1.2-47
 extra haskell-hls-tactics-plugin 1.8.0.0-49
 extra haskell-hls-test-utils 1.5.0.0-47
-extra haskell-hoauth2 2.2.0-82
+extra haskell-hoauth2 2.2.0-83
 extra haskell-hookup 0.7-34
 extra haskell-hopenpgp 2.9.8-122
 extra haskell-hosc 0.20-14
 extra haskell-hostname 1.0-25
 extra haskell-hourglass 0.2.12-227
-extra haskell-hpack 0.35.2-52
+extra haskell-hpack 0.35.2-53
 extra haskell-hs-bibutils 6.10.0.0-131
 extra haskell-hscolour 1.24.4-23
 extra haskell-hsini 0.5.1.3-2
@@ -3552,17 +3552,17 @@ extra haskell-html-parse 0.2.0.2-144
 extra haskell-http 4000.4.1-123
 extra haskell-http-api-data 0.5.1-13
 extra haskell-http-client 0.7.13.1-59
-extra haskell-http-client-restricted 0.0.5-119
-extra haskell-http-client-tls 0.3.6.3-2
+extra haskell-http-client-restricted 0.0.5-120
+extra haskell-http-client-tls 0.3.6.3-3
 extra haskell-http-common 0.8.3.4-123
-extra haskell-http-conduit 2.3.8.2-15
+extra haskell-http-conduit 2.3.8.2-16
 extra haskell-http-date 0.0.11-117
-extra haskell-http-download 0.2.0.0-597
+extra haskell-http-download 0.2.0.0-598
 extra haskell-http-media 0.8.0.0-186
 extra haskell-http-streams 0.8.9.8-4
 extra haskell-http-types 0.12.3-306
 extra haskell-http2 3.0.3-53
-extra haskell-http3 0.0.1-48
+extra haskell-http3 0.0.1-49
 extra haskell-httpd-shed 0.4.1.1-437
 extra haskell-hunit 1.6.2.0-190
 extra haskell-hw-fingertree 0.1.2.1-11
@@ -3624,7 +3624,7 @@ extra haskell-language-c 0.9.2-1
 extra haskell-language-haskell-extract 0.2.4-15
 extra haskell-language-javascript 0.7.1.0-139
 extra haskell-language-python 0.5.8-136
-extra haskell-language-server 1.9.0.0-59
+extra haskell-language-server 1.9.0.0-60
 extra haskell-lattices 2.1-23
 extra haskell-lazysmallcheck 0.6-4
 extra haskell-leancheck 1.0.0-1
@@ -3718,7 +3718,7 @@ extra haskell-mueval 0.9.3-166
 extra haskell-multimap 1.2.1-1
 extra haskell-multistate 0.8.0.4-57
 extra haskell-murmur-hash 0.1.0.10-2
-extra haskell-mustache 2.4.2-26
+extra haskell-mustache 2.4.2-27
 extra haskell-mutable-containers 0.3.4.1-46
 extra haskell-mwc-random 0.15.0.2-90
 extra haskell-mysql 0.2.1-67
@@ -3764,18 +3764,18 @@ extra haskell-optional-args 1.0.2-19
 extra haskell-options 1.2.1.1-19
 extra haskell-optparse-applicative 0.17.0.0-47
 extra haskell-optparse-generic 1.5.0-3
-extra haskell-optparse-simple 0.1.1.4-260
+extra haskell-optparse-simple 0.1.1.4-261
 extra haskell-ordered-containers 0.2.3-1
 extra haskell-ormolu 0.3.0.0-67
 extra haskell-pager 0.1.1.0-10
-extra haskell-pandoc 3.1.2-28
-extra haskell-pandoc-lua-engine 0.2-27
+extra haskell-pandoc 3.1.2-29
+extra haskell-pandoc-lua-engine 0.2-28
 extra haskell-pandoc-lua-marshal 0.2.2-15
-extra haskell-pandoc-server 0.1-102
+extra haskell-pandoc-server 0.1-103
 extra haskell-pandoc-types 1.23-28
 extra haskell-pango 0.13.8.2-52
 extra haskell-panic 0.4.0.1-24
-extra haskell-pantry 0.5.7-140
+extra haskell-pantry 0.5.7-141
 extra haskell-parallel 3.2.2.0-17
 extra haskell-parameterized-utils 2.1.6.0-37
 extra haskell-parsec-numbers 0.1.0-18
@@ -3799,7 +3799,7 @@ extra haskell-persistent-test 2.13.1.2-105
 extra haskell-pgp-wordlist 0.1.0.3-215
 extra haskell-pid1 0.1.3.1-1
 extra haskell-pipes 4.3.16-99
-extra haskell-pipes-http 1.0.6-536
+extra haskell-pipes-http 1.0.6-537
 extra haskell-placeholders 0.1-24
 extra haskell-pointed 5.0.4-88
 extra haskell-polyparse 1.13-11
@@ -3830,7 +3830,7 @@ extra haskell-protolude 0.3.3-5
 extra haskell-psqueues 0.2.7.3-63
 extra haskell-ptr 0.16.8.4-43
 extra haskell-puremd5 2.1.4-6
-extra haskell-quic 0.1.2-11
+extra haskell-quic 0.1.2-12
 extra haskell-quickcheck 2.14.3-11
 extra haskell-quickcheck-assertions 0.3.0-263
 extra haskell-quickcheck-classes 0.6.5.0-156
@@ -3872,7 +3872,7 @@ extra haskell-regex-tdfa 1.3.2.2-3
 extra haskell-reinterpret-cast 0.1.0-227
 extra haskell-relude 0.7.0.0-240
 extra haskell-repline 0.4.2.0-1
-extra haskell-req 3.13.0-62
+extra haskell-req 3.13.0-63
 extra haskell-rere 0.2-180
 extra haskell-rerebase 1.18-10
 extra haskell-resolv 0.1.2.0-182
@@ -4072,8 +4072,8 @@ extra haskell-time-units 1.0.0-1
 extra haskell-timeit 2.0-19
 extra haskell-timezone-olson 0.2.1-1
 extra haskell-timezone-series 0.1.13-1
-extra haskell-tls 1.7.1-3
-extra haskell-tls-session-manager 0.0.4-334
+extra haskell-tls 1.8.0-1
+extra haskell-tls-session-manager 0.0.4-335
 extra haskell-toml-parser 1.3.0.0-3
 extra haskell-tomland 1.3.3.2-35
 extra haskell-topograph 1.0.0.2-27
@@ -4140,7 +4140,7 @@ extra haskell-versions 5.0.5-6
 extra haskell-void 0.7.3-184
 extra haskell-vty 5.38-10
 extra haskell-wai 3.2.3-195
-extra haskell-wai-app-file-cgi 3.1.10-112
+extra haskell-wai-app-file-cgi 3.1.10-113
 extra haskell-wai-app-static 3.1.7.4-161
 extra haskell-wai-conduit 3.0.0.4-509
 extra haskell-wai-cors 0.2.7-312
@@ -4151,8 +4151,8 @@ extra haskell-wai-logger 2.4.0-291
 extra haskell-wai-middleware-static 0.9.2-177
 extra haskell-wai-websockets 3.0.1.2-423
 extra haskell-warp 3.3.28-8
-extra haskell-warp-quic 0.0.0-112
-extra haskell-warp-tls 3.4.1-1
+extra haskell-warp-quic 0.0.0-113
+extra haskell-warp-tls 3.4.1-2
 extra haskell-wcwidth 0.0.2-17
 extra haskell-websockets 0.12.7.3-83
 extra haskell-weigh 0.0.17-3
@@ -4169,8 +4169,8 @@ extra haskell-wl-pprint-terminfo 3.7.1.4-382
 extra haskell-wl-pprint-text 1.2.0.2-5
 extra haskell-word-wrap 0.5-75
 extra haskell-word8 0.1.3-22
-extra haskell-wreq 0.5.4.2-3
-extra haskell-wuss 2.0.1.1-16
+extra haskell-wreq 0.5.4.2-4
+extra haskell-wuss 2.0.1.1-17
 extra haskell-x11 1.10.3-1
 extra haskell-x11-xft 0.3.4-49
 extra haskell-x509 1.7.7-38
@@ -4187,7 +4187,7 @@ extra haskell-xmlgen 0.6.2.2-59
 extra haskell-xss-sanitize 0.3.7.2-4
 extra haskell-yaml 0.11.11.2-2
 extra haskell-yesod 1.6.2.1-123
-extra haskell-yesod-auth 1.6.11.1-53
+extra haskell-yesod-auth 1.6.11.1-54
 extra haskell-yesod-core 1.6.24.4-9
 extra haskell-yesod-form 1.7.4-64
 extra haskell-yesod-persistent 1.6.0.8-189
@@ -4264,17 +4264,17 @@ extra hiredis 1.2.0-1
 extra hitch 1.7.3-2
 extra hitori 44.0-1
 extra hivex 1.3.23-2
-extra hledger 1.29-26
+extra hledger 1.29-27
 extra hledger-iadd 1.3.18-16
-extra hledger-ui 1.29-27
-extra hledger-web 1.29-38
+extra hledger-ui 1.29-28
+extra hledger-web 1.29-39
 extra hlint 3.3.6-110
 extra hm 17.0-1
 extra hoel 1.4.27-1
 extra home-assistant 1:2023.8.4-1
 extra homebank 5.6.6-1
-extra hoogle 5.0.18.3-173
-extra hopenpgp-tools 0.23.7-139
+extra hoogle 5.0.18.3-174
+extra hopenpgp-tools 0.23.7-140
 extra horst 5.1-2
 extra hostapd 2.10-3
 extra hostess 0.5.2-4
@@ -4419,7 +4419,7 @@ extra igmpproxy 0.4-1
 extra igraph 0.10.6-1
 extra igrep 1.2.0-1
 extra igsc 0.8.9-1
-extra ihaskell 0.10.4.0-9
+extra ihaskell 0.10.4.0-10
 extra iio-sensor-proxy 3.4-1
 extra ijs 0.35-5
 extra imagemagick 7.1.1.15-3
@@ -6744,7 +6744,7 @@ extra mididings 20230114-4
 extra mididings-docs 20230114-4
 extra midimsg-lv2 0.0.5-2
 extra midori 9.0-5
-extra mighttpd2 4.0.3-18
+extra mighttpd2 4.0.3-19
 extra milkytracker 1.04.00-1
 extra mill 0.10.12-1
 extra miller 6.8.0-1
@@ -7493,9 +7493,9 @@ extra pam_mount 2.20-1
 extra pam_wrapper 1.1.4-4
 extra pamixer 1.6-2
 extra pan 0.154-1
-extra pandoc-cli 0.1.1-34
-extra pandoc-crossref 0.3.16.0-26
-extra pandoc-plot 1.7.0-36
+extra pandoc-cli 0.1.1-35
+extra pandoc-crossref 0.3.16.0-27
+extra pandoc-plot 1.7.0-37
 extra pango 1:1.50.14-1 [installed]
 extra pango-docs 1:1.50.14-1
 extra pango-perl 1.227-16
@@ -11989,7 +11989,7 @@ extra sslsplit 0.5.5-2
 extra ssr 0.6.0-1
 extra sssd 2.9.1-1
 extra sstp-client 1:1.0.18-1
-extra stack 2.7.5-333
+extra stack 2.7.5-334
 extra stalonetray 0.8.5-1
 extra stardict 3.0.6.2-1
 extra starship 1.16.0-1
@@ -12169,7 +12169,7 @@ extra t-prot 3.4-6
 extra t1lib 5.1.2-8
 extra t1utils 1.42-2
 extra tachyon 0.99.5-1
-extra taffybar 4.0.0-139
+extra taffybar 4.0.0-140
 extra taglib 1.13.1-1
 extra tailscale 1.48.1-2
 extra tailwindcss-language-server 0.0.13-1
@@ -12185,7 +12185,7 @@ extra tarantool 2.11.0-1
 extra tarsnap 1.0.40-2
 extra task 2.6.2-2
 extra taskd 1.1.0-6
-extra taskell 1.11.4-350
+extra taskell 1.11.4-351
 extra taskwarrior-tui 0.25.4-1
 extra tcc 0.9.27-4
 extra tcl 8.6.13-1 [installed]
@@ -13376,7 +13376,7 @@ extra xmlstarlet 1.6.1-3
 extra xmlto 0.0.28-4
 extra xmltoman 0.4-4
 extra xmms2 0.9.3-2
-extra xmobar 0.46-60
+extra xmobar 0.46-61
 extra xmonad 0.17.1-99
 extra xmonad-contrib 0.17.1-98
 extra xmonad-dbus 0.1.0.2-3
@@ -13832,8 +13832,8 @@ multilib lib32-libxtst 1.2.4-1
 multilib lib32-libxv 1.0.12-1
 multilib lib32-libxvmc 1.0.13-1
 multilib lib32-libxxf86vm 1.1.5-1
-multilib lib32-llvm 16.0.6-1
-multilib lib32-llvm-libs 16.0.6-1
+multilib lib32-llvm 16.0.6-2
+multilib lib32-llvm-libs 16.0.6-2
 multilib lib32-lm_sensors 1:3.6.0.r41.g31d1f125-2
 multilib lib32-lz4 1.9.4-1
 multilib lib32-mangohud 0.6.9.1-6
@@ -14768,7 +14768,7 @@ chaotic-aur ferdium-bin 6.4.1-1
 chaotic-aur ferdium-nightly-bin 6.5.0.nightly.6-1
 chaotic-aur ff2mpv-native-messaging-host-git r75.96897a8-1
 chaotic-aur ffmpeg-full 6.0-4
-chaotic-aur ffmpeg-git 6.1.r111911.gc4ab17a62d-1
+chaotic-aur ffmpeg-git 6.1.r111912.g091c41794d-1
 chaotic-aur ffmpeg-obs 6.0.r12.ga6dc929-6
 chaotic-aur ffmpegthumbs-git 23.07.70.r261-1
 chaotic-aur ffsend-bin 0.2.76-1.1
@@ -15271,7 +15271,7 @@ chaotic-aur heimer 4.1.0-1
 chaotic-aur helix-git 23.05.383.ge8fc77fe9-1
 chaotic-aur helvum-git 0.4.1.r5.g6fd3691-1
 chaotic-aur heroic-games-launcher-bin 2.9.1-2
-chaotic-aur heroic-games-launcher-git 2.9.1.r18.gc56dd78aa-1
+chaotic-aur heroic-games-launcher-git 2.9.1.r19.gb06105a72-1
 chaotic-aur heroku-cli-bin 8.2.0-1
 chaotic-aur hfsprogs 540.1.linux3-4.3
 chaotic-aur highway-git 1.0.7.r2.gfed142a-1
@@ -15291,7 +15291,7 @@ chaotic-aur hyperspace-bin 1:1.1.4-1.3
 chaotic-aur hypnotix 3.6-1
 chaotic-aur hyprland-git 0.29.1.r6.69439871-1
 chaotic-aur hyprland-nvidia 0.29.1-1
-chaotic-aur hyprland-nvidia-git 0.29.1.r3.g35df4693-1
+chaotic-aur hyprland-nvidia-git 0.29.1.r7.g9f3a6448-1
 chaotic-aur hyprpaper-git r109.5e73eb6-1
 chaotic-aur hyprpicker-git 0.1.1.r4.5ba3268-1
 chaotic-aur hyprshot 1.2.2-1
@@ -15340,7 +15340,7 @@ chaotic-aur insync-nemo 3.7.9.50368-1.3
 chaotic-aur insync-thunar 3.7.9.50368-1.2
 chaotic-aur intel-gmmlib-git 22.3.11.r0.g9032c98-1
 chaotic-aur intel-hybrid-codec-driver-git 1:2.0.0.r170.20220515.cfb3b71-2
-chaotic-aur intel-media-driver-git 2023.3.2.r55.gd1336b4d9-1
+chaotic-aur intel-media-driver-git 2023.3.2.r56.g964ffcee8-1
 chaotic-aur intel-ucode-clear 36610-1
 chaotic-aur intelbacklight-git r4.39eaf40-1
 chaotic-aur intellij-idea-ultimate-edition 2023.2.1-1
@@ -15735,7 +15735,7 @@ chaotic-aur lib32-lilv 0.24.20-1.2
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangohud-git 0.6.9.1.r124.gf667002-1
-chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.177293.fc46062ee52-1
+chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.177294.d01a60e8a3f-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -16098,7 +16098,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.3
 chaotic-aur menulibre 1:2.2.3-2
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.36.0-1
-chaotic-aur mesa-tkg-git 23.3.0_devel.177293.fc46062ee52-1
+chaotic-aur mesa-tkg-git 23.3.0_devel.177294.d01a60e8a3f-1
 chaotic-aur mesen2-git r2747.80f44271-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -17604,7 +17604,7 @@ chaotic-aur touche 2.0.10-1
 chaotic-aur tpmmanager 0.9.0-1
 chaotic-aur trackma-git 0.8.6.r28.g269ae01-1
 chaotic-aur tracktion-waveform 12.5.11-1
-chaotic-aur tradingview 2.4.0-1
+chaotic-aur tradingview 1:2.5.0-1
 chaotic-aur traitor-git 0.0.14.r4.g0d221ba-1
 chaotic-aur transset-df 6-8
 chaotic-aur trash-cli-git 1:0.23.2.13.2.r40.g2b06075-1
@@ -23541,8 +23541,8 @@ archlinuxcn clash-geoip 20230812-1
 archlinuxcn clash-git 1.18.0.r1.ge5f2396-1
 archlinuxcn clash-git-debug 1.18.0.r1.ge5f2396-1
 archlinuxcn clash-meta 1.15.1-2
-archlinuxcn clash-meta-alpha-git 20230903.r0.g1d4af2d9-2
-archlinuxcn clash-meta-alpha-git-debug 20230903.r0.g1d4af2d9-2
+archlinuxcn clash-meta-alpha-git 20230904.r0.ga1eab125-1
+archlinuxcn clash-meta-alpha-git-debug 20230904.r0.ga1eab125-1
 archlinuxcn clash-meta-debug 1.15.1-2
 archlinuxcn clash-premium-bin 2023.08.17-1
 archlinuxcn clash-premium-bin-debug 2023.08.17-1
@@ -23749,9 +23749,10 @@ archlinuxcn fcitx5-mozc-git 2.28.BUILD_OSS.102.r2128.fccaf92a-1
 archlinuxcn fcitx5-paste-primary-git 0.16-1
 archlinuxcn fcitx5-pinyin-moegirl 20230814-1
 archlinuxcn fcitx5-pinyin-moegirl-rime 20230814-1
-archlinuxcn fcitx5-qt4-git 5.0.17.r16.g413747e-1
-archlinuxcn fcitx5-qt5-git 5.0.17.r16.g413747e-1
-archlinuxcn fcitx5-qt6-git 5.0.17.r16.g413747e-1
+archlinuxcn fcitx5-qt-git-debug 5.1.0.r1.ge19b1bd-1
+archlinuxcn fcitx5-qt4-git 5.1.0.r1.ge19b1bd-1
+archlinuxcn fcitx5-qt5-git 5.1.0.r1.ge19b1bd-1
+archlinuxcn fcitx5-qt6-git 5.1.0.r1.ge19b1bd-1
 archlinuxcn fcitx5-rime-git 5.1.1.r0.g61000bf-1
 archlinuxcn fcitx5-rime-git-debug 5.1.1.r0.g61000bf-1
 archlinuxcn feeluown-git 2:r1547.190dc3f-1
@@ -24068,8 +24069,8 @@ archlinuxcn grub-theme-whitesur-whitesur-4k-git 2021.09.19.r13.g0f81ef2-1
 archlinuxcn grub2-theme-arch-leap 1-3.1
 archlinuxcn gtkcord4 0.0.12-1
 archlinuxcn gtkcord4-debug 0.0.12-1
-archlinuxcn gtkcord4-git 0.0.11.1.r20.gdb0784a-1
-archlinuxcn gtkcord4-git-debug 0.0.11.1.r20.gdb0784a-1
+archlinuxcn gtkcord4-git 0.0.12.r3.g5b38757-1
+archlinuxcn gtkcord4-git-debug 0.0.12.r3.g5b38757-1
 archlinuxcn gtkwave-gtk3 3.3.117-1
 archlinuxcn gtkwave-gtk3-debug 3.3.117-1
 archlinuxcn guile1.8 1.8.8-11
@@ -25212,8 +25213,8 @@ archlinuxcn ntfysh-bin 2.7.0-1
 archlinuxcn ntfysh-bin-debug 2.7.0-1
 archlinuxcn numix-circle-icon-theme-git 23.08.16.r0.g75d4334-1
 archlinuxcn numix-icon-theme 23.04.26.r0.g71b89af4f-1
-archlinuxcn nushell-git 0.84.1.r7680.ge5145358eb-1
-archlinuxcn nushell-git-debug 0.84.1.r7680.ge5145358eb-1
+archlinuxcn nushell-git 0.84.1.r7681.g5ad3bfa31b-1
+archlinuxcn nushell-git-debug 0.84.1.r7681.g5ad3bfa31b-1
 archlinuxcn nutstore 5.1.7-1
 archlinuxcn nvchecker-git 1:2.13dev.r17-1
 archlinuxcn nvidia-beta-dkms 535.104.05-1
@@ -25900,7 +25901,7 @@ archlinuxcn rustdesk-git 1:1.2.1.r509.g7fa1bcfd-1
 archlinuxcn rustfmt-nightly 4:1.74.0_20230831-4
 archlinuxcn rustpython-git r8267.6b68848f-1
 archlinuxcn rxvt-unicode-better-wheel-scrolling 9.22-5.1
-archlinuxcn ryujinx-git r3017.93cd327873-1
+archlinuxcn ryujinx-git r3018.5f771f5661-1
 archlinuxcn safeeyes-git 2.1.6.r8.g5a993a4-1
 archlinuxcn sasm 3.14.0-2
 archlinuxcn sasm-debug 3.14.0-2
@@ -26394,8 +26395,8 @@ archlinuxcn yuzu-early-access 3855-1
 archlinuxcn yuzu-early-access-debug 3855-1
 archlinuxcn yuzu-git r25176.c24ed3ecaf-1
 archlinuxcn yuzu-git-debug r25176.c24ed3ecaf-1
-archlinuxcn yuzu-mainline-git 1546.r0.g6db81a3ca-1
-archlinuxcn yuzu-mainline-git-debug 1546.r0.g6db81a3ca-1
+archlinuxcn yuzu-mainline-git 1546.r0.g6db81a3ca-2
+archlinuxcn yuzu-mainline-git-debug 1546.r0.g6db81a3ca-2
 archlinuxcn zafiro-icon-theme 1.3-3
 archlinuxcn zarchive-git 0.1.2.r0.gd2c7177-2
 archlinuxcn zchunk 1.3.0-1
