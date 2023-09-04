@@ -66,7 +66,7 @@ core glib2 2.76.5-1 [installed]
 core glib2-docs 2.76.5-1
 core glibc 2.38-3 [installed]
 core gmp 6.3.0-1 [installed]
-core gnupg 2.2.41-1 [installed]
+core gnupg 2.2.41-2 [installed]
 core gnutls 3.8.1-1 [installed]
 core gpgme 1.22.0-1 [installed]
 core gpm 1.20.7.r38.ge82d1a6-5 [installed]
@@ -75,7 +75,7 @@ core groff 1.23.0-3 [installed]
 core grub 2:2.12rc1-1 [installed]
 core gssproxy 0.9.1-2
 core guile 3.0.9-1 [installed]
-core gzip 1.12-3 [installed]
+core gzip 1.13-2 [installed]
 core hdparm 9.65-1
 core hwdata 0.373-1 [installed]
 core iana-etc 20230803-1 [installed]
@@ -148,7 +148,7 @@ core libxcrypt 4.4.36-1 [installed]
 core libxcrypt-compat 4.4.36-1
 core libxml2 2.11.5-1 [installed]
 core libxml2-docs 2.11.5-1
-core licenses 20230729-1 [installed]
+core licenses 20230903-1 [installed]
 core links 2.29-1
 core linux 6.4.12.arch1-1
 core linux-api-headers 6.4-1 [installed]
@@ -2307,7 +2307,7 @@ extra fuzzel 1.9.2-1
 extra fvextra 1.4-3
 extra fwbuilder 5.3.7-13
 extra fwknop 2.6.10-2
-extra fwupd 1.9.4-1
+extra fwupd 1.9.5-1
 extra fwupd-efi 1.4-1
 extra fx 24.1.0-1
 extra fzf 0.42.0-1
@@ -4218,6 +4218,7 @@ extra heaptrack 1.4.0-4
 extra hedgedoc 1.9.9-1
 extra hedgewars 1.0.2-38
 extra hefur 1.0-9
+extra heh 0.4.1-1
 extra heimdall 1.4.2-7
 extra helix 23.05-1
 extra helm 3.12.0-1
@@ -7552,6 +7553,7 @@ extra pass 1.7.4-3
 extra pass-otp 1.2.0-2
 extra passenger 6.0.18-1
 extra passff-host 1:1.2.3-1
+extra passim 0.1.1-1
 extra passt 2023_08_23.a7e4bfb-1
 extra pastebinit 1.5.1-1
 extra pastel 0.9.0-1
@@ -8784,7 +8786,7 @@ extra python-bidict 0.22.1-2
 extra python-big-o 0.11.0-1
 extra python-billiard 4.1.0-2
 extra python-binary-memcached 0.31.0-2
-extra python-binaryornot 0.4.4-8
+extra python-binaryornot 0.4.4-9
 extra python-bincopy 17.14.5-2
 extra python-bintrees 2.2.0-2
 extra python-biopython 1.81-2
@@ -12156,7 +12158,6 @@ extra system76-firmware 1.0.52-3
 extra system76-scheduler 2.0.1-1
 extra systembus-notify 1.1-2
 extra systemc 2.3.4-1
-extra systemd-swap 4.4.0-2
 extra systemd-ui 3-5
 extra systemdgenie 0.99.0-4
 extra systemsettings 5.27.7-1
@@ -14530,7 +14531,7 @@ chaotic-aur corepaint 4.5.0-1
 chaotic-aur corepdf 4.5.0-1
 chaotic-aur coreutils-git 9.4.r15.g9cd52bd99-1
 chaotic-aur coreutils-hybrid 9.1_0.0.20-1
-chaotic-aur coreutils-hybrid-git 0.0.21.r0.g7c7a6083d-1
+chaotic-aur coreutils-hybrid-git 0.0.21.r3.g794977409-1
 chaotic-aur correios-git r18.0d75f6e-1
 chaotic-aur corrosion-git v0.3.0.r146.gdc1e4e5-1
 chaotic-aur cosmic-epoch-git r78.a9a8a74-1
@@ -14768,7 +14769,7 @@ chaotic-aur ferdium-bin 6.4.1-1
 chaotic-aur ferdium-nightly-bin 6.5.0.nightly.6-1
 chaotic-aur ff2mpv-native-messaging-host-git r75.96897a8-1
 chaotic-aur ffmpeg-full 6.0-4
-chaotic-aur ffmpeg-git 6.1.r111894.g8b7a3c6f10-1
+chaotic-aur ffmpeg-git 6.1.r111908.gf8503b4c33-1
 chaotic-aur ffmpeg-obs 6.0.r12.ga6dc929-6
 chaotic-aur ffmpegthumbs-git 23.07.70.r261-1
 chaotic-aur ffsend-bin 0.2.76-1.1
@@ -15340,7 +15341,7 @@ chaotic-aur insync-nemo 3.7.9.50368-1.3
 chaotic-aur insync-thunar 3.7.9.50368-1.2
 chaotic-aur intel-gmmlib-git 22.3.11.r0.g9032c98-1
 chaotic-aur intel-hybrid-codec-driver-git 1:2.0.0.r170.20220515.cfb3b71-2
-chaotic-aur intel-media-driver-git 2023.3.2.r52.gce81beded-1
+chaotic-aur intel-media-driver-git 2023.3.2.r53.g450fe7f00-1
 chaotic-aur intel-ucode-clear 36610-1
 chaotic-aur intelbacklight-git r4.39eaf40-1
 chaotic-aur intellij-idea-ultimate-edition 2023.2.1-1
@@ -16197,7 +16198,7 @@ chaotic-aur natron-bin 2.5.0-1.2
 chaotic-aur natron-compositor 2.5.0-1
 chaotic-aur nats-server-bin 2.9.21-1
 chaotic-aur nchat-git 3.60.r7.g20db90b-1
-chaotic-aur ncnn-git 20230816.r14.gb3fbbccd8-1
+chaotic-aur ncnn-git 20230816.r15.gcc54b889d-1
 chaotic-aur ncurses5-compat-libs 6.4-2
 chaotic-aur neard 0.19-1
 chaotic-aur nekoray 3.19-1
@@ -17212,7 +17213,7 @@ chaotic-aur rustdesk-nightly 1.2.3-0
 chaotic-aur rustdesk-server-bin 1.1.8_2-1
 chaotic-aur rustow-git 0.4.beta.r7.g858b15e-1
 chaotic-aur rustup-git 1.26.0.r131.gd4c68448-1
-chaotic-aur ryujinx-git r3017.93cd32787-1
+chaotic-aur ryujinx-git r3017.93cd327873-1
 chaotic-aur ryzen-controller-bin 2.6.0-1
 chaotic-aur ryzen_smu-dkms-git 162.e61177d-1
 chaotic-aur ryzenadj-git 0.13.0.r10.g7201ff2-1
@@ -17791,7 +17792,7 @@ chaotic-aur vkd3d-tkg-git 1.6.r86.gf9e7cb63-1
 chaotic-aur vlang-git 0.4.1.r2.gd04a3e52e3-1
 chaotic-aur vlc-git 4.0.0.r23113.gf7bb59d9f5-1.2
 chaotic-aur vlc-luajit 3.0.18-8
-chaotic-aur vmaf-git 2.3.1.r152.g265263ff-1
+chaotic-aur vmaf-git 2.3.1.r88.gddf0622c-1
 chaotic-aur vmware-keymaps 1.0-3.1
 chaotic-aur vmware-workstation 17.0.2-2
 chaotic-aur vnote 3.16.0-1
@@ -17830,7 +17831,7 @@ chaotic-aur waydroid-image 18.1_20230902-1
 chaotic-aur waydroid-image-gapps 18.1_20230819-1
 chaotic-aur waydroid-script-git r155.77e222f-1
 chaotic-aur wayfire 0.7.5-1
-chaotic-aur wayfire-git r2747.581ce27f-1
+chaotic-aur wayfire-git r2752.ea075201-1
 chaotic-aur wayfire-plugins-extra 0.7.5-1
 chaotic-aur wayland-docs-git 1.22.0.r24.gedb943d-1
 chaotic-aur wayland-git 1.22.0.r24.gedb943d-1
