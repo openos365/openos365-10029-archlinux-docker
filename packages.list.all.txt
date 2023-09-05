@@ -71,13 +71,13 @@ core gnutls 3.8.1-1 [installed]
 core gpgme 1.22.0-1 [installed]
 core gpm 1.20.7.r38.ge82d1a6-5 [installed]
 core grep 3.11-1 [installed]
-core groff 1.23.0-3 [installed]
+core groff 1.23.0-4 [installed]
 core grub 2:2.12rc1-1 [installed]
 core gssproxy 0.9.1-2
 core guile 3.0.9-1 [installed]
 core gzip 1.13-2 [installed]
 core hdparm 9.65-1
-core hwdata 0.373-1 [installed]
+core hwdata 0.374-1 [installed]
 core iana-etc 20230803-1 [installed]
 core icu 73.2-2 [installed]
 core inetutils 2.4-1
@@ -106,7 +106,7 @@ core libcap 2.69-1 [installed]
 core libcap-ng 0.8.3-2 [installed]
 core libcurl-compat 8.2.1-1
 core libcurl-gnutls 8.2.1-1
-core libedit 20221030_3.1-1 [installed]
+core libedit 20230828_3.1-1 [installed]
 core libelf 0.189-3 [installed]
 core libevent 2.1.12-4 [installed]
 core libevent-docs 2.1.12-4
@@ -413,7 +413,7 @@ extra ams 2.2.1-1
 extra ams-lv2 1.2.2-4
 extra amsynth 1.13.2-1
 extra amtk 5.6.1-2
-extra amule 1:2.3.3-6
+extra amule 1:2.3.3-7
 extra analitza 23.08.0-1
 extra android-file-transfer 4.2-3
 extra android-tools 34.0.4-1
@@ -1483,7 +1483,7 @@ extra dg 1.1.0.20160916-7
 extra dgedit 0.10.0-2
 extra dgen-sdl 1.33-4
 extra dhall 1.41.2-85
-extra dhall-bash 1.0.40-193
+extra dhall-bash 1.0.40-194
 extra dhall-docs 1.0.11-26
 extra dhall-json 1.7.11-100
 extra dhall-lsp-server 1.1.2-115
@@ -1936,7 +1936,7 @@ extra fetchmail 6.4.37-2
 extra ffcall 2.4-2
 extra fff 2.2-3
 extra fflas-ffpack 2.5.0-1
-extra ffmpeg 2:6.0-8 [installed]
+extra ffmpeg 2:6.0-9 [installed]
 extra ffmpeg2theora 0.30-8
 extra ffmpeg4.4 4.4.4-1
 extra ffmpegthumbnailer 2.2.2-5
@@ -2545,7 +2545,7 @@ extra girara 0.4.0-1
 extra gist 6.0.0-1
 extra git 2.42.0-1 [installed]
 extra git-absorb 0.6.10-2
-extra git-annex 10.20230626-23
+extra git-annex 10.20230626-24
 extra git-branchless 0.8.0-1
 extra git-bug 0.8.0-1
 extra git-cliff 1.3.0-1
@@ -3765,7 +3765,7 @@ extra haskell-optics-th 0.4.1-7
 extra haskell-optional-args 1.0.2-19
 extra haskell-options 1.2.1.1-19
 extra haskell-optparse-applicative 0.17.0.0-47
-extra haskell-optparse-generic 1.5.0-3
+extra haskell-optparse-generic 1.5.1-1
 extra haskell-optparse-simple 0.1.1.4-261
 extra haskell-ordered-containers 0.2.3-1
 extra haskell-ormolu 0.3.0.0-67
@@ -4188,13 +4188,13 @@ extra haskell-xml-types 0.3.8-8
 extra haskell-xmlgen 0.6.2.2-59
 extra haskell-xss-sanitize 0.3.7.2-4
 extra haskell-yaml 0.11.11.2-2
-extra haskell-yesod 1.6.2.1-123
-extra haskell-yesod-auth 1.6.11.1-54
+extra haskell-yesod 1.6.2.1-124
+extra haskell-yesod-auth 1.6.11.1-55
 extra haskell-yesod-core 1.6.24.4-9
-extra haskell-yesod-form 1.7.4-64
+extra haskell-yesod-form 1.7.6-1
 extra haskell-yesod-persistent 1.6.0.8-189
-extra haskell-yesod-static 1.6.1.0-633
-extra haskell-yesod-test 1.6.15-114
+extra haskell-yesod-static 1.6.1.0-634
+extra haskell-yesod-test 1.6.15-115
 extra haskell-zenc 0.1.2-134
 extra haskell-zeromq4-haskell 0.8.0-27
 extra haskell-zinza 0.2-142
@@ -4269,7 +4269,7 @@ extra hivex 1.3.23-2
 extra hledger 1.29-27
 extra hledger-iadd 1.3.18-16
 extra hledger-ui 1.29-28
-extra hledger-web 1.29-39
+extra hledger-web 1.29-40
 extra hlint 3.3.6-110
 extra hm 17.0-1
 extra hoel 1.4.27-1
@@ -7093,7 +7093,7 @@ extra nmap 7.94-2
 extra nmon 16p-1
 extra nnn 4.9-1
 extra node-gyp 9.4.0-1
-extra nodejs 20.5.1-1
+extra nodejs 20.6.0-1
 extra nodejs-emojione 4.5.0-3
 extra nodejs-lts-gallium 16.20.2-1
 extra nodejs-lts-hydrogen 18.17.1-1
@@ -7530,7 +7530,7 @@ extra pantheon-terminal 6.1.2-1
 extra pantheon-videos 3.0.0-1
 extra paperkey 1.6-3
 extra paperwork 2.1.2-2
-extra papilo 2.1.2-3
+extra papilo 2.1.3-1
 extra papirus-icon-theme 20230901-1
 extra pappl 1.3.2-1
 extra paprefs 1.2-1
@@ -11613,7 +11613,7 @@ extra rust-wasm 1:1.72.0-1
 extra rustscan 2.1.1-1
 extra rustup 1.26.0-3
 extra rustypaste 0.14.0-1
-extra rustypaste-cli 0.7.0-1
+extra rustypaste-cli 0.8.0-1
 extra rx_tools 1.0.3-4
 extra rxvt-unicode 9.31-4
 extra rxvt-unicode-terminfo 9.31-4
@@ -11892,7 +11892,7 @@ extra sonic-visualiser 4.5.2-1
 extra sonivox 3.6.12-1
 extra sonnet 5.109.0-1 [installed]
 extra sopel 7.1.9-2
-extra soplex 6.0.3-2
+extra soplex 6.0.4-1
 extra sops 3.7.3-1
 extra soqt 1.6.0-4
 extra sorcer 1.1.3-4
@@ -11991,7 +11991,7 @@ extra sslsplit 0.5.5-2
 extra ssr 0.6.0-1
 extra sssd 2.9.1-1
 extra sstp-client 1:1.0.18-1
-extra stack 2.7.5-335
+extra stack 2.7.5-336
 extra stalonetray 0.8.5-1
 extra stardict 3.0.6.2-1
 extra starship 1.16.0-1
@@ -12178,7 +12178,7 @@ extra tailwindcss-language-server 0.0.13-1
 extra tali 40.9-1
 extra talkfilters 2.3.8-7
 extra talloc 2.4.1-1
-extra tamarin-prover 1.6.1-346
+extra tamarin-prover 1.6.1-347
 extra tang 11-2
 extra tanka 0.26.0-1
 extra tap-plugins 1.0.1-2
@@ -13926,7 +13926,7 @@ multilib steam-native-runtime 1.0.0.75-3
 multilib wine 8.15-1
 multilib wine-nine 0.8-4
 multilib wine-staging 8.15-1
-multilib winetricks 20220411-1
+multilib winetricks 20220521-1
 multilib yabridge 5.0.5-1
 multilib yabridgectl 5.0.5-1
 multilib zsnes 2.0.12-1
@@ -14753,7 +14753,7 @@ chaotic-aur extundelete 0.2.4-1
 chaotic-aur f2c 20230428-1
 chaotic-aur f3 8.0-2
 chaotic-aur f3-qt-git v2.1.0.r16.g10ab886-1.2
-chaotic-aur f3d-git nightly.r0.gcc60ab79-1
+chaotic-aur f3d-git nightly.r1.ga8fdf79e-1
 chaotic-aur fabric-installer 0.11.2-1
 chaotic-aur fairy-stockfish 14.0.1-1
 chaotic-aur fairy-stockfish-git r6523.f4ee917c-1
@@ -15747,7 +15747,7 @@ chaotic-aur lib32-lilv 0.24.20-1.2
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangohud-git 0.6.9.1.r124.gf667002-1
-chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.177320.10e75aae1bd-1
+chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.177346.7cf13ea504e-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -16111,7 +16111,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.3
 chaotic-aur menulibre 1:2.2.3-2
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.36.0-1
-chaotic-aur mesa-tkg-git 23.3.0_devel.177320.10e75aae1bd-1
+chaotic-aur mesa-tkg-git 23.3.0_devel.177346.7cf13ea504e-1
 chaotic-aur mesen2-git r2748.9be40aa4-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -16309,7 +16309,7 @@ chaotic-aur nuclear-player-bin 1667906953281:2022118_2aafe80b9a7a18d4b506b4f8b92
 chaotic-aur nudelta 0.7.2-1
 chaotic-aur numix-circle-icon-theme-git 23.08.16.r0.g75d4334-1
 chaotic-aur numix-icon-theme-git 23.04.26.r0.g71b89af4f-1.1
-chaotic-aur nushell-git 0.84.0.r59.g1ee3bf7-1
+chaotic-aur nushell-git 0.84.0.r60.g456e2a8-1
 chaotic-aur nvidia-340xx 340.108-33
 chaotic-aur nvidia-340xx-dkms 340.108-33
 chaotic-aur nvidia-340xx-settings 340.108-2
