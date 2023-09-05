@@ -126,7 +126,7 @@ core libmpc 1.3.1-1 [installed]
 core libnetfilter_conntrack 1.0.9-1 [installed]
 core libnfnetlink 1.0.2-1 [installed]
 core libnftnl 1.2.6-1 [installed]
-core libnghttp2 1.55.1-1 [installed]
+core libnghttp2 1.56.0-1 [installed]
 core libnl 3.8.0-1 [installed]
 core libnsl 2.0.0-3 [installed]
 core libp11-kit 0.25.0-1 [installed]
@@ -416,7 +416,7 @@ extra amtk 5.6.1-2
 extra amule 1:2.3.3-6
 extra analitza 23.08.0-1
 extra android-file-transfer 4.2-3
-extra android-tools 34.0.1-3
+extra android-tools 34.0.4-1
 extra android-udev 20230614-1
 extra anewer 0.1.6-1
 extra angband 4.2.5-1
@@ -1610,7 +1610,7 @@ extra dpf-plugins-lv2 1.7-1
 extra dpf-plugins-standalone 1.7-1
 extra dpf-plugins-vst 1.7-1
 extra dpf-plugins-vst3 1.7-1
-extra dpkg 1.21.22-1
+extra dpkg 1.22.0-1
 extra dqlite 1.15.1-1
 extra dra 0.4.7-1
 extra draco 1.5.6-2
@@ -3559,7 +3559,7 @@ extra haskell-http-client-tls 0.3.6.3-3
 extra haskell-http-common 0.8.3.4-123
 extra haskell-http-conduit 2.3.8.2-16
 extra haskell-http-date 0.0.11-117
-extra haskell-http-download 0.2.0.0-598
+extra haskell-http-download 0.2.1.0-1
 extra haskell-http-media 0.8.0.0-186
 extra haskell-http-streams 0.8.9.8-4
 extra haskell-http-types 0.12.3-306
@@ -3777,7 +3777,7 @@ extra haskell-pandoc-server 0.1-103
 extra haskell-pandoc-types 1.23-28
 extra haskell-pango 0.13.8.2-52
 extra haskell-panic 0.4.0.1-24
-extra haskell-pantry 0.5.7-141
+extra haskell-pantry 0.5.7-143
 extra haskell-parallel 3.2.2.0-17
 extra haskell-parameterized-utils 2.1.6.0-37
 extra haskell-parsec-numbers 0.1.0-18
@@ -5479,7 +5479,7 @@ extra libmspack 1:0.11alpha-1
 extra libmspub 0.1.4-14
 extra libmsym 0.2.3-8
 extra libmtp 1.1.21-1
-extra libmupdf 1.23.2-1
+extra libmupdf 1.23.3-1
 extra libmusicbrainz5 5.1.0-5
 extra libmusicxml 3.22-2
 extra libmwaw 0.3.22-1
@@ -6887,9 +6887,9 @@ extra munge 0.5.15-5
 extra munin 2.0.72-1
 extra munin-node 2.0.72-1
 extra muparser 2.3.4-1
-extra mupdf 1.23.2-1
-extra mupdf-gl 1.23.2-1
-extra mupdf-tools 1.23.2-1
+extra mupdf 1.23.3-1
+extra mupdf-gl 1.23.3-1
+extra mupdf-tools 1.23.3-1
 extra mupen64plus 2.5-26
 extra muse 4.1.0-3
 extra musepack-tools 1:0.1+r475-4
@@ -7003,7 +7003,7 @@ extra nethack 3.6.7-5
 extra nethogs 0.8.7-1
 extra netpbm 10.73.43-2
 extra netperf 2.7.0-6
-extra netplan 0.107-1
+extra netplan 0.107-2
 extra netsniff-ng 0.6.8-4
 extra netstandard-targeting-pack 7.0.10.sdk110-1
 extra netstat-nat 1.4.10-5
@@ -7237,7 +7237,7 @@ extra oniguruma 6.9.8-1 [installed]
 extra onionshare 2.6-2
 extra opam 2.1.5-1
 extra open-iscsi 2.1.9-2
-extra open-isns 0.102-2
+extra open-isns 0.102-3
 extra open-vm-tools 6:12.3.0-1
 extra openal 1.23.1-1 [installed]
 extra openal-examples 1.23.1-1
@@ -11991,7 +11991,7 @@ extra sslsplit 0.5.5-2
 extra ssr 0.6.0-1
 extra sssd 2.9.1-1
 extra sstp-client 1:1.0.18-1
-extra stack 2.7.5-334
+extra stack 2.7.5-335
 extra stalonetray 0.8.5-1
 extra stardict 3.0.6.2-1
 extra starship 1.16.0-1
@@ -12137,9 +12137,9 @@ extra sympow 2.023.6-1
 extra synapse 0.2.99.4-2
 extra synbak 3.8.2-1
 extra syncplay 1.7.0-1
-extra syncthing 1.23.6-1
-extra syncthing-discosrv 1.23.6-1
-extra syncthing-relaysrv 1.23.6-1
+extra syncthing 1.24.0-1
+extra syncthing-discosrv 1.24.0-1
+extra syncthing-relaysrv 1.24.0-1
 extra syndication 5.109.0-1
 extra syndication-domination 1.0-3
 extra synergy 1.11.1-1
@@ -13760,7 +13760,7 @@ multilib lib32-libmikmod 3.3.11.1-6
 multilib lib32-libmodplug 0.8.9.0-4
 multilib lib32-libndp 1.8-1
 multilib lib32-libnewt 0.52.23-1
-multilib lib32-libnghttp2 1.55.1-1
+multilib lib32-libnghttp2 1.56.0-1
 multilib lib32-libnl 3.7.0-1
 multilib lib32-libnm 1.42.6-1
 multilib lib32-libnsl 2.0.0-2
@@ -15052,7 +15052,7 @@ chaotic-aur gksu 2.0.2-6.2
 chaotic-aur glaxnimate-git 0.5.3_213_ga4e99024-1
 chaotic-aur gleam 0.30.5-1
 chaotic-aur glew-egl-glx 2.2.0-1.3
-chaotic-aur glib2-patched-thumbnailer 2.76.3-1
+chaotic-aur glib2-patched-thumbnailer 2.76.5-1
 chaotic-aur glib2-selinux 2.74.1-1
 chaotic-aur glib2-selinux-docs 2.74.1-1
 chaotic-aur glrnvim 1.3.2-0
@@ -17220,7 +17220,7 @@ chaotic-aur rtl88x2ce-dkms-git r45.21bb37c-1
 chaotic-aur rtl88xxau-aircrack-dkms-git r1273.04f600e-1
 chaotic-aur rtw88-dkms-git r308.0c3f854-1
 chaotic-aur rtw89-dkms-git 1:r556.a90a30a-1
-chaotic-aur rtx 2023.8.10-1
+chaotic-aur rtx 2023.9.0-1
 chaotic-aur ruby-build 20230614-1
 chaotic-aur rubymine 2023.2.1-1
 chaotic-aur rufetch 0.2.2-1
@@ -17449,7 +17449,7 @@ chaotic-aur synkron 1.6.2-4.3
 chaotic-aur synology-drive 3.3.0_15082-1
 chaotic-aur syntax-highlighting-git 5.105.0_r2110.g1cbc415a-1
 chaotic-aur syphon-bin 0.2.14-2
-chaotic-aur system-monitoring-center 2.21.1-1
+chaotic-aur system-monitoring-center 2.21.2-1
 chaotic-aur system76-acpi-dkms 1.0.2+11+gaaf10e3-1
 chaotic-aur system76-dkms 1.0.13+2+g78ede46-1
 chaotic-aur system76-io-dkms 1.0.2-1
@@ -17825,7 +17825,7 @@ chaotic-aur vivaldi-snapshot 6.3.3120.3-1
 chaotic-aur vivaldi-snapshot-ffmpeg-codecs 116.0.5845.163-1
 chaotic-aur vkbasalt 0.3.2.10-1
 chaotic-aur vkbasalt-cli 3.1.1-1.5
-chaotic-aur vkd3d-proton-mingw-git 2.9.r180.gf17215db-1
+chaotic-aur vkd3d-proton-mingw-git 2.9.r181.ga5b0291b-1
 chaotic-aur vkd3d-proton-tkg-git 1.1.r3605.ga5b0291b-1
 chaotic-aur vkd3d-tkg-git 1.6.r86.gf9e7cb63-1
 chaotic-aur vlang-git 0.4.1.r10.g639f128c1b-1
@@ -17862,7 +17862,7 @@ chaotic-aur waterfox-g-bin 5.1.12-0
 chaotic-aur waterfox-g3-bin 2.6-1.3
 chaotic-aur wavebox-beta 10.116.10_3-1
 chaotic-aur wavesurfer 1.8.8p5-4
-chaotic-aur waybar-experimental-git 0.9.22.r35.gf7ff005d-1
+chaotic-aur waybar-experimental-git 0.9.22.r37.g116aa5cd-1
 chaotic-aur waybar-hyprland-git 0.9.22.r37.g116aa5cd-1
 chaotic-aur waydroid 1.4.1-1
 chaotic-aur waydroid-git 1.4.1.r6.g92ab11d-1
