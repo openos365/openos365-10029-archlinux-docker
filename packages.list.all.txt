@@ -2555,7 +2555,7 @@ extra git-delta 0.16.5-1
 extra git-filter-repo 2.38.0-1
 extra git-grab 1.0.1-1
 extra git-lfs 3.3.0-1 [installed]
-extra git-repair 1.20220404-78
+extra git-repair 1.20230814-1
 extra git-revise 0.7.0-3
 extra git-sizer 1.5.0-2
 extra git-smash 0.1.0-1
@@ -12708,7 +12708,7 @@ extra ttf-proggyclean-nerd 3.0.2-1
 extra ttf-roboto 2.138-4
 extra ttf-roboto-mono 3.000-2
 extra ttf-roboto-mono-nerd 3.0.2-1
-extra ttf-sarasa-gothic 0.41.8-1
+extra ttf-sarasa-gothic 0.41.9-1
 extra ttf-sazanami 20040629-11
 extra ttf-scheherazade-new 4.000-1
 extra ttf-sharetech-mono-nerd 3.0.2-1
@@ -14445,7 +14445,7 @@ chaotic-aur cfs-zen-tweaks 1.2.0-1.1
 chaotic-aur chaotic-keyring 20230616-1 [installed]
 chaotic-aur chaotic-mirrorlist 20230823-1 [installed]
 chaotic-aur chaotic-neofetch-git 7.1.0.r166.gccd5d9f5-1
-chaotic-aur chatbox-bin 0.6.6-1
+chaotic-aur chatbox-bin 0.6.8-1
 chaotic-aur chatgpt-desktop-bin 1.1.0-1
 chaotic-aur chatterino2-7tv-git v7.4.5.r1.g3e722661-1
 chaotic-aur chatterino2-git v2.4.5.r11.gba440e0cc-1
@@ -15747,7 +15747,7 @@ chaotic-aur lib32-lilv 0.24.20-1.2
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangohud-git 0.6.9.1.r124.gf667002-1
-chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.177311.0ed4c86873b-1
+chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.177313.b492f73f87a-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -16111,7 +16111,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.3
 chaotic-aur menulibre 1:2.2.3-2
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.36.0-1
-chaotic-aur mesa-tkg-git 23.3.0_devel.177308.651c47f0ff3-1
+chaotic-aur mesa-tkg-git 23.3.0_devel.177313.b492f73f87a-1
 chaotic-aur mesen2-git r2747.80f44271-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -23442,9 +23442,9 @@ archlinuxcn asahi-meta 4-1
 archlinuxcn asahi-scripts 20230821-1
 archlinuxcn asap 2.1-3
 archlinuxcn asap-debug 2.1-3
-archlinuxcn aspnet-runtime-6.0-bin 6.0.20.sdk412-3
+archlinuxcn aspnet-runtime-6.0-bin 6.0.21.sdk413-1
 archlinuxcn aspnet-runtime-bin 7.0.10.sdk400-1
-archlinuxcn aspnet-targeting-pack-6.0-bin 6.0.20.sdk412-3
+archlinuxcn aspnet-targeting-pack-6.0-bin 6.0.21.sdk413-1
 archlinuxcn aspnet-targeting-pack-bin 7.0.10.sdk400-1
 archlinuxcn astrometry.net 0.94-4
 archlinuxcn astrometry.net-data-4108-wide 0.47-1
@@ -23684,21 +23684,22 @@ archlinuxcn dosbox-staging 0.79.1-1
 archlinuxcn dosbox-staging-debug 0.79.1-1
 archlinuxcn dosbox-x-git 18267.dcec96e97-1
 archlinuxcn dosbox-x-git-debug 18267.dcec96e97-1
+archlinuxcn dotnet-core-6.0-bin-debug 6.0.21.sdk413-1
 archlinuxcn dotnet-core-bin-debug 7.0.10.sdk400-1
 archlinuxcn dotnet-host-bin 7.0.10.sdk400-1
-archlinuxcn dotnet-runtime-6.0-bin 6.0.20.sdk412-3
+archlinuxcn dotnet-runtime-6.0-bin 6.0.21.sdk413-1
 archlinuxcn dotnet-runtime-bin 7.0.10.sdk400-1
-archlinuxcn dotnet-sdk-6.0-bin 6.0.20.sdk412-3
+archlinuxcn dotnet-sdk-6.0-bin 6.0.21.sdk413-1
 archlinuxcn dotnet-sdk-bin 7.0.10.sdk400-1
-archlinuxcn dotnet-targeting-pack-6.0-bin 6.0.20.sdk412-3
+archlinuxcn dotnet-targeting-pack-6.0-bin 6.0.21.sdk413-1
 archlinuxcn dotnet-targeting-pack-bin 7.0.10.sdk400-1
 archlinuxcn downgrade 11.3.0-1
 archlinuxcn dracut-hook-uefi 17-1
 archlinuxcn drawio-desktop-bin 21.6.8-1
 archlinuxcn drawio-desktop-bin-debug 21.6.8-1
 archlinuxcn ds9 8.3-9
-archlinuxcn duckstation-git 2:r6250.5f79cf73-1
-archlinuxcn duckstation-git-debug 2:r6250.5f79cf73-1
+archlinuxcn duckstation-git 2:r6256.d3666971-1
+archlinuxcn duckstation-git-debug 2:r6256.d3666971-1
 archlinuxcn duperemove-git 768.71727e4-1
 archlinuxcn duperemove-git-debug 768.71727e4-1
 archlinuxcn dynarmic 6.5.0-4
@@ -23759,7 +23760,7 @@ archlinuxcn eww-x11 0.4.0-1
 archlinuxcn exaile 4.1.3-1
 archlinuxcn extension-manager 0.4.2-1
 archlinuxcn extension-manager-debug 0.4.2-1
-archlinuxcn extra-cmake-modules-git 5.240.0.r3615.1da0bba9-1
+archlinuxcn extra-cmake-modules-git 5.240.0.r3620.9620f3e9-1
 archlinuxcn extrace-git 0.9.r3.g36d1ae4-1
 archlinuxcn fakeroot-tcp 1.32.1-1
 archlinuxcn fakeroot-tcp-debug 1.32.1-1
@@ -24869,8 +24870,8 @@ archlinuxcn libime-jyutping-debug 1.0.6-1
 archlinuxcn libindi-asi 2.0.3-1
 archlinuxcn libindi-asi-debug 2.0.3-1
 archlinuxcn libinput-gestures 2.74-1
-archlinuxcn libjuice 1.3.0-1
-archlinuxcn libjuice-debug 1.3.0-1
+archlinuxcn libjuice 1.3.1-1
+archlinuxcn libjuice-debug 1.3.1-1
 archlinuxcn libjwt 1.16.0-1
 archlinuxcn libjwt-debug 1.16.0-1
 archlinuxcn libllvmextra_jll-git v6.1.0.r0.g987a230-3
@@ -24993,8 +24994,8 @@ archlinuxcn llvm-git-debug 18.0.0_r472514.7bd6328958162-1
 archlinuxcn llvm-julia 15.0.7-6
 archlinuxcn llvm-libs-git 18.0.0_r472514.7bd6328958162-1
 archlinuxcn llvm-libs-julia 15.0.7-6
-archlinuxcn lnav-git 0.11.2.v193.g7f284106-1
-archlinuxcn lnav-git-debug 0.11.2.v193.g7f284106-1
+archlinuxcn lnav-git 0.11.2.v194.gc796a662-1
+archlinuxcn lnav-git-debug 0.11.2.v194.gc796a662-1
 archlinuxcn log2ram 1.6.1-2
 archlinuxcn logcat-color3 0.10.0-1
 archlinuxcn logisim 2.7.1-8
@@ -25949,8 +25950,8 @@ archlinuxcn screengrab-git 2.6.0.13.gb26ea90-1
 archlinuxcn screengrab-git-debug 2.6.0.13.gb26ea90-1
 archlinuxcn scribus-svn 25623-1
 archlinuxcn scribus-svn-debug 25623-1
-archlinuxcn scummvm-git r144799.42c85c09ae2-1
-archlinuxcn scummvm-git-debug r144799.42c85c09ae2-1
+archlinuxcn scummvm-git r144803.7040d303846-1
+archlinuxcn scummvm-git-debug r144803.7040d303846-1
 archlinuxcn sdbus-cpp 1.2.0-2
 archlinuxcn sdbus-cpp-doc 1.2.0-2
 archlinuxcn sddm-git 0.20.0.11.gafc3d2de-1
@@ -26329,8 +26330,8 @@ archlinuxcn waydroid-image 18.1_20230902-1
 archlinuxcn waydroid-image-gapps 18.1_20230819-1
 archlinuxcn wayfire-lily-git 0.8.0.20230831.042906.gbb0adbe9-1
 archlinuxcn wayfire-lily-git-debug 0.8.0.20230831.042906.gbb0adbe9-1
-archlinuxcn waylyrics-git 0.1.0_r287.g631a374-1
-archlinuxcn waylyrics-git-debug 0.1.0_r287.g631a374-1
+archlinuxcn waylyrics-git 0.1.0_r290.g727e52c-1
+archlinuxcn waylyrics-git-debug 0.1.0_r290.g727e52c-1
 archlinuxcn wdisplays-git 1.1.1.r4.g6233901-1
 archlinuxcn wdisplays-git-debug 1.1.1.r4.g6233901-1
 archlinuxcn webcamoid 9.1.1-2
@@ -26399,7 +26400,7 @@ archlinuxcn xorgproto-git 2023.2.4.r2750.g704a75e-1
 archlinuxcn xpadneo-dkms 0.9.5-4
 archlinuxcn xray 1.8.4-1
 archlinuxcn xray-debug 1.8.4-1
-archlinuxcn xray-domain-list-community 20230902035830-1
+archlinuxcn xray-domain-list-community 20230905081311-1
 archlinuxcn xray-geoip 202308310037-1
 archlinuxcn xrestop 0.5-1
 archlinuxcn xrock-git 1.0.4.r5.gbb62b28-1
