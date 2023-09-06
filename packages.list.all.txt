@@ -3191,8 +3191,8 @@ extra haskell-coinbase-pro 0.9.3.2-78
 extra haskell-colour 2.3.6-172
 extra haskell-colourista 0.1.0.2-19
 extra haskell-commonmark 0.2.3-2
-extra haskell-commonmark-extensions 0.2.3.5-2
-extra haskell-commonmark-pandoc 0.2.1.3-31
+extra haskell-commonmark-extensions 0.2.3.5-3
+extra haskell-commonmark-pandoc 0.2.1.3-32
 extra haskell-commutative-semigroups 0.1.0.1-1
 extra haskell-comonad 5.0.8-188
 extra haskell-concise 0.1.0.1-466
@@ -3299,8 +3299,8 @@ extra haskell-djinn-lib 0.0.1.4-1
 extra haskell-dlist 1.0-213
 extra haskell-dlist-instances 0.1.1.1-194
 extra haskell-dns 4.1.0-36
-extra haskell-doclayout 0.4.0.1-3
-extra haskell-doctemplates 0.11-27
+extra haskell-doclayout 0.4.0.1-4
+extra haskell-doctemplates 0.11-28
 extra haskell-doctest 0.20.1-36
 extra haskell-doctest-discover 0.2.0.0-30
 extra haskell-doctest-driver-gen 0.3.0.7-3
@@ -3320,7 +3320,7 @@ extra haskell-edit-distance 0.2.2.1-188
 extra haskell-edit-distance-vector 1.0.0.4-304
 extra haskell-either 5.0.2-77
 extra haskell-email-validate 2.3.2.19-2
-extra haskell-emojis 0.1.2-55
+extra haskell-emojis 0.1.2-56
 extra haskell-enclosed-exceptions 1.0.3-234
 extra haskell-entropy 0.4.1.10-1
 extra haskell-enummapset 0.7.1.0-39
@@ -3432,7 +3432,7 @@ extra haskell-gnutls 0.2-25
 extra haskell-graphite 0.10.0.1-172
 extra haskell-graphscc 1.0.4-25
 extra haskell-graphviz 2999.20.1.0-178
-extra haskell-gridtables 0.1.0.0-22
+extra haskell-gridtables 0.1.0.0-23
 extra haskell-groups 0.5.3-1
 extra haskell-gsasl 0.3.7-11
 extra haskell-gtk-sni-tray 0.1.8.1-106
@@ -3443,7 +3443,7 @@ extra haskell-hackage-db 2.1.3-8
 extra haskell-hackage-security 0.6.2.3-43
 extra haskell-haddock-library 1.10.0-225
 extra haskell-hadrian 0.1.0.0-107
-extra haskell-hakyll 4.16.0.0-36
+extra haskell-hakyll 4.16.0.0-37
 extra haskell-half 0.3.1-132
 extra haskell-happstack-server 7.8.0.2-11
 extra haskell-hashable 1.4.2.0-25
@@ -3469,7 +3469,7 @@ extra haskell-hiedb 0.4.2.0-25
 extra haskell-hinotify 0.4.1-152
 extra haskell-hint 0.9.0.6-21
 extra haskell-hjsmin 0.2.0.4-205
-extra haskell-hledger-lib 1.29.1-12
+extra haskell-hledger-lib 1.29.1-13
 extra haskell-hls-alternate-number-format-plugin 1.3.0.0-48
 extra haskell-hls-brittany-plugin 1.1.0.0-52
 extra haskell-hls-cabal-fmt-plugin 0.1.0.0-48
@@ -3518,7 +3518,7 @@ extra haskell-hslua-classes 2.3.0-10
 extra haskell-hslua-core 2.3.1-4
 extra haskell-hslua-list 1.1.1-16
 extra haskell-hslua-marshalling 2.3.0-5
-extra haskell-hslua-module-doclayout 1.1.0-7
+extra haskell-hslua-module-doclayout 1.1.0-8
 extra haskell-hslua-module-path 1.1.0-6
 extra haskell-hslua-module-system 1.1.0-5
 extra haskell-hslua-module-text 1.1.0-5
@@ -3771,10 +3771,10 @@ extra haskell-optparse-simple 0.1.1.4-261
 extra haskell-ordered-containers 0.2.3-1
 extra haskell-ormolu 0.3.0.0-67
 extra haskell-pager 0.1.1.0-10
-extra haskell-pandoc 3.1.2-30
-extra haskell-pandoc-lua-engine 0.2-29
+extra haskell-pandoc 3.1.2-31
+extra haskell-pandoc-lua-engine 0.2-30
 extra haskell-pandoc-lua-marshal 0.2.2-15
-extra haskell-pandoc-server 0.1-105
+extra haskell-pandoc-server 0.1-106
 extra haskell-pandoc-types 1.23-28
 extra haskell-pango 0.13.8.2-52
 extra haskell-panic 0.4.0.1-24
@@ -4267,10 +4267,10 @@ extra hiredis 1.2.0-1
 extra hitch 1.7.3-2
 extra hitori 44.0-1
 extra hivex 1.3.23-2
-extra hledger 1.29-27
-extra hledger-iadd 1.3.18-16
-extra hledger-ui 1.29-28
-extra hledger-web 1.29-40
+extra hledger 1.29-28
+extra hledger-iadd 1.3.18-17
+extra hledger-ui 1.29-29
+extra hledger-web 1.29-41
 extra hlint 3.3.6-110
 extra hm 17.0-1
 extra hoel 1.4.27-1
@@ -7496,9 +7496,9 @@ extra pam_mount 2.20-1
 extra pam_wrapper 1.1.4-4
 extra pamixer 1.6-2
 extra pan 0.154-1
-extra pandoc-cli 0.1.1-37
-extra pandoc-crossref 0.3.16.0-28
-extra pandoc-plot 1.7.0-38
+extra pandoc-cli 0.1.1-38
+extra pandoc-crossref 0.3.16.0-29
+extra pandoc-plot 1.7.0-39
 extra pango 1:1.50.14-1 [installed]
 extra pango-docs 1:1.50.14-1
 extra pango-perl 1.227-16
@@ -9848,7 +9848,7 @@ extra python-pychm 0.8.6-7
 extra python-pyclibrary 0.2.1-2
 extra python-pyclipper 1.3.0.post4-5
 extra python-pycodestyle 2.11.0-1
-extra python-pycosat 0.6.4-2
+extra python-pycosat 0.6.4-3
 extra python-pycountry 22.3.5-2
 extra python-pycparser 2.21-5
 extra python-pycryptodome 3.18.0-1
@@ -11839,7 +11839,7 @@ extra slurp 1.4.0-1
 extra smali 2.5.2-2
 extra smartdns 43-1
 extra smartmontools 7.4-1 [installed]
-extra smb4k 3.2.2-1
+extra smb4k 3.2.3-1
 extra smbclient 4.19.0-1
 extra smbnetfs 0.6.3-5
 extra smlnj 110.99.4-1
@@ -14602,7 +14602,7 @@ chaotic-aur deluge-git 1:2.1.1.dev62.ga459e7826-1
 chaotic-aur dendrite 0.13.2-3
 chaotic-aur denise 2.0-1
 chaotic-aur densify 0.3.1-3.3
-chaotic-aur depot-tools-git r9913.bb6706461-1
+chaotic-aur depot-tools-git r9914.28116103e-1
 chaotic-aur deskreen 2.0.4-3
 chaotic-aur desmume-git 0.9.11.r1944.395548067-1
 chaotic-aur detwinner 0.4.2-2.1
@@ -14680,7 +14680,7 @@ chaotic-aur dumpasn1 1:20210422.20220207-1
 chaotic-aur dupeguru 4.3.1-1.3
 chaotic-aur duplicacy 3.1.0-1
 chaotic-aur dwarfs 0.7.2-1
-chaotic-aur dwarfs-git 0.7.2.r27.g4f09223-1
+chaotic-aur dwarfs-git 0.7.2.r28.g8fa01de-1
 chaotic-aur dwm 6.4-2
 chaotic-aur dwm-git 6.4.r5.ge81f17d-1
 chaotic-aur dxvk-async-git 2.2.r22.ge9e09497-1
@@ -14716,7 +14716,7 @@ chaotic-aur elm-format-bin 0.8.5-1
 chaotic-aur elm-language-server 2.7.0-1
 chaotic-aur elm-platform-bin 0.19.1-2
 chaotic-aur emacs-git 30.0.50.168660-1
-chaotic-aur emacs-git-noway-widgets 30.0.50.168644-1
+chaotic-aur emacs-git-noway-widgets 30.0.50.168660-1
 chaotic-aur emacs-ng 30.0.50-5
 chaotic-aur emacs-ng-git 1:r166863.gdbf1cc80538-1.2
 chaotic-aur emacs-pgtk-native-comp-git 30.0.50.168660-1
@@ -14990,7 +14990,7 @@ chaotic-aur fzf-tab-git r238.c2b4aa5-1
 chaotic-aur g4music 3.1-1
 chaotic-aur g4music-git 3.3.r3.g739e5f4-1
 chaotic-aur gaiasky 2:3.5.2.f8a396004-1
-chaotic-aur gajim-git 1:r21195.52ffe5a12-1
+chaotic-aur gajim-git 1:r21196.40c556ade-1
 chaotic-aur gala-git 7.1.2.r15.1d50165a-1
 chaotic-aur gallery-dl 1.25.8-1
 chaotic-aur gallium-nine-git 0.r388.9abd0b4-1.2
@@ -15305,7 +15305,7 @@ chaotic-aur hyperspace-bin 1:1.1.4-1.3
 chaotic-aur hypnotix 3.6-1
 chaotic-aur hyprland-git 0.29.1.r25.60c01dab-1
 chaotic-aur hyprland-nvidia 0.29.1-1
-chaotic-aur hyprland-nvidia-git 0.29.1.r24.ga15e3e1f-1
+chaotic-aur hyprland-nvidia-git 0.29.1.r25.g60c01dab-1
 chaotic-aur hyprpaper-git r109.5e73eb6-1
 chaotic-aur hyprpicker-git 0.1.1.r4.5ba3268-1
 chaotic-aur hyprshot 1.2.2-1
@@ -15749,7 +15749,7 @@ chaotic-aur lib32-lilv 0.24.20-1.2
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangohud-git 0.6.9.1.r124.gf667002-1
-chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.177455.318b8389905-1
+chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.177460.97c9e015179-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -16113,7 +16113,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.3
 chaotic-aur menulibre 1:2.2.3-2
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.36.0-1
-chaotic-aur mesa-tkg-git 23.3.0_devel.177455.318b8389905-1
+chaotic-aur mesa-tkg-git 23.3.0_devel.177460.97c9e015179-1
 chaotic-aur mesen2-git r2748.9be40aa4-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -16155,7 +16155,7 @@ chaotic-aur miredo 1.2.6+r159+ge5f5652-1.1
 chaotic-aur mkbold-mkitalic 0.11-2
 chaotic-aur mkinitcpio-firmware 1.4.0-1
 chaotic-aur mkinitcpio-openswap 0.1.0-3.1
-chaotic-aur mkosi-git 15.1.r128.g4491985-1
+chaotic-aur mkosi-git 15.1.r131.gd73d010-1
 chaotic-aur mmsd-git r648.f4b8b32-1.1
 chaotic-aur moarvm 2023.06-1
 chaotic-aur mobydroid 0.4-1.1
@@ -16207,7 +16207,7 @@ chaotic-aur mutter-performance-docs 1:44.4-2
 chaotic-aur mutter-rounded 42.3-1.1
 chaotic-aur mutter-x11-scaling 44.4-1
 chaotic-aur myman 0.7.0-7
-chaotic-aur mypy-git v0.520.r5223.gc0906408c-1
+chaotic-aur mypy-git v0.520.r5224.ged9b89900-1
 chaotic-aur mysql 8.0.34-1
 chaotic-aur mysql-clients 8.0.34-1
 chaotic-aur mystiq 23.05.15-3
@@ -16226,7 +16226,7 @@ chaotic-aur neofetch-git 7.1.0.r166.gccd5d9f5-1
 chaotic-aur neofrog-git 7.1.0.r166.gccd5d9f5-1.1
 chaotic-aur neovide-git 0.11.1.r12.g1e4ab00-1
 chaotic-aur neovim-drop-in 1-1.1
-chaotic-aur neovim-git 0.9.0.r1627.g2ef7b6a433-1
+chaotic-aur neovim-git 0.9.0.r1628.gd272143318-1
 chaotic-aur neovim-gtk 1.0.4-1
 chaotic-aur neovim-nightly-bin 0.10.0+dev+1031+gc431d820e-1
 chaotic-aur neovim-plug 0.11.0-3.1
@@ -16312,7 +16312,7 @@ chaotic-aur nudelta 0.7.2-1
 chaotic-aur numix-circle-icon-theme-git 23.08.16.r0.g75d4334-1
 chaotic-aur numix-icon-theme-git 23.04.26.r0.g71b89af4f-1.1
 chaotic-aur nurl 0.3.13-1
-chaotic-aur nushell-git 0.84.0.r61.gf433b31-1
+chaotic-aur nushell-git 0.84.0.r63.gbb06661-1
 chaotic-aur nvidia-340xx 340.108-33
 chaotic-aur nvidia-340xx-dkms 340.108-33
 chaotic-aur nvidia-340xx-settings 340.108-2
@@ -16384,7 +16384,7 @@ chaotic-aur odr-dabmod-git 2.6.0.r0.g451a7fa-1.4
 chaotic-aur odr-dabmux-git 4.4.1.r0.g36594de-1
 chaotic-aur ofono 1.34-1.1
 chaotic-aur oh-my-posh-bin 18.7.0-1
-chaotic-aur oh-my-zsh-git r6969.6a7aab47d-1
+chaotic-aur oh-my-zsh-git r6970.079dbff2c-1
 chaotic-aur okular-git 23.03.70_r9965.g880444b7b-1
 chaotic-aur ola 0.10.9-2
 chaotic-aur ola-docs 0.10.9-2
@@ -16427,7 +16427,7 @@ chaotic-aur opensnitch-ebpf-module 1.6.3-1
 chaotic-aur openssh-hpn 9.3p2.hpn17v14-1
 chaotic-aur openssh-hpn-shim 9.3p2.hpn17v14-1
 chaotic-aur openssl-1.0 1.0.2.u-6
-chaotic-aur openssl-git 3.1.2.r3610.ge664ef78b9-1
+chaotic-aur openssl-git 3.1.2.r3617.g025535ecd1-1
 chaotic-aur openswan 3.0.0-1.1
 chaotic-aur opentimelineio0.14 0.14.1-3
 chaotic-aur openttd-git 27828.13b76b0243-1
@@ -16490,7 +16490,7 @@ chaotic-aur paru 1.11.1-1.3
 chaotic-aur paru-git 1.11.2.r187.g12375a4-1
 chaotic-aur passbook 0.8-1.4
 chaotic-aur passbook-git 0.8.r36.g750825d-1.4
-chaotic-aur path-of-building-community-git 2.33.5.r7294.60.517-1
+chaotic-aur path-of-building-community-git 2.33.5.r7295.60.517-1
 chaotic-aur patool 1.12-5.6
 chaotic-aur pcem 17-4.2
 chaotic-aur pcf-unifont 15.0.06-2
@@ -16498,7 +16498,7 @@ chaotic-aur pcf-unifont-extra 15.0.06-1
 chaotic-aur pcloudcc-git r1471.4b42e3c-1
 chaotic-aur pcsx2-git 1.7.4984.r0.g82e6192c0-1
 chaotic-aur pcsxr 1.9.95-2.3
-chaotic-aur pdf-xchange 10.0.1.371-1
+chaotic-aur pdf-xchange 10.1.0.380-1
 chaotic-aur pdf2png 0.5.3-1.3
 chaotic-aur pdfbox 2.0.29-1
 chaotic-aur pdfquirk 0.95-1.3
@@ -17122,7 +17122,7 @@ chaotic-aur qytdl 1.6-1.3
 chaotic-aur r8125-dkms 9.011.01-1
 chaotic-aur r8152-dkms 2.16.3.20221209-1
 chaotic-aur r8168-dkms 8.051.02-4
-chaotic-aur radare2-git 5.8.9.r30997.c461e4175b-1
+chaotic-aur radare2-git 5.8.9.r30999.cf2f160e01-1
 chaotic-aur radarr 4.7.5.7809-1
 chaotic-aur radeon-profile-daemon-git 20190603.r0.g7923bd6-1
 chaotic-aur radeon-profile-git 20200824.r26.g0d632ba-1.4
@@ -17822,7 +17822,7 @@ chaotic-aur virtualbox-ext-oracle 7.0.10-1
 chaotic-aur virtualbox-unattended-templates 7.0.10-1
 chaotic-aur visual-studio-code-bin 1.81.1-1
 chaotic-aur visual-studio-code-insiders-bin 1693988050-1
-chaotic-aur vita3k-git r3350.5ba3c1c8-1
+chaotic-aur vita3k-git r3351.01e532a1-1
 chaotic-aur vital-synth 1.5.5-1
 chaotic-aur vivaldi-snapshot 6.3.3120.3-1
 chaotic-aur vivaldi-snapshot-ffmpeg-codecs 116.0.5845.163-1
