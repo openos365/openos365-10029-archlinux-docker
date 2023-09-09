@@ -2857,7 +2857,7 @@ extra gpsprune 23-1
 extra gptfdisk 1.0.9-2 [installed]
 extra gputils 1.5.2-1
 extra gpx-viewer 0.4.0-4
-extra gpxsee 13.6-1
+extra gpxsee 13.8-1
 extra gqrx 2.16-2
 extra gradle 8.3-1
 extra gradle-doc 8.3-1
@@ -13068,7 +13068,7 @@ extra vtr 8.0.0-4
 extra vue-language-server 1.8.10-1
 extra vulkan-extra-layers 1.3.250.0-1
 extra vulkan-extra-tools 1.3.250.0-1
-extra vulkan-headers 1:1.3.262-1
+extra vulkan-headers 1:1.3.264-1
 extra vulkan-html-docs 1:1.3.257-1
 extra vulkan-icd-loader 1.3.255-1 [installed]
 extra vulkan-intel 1:23.1.7-1
@@ -15756,7 +15756,7 @@ chaotic-aur lib32-llvm-libs-git 18.0.0_r473995.01192a09bb35-1
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangohud-git 0.6.9.1.r129.g02c3b4f-1
-chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.177583.8ce4d7a08d8-1
+chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.177586.bb91e0306c8-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -16120,7 +16120,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.3
 chaotic-aur menulibre 1:2.2.3-2
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.37.0-1
-chaotic-aur mesa-tkg-git 23.3.0_devel.177583.8ce4d7a08d8-1
+chaotic-aur mesa-tkg-git 23.3.0_devel.177586.bb91e0306c8-1
 chaotic-aur mesen2-git r2748.9be40aa4-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -17247,7 +17247,7 @@ chaotic-aur rustdesk-nightly 1.2.3-0
 chaotic-aur rustdesk-server-bin 1.1.8_2-1
 chaotic-aur rustow-git 0.4.beta.r7.g858b15e-1
 chaotic-aur rustup-git 1.26.0.r131.gd4c68448-1
-chaotic-aur ryujinx-git r3026.210f47548-1
+chaotic-aur ryujinx-git r3026.210f475484-1
 chaotic-aur ryzen-controller-bin 2.6.0-1
 chaotic-aur ryzen_smu-dkms-git 162.e61177d-1
 chaotic-aur ryzenadj-git 0.13.0.r16.g4b558e7-1
@@ -17845,7 +17845,7 @@ chaotic-aur vkd3d-tkg-git 1.6.r86.gf9e7cb63-1
 chaotic-aur vlang-git 0.4.1.r44.g9f7902babc-1
 chaotic-aur vlc-git 4.0.0.r23113.gf7bb59d9f5-1.2
 chaotic-aur vlc-luajit 3.0.18-8
-chaotic-aur vmaf-git 2.3.1.r152.g265263ff-1
+chaotic-aur vmaf-git 2.3.1.r88.gddf0622c-1
 chaotic-aur vmware-keymaps 1.0-3.1
 chaotic-aur vmware-workstation 17.0.2-2
 chaotic-aur vnote 3.16.0-1
@@ -28501,11 +28501,11 @@ arcolinux_repo_3party btrfs-du 0.0.7-2
 arcolinux_repo_3party btrfsmaintenance 0.5-2
 arcolinux_repo_3party btrfsmaintenance-git 0.5.r0.gbe42cb6-2
 arcolinux_repo_3party bumblebee-status 2.1.6-1
-arcolinux_repo_3party bumblebee-status-git r2772.d03e630-1
+arcolinux_repo_3party bumblebee-status-git r2776.9c5e30a-1
 arcolinux_repo_3party byte 0.4.2-1
 arcolinux_repo_3party c-lolcat 1.4-1
 arcolinux_repo_3party caffeine-ng 4.2.0-1
-arcolinux_repo_3party catch2-git 3.4.0.r15.g3a5cde55-1
+arcolinux_repo_3party catch2-git 3.4.0.r20.g47a2c969-1
 arcolinux_repo_3party catppuccin-cursors-git 22.07-01
 arcolinux_repo_3party cava 0.9.0-2
 arcolinux_repo_3party chaotic-keyring 20230616-1 [installed]
@@ -28546,6 +28546,7 @@ arcolinux_repo_3party enpass-bin 6.9.0.1467-1
 arcolinux_repo_3party envycontrol 3.2.0-2
 arcolinux_repo_3party esbuild 0.17.6-1
 arcolinux_repo_3party eww 0.4.0-2
+arcolinux_repo_3party eww-wayland 0.4.0-1
 arcolinux_repo_3party extremetuxracer 0.8.3-3
 arcolinux_repo_3party faba-icon-theme-git 4.3.r0.g6d7ebd2-1
 arcolinux_repo_3party faba-mono-icons-git r106.2006c52-1
@@ -28594,6 +28595,7 @@ arcolinux_repo_3party gputest 0.7.0-1
 arcolinux_repo_3party graphite-gtk-theme-git 2023.05.17.r9.g71ec8e8-1
 arcolinux_repo_3party greetd 0.9.0-1
 arcolinux_repo_3party greetd-wlgreet 0.4-1
+arcolinux_repo_3party grimblast-git r56.5b67181-1
 arcolinux_repo_3party grimshot 1.6.1-5
 arcolinux_repo_3party grub-theme-stylish-color-1080p-git 2021.12.05.r2.gf1e03b4-1
 arcolinux_repo_3party grub-theme-stylish-color-2k-git 2021.12.05.r2.gf1e03b4-1
@@ -28663,9 +28665,9 @@ arcolinux_repo_3party hw-probe 1.6.5-1
 arcolinux_repo_3party hypnotix 3.6-1
 arcolinux_repo_3party hypr-dev-git r377.855ef84-1
 arcolinux_repo_3party hyprland-dev r3232.942ee943-1
-arcolinux_repo_3party hyprland-git 0.29.1.r32.398e861b-1
+arcolinux_repo_3party hyprland-git 0.29.1.r33.66482747-1
 arcolinux_repo_3party hyprland-nvidia 0.29.1-1
-arcolinux_repo_3party hyprland-nvidia-git 0.29.1.r32.g398e861b-1
+arcolinux_repo_3party hyprland-nvidia-git 0.29.1.r33.g66482747-1
 arcolinux_repo_3party hyprpaper-git r94.4bcedde-2
 arcolinux_repo_3party hyprpicker-git r35.f6c24d9-1
 arcolinux_repo_3party hyprshot 1.2.2-1
@@ -28755,7 +28757,7 @@ arcolinux_repo_3party nerd-fonts-source-code-pro 2.1.0-2
 arcolinux_repo_3party newm-dev-git 0.3alpha.r44.g40c1af1.f20828d-1
 arcolinux_repo_3party newm-git 0.3alpha.r44.g40c1af1.f20828d-1
 arcolinux_repo_3party nixieclock 1.64-2
-arcolinux_repo_3party nodejs-nativefier 51.0.1-1
+arcolinux_repo_3party nodejs-nativefier 52.0.0-1
 arcolinux_repo_3party nomacs 1:3.17.2282-3
 arcolinux_repo_3party nomacs-git 3.2.0.1420.ge68d0c69-1
 arcolinux_repo_3party nordic-kde-git 2.2.0.r68.g6e18ff1-1
@@ -28919,6 +28921,7 @@ arcolinux_repo_3party refind-btrfs 0.6.0-1
 arcolinux_repo_3party replay-sorcery 0.6.0-1
 arcolinux_repo_3party retroarch-autoconfig-udev-git r2169.5666e46-1
 arcolinux_repo_3party river 0.2.3-1
+arcolinux_repo_3party rofi-lbonn-wayland 1.7.5+wayland1-1
 arcolinux_repo_3party rofi-lbonn-wayland-only-git 1.7.5.wayland1.r41.g61f96e4c-1
 arcolinux_repo_3party rofi-theme-fonts 1.6.1-2
 arcolinux_repo_3party rollback-git r14.43dc1d9-2
@@ -29108,7 +29111,7 @@ arcolinux_repo_3party xstarter 0.8.1-1
 arcolinux_repo_3party xtitle-git 47-1
 arcolinux_repo_3party yay 12.1.2-1 [installed]
 arcolinux_repo_3party yay-bin 12.1.2-1
-arcolinux_repo_3party yay-git 12.1.2.r5.g87d1fd1-1
+arcolinux_repo_3party yay-git 12.1.2.r6.gb6c72ce-1
 arcolinux_repo_3party yin-yang-git 3.2.4.r9.g42ce4da-1
 arcolinux_repo_3party yofi-bin 0.2.0-1
 arcolinux_repo_3party youtube-dl-gui-git 1.8.5.r36.g692e5c5-1
@@ -29118,7 +29121,7 @@ arcolinux_repo_3party zsh-completions-git 0.35.0.r4.gab99231-1
 arcolinux_repo_3party zsh-fast-syntax-highlighting 1.55-2
 arcolinux_repo_3party zsh-history-substring-search-git 2:1.1.0.r0.g400e58a-1
 arcolinux_repo_3party zsh-syntax-highlighting-git 0.8.0.alpha1.pre.redrawhook.r75.g143b25e-1
-arcolinux_repo_3party zsh-theme-powerlevel10k-git r4194.f8595a35-1
+arcolinux_repo_3party zsh-theme-powerlevel10k-git r4196.215b20e0-1
 arcolinux_repo_xlarge airdroid-nativefier 1-1
 arcolinux_repo_xlarge archlinux-login-backgrounds-git 22.06-02
 arcolinux_repo_xlarge arcolinux-teamviewer 15.38.3-1
@@ -29170,7 +29173,7 @@ arcolinux_repo_xlarge pulsar-bin 1.108.0-1
 arcolinux_repo_xlarge signal-desktop-beta-bin 6.29.0beta.1-1
 arcolinux_repo_xlarge skypeforlinux-stable-bin 8.103.0.208-1
 arcolinux_repo_xlarge slack-desktop 4.34.115-1
-arcolinux_repo_xlarge spotify 1:1.2.18.999-1
+arcolinux_repo_xlarge spotify 1:1.2.20.1210-1
 arcolinux_repo_xlarge tabby-bin 1.0.197-1
 arcolinux_repo_xlarge teams 1.5.00.23861-1
 arcolinux_repo_xlarge tela-circle-icon-theme-git 2022.03.07.r13.g5dacf92b-1
@@ -29180,7 +29183,7 @@ arcolinux_repo_xlarge viber 20.3.0.1-1
 arcolinux_repo_xlarge visual-studio-code-bin 1.82.0-1
 arcolinux_repo_xlarge vmware-workstation 17.0.2-2
 arcolinux_repo_xlarge vscodium-bin 1.82.0.23250-1
-arcolinux_repo_xlarge whatsapp-nativefier 2.2322.15-1
+arcolinux_repo_xlarge whatsapp-nativefier 2.2337.7-1
 arcolinux_repo_xlarge wps-office 11.1.0.11704-1
 arcolinux_repo_xlarge wps-office-mime 11.1.0.11704-1
 arcolinux_repo_xlarge zoom 5.15.5-1
@@ -29201,7 +29204,7 @@ xerolinux_repo alsi 0.4.9-1
 xerolinux_repo ame 4.0.3-6
 xerolinux_repo android-sdk-platform-tools 34.0.4-1
 xerolinux_repo ant-dracula-kvantum-theme-git v4.0.0.r10.ge93c5d8-1
-xerolinux_repo antimicrox 3.3.4-1
+xerolinux_repo antimicrox 3.3.4-2
 xerolinux_repo anydesk-bin 6.3.0-1
 xerolinux_repo appimagelauncher 2.2.0-10
 xerolinux_repo aria2cd 1.3-12
@@ -29247,7 +29250,7 @@ xerolinux_repo dracula-icons-git 1.0.0.2d3c83ca-2
 xerolinux_repo dracula-xresources-git r12.539ef24-1
 xerolinux_repo droidcam 1:2.0.0-1
 xerolinux_repo dusk-git r783.35abc8f-1
-xerolinux_repo dxvk-bin 2.2-1
+xerolinux_repo dxvk-bin 2.3-1
 xerolinux_repo dxvk-nvapi-mingw 0.6.3-1
 xerolinux_repo edid-decode-git r655.5f72326-1
 xerolinux_repo envycontrol 3.2.0-2
@@ -29379,7 +29382,7 @@ xerolinux_repo neo-matrix 0.6.1-2
 xerolinux_repo neovim-catppuccin 1.1.1-1
 xerolinux_repo nerd-fonts-droid-sans-mono 2.3.0-1
 xerolinux_repo nerd-fonts-hermit 2.3.0-1
-xerolinux_repo nodejs-nativefier 51.0.1-1
+xerolinux_repo nodejs-nativefier 52.0.0-1
 xerolinux_repo noisetorch 0.12.2-2
 xerolinux_repo nordic-darker-theme-git r234.b4c6bd4-1
 xerolinux_repo nordic-kde-git 2.2.0.r68.g6e18ff1-1
