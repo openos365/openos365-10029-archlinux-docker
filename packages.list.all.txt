@@ -62,8 +62,8 @@ core gcc-libs 13.2.1-3 [installed]
 core gcc-objc 13.2.1-3
 core gdbm 1.23-2 [installed]
 core gettext 0.22-1 [installed]
-core glib2 2.76.5-2 [installed]
-core glib2-docs 2.76.5-2
+core glib2 2.78.0-1 [installed]
+core glib2-docs 2.78.0-1
 core glibc 2.38-3 [installed]
 core gmp 6.3.0-1 [installed]
 core gnupg 2.2.41-2 [installed]
@@ -150,9 +150,9 @@ core libxml2 2.11.5-1 [installed]
 core libxml2-docs 2.11.5-1
 core licenses 20230903-1 [installed]
 core links 2.29-1
-core linux 6.4.12.arch1-1
+core linux 6.5.2.arch1-1
 core linux-api-headers 6.4-1 [installed]
-core linux-docs 6.4.12.arch1-1
+core linux-docs 6.5.2.arch1-1
 core linux-firmware 20230804.7be2766d-2
 core linux-firmware-bnx2x 20230804.7be2766d-2
 core linux-firmware-liquidio 20230804.7be2766d-2
@@ -162,7 +162,7 @@ core linux-firmware-nfp 20230804.7be2766d-2
 core linux-firmware-qcom 20230804.7be2766d-2
 core linux-firmware-qlogic 20230804.7be2766d-2
 core linux-firmware-whence 20230804.7be2766d-2
-core linux-headers 6.4.12.arch1-1
+core linux-headers 6.5.2.arch1-1
 core linux-lts 6.1.52-1
 core linux-lts-docs 6.1.52-1
 core linux-lts-headers 6.1.52-1
@@ -293,7 +293,7 @@ extra acme-user 1.0.1-1
 extra acme.sh 3.0.6-2
 extra acorn 1:8.10.0-1
 extra acpi 1.7-3
-extra acpi_call 1.2.2-152
+extra acpi_call 1.2.2-155
 extra acpi_call-dkms 1.2.2-1
 extra acpi_call-lts 1.2.2-143
 extra acpica 20230628-1
@@ -675,8 +675,8 @@ extra bat-extras 2023.06.15-1
 extra batctl 2023.0-1
 extra bazel 6.3.2-1
 extra bbpager 0.4.7-9
-extra bbswitch 0.8-620
-extra bbswitch-dkms 0.8-620
+extra bbswitch 0.8-623
+extra bbswitch-dkms 0.8-623
 extra bc 1.07.1-4
 extra bcc 0.28.0-2
 extra bcc-tools 0.28.0-2
@@ -809,7 +809,7 @@ extra bridge-utils 1.7.1-1
 extra brightnessctl 0.5.1-2
 extra brltty 6.6-2
 extra brltty-udev-generic 6.6-2
-extra broadcom-wl 6.30.223.271-496
+extra broadcom-wl 6.30.223.271-499
 extra broadcom-wl-dkms 6.30.223.271-36
 extra brook 20221010-1
 extra broot 1.25.1-1
@@ -1379,7 +1379,7 @@ extra debootstrap 1.0.131-1
 extra deepin-account-faces 1.0.14-1
 extra deepin-album 6.0.3-1
 extra deepin-anything 5.0.18-1
-extra deepin-anything-arch 6.1.2-18
+extra deepin-anything-arch 6.1.2-21
 extra deepin-anything-dkms 5.0.18-1
 extra deepin-api 5.5.32-2
 extra deepin-app-services 0.0.22-1
@@ -2757,8 +2757,8 @@ extra goattracker 2.76-3
 extra goaurrpc 1.2.3-2
 extra gob2 2.0.20-3
 extra gobby 1:0.6.0-1
-extra gobject-introspection 1.76.1-3
-extra gobject-introspection-runtime 1.76.1-3
+extra gobject-introspection 1.78.0-1
+extra gobject-introspection-runtime 1.78.0-1
 extra gocr 0.52-2
 extra gocryptfs 2.4.0-1
 extra godot 4.1.1-1
@@ -3049,11 +3049,11 @@ extra handbrake-cli 1.6.1-2
 extra handlr 0.6.4-2
 extra happy 1.20.1.1-1
 extra haproxy 2.8.3-1
-extra harfbuzz 8.1.1-1 [installed]
-extra harfbuzz-cairo 8.1.1-1
-extra harfbuzz-docs 8.1.1-1
-extra harfbuzz-icu 8.1.1-1
-extra harfbuzz-utils 8.1.1-1
+extra harfbuzz 8.2.0-1 [installed]
+extra harfbuzz-cairo 8.2.0-1
+extra harfbuzz-docs 8.2.0-1
+extra harfbuzz-icu 8.2.0-1
+extra harfbuzz-utils 8.2.0-1
 extra haruna 0.12.1-1
 extra harvid 0.9.1-2
 extra hashcat 1:6.2.6-1
@@ -5312,7 +5312,7 @@ extra libgepub 0.7.1-1
 extra libgexiv2 0.14.2-1
 extra libgfshare 2.0.0-3
 extra libgig 4.3.0-4
-extra libgirepository 1.76.1-3
+extra libgirepository 1.78.0-1
 extra libgit2 1:1.7.1-1
 extra libgit2-glib 1.2.0-1
 extra libgit2-glib-docs 1.2.0-1
@@ -6142,9 +6142,9 @@ extra linux-rt-lts 6.1.38.12.realtime1-4
 extra linux-rt-lts-docs 6.1.38.12.realtime1-4
 extra linux-rt-lts-headers 6.1.38.12.realtime1-4
 extra linux-tools-meta 6.3-5
-extra linux-zen 6.4.12.zen1-1
-extra linux-zen-docs 6.4.12.zen1-1
-extra linux-zen-headers 6.4.12.zen1-1
+extra linux-zen 6.5.2.zen1-1
+extra linux-zen-docs 6.5.2.zen1-1
+extra linux-zen-headers 6.5.2.zen1-1
 extra linuxconsole 1.8.1-1
 extra linuxdoc-tools 0.9.82-2
 extra linuxsampler 2.2.0-3
@@ -7001,7 +7001,7 @@ extra netcdf-openmpi 4.9.2-3
 extra netcf 0.2.8-8
 extra netctl 1.28-2
 extra netdata 1.42.2-1
-extra netfilter-fullconenat r73.0cf3b48-317
+extra netfilter-fullconenat r73.0cf3b48-320
 extra nethack 3.6.7-5
 extra nethogs 0.8.7-1
 extra netpbm 10.73.43-2
@@ -7156,12 +7156,12 @@ extra nushell 0.84.0-1
 extra nuspell 5.1.3-1
 extra nut 2.8.0-3
 extra nvchecker 2.12-2
-extra nvidia 535.104.05-2
+extra nvidia 535.104.05-5
 extra nvidia-cg-toolkit 3.1-6
 extra nvidia-dkms 535.104.05-1
 extra nvidia-lts 1:535.104.05-9
-extra nvidia-open 535.104.05-2
-extra nvidia-open-dkms 535.104.05-2
+extra nvidia-open 535.104.05-5
+extra nvidia-open-dkms 535.104.05-5
 extra nvidia-prime 1.0-4
 extra nvidia-settings 535.104.05-1
 extra nvidia-utils 535.104.05-1
@@ -10900,7 +10900,7 @@ extra qxmpp-qt6 1.5.5-1
 extra r 4.3.1-2
 extra r10k 3.15.2-1
 extra r2ghidra 5.8.4-1
-extra r8168 8.051.02-65
+extra r8168 8.051.02-68
 extra r8168-lts 8.051.02-57
 extra rabbitmq 3.12.0-1
 extra rabbitmqadmin 3.12.0-1
@@ -12566,7 +12566,7 @@ extra touchegg 2.0.17-1
 extra towncrier 22.12.0-3
 extra toxcore 1:0.2.18-2
 extra toxic 0.11.3-3
-extra tp_smapi 0.44-3
+extra tp_smapi 0.44-6
 extra tp_smapi-lts 0.43-339
 extra tpacpi-bat 3.2-1
 extra tpm2-abrmd 3.0.0-1
@@ -12908,8 +12908,8 @@ extra vegeta 12.10.0-1
 extra veracrypt 1.25.9-4
 extra verdict 1.4.1-1
 extra verilator 5.014-1
-extra vhba-module 20211218-147
-extra vhba-module-dkms 20211218-147
+extra vhba-module 20211218-150
+extra vhba-module-dkms 20211218-150
 extra vhs 0.6.0-1
 extra vice 3.7-1
 extra vicious 2.6.0-1
@@ -13022,7 +13022,7 @@ extra virtualbox-guest-iso 7.0.10-1
 extra virtualbox-guest-utils 7.0.10-2
 extra virtualbox-guest-utils-nox 7.0.10-2
 extra virtualbox-host-dkms 7.0.10-2
-extra virtualbox-host-modules-arch 7.0.10-13
+extra virtualbox-host-modules-arch 7.0.10-16
 extra virtualbox-sdk 7.0.10-2
 extra virtualgl 3.1-1
 extra vis 0.8-2
@@ -13690,7 +13690,7 @@ multilib lib32-giflib 5.2.1-1
 multilib lib32-glew 2.2.0-4
 multilib lib32-glew1.10 1.10.0-5
 multilib lib32-glib-networking 2.76.1-1
-multilib lib32-glib2 2.76.5-2
+multilib lib32-glib2 2.78.0-1
 multilib lib32-glu 9.0.3-1
 multilib lib32-gmp 6.2.1-1
 multilib lib32-gnutls 3.8.1-1
@@ -13701,9 +13701,9 @@ multilib lib32-gst-plugins-good 1.22.5-1
 multilib lib32-gstreamer 1.22.5-1
 multilib lib32-gtk2 2.24.33-2
 multilib lib32-gtk3 1:3.24.38-1
-multilib lib32-harfbuzz 8.1.1-1
-multilib lib32-harfbuzz-cairo 8.1.1-1
-multilib lib32-harfbuzz-icu 8.1.1-1
+multilib lib32-harfbuzz 8.2.0-1
+multilib lib32-harfbuzz-cairo 8.2.0-1
+multilib lib32-harfbuzz-icu 8.2.0-1
 multilib lib32-icu 73.2-1
 multilib lib32-imlib2 1.12.0-1
 multilib lib32-jack2 1.9.22-1
@@ -14935,7 +14935,7 @@ chaotic-aur fluent-icon-theme-git 2023.06.07.r9.gde77214-1
 chaotic-aur fluent-kde-theme-git r94.83d5cc2-1
 chaotic-aur fluent-round-icon-theme-git 2023.06.07.r9.gde77214-1
 chaotic-aur fluffychat 1.13.0-1
-chaotic-aur flutter 3.13.2-1
+chaotic-aur flutter 3.13.3-1
 chaotic-aur flux-bin 2.1.0-1
 chaotic-aur flxmlrpc 1.0.1-3
 chaotic-aur flycast 2.1-2
@@ -16139,7 +16139,7 @@ chaotic-aur migrate 4.16.2-1
 chaotic-aur miktex 23.5-1
 chaotic-aur milou-git 5.27.80_r811.gc498381-1
 chaotic-aur mindustry 1:7.0.145.1-1
-chaotic-aur mindustry-git 7.0.146.r19.g15d3ff3b3e-1
+chaotic-aur mindustry-git 7.0.146.r20.g6b04f7eb1c-1
 chaotic-aur mindustry-server 1:7.0.145.1-1
 chaotic-aur minecraft-launcher 1:1.0.1221-1.4
 chaotic-aur minecraft-technic-launcher 4.812-1
@@ -16234,7 +16234,7 @@ chaotic-aur neovide-git 0.11.2.r2.ga601838-1
 chaotic-aur neovim-drop-in 1-1.1
 chaotic-aur neovim-git 0.9.0.r1653.gbb38c066a9-1
 chaotic-aur neovim-gtk 1.0.4-1
-chaotic-aur neovim-nightly-bin 0.10.0+dev+1031+gc431d820e-1
+chaotic-aur neovim-nightly-bin 0.10.0+dev+1055+gb7734c4ec-1
 chaotic-aur neovim-plug 0.11.0-3.1
 chaotic-aur neovim-plug-git 0.11.0.r12.ca0ae0a-1
 chaotic-aur neovim-remote 2.5.1-1.3
@@ -16381,7 +16381,7 @@ chaotic-aur ocenaudio-bin 3.12.7-1
 chaotic-aur ocrmypdf 14.4.0-2
 chaotic-aur ocs-url 3.1.0-7.3
 chaotic-aur octopi 0.14.0-2
-chaotic-aur octopi-git 0.14.0.r39.8a946573-1
+chaotic-aur octopi-git 0.14.0.r40.0cddcd87-1
 chaotic-aur octopi-notifier-frameworks 0.14.0-2
 chaotic-aur octopi-notifier-qt5 0.14.0-2
 chaotic-aur odamex-git 10.4.0.r37.g94800dc59-1
