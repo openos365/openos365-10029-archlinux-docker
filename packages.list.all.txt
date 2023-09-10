@@ -238,11 +238,11 @@ core sqlite-tcl 3.43.0-1
 core sudo 1.9.14.p3-1 [installed]
 core sysfsutils 2.1.1-1
 core syslinux 6.04.pre2.r11.gbf6db5b4-3
-core systemd 254.2-1 [installed]
-core systemd-libs 254.2-1 [installed]
-core systemd-resolvconf 254.2-1
-core systemd-sysvcompat 254.2-1 [installed]
-core systemd-ukify 254.2-1
+core systemd 254.3-1 [installed]
+core systemd-libs 254.3-1 [installed]
+core systemd-resolvconf 254.3-1
+core systemd-sysvcompat 254.3-1 [installed]
+core systemd-ukify 254.3-1
 core tar 1.35-1 [installed]
 core texinfo 7.0.3-1 [installed]
 core thin-provisioning-tools 1.0.6-1
@@ -871,7 +871,7 @@ extra cabal-fmt 0.1.5.1-94
 extra cabal-install 3.4.1.0-125
 extra cabal-plan 0.7.2.0-263
 extra cabextract 1.11-1
-extra cacti 1.2.24-1
+extra cacti 1.2.25-1
 extra cadaver 0.24-1
 extra caddy 2.6.4-1
 extra cadence 0.9.2-2
@@ -1130,7 +1130,7 @@ extra clojure 1.11.1.1386-1
 extra clonezilla 3.35.2-5
 extra cloud-guest-utils 0.33-1
 extra cloud-image-utils 0.33-1
-extra cloud-init 23.3-1
+extra cloud-init 23.3.1-1
 extra cloud-utils 0.33-1
 extra cloudflared 2023.8.2-1
 extra clpeak 1.1.2-1
@@ -5435,7 +5435,7 @@ extra liblouis 3.26.0-1
 extra liblphobos 3:1.34.0-1
 extra liblqr 0.4.2-3
 extra liblrdf 0.6.1-4
-extra liblscp 0.9.10-1
+extra liblscp 0.9.11-1
 extra liblsp-r3d-glx-lib 1.2.10-1
 extra libltc 1.3.2-1
 extra libluv 1.45.0_0-1
@@ -5536,7 +5536,7 @@ extra libomemo 0.8.1-1
 extra libomemo-c 0.5.0-1
 extra libomxil-bellagio 0.9.3-4 [installed]
 extra libopencm3 r2848.8bc48374-1
-extra libopenmpt 0.7.2-1 [installed]
+extra libopenmpt 0.7.3-1 [installed]
 extra libopenraw 0.3.7-1
 extra libopenshot 0.3.2-4
 extra libopenshot-audio 0.3.2-1
@@ -8559,7 +8559,7 @@ extra procyon-decompiler 0.6.0-3
 extra profanity 1:0.14.0-1
 extra profanity-gtk 1:0.14.0-1
 extra profile-cleaner 2.45-1
-extra profile-sync-daemon 1:6.48-1
+extra profile-sync-daemon 1:6.49-1
 extra progpick 0.2.0-1
 extra progress 0.16-1
 extra proj 9.2.1-1
@@ -8718,7 +8718,7 @@ extra python-apispec-webframeworks 0.5.2-6
 extra python-appdirs 1.4.4-9
 extra python-apptools 5.2.0-2
 extra python-apscheduler 3.10.0-2
-extra python-apsw 3.42.0.0-1
+extra python-apsw 3.43.0.0-1
 extra python-archinfo 9.2.49-1
 extra python-aresponses 2.1.6-2
 extra python-argcomplete 2.0.0-2
@@ -10099,7 +10099,7 @@ extra python-pytorch-opt-cuda 2.0.1-8
 extra python-pytorch-opt-rocm 2.0.1-8
 extra python-pytorch-rocm 2.0.1-8
 extra python-pytrie 0.4.0-6
-extra python-pytz 2023.3-1
+extra python-pytz 2023.3.post1-1
 extra python-pytzdata 2020.1-8
 extra python-pyu2f 0.1.5-5
 extra python-pyudev 0.24.1-1
@@ -10737,7 +10737,7 @@ extra qmidiarp 0.7.0-1
 extra qmidiarp-lv2 0.7.0-1
 extra qmidiarp-standalone 0.7.0-1
 extra qmidictl 0.9.10-1
-extra qmidinet 0.9.10-1
+extra qmidinet 0.9.11-1
 extra qmidiroute 0.4.0-9
 extra qmk 1.1.2-3
 extra qml-box2d 20220602-1
@@ -10751,7 +10751,7 @@ extra qpdf-docs 11.6.1-1
 extra qperf 0.4.11-3
 extra qpress 1.1-4
 extra qprint 1.1-2
-extra qpwgraph 0.5.2-1
+extra qpwgraph 0.5.3-1
 extra qqc2-desktop-style 5.109.0-1
 extra qqwing 1.3.4-6
 extra qreator 20.02.1-4
@@ -13898,7 +13898,7 @@ multilib lib32-speexdsp 1.2.1-1
 multilib lib32-spirv-llvm-translator 16.0.0.r9+g322fca5d-1
 multilib lib32-spirv-tools 2022.4-1
 multilib lib32-sqlite 3.43.0-1
-multilib lib32-systemd 254.2-1
+multilib lib32-systemd 254.3-1
 multilib lib32-taglib 1.13.1-1
 multilib lib32-tcl 8.6.13-1
 multilib lib32-tdb 1.4.8-1
@@ -15560,10 +15560,10 @@ chaotic-aur knotes-git 23.03.40_r3815.g58410a88-1
 chaotic-aur knotifications-git 5.103.0_r802.gfc3b28d-1
 chaotic-aur knotifyconfig-git 5.104.0_r424.g622a031-1
 chaotic-aur kobodeluxe 0.5.1-15
-chaotic-aur kodi-git r63761.0f90283392e-1
-chaotic-aur kodi-git-dev r63761.0f90283392e-1
-chaotic-aur kodi-git-eventclients r63761.0f90283392e-1
-chaotic-aur kodi-git-tools-texturepacker r63761.0f90283392e-1
+chaotic-aur kodi-git r63884.e95cb51a6a6-1
+chaotic-aur kodi-git-dev r63884.e95cb51a6a6-1
+chaotic-aur kodi-git-eventclients r63884.e95cb51a6a6-1
+chaotic-aur kodi-git-tools-texturepacker r63884.e95cb51a6a6-1
 chaotic-aur kodi-nexus-git r62191.34d2cacc8a7-1
 chaotic-aur kodi-nexus-git-dev r62191.34d2cacc8a7-1
 chaotic-aur kodi-nexus-git-eventclients r62191.34d2cacc8a7-1
@@ -17737,7 +17737,7 @@ chaotic-aur uksmd-git 0.0.0.r67.b698d76-1
 chaotic-aur ulauncher 5.15.3-1
 chaotic-aur ums 13.6.0-1
 chaotic-aur unflac 1.1-1
-chaotic-aur ungoogled-chromium 116.0.5845.140-1
+chaotic-aur ungoogled-chromium 116.0.5845.179-1
 chaotic-aur units 2.22-2
 chaotic-aur unityhub 3.5.1-1
 chaotic-aur upd72020x-fw 1:1.0.0-2
@@ -23525,8 +23525,8 @@ archlinuxcn bochs 2.7-3
 archlinuxcn bochs-debug 2.7-3
 archlinuxcn box64 0.2.4-1
 archlinuxcn box64-debug 0.2.4-1
-archlinuxcn box64-git 0.2.4.r65.gcf7ac302-1
-archlinuxcn box64-git-debug 0.2.4.r65.gcf7ac302-1
+archlinuxcn box64-git 0.2.4.r66.g7ab8ad8b-1
+archlinuxcn box64-git-debug 0.2.4.r66.g7ab8ad8b-1
 archlinuxcn brave-bin 1:1.57.57-1
 archlinuxcn breeze-adapta-cursor-theme-git r34.72ffeff-1
 archlinuxcn brother-hl3170cdw 1.1.4-1
@@ -23570,20 +23570,21 @@ archlinuxcn cgproxy-git v0.20.r0.g86fe42e-2
 archlinuxcn cgproxy-git-debug v0.20.r0.g86fe42e-2
 archlinuxcn charls 2.4.2-1
 archlinuxcn charls-debug 2.4.2-1
-archlinuxcn chatterino2-git v2.4.5.r17.ge00b7371e-1
-archlinuxcn chatterino2-git-debug v2.4.5.r17.ge00b7371e-1
+archlinuxcn chatterino2-git v2.4.5.r18.g1b9ee939b-1
+archlinuxcn chatterino2-git-debug v2.4.5.r18.g1b9ee939b-1
 archlinuxcn chez-scheme 9.5.6-1
 archlinuxcn china-ip-list-git 0.83.78c3d78-1
 archlinuxcn chirp-next 20230906-1
 archlinuxcn chnroutes-alike-git 0.148.21359c7-1
-archlinuxcn chnroutes2-git 0.35649.c1435858-1
+archlinuxcn chnroutes2-git 0.35657.f7ee33d3-1
 archlinuxcn chrome-remote-desktop 116.0.5845.10-1
 archlinuxcn chrome-remote-desktop-debug 116.0.5845.10-1
 archlinuxcn chromedriver 115.0.5790.170-1
 archlinuxcn chromedriver-debug 115.0.5790.170-1
 archlinuxcn chromium-extension-violentmonkey-git 2914.dce01d14-1
 archlinuxcn chromium-ublock-origin-git 2:1.52.0.2.g1db17ac4b-1
-archlinuxcn ciel 3.1.3-1
+archlinuxcn ciel 3.2.0-1
+archlinuxcn ciel-debug 3.2.0-1
 archlinuxcn citra-canary-git 2:2615.r0.gd140b0e88-1
 archlinuxcn citra-canary-git-debug 2:2615.r0.gd140b0e88-1
 archlinuxcn citra-git r9749.edf157200-1
@@ -23743,7 +23744,7 @@ archlinuxcn electron8-bin 1:8.5.5-5
 archlinuxcn electron8-bin-debug 1:8.5.5-5
 archlinuxcn elementary-planner 3.0.7-1
 archlinuxcn emacs-gcc-wayland-devel-bin 28.2.50.152031-3
-archlinuxcn emacs-git 30.0.50.168753-1
+archlinuxcn emacs-git 30.0.50.168759-1
 archlinuxcn emacs-go-mode-git 1.6.0.r14.g8dce1e3b-1
 archlinuxcn emacs-julia-mode-git 1:0.402.g7a8c868-2
 archlinuxcn emacs-llvm-mode-git 472768.0f1c1be19680-1
@@ -23784,8 +23785,8 @@ archlinuxcn fakeroot-tcp-debug 1.32.1-1
 archlinuxcn fanctl-git r58.fbb440c-1
 archlinuxcn fastfetch 2.0.5-1
 archlinuxcn fastfetch-debug 2.0.5-1
-archlinuxcn fastfetch-git r2835.82c300f7-1
-archlinuxcn fastfetch-git-debug r2835.82c300f7-1
+archlinuxcn fastfetch-git r2836.e2abe31f-1
+archlinuxcn fastfetch-git-debug r2836.e2abe31f-1
 archlinuxcn fava 1.26-1
 archlinuxcn fcitx-skin-material 0.5-1
 archlinuxcn fcitx5-anthy-git 5.0.14.r20.gba3fae7-1
@@ -24155,8 +24156,8 @@ archlinuxcn htpdate 1.3.7-1
 archlinuxcn htpdate-debug 1.3.7-1
 archlinuxcn httpry 0.1.8-2
 archlinuxcn hunspell-ja-git 1.r1.g9854fc6-2
-archlinuxcn hyprland-git 0.29.1.r35.1a6f961d-1
-archlinuxcn hyprland-git-debug 0.29.1.r35.1a6f961d-1
+archlinuxcn hyprland-git 0.29.1.r41.807fc205-1
+archlinuxcn hyprland-git-debug 0.29.1.r41.807fc205-1
 archlinuxcn hyprland-hidpi-xprop-git 0.29.1.r35.1a6f961d-1
 archlinuxcn hyprland-hidpi-xprop-git-debug 0.29.1.r35.1a6f961d-1
 archlinuxcn hyprland-nvidia 0.29.1-1
@@ -24172,8 +24173,8 @@ archlinuxcn i-nex-git 7.6.1.r0.gcd1b78d-4
 archlinuxcn i2p 2.1.0-1
 archlinuxcn i3lock-color 2.13.c.5-1
 archlinuxcn i3lock-color-debug 2.13.c.5-1
-archlinuxcn i3status-rust-git 0.32.2.r0.g46755b6-1
-archlinuxcn i3status-rust-git-debug 0.32.2.r0.g46755b6-1
+archlinuxcn i3status-rust-git 0.32.2.r1.g8abd422-1
+archlinuxcn i3status-rust-git-debug 0.32.2.r1.g8abd422-1
 archlinuxcn i686-elf-binutils 2.40-2
 archlinuxcn i686-elf-binutils-debug 2.40-2
 archlinuxcn i8kutils-git 20170307.83622d1-4
@@ -24184,7 +24185,7 @@ archlinuxcn icu60 60.3-1
 archlinuxcn iease-music 1.3.4-1
 archlinuxcn imhex 1.30.1-2
 archlinuxcn imhex-debug 1.30.1-2
-archlinuxcn imhex-patterns-git r350.b6e0557-1
+archlinuxcn imhex-patterns-git r354.c0c117a-1
 archlinuxcn impd-git 0.8.r5.g48535fb-1
 archlinuxcn insomnia 2023.5.7-1
 archlinuxcn insomnia-debug 2023.5.7-1
@@ -25750,7 +25751,7 @@ archlinuxcn python-sqlglot 11.4.3-2
 archlinuxcn python-statsd 4.0.1-2
 archlinuxcn python-stringcase 1.2.0-6
 archlinuxcn python-tangled-up-in-unicode 0.2.0-3
-archlinuxcn python-telethon 1.29.3-1
+archlinuxcn python-telethon 1.30.0-1
 archlinuxcn python-tensorboardx 2.6.2.2-1
 archlinuxcn python-terminaltables 3.1.10-2
 archlinuxcn python-tifffile 2023.8.30-1
@@ -25919,7 +25920,7 @@ archlinuxcn roundedsbe 1.0.3-2
 archlinuxcn roundedsbe-debug 1.0.3-2
 archlinuxcn rpcs3-git 0.0.29.15608.009d8e13da-1
 archlinuxcn rpcs3-git-debug 0.0.29.15608.009d8e13da-1
-archlinuxcn rr-git 5.6.0.r303.g2da81454-1
+archlinuxcn rr-git 5.6.0.r304.g495b1b27-1
 archlinuxcn rssdrop 26.4614df7-1
 archlinuxcn rstudio-desktop-bin 2023.06.2.561-1
 archlinuxcn rstudio-desktop-git 41066.32e052dc15-1
@@ -25979,8 +25980,8 @@ archlinuxcn screengrab-git 2.6.0.13.gb26ea90-1
 archlinuxcn screengrab-git-debug 2.6.0.13.gb26ea90-1
 archlinuxcn scribus-svn 25642-1
 archlinuxcn scribus-svn-debug 25642-1
-archlinuxcn scummvm-git r144896.3c9f33b4758-2
-archlinuxcn scummvm-git-debug r144896.3c9f33b4758-2
+archlinuxcn scummvm-git r144899.2c05c5bdfad-1
+archlinuxcn scummvm-git-debug r144899.2c05c5bdfad-1
 archlinuxcn sdbus-cpp 1.2.0-2
 archlinuxcn sdbus-cpp-doc 1.2.0-2
 archlinuxcn sddm-git 0.20.0.11.gafc3d2de-1
