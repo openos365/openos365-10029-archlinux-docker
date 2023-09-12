@@ -94,7 +94,7 @@ core keyutils 1.6.3-2 [installed]
 core kmod 30-3 [installed]
 core krb5 1.20.1-1 [installed]
 core ldns 1.8.3-2 [installed]
-core lemon 3.43.0-1
+core lemon 3.43.1-1
 core less 1:643-1
 core lib32-gcc-libs 13.2.1-3
 core lib32-glibc 2.38-3
@@ -231,10 +231,10 @@ core s-nail 14.9.24-2
 core sdparm 1.12-1
 core sed 4.9-3 [installed]
 core shadow 4.13-3 [installed]
-core sqlite 3.43.0-1 [installed]
-core sqlite-analyzer 3.43.0-1
-core sqlite-doc 3.43.0-1
-core sqlite-tcl 3.43.0-1
+core sqlite 3.43.1-1 [installed]
+core sqlite-analyzer 3.43.1-1
+core sqlite-doc 3.43.1-1
+core sqlite-tcl 3.43.1-1
 core sudo 1.9.14.p3-1 [installed]
 core sysfsutils 2.1.1-1
 core syslinux 6.04.pre2.r11.gbf6db5b4-3
@@ -6792,7 +6792,7 @@ extra mjpegtools 2.2.1-2
 extra mk-configure 0.38.2-1
 extra mkcert 1.4.4-1
 extra mkinitcpio-archiso 68-1
-extra mkinitcpio-dropbear 0.0.3-6
+extra mkinitcpio-dropbear 0.0.3-7
 extra mkinitcpio-netconf 0.0.5-2
 extra mkinitcpio-systemd-tool 37-3
 extra mkinitcpio-tinyssh 0.0.4-4
@@ -6802,7 +6802,7 @@ extra mktorrent 1.1-6
 extra mkvtoolnix-cli 79.0-2
 extra mkvtoolnix-gui 79.0-2
 extra mlite 0.4.0-1
-extra mlt 7.18.0-2
+extra mlt 7.18.0-3
 extra mlton 20210117-5
 extra mm-common 1.0.5-1
 extra mmctl 7.10.5-1
@@ -15309,7 +15309,7 @@ chaotic-aur hyperspace-bin 1:1.1.4-1.3
 chaotic-aur hypnotix 3.6-1
 chaotic-aur hyprland-git 0.29.1.r58.9192b20b-1
 chaotic-aur hyprland-nvidia 0.29.1-1
-chaotic-aur hyprland-nvidia-git 0.29.1.r58.g9192b20b-1
+chaotic-aur hyprland-nvidia-git 0.29.1.r59.g5cc53c14-1
 chaotic-aur hyprpaper-git r109.5e73eb6-1
 chaotic-aur hyprpicker-git 0.1.1.r4.5ba3268-1
 chaotic-aur hyprshot 1.2.2-1
@@ -15756,7 +15756,7 @@ chaotic-aur lib32-llvm-git 18.0.0_r474407.efe0e10718cb-1
 chaotic-aur lib32-llvm-libs-git 18.0.0_r474407.efe0e10718cb-1
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
-chaotic-aur lib32-mangohud-git 0.6.9.1.r132.g53ee227-1
+chaotic-aur lib32-mangohud-git 0.7.0.rc1.r1.g1a2f3e4-1
 chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.177704.29f730b793d-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
@@ -15867,7 +15867,7 @@ chaotic-aur libpamac-aur 11.6.2-1
 chaotic-aur libpamac-nosnap 1:11.5.4-1
 chaotic-aur libpdfium-nojs 5845.r0.6c2c8ce87d-1
 chaotic-aur libpipewire-common-git 0.3.79.r48.g8e6d0701-1
-chaotic-aur libplacebo-git 6.292.0.338.g101267eb-1
+chaotic-aur libplacebo-git 6.292.0.341.ga9f84483-1
 chaotic-aur libpthread-stubs 0.4-1
 chaotic-aur libqaccessibilityclient-git v0.4.0.r47.0f08684-1
 chaotic-aur libqalculate-git r1459.649d91f-1
@@ -16234,7 +16234,7 @@ chaotic-aur neofetch-git 7.1.0.r166.gccd5d9f5-1
 chaotic-aur neofrog-git 7.1.0.r166.gccd5d9f5-1.1
 chaotic-aur neovide-git 0.11.2.r2.ga601838-1
 chaotic-aur neovim-drop-in 1-1.1
-chaotic-aur neovim-git 0.9.0.r1688.g1c4a93b591-1
+chaotic-aur neovim-git 0.9.0.r1690.gbc67cf3ccd-1
 chaotic-aur neovim-gtk 1.0.4-1
 chaotic-aur neovim-nightly-bin 0.10.0+dev+4258f4d-1
 chaotic-aur neovim-plug 0.11.0-3.1
@@ -17816,7 +17816,7 @@ chaotic-aur virt-manager-meta 5-4
 chaotic-aur virtualbox-ext-oracle 7.0.10-1
 chaotic-aur virtualbox-unattended-templates 7.0.10-1
 chaotic-aur visual-studio-code-bin 1.82.0-1
-chaotic-aur visual-studio-code-insiders-bin 1694410389-1
+chaotic-aur visual-studio-code-insiders-bin 1694514614-1
 chaotic-aur vita3k-git r3355.1bf86bc7-1
 chaotic-aur vital-synth 1.5.5-1
 chaotic-aur vivaldi-snapshot 6.3.3120.3-1
@@ -18095,7 +18095,7 @@ chaotic-aur ytmdl 2023.2.28-1.1
 chaotic-aur yuzu-early-access 3842-1
 chaotic-aur yuzu-git r25205.66f294785-1
 chaotic-aur yuzu-mainline-bin 0.1552-1
-chaotic-aur yuzu-mainline-git 1555.r0.ga4fe7fe-1
+chaotic-aur yuzu-mainline-git 1539.r87.gb21a462-1
 chaotic-aur zafiro-icon-theme 1.3-3
 chaotic-aur zandronum 3.1-2
 chaotic-aur zapret-common-git 49.r13.df3aff8-1
@@ -26492,7 +26492,7 @@ arch4edu alberta 3.0.3-3
 arch4edu alpm_octopi_utils 1.0.2-3
 arch4edu anaconda 2023.07.1-1
 arch4edu android-emulator 32.1.15-1
-arch4edu android-ndk r25.c-2
+arch4edu android-ndk r25.c-4
 arch4edu android-platform 34_r02-1
 arch4edu android-sdk 26.1.1-2
 arch4edu android-sdk-build-tools r34.0.0-2
@@ -26580,7 +26580,7 @@ arch4edu fbx-sdk 2020.1.1-1
 arch4edu fcl 0.7.0-1
 arch4edu fet-timetabling 6.9.5-1
 arch4edu flite1 1.4-6
-arch4edu flutter 3.13.2-1
+arch4edu flutter 3.13.3-1
 arch4edu fop-hyph 2.2-1
 arch4edu fvwm3 1.0.8-1
 arch4edu g2clib 1.6.0-2
@@ -26610,7 +26610,7 @@ arch4edu geant4 11.1.2-1
 arch4edu genromfs 0.5.2-2
 arch4edu geographiclib 2.3-1
 arch4edu gerris 2013.12.06-1
-arch4edu github-actions-bin 2.308.0-2
+arch4edu github-actions-bin 2.309.0-1
 arch4edu giza-pp-git r32.cafe839-1
 arch4edu gklib 5.1.1-4
 arch4edu glew-egl-glx 2.2.0-1
@@ -26619,7 +26619,7 @@ arch4edu gmsh-docs 4.11.1-3
 arch4edu google-chrome 116.0.5845.179-1
 arch4edu google-crc32c 1.1.2-4
 arch4edu grass 8.3.0-1
-arch4edu gtsam 4.1.1-3
+arch4edu gtsam 4.2.0-3
 arch4edu gtsam-mkl 4.1.1-3
 arch4edu guile2.0 2.0.14-7
 arch4edu hadoop 3.3.5-2
@@ -26706,15 +26706,15 @@ arch4edu mendeleydesktop-bundled 1.19.8-2
 arch4edu meshlab 2022.02-1
 arch4edu meteoinfo 3.5.11-1
 arch4edu metis 5.2.1-2
-arch4edu microsoft-edge-stable-bin 116.0.1938.69-1
+arch4edu microsoft-edge-stable-bin 116.0.1938.76-1
 arch4edu migraphx 5.4.3-1
 arch4edu miktex 23.5-1
 arch4edu mirrorlist.arch4edu 20230426.dddb521-1
 arch4edu mmg 5.7.1-1
-arch4edu mongodb 6.0.9-1
-arch4edu mongodb-bin 6.0.9-1
+arch4edu mongodb 7.0.1-1
+arch4edu mongodb-bin 7.0.1-1
 arch4edu mongodb-tools 1:100.8.0-1 [installed]
-arch4edu mongosh-bin 1.10.6-1
+arch4edu mongosh-bin 2.0.0-1
 arch4edu mpich 4.1.2-1
 arch4edu mpir 3.0.0-3
 arch4edu mumps 5.6.1-1
@@ -26725,8 +26725,8 @@ arch4edu mysql-clients 8.0.34-1
 arch4edu ncl 6.6.2-4
 arch4edu ncurses5-compat-libs 6.4-2
 arch4edu ncview 2.1.8-1
-arch4edu netron 7.1.6-1
-arch4edu netron-cli 7.1.6-1
+arch4edu netron 7.1.8-2
+arch4edu netron-cli 7.1.8-2
 arch4edu nkf 2.1.5-2
 arch4edu nni 3.0rc1-1
 arch4edu nomachine 8.8.1-1
@@ -26743,7 +26743,7 @@ arch4edu octave-miscellaneous 1.3.0-1
 arch4edu octave-signal 1.4.5-1
 arch4edu octave-statistics 1.6.0-1
 arch4edu octomap 1.9.8-1
-arch4edu octopi 0.14.0-2
+arch4edu octopi 0.15.0-1
 arch4edu ogre-1.9 1.9.1-10
 arch4edu ogre-docs-1.9 1.9.1-10
 arch4edu ompl 1.5.2-3
@@ -26900,7 +26900,7 @@ arch4edu python-pydotplus 2.0.2-3
 arch4edu python-pydub 0.25.1-4
 arch4edu python-pygmo 2.19.5-2
 arch4edu python-pygraphviz 1.11-1
-arch4edu python-pymavlink 2.4.39-1
+arch4edu python-pymavlink 2.4.40-1
 arch4edu python-pyqt5-sip4 5.15.9-3
 arch4edu python-pyqt5-webkit 5.15.9-1
 arch4edu python-pyqt5-webkit-debug 5.15.9-1
@@ -26942,7 +26942,7 @@ arch4edu python-selenium 4.12.0-1
 arch4edu python-sequitur-git 63.a96c3ce-3
 arch4edu python-simplegeneric 0.8.1-2
 arch4edu python-sip4 4.19.25-5
-arch4edu python-smart_open 6.3.0-3
+arch4edu python-smart_open 6.4.0-1
 arch4edu python-soundfile 0.12.1-3
 arch4edu python-sparse 0.13.0-2
 arch4edu python-sphinx-astropy 1.9.1-1
