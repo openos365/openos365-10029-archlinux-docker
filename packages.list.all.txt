@@ -62,8 +62,8 @@ core gcc-libs 13.2.1-3 [installed]
 core gcc-objc 13.2.1-3
 core gdbm 1.23-2 [installed]
 core gettext 0.22-1 [installed]
-core glib2 2.78.0-1 [installed]
-core glib2-docs 2.78.0-1
+core glib2 2.78.0-2 [installed]
+core glib2-docs 2.78.0-2
 core glibc 2.38-3 [installed]
 core gmp 6.3.0-1 [installed]
 core gnupg 2.2.41-2 [installed]
@@ -4479,7 +4479,7 @@ extra intel-oneapi-dpcpp-cpp 2023.2.0-1
 extra intel-oneapi-dpcpp-debugger 2023.2.0_49330-1
 extra intel-oneapi-mkl 2023.2.0_49495-2
 extra intel-oneapi-openmp 2023.2.0-1
-extra intel-oneapi-tbb 2021.10.0-1
+extra intel-oneapi-tbb 2021.10.0-2
 extra intel-ucode 20230808-1
 extra intel-undervolt 1.7-2
 extra intellij-idea-community-edition 4:2023.1.4-1
@@ -6125,7 +6125,7 @@ extra lilv 0.24.20-2
 extra lilv-docs 0.24.20-2
 extra lilypond 2.24.2-1
 extra limesuite 22.09.1-3
-extra limine 5.20230909.0-1
+extra limine 5.20230911.0-1
 extra linbox 1.7.0-1
 extra lincity-ng 2.0-10
 extra linenoise-ng 1.0.1-2
@@ -9226,8 +9226,8 @@ extra python-gmpy2 2.1.5-2
 extra python-gnupg 0.5.1-1
 extra python-gnupginterface 0.3.2-11
 extra python-gnuplot 1.8-13
-extra python-gobject 3.44.1-4
-extra python-gobject-docs 3.44.1-4
+extra python-gobject 3.46.0-1
+extra python-gobject-docs 3.46.0-1
 extra python-google-api-core 2.11.0-2
 extra python-google-api-python-client 2.88.0-1
 extra python-google-auth 2.19.0-1
@@ -10790,7 +10790,7 @@ extra qt5-quickcontrols-nemo 5.7.2-1
 extra qt5-quickcontrols2 5.15.10+kde+r6-1 [installed]
 extra qt5-quicktimeline 5.15.10-1
 extra qt5-remoteobjects 5.15.10-1
-extra qt5-script 5.15.14-2
+extra qt5-script 5.15.15-1
 extra qt5-scxml 5.15.10-1
 extra qt5-sensors 5.15.10-1
 extra qt5-serialbus 5.15.10-1
@@ -10804,7 +10804,7 @@ extra qt5-ukui-platformtheme 1.0.8-6
 extra qt5-virtualkeyboard 5.15.10-1
 extra qt5-wayland 5.15.10+kde+r57-1 [installed]
 extra qt5-webchannel 5.15.10+kde+r3-1 [installed]
-extra qt5-webengine 5.15.14-5 [installed]
+extra qt5-webengine 5.15.15-1 [installed]
 extra qt5-webglplugin 5.15.10-1
 extra qt5-websockets 5.15.10+kde+r2-1
 extra qt5-webview 5.15.10-1
@@ -13692,7 +13692,7 @@ multilib lib32-giflib 5.2.1-1
 multilib lib32-glew 2.2.0-4
 multilib lib32-glew1.10 1.10.0-5
 multilib lib32-glib-networking 2.76.1-1
-multilib lib32-glib2 2.78.0-1
+multilib lib32-glib2 2.78.0-2
 multilib lib32-glu 9.0.3-1
 multilib lib32-gmp 6.2.1-1
 multilib lib32-gnutls 3.8.1-1
@@ -14472,7 +14472,7 @@ chaotic-aur cider 1.6.2-8
 chaotic-aur cider-git 1.6.2.r5339.dfc75d0b-1
 chaotic-aur cinelerra-gg-git 2023.08.r0.g0b45a903-1
 chaotic-aur cinny-desktop 2.2.6-1.2
-chaotic-aur citra-canary-git 2575.r0.g64f2694-1
+chaotic-aur citra-canary-git 2617.r0.gb7e3480-1
 chaotic-aur citra-git r9707.22c4eb86d-1
 chaotic-aur citra-qt-git r9707.22c4eb86d-1
 chaotic-aur ckb-next 0.6.0-1
@@ -14481,7 +14481,7 @@ chaotic-aur clamav-unofficial-sigs 7.2.5-1.1
 chaotic-aur clang-git 18.0.0_r474122.0aa459fc8ae8-1
 chaotic-aur clapper 0.5.2-1.3
 chaotic-aur clash-for-windows-bin 0.20.34-1
-chaotic-aur clash-geoip 20230812-1
+chaotic-aur clash-geoip 20230912-1
 chaotic-aur clash-meta 1.15.1-1
 chaotic-aur clash-premium-bin 2023.08.17-1
 chaotic-aur clash-verge 1.3.7-1
@@ -14748,7 +14748,7 @@ chaotic-aur eww-wayland 0.4.0-1
 chaotic-aur eww-x11 0.4.0-3
 chaotic-aur exaile 4.1.3-1
 chaotic-aur exifcleaner-bin 3.6.0-4.3
-chaotic-aur exodus 23.8.28-1
+chaotic-aur exodus 23.9.11-1
 chaotic-aur expressvpn 3.55.0.4_1-1
 chaotic-aur extension-manager 0.4.2-1
 chaotic-aur extension-manager-git 0.4.2.r37.g758dea8-1
@@ -15378,7 +15378,7 @@ chaotic-aur it87-dkms-git 234.52ff360-1
 chaotic-aur itch-setup-bin 1.26.0-1
 chaotic-aur itcl3 3.4.4-1
 chaotic-aur itk-snap-bin 4.0.0-2
-chaotic-aur jackett 0.21.770-1
+chaotic-aur jackett 0.21.771-1
 chaotic-aur jade-application-kit 3.5.7-2.3
 chaotic-aur jameica 2.10.4-1.2
 chaotic-aur jamesdsp 2.6.1-1
@@ -15490,7 +15490,7 @@ chaotic-aur kded-git 5.103.0_r491.gb4068a7-1
 chaotic-aur kdegraphics-mobipocket-git 22.12.3_r289.gea9ef4d-1
 chaotic-aur kdelibs4support-git 5.102.0_r1145.g9f1399ec-1
 chaotic-aur kdenlive-git 23.03.70.r17481-1
-chaotic-aur kdenlive-stabledeps-git 23.11.70.r18700-1
+chaotic-aur kdenlive-stabledeps-git 23.11.70.r18706-1
 chaotic-aur kdepim-addons-git 5.22.40_r5100.ge169155b1-1
 chaotic-aur kdepim-runtime-git 23.03.40_r15655.g219738e81-1
 chaotic-aur kdeplasma-addons-git 5.27.80_r9320.g96a6e8313-1
@@ -15840,8 +15840,8 @@ chaotic-aur libiqa-git 1.1.3.r2.g4687a4c-1
 chaotic-aur libjffi 1.3.10-1
 chaotic-aur libjodycode 3.1-1
 chaotic-aur libjuice 1.3.1-1
-chaotic-aur libjxl-doc-git 0.8.2.r546.g619c6009-1
-chaotic-aur libjxl-git 0.8.2.r546.g619c6009-1
+chaotic-aur libjxl-doc-git 0.8.2.r549.g8d8ba826-1
+chaotic-aur libjxl-git 0.8.2.r549.g8d8ba826-1
 chaotic-aur libkdcraw-git v22.12.0.r3.gd1fef38-1
 chaotic-aur libkdepim-git 5.23.40_r983.g61fb5b0-1
 chaotic-aur libkexiv2-git 5.0.0_r843.g68c21bb-1
@@ -16049,7 +16049,7 @@ chaotic-aur ludusavi 0.21.0-1
 chaotic-aur lunar-client 3.0.7-1
 chaotic-aur lunarvim-git 1.2.0.r214.g023fb27b-1
 chaotic-aur lutris-git 0.5.13.r273.gaf9ceaa3-1
-chaotic-aur luxtorpeda-git 66.1.0.r434.e80b6d0-1
+chaotic-aur luxtorpeda-git 66.1.0.r436.cfc8dad-1
 chaotic-aur lxqt-kwin-desktop-git 0.17.0-1.3
 chaotic-aur lyx 2.3.7-2.2
 chaotic-aur m4b-tool-bin 0.4.2~20230214-2
@@ -17051,7 +17051,7 @@ chaotic-aur qbittorrent-enhanced-git 4.5.5.10.r0.g0cf9d4918-1.1
 chaotic-aur qbittorrent-enhanced-qt5 4.5.5.10-1.1
 chaotic-aur qbittorrent-git 1:5.0.0alpha1.r164.gc394868f8-1
 chaotic-aur qbittorrent-nox-git 1:5.0.0alpha1.r164.gc394868f8-1
-chaotic-aur qbittorrent-qt5 4.5.5-1
+chaotic-aur qbittorrent-qt5 4.5.5-1.1
 chaotic-aur qca-qt5-git 2.3.5_r2475.ge05243a2-1
 chaotic-aur qca-qt6-git 2.3.5_r2475.ge05243a2-1
 chaotic-aur qdigidoc4 4.4.0.4447-1
@@ -17217,7 +17217,7 @@ chaotic-aur roundedsbe-git 5.27.7.r233.4f71ab0-1
 chaotic-aur rpcs3-git 0.0.29.r15615.37ba19776a-1
 chaotic-aur rpi-imager 1.7.5-1
 chaotic-aur rqlite 7.21.4-1
-chaotic-aur rstudio-desktop 2023.06.2.561-3
+chaotic-aur rstudio-desktop 2023.06.2.561-3.1
 chaotic-aur rsync-reflink 3.2.7-4
 chaotic-aur rtl-sdr-git 1:0.6.0.r36.g1261fbb-1
 chaotic-aur rtl8192cu-fixes-git r118.e5c01a3-1.1
@@ -17328,7 +17328,7 @@ chaotic-aur smooth 0.9.10-1.2
 chaotic-aur smtube 21.10.0-4.2
 chaotic-aur snack 2.2.10-11
 chaotic-aur snap-pac-grub 2.0.2-1.4
-chaotic-aur snapper-gui-git 0.1.r8.g1915750-1.4
+chaotic-aur snapper-gui-git 0.1.r8.g1915750-1.5
 chaotic-aur snapper-support 1.1.2-2.3
 chaotic-aur snapper-tools 1.1.3-1
 chaotic-aur snapper-tools-git r13.5da1f15-1.2
@@ -17366,7 +17366,7 @@ chaotic-aur spirv-headers-git 1:1.3.261.0.r6.gd790ced-1
 chaotic-aur spirv-llvm-translator-git 18.0.0_r474122.0aa459fc8ae8-1
 chaotic-aur spirv-tools-tkg-git sdk.1.3.261.0.r40.gfc54e178e-1
 chaotic-aur spleeter-data-2stems 1.4.0-1
-chaotic-aur spleeter-git 2.4.0.r36.g13c771b-1
+chaotic-aur spleeter-git 2.4.0.r36.g13c771b-1.1
 chaotic-aur split2flac 20200508-1
 chaotic-aur spot-client 0.4.0-1
 chaotic-aur spot-client-git 0.3.3.r0.g8fe75ea-1.5
@@ -17404,7 +17404,7 @@ chaotic-aur strawberry-qt5 1.0.18-1.2
 chaotic-aur streamdeck-ui-git 3.0.1.r9.g9c7e67b-1
 chaotic-aur streamlink-twitch-gui-bin 2.4.1-1
 chaotic-aur stremio 4.4.160-1
-chaotic-aur stumpwm-contrib-git r535.472bdef-1
+chaotic-aur stumpwm-contrib-git r542.36f43af-1
 chaotic-aur stylepak-git 18.0c4b0c1-1.2
 chaotic-aur sublime-text-3 3.3211-4
 chaotic-aur sublime-text-4 4.4152-2
@@ -17418,7 +17418,7 @@ chaotic-aur subtitlecomposer 0.7.1-6.3
 chaotic-aur subtitlecomposer-git 0.7.1.r306.g8114b9b6-1
 chaotic-aur subtitleedit 4.0.0-1
 chaotic-aur sudo-git 1.9.14.r12623.g15b3d786d-1
-chaotic-aur sunshine 0.20.0-2
+chaotic-aur sunshine 0.20.0-2.1
 chaotic-aur superbfetch-git r107.7f7ec03-1
 chaotic-aur supergfxctl 5.1.1-1
 chaotic-aur superproductivity-bin 7.13.2-1
@@ -17452,8 +17452,8 @@ chaotic-aur syncterm 1.1-4
 chaotic-aur syncthing-gtk 0.9.4.5-1
 chaotic-aur syncthingtray 1.4.6-1
 chaotic-aur syndication-git 5.103.0_r896.g311d4ef-1
-chaotic-aur synfig-dev 1.5.1-4
-chaotic-aur synfigstudio-dev 1.5.1-1
+chaotic-aur synfig-dev 1.5.1-4.3
+chaotic-aur synfigstudio-dev 1.5.1-1.3
 chaotic-aur synkron 1.6.2-4.3
 chaotic-aur synology-drive 3.3.0_15082-1
 chaotic-aur syntax-highlighting-git 5.105.0_r2110.g1cbc415a-1
