@@ -385,7 +385,7 @@ extra almanah 0.12.3-5
 extra alot 0.10-6
 extra alpine-chroot-install 0.14.0-3
 extra alpine-keyring 2.4-1
-extra alsa-card-profiles 1:0.3.79-2
+extra alsa-card-profiles 1:0.3.80-1
 extra alsa-firmware 1.2.4-3
 extra alsa-lib 1.2.10-1 [installed]
 extra alsa-oss 1.1.8-5
@@ -1856,7 +1856,7 @@ extra fastjet 3.4.0-2
 extra fatresize 1.1.0-1
 extra fatsort 1.6.5.640-1
 extra faudio 23.09-1
-extra faust 2.60.3-2
+extra faust 2.68.0-1
 extra faustpp 1.0.0-2
 extra fb-client 2.3.0-1
 extra fbgrab 1.5-2
@@ -2928,7 +2928,7 @@ extra gst-plugin-gtk 1.22.5-2
 extra gst-plugin-libcamera 0.1.0-1
 extra gst-plugin-msdk 1.22.5-2
 extra gst-plugin-opencv 1.22.5-2
-extra gst-plugin-pipewire 1:0.3.79-2
+extra gst-plugin-pipewire 1:0.3.80-1
 extra gst-plugin-qml6 1.22.5-2
 extra gst-plugin-qmlgl 1.22.5-2
 extra gst-plugin-qsv 1.22.5-2
@@ -5566,7 +5566,7 @@ extra libphobos 1:2.105.0-1
 extra libphonenumber 1:8.13.19-1
 extra libpillowfight 0.3.0-8
 extra libpinyin 2.8.1-1
-extra libpipewire 1:0.3.79-2
+extra libpipewire 1:0.3.80-1
 extra libplacebo 5.264.1-2
 extra libplist 2.3.0-2 [installed]
 extra libpng 1.6.40-2 [installed]
@@ -8375,19 +8375,19 @@ extra pipe-rename 1.6.5-1
 extra pipectl 0.4.1-3
 extra piper 0.7-2
 extra pipesocks 2.3-4
-extra pipewire 1:0.3.79-2
-extra pipewire-alsa 1:0.3.79-2
-extra pipewire-audio 1:0.3.79-2
-extra pipewire-docs 1:0.3.79-2
-extra pipewire-ffado 1:0.3.79-2
-extra pipewire-jack 1:0.3.79-2
-extra pipewire-jack-client 1:0.3.79-2
+extra pipewire 1:0.3.80-1
+extra pipewire-alsa 1:0.3.80-1
+extra pipewire-audio 1:0.3.80-1
+extra pipewire-docs 1:0.3.80-1
+extra pipewire-ffado 1:0.3.80-1
+extra pipewire-jack 1:0.3.80-1
+extra pipewire-jack-client 1:0.3.80-1
 extra pipewire-media-session 1:0.4.2-2
-extra pipewire-pulse 1:0.3.79-2
-extra pipewire-roc 1:0.3.79-2
-extra pipewire-v4l2 1:0.3.79-2
-extra pipewire-x11-bell 1:0.3.79-2
-extra pipewire-zeroconf 1:0.3.79-2
+extra pipewire-pulse 1:0.3.80-1
+extra pipewire-roc 1:0.3.80-1
+extra pipewire-v4l2 1:0.3.80-1
+extra pipewire-x11-bell 1:0.3.80-1
+extra pipewire-zeroconf 1:0.3.80-1
 extra piping-server 0.16.0-1
 extra pitivi 2023.03-2
 extra pius 3.0.0-5
@@ -9720,7 +9720,7 @@ extra python-pcbnewtransition 0.3.4-2
 extra python-pdfminer 20221105-2
 extra python-pdfrw 0.4-8
 extra python-pdftotext 2.2.2-4
-extra python-pdm 2.9.0-1
+extra python-pdm 2.9.2-1
 extra python-pdm-backend 2.1.6-1
 extra python-pdm-pep517 1:1.1.4-4
 extra python-pecan 1.4.2-3
@@ -10897,7 +10897,7 @@ extra qxmledit 0.9.18-1
 extra qxmpp-qt5 1.5.5-1
 extra qxmpp-qt6 1.5.5-1
 extra r 4.3.1-2
-extra r10k 3.15.2-1
+extra r10k 3.16.0-1
 extra r2ghidra 5.8.6-1
 extra r8168 8.051.02-69
 extra r8168-lts 8.051.02-58
@@ -11405,7 +11405,7 @@ extra ruby-minitest-stub-const 0.6-2
 extra ruby-mixlib-cli 2.1.10-1
 extra ruby-mixlib-config 3.0.29-1
 extra ruby-mixlib-shellout 3.2.7-2
-extra ruby-mocha 1.16.1-1
+extra ruby-mocha 2.1.0-1
 extra ruby-molinillo 0.8.0-1
 extra ruby-msgpack 1.7.2-1
 extra ruby-multi_json 1.15.0-3
@@ -11417,14 +11417,14 @@ extra ruby-mustermann 3.0.0-1
 extra ruby-mutex_m 0.1.1-3
 extra ruby-nanotest 0.9.4.1-1
 extra ruby-native-package-installer 1.1.5-1
-extra ruby-nats-pure 2.2.1-1
+extra ruby-nats-pure 2.3.0-1
 extra ruby-nenv 0.3.0-2
 extra ruby-net-dns 0.9.0-2
 extra ruby-net-http 0.2.2-2
 extra ruby-net-http-persistent 4.0.2-1
 extra ruby-net-ping 2.0.8-2
 extra ruby-net-scp 4.0.0-1
-extra ruby-net-ssh 7.0.1-1
+extra ruby-net-ssh 7.2.0-1
 extra ruby-netrc 0.11.0-2
 extra ruby-network_interface 0.0.2-5
 extra ruby-nio4r 2.5.8-1
@@ -11451,7 +11451,7 @@ extra ruby-permessage_deflate 0.1.4-1
 extra ruby-pg 1.5.4-1
 extra ruby-pkg-config 1.5.1-1
 extra ruby-polyglot 0.3.5-8
-extra ruby-power_assert 2.0.2-1
+extra ruby-power_assert 2.0.3-1
 extra ruby-process-metrics 0.2.1-2
 extra ruby-protocol-hpack 1.4.2-2
 extra ruby-protocol-http 0.24.5-1
@@ -11464,7 +11464,7 @@ extra ruby-pry-byebug 3.10.1-2
 extra ruby-psych 4.0.6-1
 extra ruby-public_suffix 5.0.0-1
 extra ruby-puma 5.6.5-2
-extra ruby-puppet-resource_api 1.8.16-1
+extra ruby-puppet-resource_api 1.9.0-1
 extra ruby-puppet_forge 3.2.0-1
 extra ruby-puppet_metadata 3.2.0-1
 extra ruby-pycall 1.4.2-3
@@ -11473,7 +11473,7 @@ extra ruby-racc 1.6.0-3
 extra ruby-rack 3.0.4.1-1
 extra ruby-rack-protection 2.2.2-2
 extra ruby-rack-session 2.0.0-1
-extra ruby-rack-test 2.0.2-2
+extra ruby-rack-test 2.1.0-1
 extra ruby-rails-dom-testing 2.0.3-2
 extra ruby-rails-html-sanitizer 1.4.3-1
 extra ruby-rainbow 3.1.1-1
@@ -11528,7 +11528,7 @@ extra ruby-sassc 2.4.0-2
 extra ruby-sawyer 0.9.2-1
 extra ruby-scanf 1.0.0-1
 extra ruby-sd_notify 0.1.1-2
-extra ruby-semantic_puppet 1.0.4-1
+extra ruby-semantic_puppet 1.1.0-1
 extra ruby-sequel 5.71.0-1
 extra ruby-set 1.0.3-2
 extra ruby-shadow 2.5.1-1
@@ -11590,7 +11590,7 @@ extra ruby-vcr 6.2.0-1
 extra ruby-vimrunner 0.3.4-2
 extra ruby-vte3 4.1.2-1
 extra ruby-warnings_logger 0.1.1-3
-extra ruby-webmock 3.18.1-1
+extra ruby-webmock 3.19.1-1
 extra ruby-webrick 1.8.1-1
 extra ruby-websocket-driver 0.7.5-2
 extra ruby-websocket-extensions 0.1.5-2
@@ -11716,7 +11716,7 @@ extra seahorse-nautilus 1:3.11.92+r96+g0fd324c-1
 extra seatd 0.8.0-1
 extra selene 0.25.0-1
 extra semi 1.14.6-9
-extra semver 7.5.0-1
+extra semver 7.5.1-1
 extra sensors-applet 3.0.0+13+g0728426-6
 extra sentry-cli 2.20.6-1
 extra seqdiag 3.0.0-2
@@ -13104,7 +13104,7 @@ extra wasi-libc++abi 16.0.6-1
 extra wasm-bindgen 0.2.87-1
 extra wasm-pack 0.12.1-1
 extra wasmer 4.2.0-1
-extra wasmtime 12.0.1-1
+extra wasmtime 12.0.2-1
 extra watchexec 1.23.0-1
 extra wavegain 1.3.1-4
 extra wavemon 0.9.4-1
@@ -13772,7 +13772,7 @@ multilib lib32-libogg 1.3.5-1
 multilib lib32-libpcap 1.10.4-1
 multilib lib32-libpciaccess 0.17-1
 multilib lib32-libpgm 5.3.128-2
-multilib lib32-libpipewire 1:0.3.79-1
+multilib lib32-libpipewire 1:0.3.80-1
 multilib lib32-libpng 1.6.40-2
 multilib lib32-libpng12 1.2.59-2
 multilib lib32-libproxy 0.5.3-1
@@ -13870,9 +13870,9 @@ multilib lib32-pango 1:1.50.14-1
 multilib lib32-pcre 8.45-3
 multilib lib32-pcre2 10.42-1
 multilib lib32-pcsclite 2.0.0-1
-multilib lib32-pipewire 1:0.3.79-1
-multilib lib32-pipewire-jack 1:0.3.79-1
-multilib lib32-pipewire-v4l2 1:0.3.79-1
+multilib lib32-pipewire 1:0.3.80-1
+multilib lib32-pipewire-jack 1:0.3.80-1
+multilib lib32-pipewire-v4l2 1:0.3.80-1
 multilib lib32-pixman 0.42.2-1
 multilib lib32-polkit 123-1
 multilib lib32-popt 1.19-1
@@ -14625,7 +14625,7 @@ chaotic-aur doomrunner 1.8.1-4
 chaotic-aur doomseeker 1:1.4.1.r0.g973e20aa-1
 chaotic-aur dosbox-staging 1:0.80.1-2.2
 chaotic-aur dosbox-x 2023.09.01-1
-chaotic-aur dosbox-x-git 18297.091d566ad-1
+chaotic-aur dosbox-x-git 18306.3888af587-1
 chaotic-aur dotfonts-git r64.a768278-1.3
 chaotic-aur dotnet-runtime-6.0-bin 6.0.20.sdk412-1
 chaotic-aur dotnet-sdk-6.0-bin 6.0.20.sdk412-1
@@ -16014,7 +16014,7 @@ chaotic-aur mutter-performance-docs 1:44.4-3
 chaotic-aur mutter-rounded 42.3-1.1
 chaotic-aur mutter-x11-scaling 44.4-1
 chaotic-aur myman 0.7.0-7
-chaotic-aur mypy-git v0.520.r5237.gd77310ae6-1
+chaotic-aur mypy-git v0.520.r5239.g2bbc42f89-1
 chaotic-aur mysql 8.0.34-1
 chaotic-aur mysql-clients 8.0.34-1
 chaotic-aur mystiq 23.05.15-3
@@ -16297,7 +16297,7 @@ chaotic-aur pcem 17-4.2
 chaotic-aur pcf-unifont 15.0.06-2
 chaotic-aur pcf-unifont-extra 15.1.01-1
 chaotic-aur pcloudcc-git r1471.4b42e3c-1
-chaotic-aur pcsx2-git 1.7.5007.r0.g9c4fdc18b-1
+chaotic-aur pcsx2-git 1.7.5010.r0.g30e3a3a95-1
 chaotic-aur pcsxr 1.9.95-2.3
 chaotic-aur pdf-xchange 10.1.0.380-1
 chaotic-aur pdf2png 0.5.3-1.3
@@ -17010,7 +17010,7 @@ chaotic-aur scid 5.0.2-1.2
 chaotic-aur scli-git 0.7.3+23.r475.20230516.0239e04-2
 chaotic-aur scrub 2.6.1-1
 chaotic-aur sct 1.0.0-1
-chaotic-aur scummvm-git r145010.05c7fffcc22-1
+chaotic-aur scummvm-git r145032.06052c78eac-1
 chaotic-aur scylla-bin 5.2.6-1
 chaotic-aur sddm-git 0.20.0.10.ga8e40c5-1
 chaotic-aur sddm-nordic-theme-git 2.2.0.r68.g6e18ff1-1
@@ -17819,7 +17819,7 @@ chaotic-aur yaru-sound-theme 23.04.4-1
 chaotic-aur yaru-unity-theme 23.04.4-1
 chaotic-aur yaru-xfwm4-theme 23.04.4-1
 chaotic-aur yaup-git 0.1.r4.g7ee3fdb-1.4
-chaotic-aur yay 12.1.2-1 [installed]
+chaotic-aur yay 12.1.3-1 [installed: 12.1.2-1]
 chaotic-aur yay-git 12.1.2.r6.gb6c72ce-1
 chaotic-aur yin-yang-git 3.2.4.r9.g42ce4da-1
 chaotic-aur yosys-git 0.33+34.r12543.b84ed5d3a-1
