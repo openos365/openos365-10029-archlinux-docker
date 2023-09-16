@@ -7811,6 +7811,7 @@ extra perl-eval-closure 0.14-9
 extra perl-event-execflow 0.64-9
 extra perl-exception-class 1.45-3
 extra perl-exporter-tiny 1.006002-2
+extra perl-extutils-cchecker 0.11-2
 extra perl-extutils-config 0.008-9
 extra perl-extutils-cppguess 0.26-2
 extra perl-extutils-depends 0.8001-4
@@ -8137,6 +8138,7 @@ extra perl-sub-uplevel 0.2800-4
 extra perl-super 1.20190531-6
 extra perl-svn-simple-edit 0.28-6
 extra perl-switch 2.17-9
+extra perl-syntax-keyword-try 0.29-2
 extra perl-sys-hostname-long 1.5-11
 extra perl-sys-meminfo 0.99-5
 extra perl-sys-syscall 0.25-10
@@ -8266,6 +8268,7 @@ extra perl-xml-stream 1.24-9
 extra perl-xml-twig 3.52-11
 extra perl-xml-writer 0.900-2 [installed]
 extra perl-xml-xpath 1.48-2
+extra perl-xs-parse-keyword 0.38-3
 extra perl-yaml 1.30-5
 extra perl-yaml-libyaml 0.88-2
 extra perl-yaml-pp 0.036-2
@@ -14269,8 +14272,8 @@ chaotic-aur b43-firmware 6.30.163.46-1.1
 chaotic-aur babashka-bin 1.3.184-1
 chaotic-aur babl-git 0.1.107.r1872.80c3a1e-1
 chaotic-aur baca-ereader-git 0.1.16.r1.gd32fb2f-1
-chaotic-aur backintime 1.3.3-4
-chaotic-aur backintime-cli 1.3.3-4
+chaotic-aur backintime 1.4.0-1
+chaotic-aur backintime-cli 1.4.0-1
 chaotic-aur backintime-cli-git 1.4.0.r2.gddd142bd-1
 chaotic-aur backintime-git 1.4.0.r2.gddd142bd-1
 chaotic-aur badwolf 1.2.2-2.4
@@ -14653,7 +14656,7 @@ chaotic-aur drawpile-server 2.1.20-4.2
 chaotic-aur droidcam 1:2.0.0-1
 chaotic-aur dropbox 181.4.5678-1
 chaotic-aur dsda-doom 0.26.2-1
-chaotic-aur dsda-doom-git r8708.6a4ffd8d5-1
+chaotic-aur dsda-doom-git r8713.9a54a2182-1
 chaotic-aur dte 1.11.1-1
 chaotic-aur dtv-scan-tables-git r1297.833d4cc1-1
 chaotic-aur duc-git 1.4.5.r1.gc24ce26-1.1
@@ -14698,11 +14701,11 @@ chaotic-aur elm-bin 0.19.1-1
 chaotic-aur elm-format-bin 0.8.5-1
 chaotic-aur elm-language-server 2.7.0-1
 chaotic-aur elm-platform-bin 0.19.1-2
-chaotic-aur emacs-git 30.0.50.168829-1
+chaotic-aur emacs-git 30.0.50.168899-1
 chaotic-aur emacs-git-noway-widgets 30.0.50.168829-1
 chaotic-aur emacs-ng 30.0.50-5
 chaotic-aur emacs-ng-git 1:r166863.gdbf1cc80538-1.2
-chaotic-aur emacs-pgtk-native-comp-git 30.0.50.168838-1
+chaotic-aur emacs-pgtk-native-comp-git 30.0.50.168895-1
 chaotic-aur emerald-gtk3 0.8.18-2.6
 chaotic-aur emote 4.0.1-2
 chaotic-aur emulationstation 2.11.2-1.3
@@ -15215,13 +15218,13 @@ chaotic-aur gtk-gnutella 1.2.2-1.1
 chaotic-aur gtk-gnutella-git 1.2.2.r9.g12757e513-1.1
 chaotic-aur gtk-theme-elementary-git 7.2.0.r36.g0c89cde6-1
 chaotic-aur gtk-theme-windows10-dark-git r173.7acc2a8-1
-chaotic-aur gtk-update-icon-cache-git 4.13.0.r167.g5c27899efa-1
+chaotic-aur gtk-update-icon-cache-git 4.13.0.r170.gcf8f6d254e-1
 chaotic-aur gtk2-patched-filechooser-icon-view 2.24.33-3
 chaotic-aur gtk3-classic 3.24.38-3
 chaotic-aur gtk3-patched-filechooser-icon-view 1:3.24.38-1
-chaotic-aur gtk4-demos-git 4.13.0.r167.g5c27899efa-1
-chaotic-aur gtk4-docs-git 4.13.0.r167.g5c27899efa-1
-chaotic-aur gtk4-git 4.13.0.r167.g5c27899efa-1
+chaotic-aur gtk4-demos-git 4.13.0.r170.gcf8f6d254e-1
+chaotic-aur gtk4-docs-git 4.13.0.r170.gcf8f6d254e-1
+chaotic-aur gtk4-git 4.13.0.r170.gcf8f6d254e-1
 chaotic-aur gtkcord4 0.0.12-1
 chaotic-aur gtkglarea 2.1.0-6.3
 chaotic-aur gtkhash 1.5-3
@@ -15280,7 +15283,7 @@ chaotic-aur hyperspace-bin 1:1.1.4-1.3
 chaotic-aur hypnotix 3.6-1
 chaotic-aur hyprland-git 0.29.1.r81.d126d2c0-1
 chaotic-aur hyprland-nvidia 0.29.1-1
-chaotic-aur hyprland-nvidia-git 0.29.1.r81.gd126d2c0-1
+chaotic-aur hyprland-nvidia-git 0.29.1.r83.g2f01a189-1
 chaotic-aur hyprpaper-git r110.e5a18a1-1
 chaotic-aur hyprpicker-git 0.1.1.r4.5ba3268-1
 chaotic-aur hyprshot 1.2.2-1
@@ -15303,8 +15306,8 @@ chaotic-aur icu69-bin 69.1-1
 chaotic-aur identity 0.5.0-1.2
 chaotic-aur iir1 1.9.4-1
 chaotic-aur image-roll-bin 2.1.0-1.3
-chaotic-aur imagemagick-full-doc-git 7.1.1.15.r255.g4988d7fa8-1
-chaotic-aur imagemagick-full-git 7.1.1.15.r255.g4988d7fa8-1
+chaotic-aur imagemagick-full-doc-git 7.1.1.15.r256.g3a17dddba-1
+chaotic-aur imagemagick-full-git 7.1.1.15.r256.g3a17dddba-1
 chaotic-aur imagewriter 1.10.1432200249.1d253d9.2.17-1
 chaotic-aur imaginary-teleprompter-bin 2.4.0-7.3
 chaotic-aur imagine-git 0.7.1.r0.g278e380-1.3
@@ -15590,8 +15593,8 @@ chaotic-aur lib32-llvm-git 18.0.0_r474942.a59870a05c54-1
 chaotic-aur lib32-llvm-libs-git 18.0.0_r474942.a59870a05c54-1
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
-chaotic-aur lib32-mangohud-git 0.7.0.rc1.r2.g17d4541-1
-chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.177921.b5a79000eb9-1
+chaotic-aur lib32-mangohud-git 0.7.0.rc1.r3.g5c6278b-1
+chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.177925.edd3cd67c2f-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15699,7 +15702,7 @@ chaotic-aur libretro-mesen-git 0.9.9.r324.gd25d60fc-1
 chaotic-aur libretro-mupen64plus-next-git r469.26fd1edd-1
 chaotic-aur libretro-opera-git r470.100ae1e-1
 chaotic-aur libretro-stella2014-git 298.8ab051e-1
-chaotic-aur librewolf 117.0-1
+chaotic-aur librewolf 117.0.1-1
 chaotic-aur librewolf-extension-gnome-shell-integration 10.1-1.3
 chaotic-aur librewolf-extension-plasma-integration 1.8.1-2.3
 chaotic-aur librist 0.2.7-1.1
@@ -15932,7 +15935,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.3
 chaotic-aur menulibre 1:2.2.3-2
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.37.1-1
-chaotic-aur mesa-tkg-git 23.3.0_devel.177921.b5a79000eb9-1
+chaotic-aur mesa-tkg-git 23.3.0_devel.177925.edd3cd67c2f-1
 chaotic-aur mesen2-git r2753.b11369ec-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -16044,7 +16047,7 @@ chaotic-aur neofetch-git 7.1.0.r166.gccd5d9f5-1
 chaotic-aur neofrog-git 7.1.0.r166.gccd5d9f5-1.1
 chaotic-aur neovide-git 0.11.2.r4.g33df9e5-1
 chaotic-aur neovim-drop-in 1-1.1
-chaotic-aur neovim-git 0.9.0.r1727.g883e2a1409-1
+chaotic-aur neovim-git 0.9.0.r1731.g28f54a7878-1
 chaotic-aur neovim-gtk 1.0.4-1
 chaotic-aur neovim-nightly-bin 0.10.0+dev+b52bd8a-1
 chaotic-aur neovim-plug 0.11.0-3.1
@@ -16576,9 +16579,9 @@ chaotic-aur premid 2.3.2-1
 chaotic-aur prestopalette 0.1.31-1.3
 chaotic-aur primus-vk-git r156.a7971a4-1
 chaotic-aur prismlauncher 7.2-1
-chaotic-aur prismlauncher-git 7.0.r904.g4cb424470-1
+chaotic-aur prismlauncher-git 7.0.r911.g00af38561-1
 chaotic-aur prismlauncher-qt5 7.2-1
-chaotic-aur prismlauncher-qt5-git 7.0.r904.g4cb424470-1
+chaotic-aur prismlauncher-qt5-git 7.0.r911.g00af38561-1
 chaotic-aur prjapicula 0.9.0-1.1
 chaotic-aur prjoxide-git r446.36a2798-1
 chaotic-aur prjtrellis-db-git r325.9918c35-1
@@ -17001,7 +17004,7 @@ chaotic-aur rustdesk-nightly 1.2.3-0
 chaotic-aur rustdesk-server-bin 1.1.8_2-1
 chaotic-aur rustow-git 0.4.beta.r7.g858b15e-1
 chaotic-aur rustup-git 1.26.0.r131.gd4c68448-1
-chaotic-aur ryujinx-git r3030.7ccff037e8-1
+chaotic-aur ryujinx-git r3031.88df636c87-1
 chaotic-aur ryzen-controller-bin 2.6.0-1
 chaotic-aur ryzen_smu-dkms-git 162.e61177d-1
 chaotic-aur ryzenadj-git 0.13.0.r16.g4b558e7-1
@@ -17425,7 +17428,7 @@ chaotic-aur ttf-google-fonts-git 1:r6201.eb56825d1-1
 chaotic-aur ttf-heuristica 1.0.2-5
 chaotic-aur ttf-icomoon-feather 1.0-2
 chaotic-aur ttf-impallari-cantora 1.001-7
-chaotic-aur ttf-iosevka 26.3.3-1
+chaotic-aur ttf-iosevka 27.0.0-1
 chaotic-aur ttf-iosevka-git 1694863128-1
 chaotic-aur ttf-mac-fonts 20100901.134-1
 chaotic-aur ttf-malayalam-font-anjalioldlipi 7.1.0+20221109-2
@@ -17577,7 +17580,7 @@ chaotic-aur virtualbox-ext-oracle 7.0.10-1
 chaotic-aur virtualbox-unattended-templates 7.0.10-1
 chaotic-aur visual-studio-code-bin 1.82.2-1
 chaotic-aur visual-studio-code-insiders-bin 1694756103-1
-chaotic-aur vita3k-git r3373.a96e6192-1
+chaotic-aur vita3k-git r3379.5393c53d-1
 chaotic-aur vital-synth 1.5.5-1
 chaotic-aur vivaldi-snapshot 6.3.3134.3-1
 chaotic-aur vivaldi-snapshot-ffmpeg-codecs 116.0.5845.163-1
