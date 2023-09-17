@@ -426,7 +426,7 @@ extra ansible 8.4.0-1
 extra ansible-bender 0.10.1-2
 extra ansible-core 2.15.4-1
 extra ansible-language-server 1.2.1-1
-extra ansible-lint 6.15.0.r45.g2fca3fe-2
+extra ansible-lint 6.19.0-1
 extra ant 1.10.12-2
 extra ant-doc 1.10.12-2
 extra anthy 9100h-6
@@ -769,8 +769,8 @@ extra bmusb 0.7.6-2
 extra bnfc 2.9.4.1-14
 extra bob 2.5.0-1
 extra bogofilter 1.2.5-8
-extra boinc 7.24.0-1
-extra boinc-nox 7.24.0-1
+extra boinc 7.24.1-1
+extra boinc-nox 7.24.1-1
 extra boinctui 2.7.0-2
 extra bolt 0.9.5-1
 extra bomber 23.08.1-1
@@ -1376,7 +1376,7 @@ extra debian-archive-keyring 2023.4-1
 extra debian-ports-archive-keyring 2023.02.01-1
 extra debootstrap 1.0.132-1
 extra deepin-account-faces 1.0.15-1
-extra deepin-album 6.0.3-1
+extra deepin-album 6.0.4-1
 extra deepin-anything 5.0.18-1
 extra deepin-anything-arch 6.1.2-22
 extra deepin-anything-dkms 5.0.18-1
@@ -1695,7 +1695,7 @@ extra ebumeter-docs 0.5.1-1
 extra ecasound 2.9.3-9
 extra ecb 2.40.1pre-12
 extra echoping 6.0.2-12
-extra ecl 21.2.1-3
+extra ecl 23.9.9-1
 extra eclib 20230424-2
 extra eclipse-ecj 4.22-2
 extra ecm-tools 1.03-3
@@ -2696,7 +2696,7 @@ extra gnome-robots 40.0-1
 extra gnome-screenshot 41.0+r25+g45f08f0-1
 extra gnome-session 44.0-1
 extra gnome-settings-daemon 44.1-1
-extra gnome-shell 1:44.4-1
+extra gnome-shell 1:44.5-1
 extra gnome-shell-extension-appindicator 1:53-1
 extra gnome-shell-extension-arc-menu 48-1
 extra gnome-shell-extension-dash-to-panel 56-3
@@ -2715,7 +2715,7 @@ extra gnome-themes-extra 3.28+r6+g45b1d457-1
 extra gnome-tour 44.0-2
 extra gnome-tweaks 42beta+r14+g2d9d76c-3
 extra gnome-usage 3.38.1-2
-extra gnome-user-docs 44.3-1
+extra gnome-user-docs 44.5-1
 extra gnome-user-share 43.0-1
 extra gnome-video-effects 1:0.6.0-1
 extra gnome-weather 44.0-1
@@ -2769,7 +2769,6 @@ extra golang-github-alecthomas-template 0.0.20190718-1
 extra golang-github-alecthomas-units 0.0.20211218-1
 extra golang-github-boombuler-barcode 1.0.1-1
 extra golang-github-burntsushi-toml 1.2.0-1
-extra golang-github-burntsushi-xgb 0.0.20210121-1
 extra golang-github-client9-misspell 0.3.4-1
 extra golang-github-davecgh-go-spew 1.1.1-2
 extra golang-github-fsnotify-fsnotify 1.5.4-1
@@ -6663,10 +6662,10 @@ extra mauikit-texteditor 3.0.1-1
 extra mauiman 3.0.1-1
 extra maven 3.8.7-1
 extra maxcso 1.13.0-2
-extra maxima 5.47.0-4
-extra maxima-ecl 5.47.0-4
-extra maxima-fas 5.47.0-4
-extra maxima-sbcl 5.47.0-4
+extra maxima 5.47.0-5
+extra maxima-ecl 5.47.0-5
+extra maxima-fas 5.47.0-5
+extra maxima-sbcl 5.47.0-5
 extra mb2md 3.20-6
 extra mbedtls 3.4.1-1
 extra mbedtls2 2.28.4-1
@@ -6902,8 +6901,8 @@ extra musl 1.2.4-1
 extra mustache 4.1-3
 extra mustache-d 0.1.5-12
 extra mutt 2.2.12-1
-extra mutter 44.4-1
-extra mutter-docs 44.4-1
+extra mutter 44.5-1
+extra mutter-docs 44.5-1
 extra mutter43 43.5-1
 extra mvt 2.4.2-1
 extra mxml 3.3.1-1
@@ -11643,7 +11642,7 @@ extra sage-data-elliptic_curves 0.8.1-2
 extra sage-data-graphs 20210214-1
 extra sage-data-polytopes_db 20170220-2
 extra sage-notebook-exporter 3.4-2
-extra sagemath 10.1-2
+extra sagemath 10.1-3
 extra sagemath-doc 10.1-2
 extra sagetex 3.6.1-4
 extra salt 3006.1-2
@@ -13225,7 +13224,7 @@ extra wp-cli 2.8.1-1
 extra wpebackend-fdo 1.14.2-1
 extra wpewebkit 2.40.5-2
 extra wpewebkit-docs 2.40.5-2
-extra wpscan 1:3.8.24-1
+extra wpscan 1:3.8.24-2
 extra wqy-bitmapfont 1.0.0RC1-5
 extra wqy-microhei 0.2.0_beta-11
 extra wqy-microhei-lite 0.2.0_beta-10
@@ -13936,7 +13935,7 @@ multilib multilib-devel 1-1
 multilib nspluginwrapper 1.4.4-6
 multilib steam 1.0.0.78-1
 multilib steam-native-runtime 1.0.0.75-3
-multilib wine 8.15-1
+multilib wine 8.16-1
 multilib wine-nine 0.8-4
 multilib wine-staging 8.15-2
 multilib winetricks 20230212-1
@@ -14140,7 +14139,7 @@ chaotic-aur airspyhf-git r119.40836c5-1
 chaotic-aur akira 0.0.16-1.4
 chaotic-aur akira-git 0.0.15.r117.g6ba3574f-1.3
 chaotic-aur akvcam-dkms 1.2.4-1
-chaotic-aur alacritty-git 1:0.13.0.2176.g77aa9f42-1
+chaotic-aur alacritty-git 1:0.13.0.2177.ge35e5ad1-1
 chaotic-aur albert 0.22.3-2
 chaotic-aur alhp-keyring 20230504-4
 chaotic-aur alhp-mirrorlist 20230831-1
@@ -14390,7 +14389,7 @@ chaotic-aur carla-git 1:2.5.1.r416.g9317df597-1
 chaotic-aur cask-server-git 0.6.6.r1.g8bf2c28-1
 chaotic-aur cassandra 4.1.3-1
 chaotic-aur cassowary 0.6-1.2
-chaotic-aur catch2-git 3.4.0.r21.gaafe09bc-1
+chaotic-aur catch2-git 3.4.0.r24.g9c541ca7-1
 chaotic-aur catia-git r1062.78b0307-1.3
 chaotic-aur catppuccin-cursors-mocha 0.2.0-1
 chaotic-aur catppuccin-frappe-grub-theme-git r40.803c5df-1
@@ -16066,7 +16065,7 @@ chaotic-aur network-manager-applet-nolibappindicator 1.30.0-1.2
 chaotic-aur networkmanager-dmenu-git r181.382f101-1
 chaotic-aur networkmanager-iwd 1.44.0-1
 chaotic-aur newaita-icons-git r929.c2b596b09-1
-chaotic-aur nextcloud-client-git 3.6.0.r2058.g2b4ad12b7-1
+chaotic-aur nextcloud-client-git 3.6.0.r2060.gf8ad1f476-1
 chaotic-aur nextdns-unprivileged 1.39.4-3
 chaotic-aur nextpnr-git 0.6.r86.g79c6840f-1
 chaotic-aur nghttp2 1.56.0-1
@@ -17712,7 +17711,7 @@ chaotic-aur wlroots-git 0.16.0.r732.gdbc7a5cad-1
 chaotic-aur wlsunset 0.3.0-1
 chaotic-aur wluma 4.3.0-1
 chaotic-aur wmenu 0.1.4-1
-chaotic-aur wob 0.15-2
+chaotic-aur wob 0.15.1-1
 chaotic-aur woeusb 5.2.4-1.1
 chaotic-aur woeusb-ng 0.2.12-3
 chaotic-aur woof-doom 12.0.0-1
