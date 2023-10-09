@@ -70,6 +70,12 @@ which apt
 if [ $? -eq 0 ];then
     apt_list
 fi
+cd ~
+git clone https://github.com/archlinux/aur.git
+cd aur
+git branch -a | sed 's#  remotes/origin/##g' | grep -v "main" > /etcc/versions/aur.all.txt
+cd ~
+rm -rf aur
 
 cd $CMD_PATH
 rsync -avzP --delete \
