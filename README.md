@@ -1,35 +1,73 @@
-# 9318-archlinux-docker
+# openos365-10029-archlinux-docker
 
-[![docker build](https://github.com/archlinux365/9318-archlinux-docker/actions/workflows/docker_build.yml/badge.svg)](https://github.com/archlinux365/9318-archlinux-docker/actions/workflows/docker_build.yml)
+## 0 star the project if it is helpfull
 
-## Support Contact:
+* star it at github: https://github.com/openos365/openos365-10029-archlinux-docker
+* star it at dockerhub: https://hub.docker.com/r/openos365/openos365-10029-archlinux-docker-main
 
- https://t.me/archlinux365
- 
- <img src=https://user-images.githubusercontent.com/1329093/200988975-33a27396-74fa-44ed-9c16-e028e529d729.png width=20% />
+  > Thank you
 
-### 1 what
+## 1 support
 
-archlinux-based docker: 
-* add more repos in pacman.conf
-* install some packages 
-* update everyday
+* submit a issue: https://github.com/openos365/openos365-10029-archlinux-docker/issues/new
+* chat with us: https://matrix.to/#/#openos365:matrix.org
 
-## 2 why
+## 2 what
 
-* used for ci
-* track version changes of packages
+* openos365-10029-archlinux-docker docker images
+  
+## 3 why (values)
 
-## 3 how to use
+1. setup repo mirror for China `files/install.sh`
+1. pr-install some packages `files/install.sh`
+1. pre-config `files/root/`
+1. networking problems `using github actions network`
+1. save install and update time `build it using schedule actions`
+1. publish and track `versions` changes
+1. publish and track `yum.repo.d`
 
-#### root user
+## 4 how to use
+
+#### root
+```
+docker pull openos365/openos365-10029-archlinux-docker-main-root:latest
+docker run -it --privileged=true -v /sys/fs/cgroup:/sys/fs/cgroup:ro openos365/openos365-10029-archlinux-docker-main-root:latest bash
+
+podman pull docker.io/openos365/openos365-10029-archlinux-docker-main-root:latest
+podman run -it docker.io/openos365/openos365-10029-archlinux-docker-main-root:latest
+podman run -it docker.io/openos365/openos365-10029-archlinux-docker-main-root:latest /sbin/init
+
+sudo podman run -it \
+--cap-add=ALL \
+--privileged=true \
+--tmpfs /tmp \
+--tmpfs /run \
+-v /etc/resolv.conf:/etc/resolv.conf \
+--net=host \
+--hostname=openos365-10029-archlinux-docker-main-root \
+docker.io/openos365/openos365-10029-archlinux-docker-main-root:latest \
+/sbin/init \
+--log-level=debug
+
+
+
+docker pull dockerhub.qingcloud.com/openos365/openos365-10029-archlinux-docker-main-root:latest
+docker run -it --privileged=true -v /sys/fs/cgroup:/sys/fs/cgroup:ro dockerhub.qingcloud.com/openos365/openos365-10029-archlinux-docker-main-root:latest bash
+
+
 
 ```
-docker pull ghcr.io/archlinux365/9318-archlinux-docker-root:latest
-```
-#### a normal user(sudo without password): runner 
+#### www
 
 ```
-docker pull ghcr.io/archlinux365/9318-archlinux-docker-runner:latest
-```
+docker pull openos365/openos365-10029-archlinux-docker-main-www:latest
+docker run -it --privileged=true -v /sys/fs/cgroup:/sys/fs/cgroup:ro openos365/openos365-10029-archlinux-docker-main-www:latest bash
 
+podman pull docker.io/openos365/openos365-10029-archlinux-docker-main-www:latest:latest
+podman run -it docker.io/openos365/openos365-10029-archlinux-docker-main-www:latest:latest
+podman run -it docker.io/openos365/openos365-10029-archlinux-docker-main-www:latest:latest sudo /sbin/init
+
+
+
+
+```
