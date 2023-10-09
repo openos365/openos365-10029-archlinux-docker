@@ -46,6 +46,21 @@ function apt_list()
     sed -i '1,2d' apt.list.installed.txt
     sed -i '1d' apt.list.txt
 }
+
+function pacman_list()
+{
+    pacman -Sl > packages.list.all.txt
+    pacman -Qe > packages.list.installed.txt
+}
+
+
+
+which pacman
+if [ $? -eq 0 ];then
+    pacman_list
+fi
+
+
 which dnf
 if [ $? -eq 0 ];then
     dnf_list
