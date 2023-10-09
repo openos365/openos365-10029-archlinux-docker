@@ -62,8 +62,8 @@ core gcc-libs 13.2.1-3 [installed]
 core gcc-objc 13.2.1-3
 core gdbm 1.23-2 [installed]
 core gettext 0.22.3-1 [installed]
-core glib2 2.78.0-2 [installed]
-core glib2-docs 2.78.0-2
+core glib2 2.78.0-3 [installed]
+core glib2-docs 2.78.0-3
 core glibc 2.38-7 [installed]
 core glibc-locales 2.38-7
 core gmp 6.3.0-1 [installed]
@@ -327,8 +327,8 @@ extra adobe-source-sans-fonts 3.052-1
 extra adobe-source-serif-fonts 4.005-1
 extra adrdox 2.5.4-1
 extra adriconf 2.7.1-1
-extra adwaita-cursors 44.0-1
-extra adwaita-icon-theme 44.0-1
+extra adwaita-cursors 45.0-1
+extra adwaita-icon-theme 45.0-1
 extra aegisub 3.3.3-6
 extra aeolus 0.10.4-2
 extra aerc 0.16.0-1
@@ -656,7 +656,7 @@ extra bamf 0.5.6-1
 extra bandit 1.7.5-4
 extra bandwhich 0.21.0-1
 extra banner 1.3.2-10
-extra baobab 44.0-1
+extra baobab 45.0-1
 extra barcode 0.99-5
 extra baresip 3.5.1-1
 extra barrage 1.0.7-1
@@ -1329,7 +1329,7 @@ extra cython0 0.29.36-1
 extra d-containers 0.8.0-9
 extra d-feet 0.3.16-3
 extra d-mir-core 1.1.14-11
-extra d-spy 1.6.0-2
+extra d-spy 1.8.0-1
 extra d-stdx-allocator 3.0.2-21
 extra d2 0.6.0-1
 extra dagger 0.8.7-1
@@ -1372,7 +1372,7 @@ extra dbus-sharp-glib 0.6.0-3
 extra dbxtool 8-1
 extra dcd 1:0.15.2-1
 extra dconf 0.40.0-2
-extra dconf-editor 43.0-1
+extra dconf-editor 45.0.1-1
 extra dcraw 9.28.0-4
 extra dd_rescue 1.99.13-2
 extra ddclient 3.10.0-1
@@ -1781,14 +1781,14 @@ extra enlightenment 0.25.4-2
 extra enscript 1.6.6-5
 extra entityx 1.3.0-3
 extra entr 5.4-1
-extra eog 44.3-1
-extra eog-docs 44.3-1
+extra eog 45.0-1
+extra eog-docs 45.0-1
 extra eog-plugins 44.0-1
 extra eolie 0.9.101-4
 extra eom 1.26.0-1
 extra ephoto 1.6.0-2
 extra epic4 2.10.10-6
-extra epiphany 44.7-1
+extra epiphany 45.0-1
 extra eq10q 2.2-5
 extra erdtree 3.1.2-1
 extra erfa 2.0.0-2
@@ -1823,16 +1823,16 @@ extra evcxr_repl 0.15.1-2
 extra evemu 2.7.0-9
 extra eventviews 23.08.1-1
 extra evilginx 2.4.0-3
-extra evince 44.3-1
-extra evince-lib-docs 44.3-1
+extra evince 45.0-1
+extra evince-lib-docs 45.0-1
 extra evisum 0.6.0-1
-extra evolution 3.48.4-1
-extra evolution-bogofilter 3.48.4-1
-extra evolution-data-server 3.48.4-2
-extra evolution-data-server-docs 3.48.4-2
-extra evolution-ews 3.48.2-1
+extra evolution 3.50.0-1
+extra evolution-bogofilter 3.50.0-1
+extra evolution-data-server 3.50.0-1
+extra evolution-data-server-docs 3.50.0-1
+extra evolution-ews 3.50.0-1
 extra evolution-on 3.24.2-3
-extra evolution-spamassassin 3.48.4-1
+extra evolution-spamassassin 3.50.0-1
 extra evtest 1.35-1
 extra exempi 2.6.4-1
 extra exfat-utils 1.4.0-2
@@ -2327,7 +2327,7 @@ extra fzf 0.42.0-1
 extra fzy 1.0-2
 extra g2reverb 0.7.1-6
 extra gajim 1.8.1-1
-extra gala 7.1.2-1
+extra gala 7.1.2-2
 extra galculator 2.1.4-8
 extra galera 26.4.14-2
 extra gambas3-dev-tools 3.18.4-2
@@ -2454,7 +2454,7 @@ extra gdk-pixbuf2 2.42.10-2 [installed]
 extra gdk-pixbuf2-docs 2.42.10-2
 extra gdl 3.40.0-1
 extra gdlmm 3.7.3-5
-extra gdm 44.1-1
+extra gdm 45.0.1-1
 extra gdnsd 3.8.1-1
 extra gdu 5.25.0-1
 extra geany 1.38-3
@@ -2587,7 +2587,7 @@ extra gitprompt-rs 0.3.0-1
 extra gitsign 0.7.1-1
 extra gitui 0.24.3-1
 extra givaro 4.2.0-1
-extra gjs 2:1.76.2-1
+extra gjs 2:1.78.0-2
 extra gkrellm 2.3.11-3
 extra gl2ps 1.4.2-2
 extra glab 1.33.0-1
@@ -2648,25 +2648,25 @@ extra gnome-2048 3.38.2-2
 extra gnome-appfolders-manager 0.4.7-2
 extra gnome-applets 3.46.0-1
 extra gnome-autoar 0.4.4-1
-extra gnome-backgrounds 44.0-1
-extra gnome-bluetooth 3.34.5-4
+extra gnome-backgrounds 45.0-1
+extra gnome-bluetooth 3.34.5+r16+g61cfff1c-1
 extra gnome-bluetooth-3.0 42.6-1
-extra gnome-boxes 44.3-1
+extra gnome-boxes 45.0-1
 extra gnome-break-timer 2.1.0-1
 extra gnome-browser-connector 42.1-4
-extra gnome-builder 44.2-5
-extra gnome-calculator 44.0-1
-extra gnome-calendar 44.1-1
-extra gnome-characters 44.0-1
+extra gnome-builder 45.0-1
+extra gnome-calculator 45.0.2-1
+extra gnome-calendar 45.0-1
+extra gnome-characters 45.0-1
 extra gnome-chess 43.2-1
-extra gnome-clocks 44.0-1
+extra gnome-clocks 45.0-1
 extra gnome-code-assistance 3:3.16.1+r14+gaad6437-2
 extra gnome-color-manager 3.36.0+r51+gcf7ee2b5-1
 extra gnome-common 3.18.0-4
-extra gnome-connections 44.1-2
-extra gnome-console 44.4-1
-extra gnome-contacts 44.0-1
-extra gnome-control-center 44.4-1
+extra gnome-connections 45.0-1
+extra gnome-console 45.0-1
+extra gnome-contacts 45.0-1
+extra gnome-control-center 45.0-1
 extra gnome-desktop 1:44.0-1
 extra gnome-desktop-4 1:44.0-1
 extra gnome-desktop-common 1:44.0-1
@@ -2676,22 +2676,22 @@ extra gnome-disk-utility 45.0-1
 extra gnome-epub-thumbnailer 1.7-1
 extra gnome-firmware 43.2-1
 extra gnome-flashback 3.46.0-1
-extra gnome-font-viewer 44.0-1
+extra gnome-font-viewer 45.0-1
 extra gnome-games 40.0-4
 extra gnome-icon-theme-extras 3.12.0-5
 extra gnome-info-collect 1.0.5-1
-extra gnome-initial-setup 44.0-2
+extra gnome-initial-setup 45.0-1
 extra gnome-keyring 1:42.1-3
 extra gnome-klotski 3.38.2-1
 extra gnome-latex 3.46.0-1
-extra gnome-logs 43.0-1
+extra gnome-logs 45beta-1
 extra gnome-mahjongg 3.40.0+r35+g96668c5-1
-extra gnome-maps 44.4-1
+extra gnome-maps 45.0-1
 extra gnome-menus 3.36.0-2
 extra gnome-mines 40.1-1
 extra gnome-mplayer 1.0.9-8
 extra gnome-multi-writer 3.35.90-1
-extra gnome-music 1:44.0-2
+extra gnome-music 1:45.0-1
 extra gnome-nettool 42.0-2
 extra gnome-nibbles 3.38.3-1
 extra gnome-notes 40.1-4
@@ -2704,36 +2704,36 @@ extra gnome-pie 0.7.3-1
 extra gnome-podcasts 0.6.1-1
 extra gnome-power-manager 43.0-1
 extra gnome-recipes 2.0.4-5
-extra gnome-remote-desktop 44.2-1
+extra gnome-remote-desktop 45.0-1
 extra gnome-robots 40.0-1
 extra gnome-screenshot 41.0+r25+g45f08f0-1
-extra gnome-session 44.0-2
-extra gnome-settings-daemon 44.1-1
-extra gnome-shell 1:44.5-1
+extra gnome-session 45.0-1
+extra gnome-settings-daemon 45.0-1
+extra gnome-shell 1:45.0-1
 extra gnome-shell-extension-appindicator 1:53-1
 extra gnome-shell-extension-arc-menu 48-1
 extra gnome-shell-extension-dash-to-panel 56-3
 extra gnome-shell-extension-gtile 52-1
-extra gnome-shell-extensions 44.0-1
-extra gnome-software 44.5-1
+extra gnome-shell-extensions 45.0-2
+extra gnome-software 45.0-1
 extra gnome-sound-recorder 42.0-2
 extra gnome-subtitles 1.7.2-1
-extra gnome-sudoku 44.0-1
-extra gnome-system-monitor 44.0-1
+extra gnome-sudoku 45.0-1
+extra gnome-system-monitor 45.0.2-1
 extra gnome-taquin 3.38.1+r35+g35edb95-1
-extra gnome-terminal 3.48.2-1
+extra gnome-terminal 3.50.0-1
 extra gnome-tetravex 3.38.2-1
-extra gnome-text-editor 44.0-2
+extra gnome-text-editor 45.0-1
 extra gnome-themes-extra 3.28+r6+g45b1d457-1
-extra gnome-tour 44.0-2
-extra gnome-tweaks 42beta+r14+g2d9d76c-3
-extra gnome-usage 3.38.1-2
-extra gnome-user-docs 44.5-1
+extra gnome-tour 45.0-1
+extra gnome-tweaks 45.0-1
+extra gnome-usage 45.0-1
+extra gnome-user-docs 45.0-1
 extra gnome-user-share 43.0-1
 extra gnome-video-effects 1:0.6.0-1
-extra gnome-weather 44.0-1
+extra gnome-weather 45.0-1
 extra gnomon 1.5.0-3
-extra gnote 44.1-1
+extra gnote 45.0-1
 extra gnu-efi 3.0.17-3
 extra gnu-free-fonts 20120503-8 [installed]
 extra gnu-netcat 0.7.1-9
@@ -2800,7 +2800,7 @@ extra gpa 0.10.0-2
 extra gpac 1:2.2.1-2
 extra gpart 0.3-4
 extra gparted 1.5.0-1
-extra gpaste 44.1-1
+extra gpaste 45-1
 extra gperf 3.1-5
 extra gperftools 2.13-1 [installed]
 extra gpg-crypter 0.4.1-4
@@ -2876,7 +2876,7 @@ extra grub-theme-vimix 20190605-2
 extra grunt-cli 1.4.3-2
 extra gsasl 2.2.0-1
 extra gscan2pdf 2.13.2-1
-extra gsettings-desktop-schemas 44.0-1
+extra gsettings-desktop-schemas 45.0-1
 extra gsettings-qt 0.2-1
 extra gsfonts 20200910-3
 extra gsimplecal 2.5.1-1
@@ -2952,8 +2952,8 @@ extra gtkmm3 3.24.8-1
 extra gtkmm3-docs 3.24.8-1
 extra gtksourceview3 1:3.24.11+r28+g73e57b57-1
 extra gtksourceview4 4.8.4-1
-extra gtksourceview5 5.8.0-1
-extra gtksourceview5-docs 5.8.0-1
+extra gtksourceview5 5.10.0-1
+extra gtksourceview5-docs 5.10.0-1
 extra gtksourceviewmm 1:3.18.0-5
 extra gtksourceviewmm-docs 1:3.18.0-5
 extra gtkspell 2.0.16-8
@@ -2962,7 +2962,7 @@ extra gtkspellmm 3.0.5-4
 extra gtkspellmm-docs 3.0.5-4
 extra gtkwave 3.3.117-1
 extra gtop 1.1.5-1
-extra gtranslator 42.0-1
+extra gtranslator 45.2-2
 extra gts 0.7.6.121130-2
 extra guake 3.10-1
 extra gucharmap 15.0.4-1
@@ -5174,7 +5174,7 @@ extra libcrossguid 1:0.2.2-4
 extra libcryptui 1:3.12.2+r71+ged4f890e-1
 extra libcss 0.9.1-6
 extra libcuckoo 0.3.1-1
-extra libcue 2.2.1-3
+extra libcue 2.2.1-4
 extra libcups 1:2.4.7-2 [installed]
 extra libcupsfilters 2.0.0-1
 extra libcutefish 0.7-3
@@ -5196,8 +5196,8 @@ extra libdca 0.0.7-2
 extra libde265 1.0.12-1
 extra libdecor 0.2.0-1
 extra libdeflate 1.19-1 [installed]
-extra libdex 0.2.0-3
-extra libdex-docs 0.2.0-3
+extra libdex 0.4.0-1
+extra libdex-docs 0.4.0-1
 extra libdiscid 0.6.4-2
 extra libdispatch 5.5.0-1
 extra libdisplay-info 0.1.1-3
@@ -5219,7 +5219,7 @@ extra libe-book 0.1.3-14
 extra libeatmydata 131-1
 extra libebml 1.4.4-1
 extra libebur128 1.2.6-1
-extra libedataserverui4 3.48.4-2
+extra libedataserverui4 3.50.0-1
 extra libei 1.1.0-1
 extra libelfin 0.3-2
 extra libemf 1.0.13-2
@@ -5276,7 +5276,7 @@ extra libgdamm 4.99.11-2
 extra libgdamm-docs 4.99.11-2
 extra libgdata 0.18.1-3
 extra libgdiplus 5.6.1-4
-extra libgdm 44.1-1
+extra libgdm 45.0.1-1
 extra libgedit-amtk 5.8.0-1
 extra libgedit-gtksourceview 299.0.4-2
 extra libgee 0.20.6-1
@@ -5465,8 +5465,8 @@ extra libmypaint 1.6.1-1
 extra libmysofa 1.3.1-2
 extra libmythes 1:1.2.5-1
 extra libnatpmp 20230423-2
-extra libnautilus-extension 44.2.1-1
-extra libnautilus-extension-docs 44.2.1-1
+extra libnautilus-extension 45.0-1
+extra libnautilus-extension-docs 45.0-1
 extra libnbd 1.18.0-1
 extra libndp 1.8-1 [installed]
 extra libnest2d 0.4-2
@@ -5530,15 +5530,17 @@ extra libp11 0.4.12-2
 extra libpackagekit-glib 1.2.7-1
 extra libpagemaker 0.0.4-3
 extra libpam-google-authenticator 1.09-1
-extra libpanel 1.2.0-1
-extra libpanel-docs 1.2.0-1
+extra libpanel 1.4.0-1
+extra libpanel-docs 1.4.0-1
 extra libpano13 2.9.21-4
 extra libpaper 2.1.1-1
 extra libparserutils 0.2.4-5
 extra libpciaccess 0.17-1 [installed]
-extra libpeas 1.36.0-3
-extra libpeas-demos 1.36.0-3
-extra libpeas-docs 1.36.0-3
+extra libpeas 1.36.0-4
+extra libpeas-2 2.0.0-1
+extra libpeas-2-docs 2.0.0-1
+extra libpeas-demos 1.36.0-4
+extra libpeas-docs 1.36.0-4
 extra libperconaserverclient 8.0.34_26-5
 extra libpg_query 15.4.2.3-1
 extra libpgm 5.3.128-3 [installed]
@@ -5552,11 +5554,11 @@ extra libplist 2.3.0-2 [installed]
 extra libpng 1.6.40-2 [installed]
 extra libpng12 1.2.59-2
 extra libpoly 0.1.11-1
-extra libportal 0.7.1-1
-extra libportal-docs 0.7.1-1
-extra libportal-gtk3 0.7.1-1
-extra libportal-gtk4 0.7.1-1
-extra libportal-qt5 0.7.1-1
+extra libportal 0.7.1-2
+extra libportal-docs 0.7.1-2
+extra libportal-gtk3 0.7.1-2
+extra libportal-gtk4 0.7.1-2
+extra libportal-qt5 0.7.1-2
 extra libppd 2.0.0-1
 extra libpqxx 7.8.1-1
 extra libprocps 3.3.17-3
@@ -5944,7 +5946,7 @@ extra libstrophe-doc 1:0.12.3-1
 extra libsvgtiny 0.1.7-4
 extra libsvm 3.32-1
 extra libsynctex 2023.66984-16
-extra libsysprof-capture 3.48.0-4 [installed]
+extra libsysprof-capture 45.0-1 [installed]
 extra libsysstat 0.4.6-2
 extra libtaginfo 0.2.1-4
 extra libtar 1.2.20-6
@@ -6099,7 +6101,7 @@ extra light-locker 1.9.0-5
 extra lightdm 1:1.32.0-4
 extra lightdm-gtk-greeter 1:2.0.8-3
 extra lightdm-gtk-greeter-settings 1.2.2-8
-extra lightdm-pantheon-greeter 7.0.0-1
+extra lightdm-pantheon-greeter 7.0.0-2
 extra lightdm-slick-greeter 1.8.2-1
 extra lightdm-webkit-theme-litarvan 3.2.0-1
 extra lightdm-webkit2-greeter 2.2.5-7
@@ -6887,8 +6889,8 @@ extra musl 1.2.4-1
 extra mustache 4.1-3
 extra mustache-d 0.1.5-12
 extra mutt 2.2.12-1
-extra mutter 44.5-1
-extra mutter-docs 44.5-1
+extra mutter 45.0-1
+extra mutter-docs 45.0-1
 extra mvt 2.4.2-1
 extra mxml 3.3.1-1
 extra mxml-docs 3.3.1-1
@@ -6920,7 +6922,7 @@ extra nano-syntax-highlighting 2020.10.10-1
 extra nanomsg 1.2-1
 extra nanosvg 0.1.0.git1.9da543e-3
 extra nasm 2.16.01-1
-extra nautilus 44.2.1-1
+extra nautilus 45.0-1
 extra nautilus-image-converter 0.4.0-1
 extra nautilus-sendto 3.8.6+28+gc87aac4-1
 extra nautilus-share 0.7.5-3
@@ -7400,7 +7402,7 @@ extra orbiton 2.65.1-1
 extra orbiton-gtk3 2.65.1-1
 extra orbiton-nano 2.65.1-1
 extra orc 0.4.34-1 [installed]
-extra orca 44.1-1
+extra orca 45.1-1
 extra orcania 2.3.3-1
 extra os-prober 1.81-1
 extra osbuild 96-1
@@ -8458,7 +8460,7 @@ extra podofo-0.9 0.9.8-5
 extra podofo-tools 0.10.1-1
 extra poedit 1:3.3.2-2
 extra poke 3.2-1
-extra polari 43.0-3
+extra polari 45.0-1
 extra polkit 123-1 [installed]
 extra polkit-gnome 0.105-10
 extra polkit-kde-agent 5.27.8-2
@@ -11854,6 +11856,7 @@ extra snap-sync 0.7-2
 extra snapper 0.10.6-1
 extra snappy 1.1.9-2 [installed]
 extra snappy-player 1.0-9
+extra snapshot 45.0-1
 extra snd 23.7-1
 extra sndio 1.9.0-1
 extra snes9x 1.62.3-1
@@ -12081,7 +12084,7 @@ extra surge-xt-lv2 1.2.3-2
 extra surge-xt-standalone 1.2.3-2
 extra surge-xt-vst3 1.2.3-2
 extra suscan 0.3.0-1
-extra sushi 44.2-1
+extra sushi 45.0-1
 extra suwidgets 0.3.0-1
 extra svelte-language-server 0.15.19-1
 extra svgcleaner 0.9.5-3
@@ -12156,7 +12159,7 @@ extra sysbench 1.0.20-1
 extra sysdig 0.32.1-8
 extra sysdig-dkms 0.32.1-8
 extra syslog-ng 4.2.0-1
-extra sysprof 3.48.0-4
+extra sysprof 45.0-1
 extra sysstat 12.7.4-1
 extra system-config-printer 1.5.18-2
 extra system76-firmware 1.0.53-1
@@ -12206,6 +12209,7 @@ extra tea 0.9.2-1
 extra tealdeer 1.6.1-1
 extra teamspeak3 3.6.2-1
 extra teamspeak3-server 3.13.7-1
+extra tecla 45.0-1
 extra tectonic 0.14.1-4
 extra teensy_loader_cli 2.2-2
 extra teeworlds 0.7.5-2
@@ -13161,7 +13165,7 @@ extra wildmidi 0.4.5-2
 extra wimlib 1.14.3-1
 extra wine-gecko 2.47.4-1
 extra wine-mono 8.0.0-1
-extra wingpanel 3.0.5-1
+extra wingpanel 3.0.5-2
 extra wingpanel-indicator-a11y 1.0.2-1
 extra wingpanel-indicator-bluetooth 7.0.1-1
 extra wingpanel-indicator-datetime 2.4.1-3
@@ -13281,7 +13285,7 @@ extra xdelta3 3.1.0-4
 extra xdg-dbus-proxy 0.1.5-1
 extra xdg-desktop-portal 1.18.0-2
 extra xdg-desktop-portal-dde 1.0.5-5
-extra xdg-desktop-portal-gnome 44.2-2
+extra xdg-desktop-portal-gnome 45.0-1
 extra xdg-desktop-portal-gtk 1.14.1-3
 extra xdg-desktop-portal-hyprland 1.2.1-1
 extra xdg-desktop-portal-kde 5.27.8-4
@@ -14593,7 +14597,7 @@ chaotic-aur deluge-git 1:2.1.1.dev70.g1dbb18b80-1
 chaotic-aur dendrite 0.13.3-1
 chaotic-aur denise 2.1-1
 chaotic-aur densify 0.3.1-3.3
-chaotic-aur depot-tools-git r9989.2ea383731-1
+chaotic-aur depot-tools-git r9990.92d8c4e0c-1
 chaotic-aur deskreen 2.0.4-3
 chaotic-aur desmume-git 0.9.11.r1950.0b027d8cc-1
 chaotic-aur detwinner 0.4.2-2.1
@@ -14907,7 +14911,7 @@ chaotic-aur flatseal 2.1.0-1
 chaotic-aur fldigi 4.2.00-1.1
 chaotic-aur fldigi-git 4.2.00.r0.gb1d9024b-4.1
 chaotic-aur flif 0.4-1
-chaotic-aur flightcore 2.10.3-1
+chaotic-aur flightcore 2.10.4-1
 chaotic-aur flite1 1.4-6
 chaotic-aur floorp 11.4.1-1
 chaotic-aur fluent-cursor-theme-git 2023.06.07.r11.g3254ead-1
@@ -15286,7 +15290,7 @@ chaotic-aur hyperspace-bin 1:1.1.4-1.3
 chaotic-aur hypnotix 3.6-1
 chaotic-aur hyprland-git 0.30.0.r70.df0c8e0f-1
 chaotic-aur hyprland-nvidia 0.30.0-1
-chaotic-aur hyprland-nvidia-git 0.30.0.r69.g7f8e0a13-1
+chaotic-aur hyprland-nvidia-git 0.30.0.r70.gdf0c8e0f-1
 chaotic-aur hyprpaper-git r111.72735ae-1
 chaotic-aur hyprpicker-git 0.1.1.r5.7e1765f-1
 chaotic-aur hyprshot 1.2.3-1
@@ -15659,7 +15663,7 @@ chaotic-aur libdrm-git 2.4.116.r23.g6abc1640-1
 chaotic-aur libeb 4.4.3-10
 chaotic-aur libelectron 1.0.15-1
 chaotic-aur libffi7 3.3-2
-chaotic-aur libfprint-git 1:1.94.6.r10.g2414dbdb-1
+chaotic-aur libfprint-git 1:1.94.6.r10.g2414dbd-1
 chaotic-aur libfpx 1.3.1.10-5
 chaotic-aur libgaminggear 0.15.1-8.3
 chaotic-aur libgbinder 1.1.34-2
@@ -15878,11 +15882,13 @@ chaotic-aur lyx 2.3.7-2.2
 chaotic-aur m4b-tool-bin 0.4.2~20230214-2
 chaotic-aur m64py 0.2.5-2.5
 chaotic-aur macfanctld 0.6-2
+chaotic-aur magicavoxel 0.99.7.1.r20230614-2
 chaotic-aur mailspring 1.11.0-1
 chaotic-aur make-git 4.4.1.r56.g6b7f35cb-1
 chaotic-aur makehuman 1.2.0-7.2
 chaotic-aur makehuman-git r2694.d89a93d5-1.2
 chaotic-aur makemkv 1.17.5-1
+chaotic-aur man-pages-ja 20230915-1
 chaotic-aur mangohud-git 0.7.0.r35.g363b653-1
 chaotic-aur manuskript-git 0.15.0.r1.g2f93c2f-1.2
 chaotic-aur manyverse-bin 0.2309.4-0
@@ -15904,6 +15910,7 @@ chaotic-aur material-icon-theme-deepocean-git r38.4d828d5d-1
 chaotic-aur material-icon-theme-git r38.4d828d5d-1
 chaotic-aur material-icon-theme-palenight-git r38.4d828d5d-1
 chaotic-aur material-kwin-decoration-git v7+39+g0e989e5-1.3
+chaotic-aur material-maker-bin 1.3-1
 chaotic-aur matrix-registration 0.9.1-2.4
 chaotic-aur matrix-synapse-git 1.93.0.r0.g88ba67eb91-1
 chaotic-aur maui-core-git 0.6.6.r2.ge10c9c5-1
@@ -17043,9 +17050,13 @@ chaotic-aur saxon-he 11.4-1.1
 chaotic-aur sayonara-player 1.7.0_stable3-1.4
 chaotic-aur sayonara-player-git 1.8.0.beta1.r141.g5768b739-1
 chaotic-aur sc-controller 0.4.8.11-1
+chaotic-aur scala 2.13.11-1
+chaotic-aur scala-docs 2.13.11-1
+chaotic-aur scala-sources 2.13.11-1
 chaotic-aur schedtoold 0.3-11
 chaotic-aur schildichat-desktop 1.11.30.sc.2-1.1
 chaotic-aur scid 5.0.2-1.2
+chaotic-aur scilab-bin 2023.1.0-1
 chaotic-aur scli-git 0.7.3+23.r475.20230516.0239e04-2
 chaotic-aur scrub 2.6.1-1
 chaotic-aur sct 1.0.0-1
@@ -17672,13 +17683,14 @@ chaotic-aur waydroid-git 1.4.1.r18.gf8dd47e-1
 chaotic-aur waydroid-image 18.1_20231007-1
 chaotic-aur waydroid-image-gapps 18.1_20230819-1
 chaotic-aur waydroid-script-git r163.acbb764-1
-chaotic-aur wayfire 0.8.0-1
+chaotic-aur wayfire 0.8.0-2
 chaotic-aur wayfire-git r2808.166d032d-1
 chaotic-aur wayfire-plugins-extra 0.8.0-1
 chaotic-aur wayland-docs-git 1.22.0.r24.gedb943d-1
 chaotic-aur wayland-git 1.22.0.r24.gedb943d-1
 chaotic-aur wayland-protocols-git 1.32.r5.ge1abed6-1
 chaotic-aur waynergy-git r321.7691a33-1
+chaotic-aur waypaper-git 2.0.r5.g9ff12ac-1
 chaotic-aur waypipe-git 0.8.6.r6.gca48094-1
 chaotic-aur wcm 0.8.0-2
 chaotic-aur wd719x-firmware 1-7
@@ -17739,7 +17751,7 @@ chaotic-aur wlogout 1.1.1-3.3
 chaotic-aur wlr-randr 0.3.0-1
 chaotic-aur wlr-randr-git 0.3.0+2+gc5c1985-1
 chaotic-aur wlrobs-hg r64.f72d5cb3cbbd-1.1
-chaotic-aur wlroots-git 0.16.0.r772.g2cf78f4c5-1
+chaotic-aur wlroots-git 0.16.0.r774.g078540e08-1
 chaotic-aur wlsunset 0.3.0-1
 chaotic-aur wluma 4.3.0-1
 chaotic-aur wmenu 0.1.4-1
@@ -17747,7 +17759,7 @@ chaotic-aur wob 0.15.1-1
 chaotic-aur woeusb 5.2.4-1.1
 chaotic-aur woeusb-ng 0.2.12-3
 chaotic-aur woof-doom 12.0.0-1
-chaotic-aur woof-doom-git 12.0.0.r10.12ce2bbd-1
+chaotic-aur woof-doom-git 12.0.0.r11.405f6c76-1
 chaotic-aur wordnet-cli 3.1-4
 chaotic-aur wordnet-common 3.1-4
 chaotic-aur wordnet-tk 3.1-4
@@ -17837,6 +17849,7 @@ chaotic-aur xorg-server-xvfb-git 21.1.99.1.r529.g6fa9da043-1
 chaotic-aur xorg-xwayland-git 23.1.2.r125.g6fa9da043-1
 chaotic-aur xorgproto-git 2023.2.8.r2754.g1c8128d-1
 chaotic-aur xorgxrdp 0.9.19-2
+chaotic-aur xp-pen-tablet 3.4.6-230714
 chaotic-aur xpadneo-dkms 0.9.5-3
 chaotic-aur xpadneo-dkms-git 0.9.r144.g9b3b696-1
 chaotic-aur xplayer 2.4.2-3
@@ -17914,9 +17927,9 @@ chaotic-aur zenpower-dkms-git 46.5e2f56f-1.2
 chaotic-aur zenpower3-dkms 0.2.0-3.1
 chaotic-aur zenstates-git r6.0bc27f4-1
 chaotic-aur zfs-dkms 2.1.13-1
-chaotic-aur zfs-dkms-git 2:2.2.99.r136.g66b81b3497-1
+chaotic-aur zfs-dkms-git 2:2.2.99.r137.gc57ff818f6-1
 chaotic-aur zfs-utils 2.1.13-2
-chaotic-aur zfs-utils-git 2:2.2.99.r136.g66b81b3497-1
+chaotic-aur zfs-utils-git 2:2.2.99.r137.gc57ff818f6-1
 chaotic-aur zimg-git 3.0.5.150.g7143181-1
 chaotic-aur zimg-git-debug 3.0.5.150.g7143181-1
 chaotic-aur zlib-ng-git r2316.61e181c8-1
@@ -20281,13 +20294,13 @@ blackarch python-aiohttp-jinja2 1.5.1-2
 blackarch python-aiohttp-xmlrpc 1.5.0-2
 blackarch python-aiomultiprocess 0.9.0-3
 blackarch python-aiorun 2023.7.2-1
-blackarch python-aiosmb 0.4.6-1
+blackarch python-aiosmb 0.4.8-1
 blackarch python-aiosmtplib 2.0.2-1
 blackarch python-aiowinreg 0.0.10-1
 blackarch python-ajpy 0.0.5-4
 blackarch python-alexa-top-sites 5.98d6109-7
 blackarch python-alive-progress 3.1.4-1
-blackarch python-altgraph 0.17.3-2
+blackarch python-altgraph 0.17.4-1
 blackarch python-antlerinator 4.9.2-4
 blackarch python-apache-log-parser 1.7.0-7
 blackarch python-api-dnsdumpster 76.fa952c6-3
@@ -20301,9 +20314,9 @@ blackarch python-argparse 1.4.0-15
 blackarch python-arpreq 0.3.3-8
 blackarch python-arpreq-debug 0.3.3-8
 blackarch python-arsenic 21.8-3
-blackarch python-artifacts 20230723-1
+blackarch python-artifacts 20230928-1
 blackarch python-ascii_graph 1.5.1-7
-blackarch python-asciistuff 1.2.5-1
+blackarch python-asciistuff 1.2.6-1
 blackarch python-asciitree 0.3.3-4
 blackarch python-asn1tools 0.166.0-2
 blackarch python-asyauth 0.0.16-1
@@ -20311,11 +20324,11 @@ blackarch python-async 0.6.2-7
 blackarch python-asyncio 3.4.3-7
 blackarch python-asyncio-throttle 1.0.2-3
 blackarch python-asysocks 0.2.9-1
-blackarch python-atom 0.10.0-1
-blackarch python-atom-debug 0.10.0-1
+blackarch python-atom 0.10.3-1
+blackarch python-atom-debug 0.10.3-1
 blackarch python-augmentor 0.2.12-1
 blackarch python-awake 1.0-8
-blackarch python-azure-cli-core 2.52.0-1
+blackarch python-azure-cli-core 2.53.0-1
 blackarch python-azure-common 1.1.28-2
 blackarch python-azure-mgmt-keyvault 10.2.3-1
 blackarch python-azure-mgmt-monitor 5.0.1-2
@@ -20341,8 +20354,8 @@ blackarch python-bidict 0.22.0-1
 blackarch python-binaryornot 0.4.4-7
 blackarch python-binplist 0.1.4-8
 blackarch python-biplist 1.0.3-6
-blackarch python-bitarray 2.8.1-1
-blackarch python-bitarray-debug 2.8.1-1
+blackarch python-bitarray 2.8.2-1
+blackarch python-bitarray-debug 2.8.2-1
 blackarch python-bitstring 3.1.9-2
 blackarch python-bitstruct 8.17.0-2
 blackarch python-bitstruct-debug 8.17.0-2
@@ -20370,7 +20383,7 @@ blackarch python-cfscrape 1:2.1.1-4
 blackarch python-checksumdir 1.2.0-4
 blackarch python-cheetah3 3.2.6.post2-3
 blackarch python-cheetah3-debug 3.2.6.post2-3
-blackarch python-chepy 6.2.0-1
+blackarch python-chepy 6.3.0-1
 blackarch python-cherrypy-cors 1.6-5
 blackarch python-chromedriver-autoinstaller 0.6.2-1
 blackarch python-clamd 1.0.2-8
@@ -20471,12 +20484,12 @@ blackarch python-emoji 2.8.0-1
 blackarch python-enaml 0.16.1-1
 blackarch python-enaml-debug 0.16.1-1
 blackarch python-enhancements 0.4.0-2
-blackarch python-enlighten 1.11.2-2
+blackarch python-enlighten 1.12.0-1
 blackarch python-enum-compat 0.0.3-5
 blackarch python-environs 9.5.0-2
 blackarch python-esprima 4.0.1-5
 blackarch python-eth-hash 0.5.2-1
-blackarch python-eth-typing 3.4.0-1
+blackarch python-eth-typing 3.5.0-1
 blackarch python-eth-utils 2.2.1-1
 blackarch python-event-bus 1.0.2-5
 blackarch python-exchangelib 5.1.0-1
@@ -20509,7 +20522,7 @@ blackarch python-flask-basicauth 0.2.0-4
 blackarch python-flask-bcrypt 1.0.1-2
 blackarch python-flask-classful 0.14.2-4
 blackarch python-flask-classy 0.6.10-5
-blackarch python-flask-jwt-extended 4.5.2-1
+blackarch python-flask-jwt-extended 4.5.3-1
 blackarch python-flask-kvsession-fork 0.6.4-2
 blackarch python-flask-mongoengine 1.0.0-5
 blackarch python-flask-negotiation 0.1.9-5
@@ -20541,11 +20554,11 @@ blackarch python-glom 23.3.0-1
 blackarch python-gnureadline 8.1.2-2
 blackarch python-gnureadline-debug 8.1.2-2
 blackarch python-google 3.0.0-5
-blackarch python-google-api-core 2.11.1-1
-blackarch python-google-cloud-container 2.31.0-1
+blackarch python-google-api-core 2.12.0-1
+blackarch python-google-cloud-container 2.32.0-1
 blackarch python-google-cloud-core 2.3.3-1
 blackarch python-google-cloud-iam 2.12.2-1
-blackarch python-google-cloud-logging 3.6.0-1
+blackarch python-google-cloud-logging 3.8.0-1
 blackarch python-google-cloud-monitoring 2.15.1-1
 blackarch python-google-cloud-resource-manager 1.10.4-1
 blackarch python-google-cloud-storage 2.11.0-1
@@ -20599,19 +20612,19 @@ blackarch python-inquirer 3.1.3-1
 blackarch python-inspect2 0.1.2-3
 blackarch python-instagram-private-api 1.6.0.0-2
 blackarch python-instagramapi 1.0.2-5
-blackarch python-iocextract 1.16.0-1
+blackarch python-iocextract 1.16.1-1
 blackarch python-ip2location 8.10.0-1
 blackarch python-ipaddr 2.2.0-7
 blackarch python-ipapi 1.0.4-4
 blackarch python-ipcalc 1:1.99.0-8
 blackarch python-ipgetter 1.1.10-2
-blackarch python-ipparser 0.3.8-5
+blackarch python-ipparser 1.0.0-1
 blackarch python-iptools 0.7.0-6
 blackarch python-ipwhois 1.2.0-4
 blackarch python-isc_dhcp_leases 0.10.0-1
 blackarch python-ishell 0.1.8-4
 blackarch python-iso3166 2.1.1-2
-blackarch python-itanium-demangler 1.0-4
+blackarch python-itanium-demangler 1.1-1
 blackarch python-ivre 0.9.20.dev149-1
 blackarch python-j2cli 0.3.10-6
 blackarch python-javalang 0.13.0-4
@@ -20635,8 +20648,8 @@ blackarch python-ldaptor 21.2.0-2
 blackarch python-libarchive 0.4.7-5
 blackarch python-libbde-python 20221031-2
 blackarch python-libbde-python-debug 20221031-2
-blackarch python-libcreg-python 20221022-2
-blackarch python-libcreg-python-debug 20221022-2
+blackarch python-libcreg-python 20230930-1
+blackarch python-libcreg-python-debug 20230930-1
 blackarch python-libesedb-python 20230318-1
 blackarch python-libesedb-python-debug 20230318-1
 blackarch python-libevt-python 20221022-2
@@ -20651,8 +20664,8 @@ blackarch python-libfvde-python 20220125-1
 blackarch python-libfwnt-python 20210717-1
 blackarch python-libfwsi-python 20220123-1
 blackarch python-libkeepass 0.3.1.post1-6
-blackarch python-liblnk-python 20230716-1
-blackarch python-liblnk-python-debug 20230716-1
+blackarch python-liblnk-python 20230928-1
+blackarch python-liblnk-python-debug 20230928-1
 blackarch python-libluksde-python 20221103-2
 blackarch python-libluksde-python-debug 20221103-2
 blackarch python-libmagic 1.0-5
@@ -20681,7 +20694,7 @@ blackarch python-libvslvm-python 20210524-1
 blackarch python-limits 3.6.0-1
 blackarch python-litecli 1.9.0-1
 blackarch python-lml 0.1.0-4
-blackarch python-lnkparse3 1.2.1-1
+blackarch python-lnkparse3 1.3.2-1
 blackarch python-loguru 0.7.2-1
 blackarch python-lsassy v3.1.8.r6.g4b1ddf1-1
 blackarch python-luhn 0.2.0.r1.gc26e5c6-3
@@ -20708,8 +20721,8 @@ blackarch python-modbus-tk 1:1.1.3-2
 blackarch python-moviepy 1.0.3-6
 blackarch python-mox3 1.1.0-7
 blackarch python-mr.bob 0.1.2-7
-blackarch python-msal 1.24.0-1
-blackarch python-msldap 0.5.5-1
+blackarch python-msal 1.24.1-1
+blackarch python-msldap 0.5.7-1
 blackarch python-msoffcrypto-tool 1:5.0.0-1
 blackarch python-msrest 0.7.1-2
 blackarch python-msrestazure 0.6.4-4
@@ -20721,14 +20734,14 @@ blackarch python-murmurhash-debug 1.0.10-1
 blackarch python-name-that-hash 1.11.0-2
 blackarch python-names 1:0.3.0-6
 blackarch python-nampa 0.1.1-2
-blackarch python-nassl 1:5.0.1-1
-blackarch python-nassl-debug 1:5.0.1-1
+blackarch python-nassl 1:5.1.0-1
+blackarch python-nassl-debug 1:5.1.0-1
 blackarch python-neo4j-driver 4.4.11-1
 blackarch python-neobolt 1.7.17-4
 blackarch python-neobolt-debug 1.7.17-4
 blackarch python-neotime 1.7.4-5
 blackarch python-nest-asyncio 1.5.8-1
-blackarch python-normality 2.4.0-1
+blackarch python-normality 2.5.0-1
 blackarch python-notifiers 1.3.3-2
 blackarch python-notify2 0.3.1-5
 blackarch python-nplusone 1.0.0-6
@@ -20772,7 +20785,7 @@ blackarch python-pillow6 6.2.2-2
 blackarch python-pillow6-debug 6.2.2-2
 blackarch python-ping3 4.0.4-1
 blackarch python-pip-shims 0.7.3-2
-blackarch python-piplapis-python 5.2.3-2
+blackarch python-piplapis-python 5.3.0-1
 blackarch python-pixelmatch 0.3.0-2
 blackarch python-plac 1.4.0-1
 blackarch python-plaso 20200227-2
@@ -20805,7 +20818,7 @@ blackarch python-ptable-boxchar 242.4aa17e1-4
 blackarch python-ptp 0.4.2-8
 blackarch python-ptrace 0.9.3-2
 blackarch python-publicsuffix 1.1.1-4
-blackarch python-publicsuffixlist 0.10.0.20230920-1
+blackarch python-publicsuffixlist 0.10.0.20231002-1
 blackarch python-puremagic 1.15-2
 blackarch python-puttykeys 1.0.3-5
 blackarch python-pwntools 4.11.0-1
@@ -20820,7 +20833,7 @@ blackarch python-pyasn 1.6.2-1
 blackarch python-pyasn-debug 1.6.2-1
 blackarch python-pyattck 7.1.2-1
 blackarch python-pyautogui 0.9.54-1
-blackarch python-pybase64 1.3.0-1
+blackarch python-pybase64 1.3.1-1
 blackarch python-pybase64-debug 1.2.3-2
 blackarch python-pybinaryedge 0.5-5
 blackarch python-pycipher 0.5.2-3
@@ -20942,7 +20955,7 @@ blackarch python-python-pytun 2.4.1-3
 blackarch python-python-pytun-debug 2.4.1-3
 blackarch python-python-registry 1.3.1-6
 blackarch python-python-rle 0.0.3-3
-blackarch python-python-socks 2.4.2-1
+blackarch python-python-socks 2.4.3-1
 blackarch python-python-symmetric-jsonrpc 0.1-6
 blackarch python-python-wappalyzer 0.3.1-5
 blackarch python-python-whois 0.8.0-2
@@ -20950,12 +20963,12 @@ blackarch python-pythonaes 1.0-5
 blackarch python-pythonwhois 2.4.3-8
 blackarch python-pythreatgrid2 5.3521e34-5
 blackarch python-pytorctl 2013.10.16.4.gc8fcb25-4
-blackarch python-pytsk3 20230125-2
-blackarch python-pytsk3-debug 20230125-2
+blackarch python-pytsk3 20231007-1
+blackarch python-pytsk3-debug 20231007-1
 blackarch python-pyttsx 1.1-8
 blackarch python-pyuv 1.4.0-4
-blackarch python-pyvex 9.2.69-1
-blackarch python-pyvex-debug 9.2.69-1
+blackarch python-pyvex 9.2.71-1
+blackarch python-pyvex-debug 9.2.71-1
 blackarch python-pyvirtualdisplay 3.0-2
 blackarch python-pyvis 0.3.1-2
 blackarch python-pyvit 0.2.1-9
@@ -20964,7 +20977,7 @@ blackarch python-pywavelets 1.4.1-2
 blackarch python-pywavelets-debug 1.4.1-2
 blackarch python-pywebcopy 7.0.2-3
 blackarch python-pywebview 4.0.2-2
-blackarch python-pywerview 0.5.1-1
+blackarch python-pywerview 0.5.2-1
 blackarch python-pywhois 0.1-8
 blackarch python-pyxcute 0.6.0-4
 blackarch python-qdarkstyle 3.1-2
@@ -21006,7 +21019,7 @@ blackarch python-safeurl 0.0.7-9
 blackarch python-sarif-om 1.0.4-1
 blackarch python-scandir 1.10.0-5
 blackarch python-scapy-http 1.8.2-7
-blackarch python-schedule 1.2.0-1
+blackarch python-schedule 1.2.1-1
 blackarch python-scikit-image 0.21.0-1
 blackarch python-scikit-image-debug 0.21.0-1
 blackarch python-scp 0.14.5-2
@@ -21048,8 +21061,8 @@ blackarch python-smoke-zephyr 2.0.1-3
 blackarch python-social-analyzer 0.45-2
 blackarch python-socid-extractor 0.0.25-1
 blackarch python-socks5line 0.0.4-4
-blackarch python-spacy 3.6.1-1
-blackarch python-spacy-debug 3.6.1-1
+blackarch python-spacy 3.7.1-1
+blackarch python-spacy-debug 3.7.1-1
 blackarch python-spark-parser 1.8.9-5
 blackarch python-speechrecognition 3.8.1-9
 blackarch python-speechrecognition-debug 3.8.1-9
@@ -21088,7 +21101,7 @@ blackarch python-swagger-ui-bundle 0.0.9-2
 blackarch python-symath 0.1.25-10
 blackarch python-symautomata 0.0.12-7
 blackarch python-syslog-rfc5424-formatter 1.2.3-2
-blackarch python-taser 0.3.3-4
+blackarch python-taser 0.4.0-1
 blackarch python-taxii2-client 0.5.0-4
 blackarch python-telepot 12.7-7
 blackarch python-telethon 1:1.25.4-3
@@ -21147,10 +21160,10 @@ blackarch python-w3af-api-client 1:3.0.1-4
 blackarch python-wakeonlan 3.0.0-2
 blackarch python-wasabi 1.1.2-1
 blackarch python-wasm 1.2-2
-blackarch python-wayback 0.4.2-1
+blackarch python-wayback 0.4.3-1
 blackarch python-weakrefmethod 1.0.3-5
 blackarch python-webargs 8.3.0-1
-blackarch python-webdriver-manager 4.0.0-1
+blackarch python-webdriver-manager 4.0.1-1
 blackarch python-websockify 0.11.0-1
 blackarch python-wget 3.2-8
 blackarch python-whichcraft 0.6.1-5
@@ -21194,8 +21207,8 @@ blackarch python-zebracorn-debug 0.0.1-3
 blackarch python-zeo 5.4.1-1
 blackarch python-zlib_wrapper 0.1.3-7
 blackarch python-zodb 5.8.1-1
-blackarch python-zodbpickle 3.0.1-1
-blackarch python-zodbpickle-debug 3.0.1-1
+blackarch python-zodbpickle 3.1-1
+blackarch python-zodbpickle-debug 3.1-1
 blackarch python-zodburi 2.6.0-1
 blackarch python2 2.7.18-8
 blackarch python2-adal 1.2.7-3
@@ -21252,7 +21265,7 @@ blackarch python2-binaryornot 0.4.4-7
 blackarch python2-binplist 0.1.4-8
 blackarch python2-bintrees 2.2.0-2
 blackarch python2-biplist 1.0.3-6
-blackarch python2-bitarray 2.8.1-1
+blackarch python2-bitarray 2.8.2-1
 blackarch python2-bitstring 3.1.9-2
 blackarch python2-blessings 1.7-5
 blackarch python2-blinker 1.4-7
@@ -21502,12 +21515,12 @@ blackarch python2-iniconfig 1.1.1-5
 blackarch python2-iniparse 0.5-4
 blackarch python2-instagramapi 1.0.2-5
 blackarch python2-intervaltree 3.1.0-1
-blackarch python2-iocextract 1.16.0-1
+blackarch python2-iocextract 1.16.1-1
 blackarch python2-ip2location 8.10.0-1
 blackarch python2-ipaddr 2.2.0-7
 blackarch python2-ipaddress 1.0.23-3
 blackarch python2-ipcalc 1:1.99.0-8
-blackarch python2-ipparser 0.3.8-5
+blackarch python2-ipparser 1.0.0-1
 blackarch python2-iptools 0.7.0-6
 blackarch python2-ipwhois 1.2.0-4
 blackarch python2-ipy 1.00-5
@@ -21662,7 +21675,7 @@ blackarch python2-phply 1.2.5-11
 blackarch python2-pickleshare 0.7.5-6
 blackarch python2-pillow6 6.2.2-2
 blackarch python2-pip 20.3.4-4
-blackarch python2-piplapis-python 5.2.3-2
+blackarch python2-piplapis-python 5.3.0-1
 blackarch python2-plaso 20191203-1
 blackarch python2-platformdirs 2.0.2-2
 blackarch python2-play-scraper 0.6.0-5
@@ -21692,7 +21705,7 @@ blackarch python2-ptp 0.4.2-8
 blackarch python2-ptrace 0.9.4-2
 blackarch python2-ptyprocess 0.7.0-2
 blackarch python2-publicsuffix 1.1.1-4
-blackarch python2-publicsuffixlist 0.10.0.20230920-1
+blackarch python2-publicsuffixlist 0.10.0.20231002-1
 blackarch python2-pubsub 4.0.0-3
 blackarch python2-pushbullet.py 0.11.0-1
 blackarch python2-pushover 0.5-1
@@ -21884,7 +21897,7 @@ blackarch python2-sander-daemon 1.0.0-3
 blackarch python2-scandir 1.10.0-4
 blackarch python2-scapy 2.4.3-3
 blackarch python2-scapy-http 1.8.2-7
-blackarch python2-schedule 1.2.0-1
+blackarch python2-schedule 1.2.1-1
 blackarch python2-scipy 1.2.3-2
 blackarch python2-scons 3.1.1-2
 blackarch python2-scp 0.14.5-2
@@ -22585,7 +22598,7 @@ blackarch sslscan2-debug 679.d84ca17-1
 blackarch sslsniff 0.8-5
 blackarch sslsplit 0.5.2-1
 blackarch sslstrip 0.9-11
-blackarch sslyze 5.1.3-2
+blackarch sslyze 5.2.0-1
 blackarch ssma 215.2a2b6bd-4
 blackarch ssrf-proxy 293.e79da7a-16
 blackarch ssrf-sheriff 2.f95d691-2
@@ -23175,8 +23188,8 @@ archlinuxcn adobe-source-han-mono-tw-fonts 1.002-6
 archlinuxcn afdko 4.0.0-2
 archlinuxcn afdko-debug 4.0.0-2
 archlinuxcn aha-git 0.5.23.g482f6df-1
-archlinuxcn alacritty-git 1:0.13.0.2184.ge07bf6f2-1
-archlinuxcn alacritty-git-debug 1:0.13.0.2184.ge07bf6f2-1
+archlinuxcn alacritty-git 1:0.13.0.2185.ge1859e80-1
+archlinuxcn alacritty-git-debug 1:0.13.0.2185.ge1859e80-1
 archlinuxcn alacritty-ligatures-git 0.8.0.1772.g3ed0430-1
 archlinuxcn alsa-ucm-conf-asahi 1-2
 archlinuxcn alvr 20.4.3-1
@@ -25155,8 +25168,8 @@ archlinuxcn kdenlive-git-debug 23.11.70.r18821-1
 archlinuxcn kdeplasma-applets-fokus 1.5.5-2
 archlinuxcn kdiskmark-git 3.1.4.r2.g298099c-1
 archlinuxcn kdiskmark-git-debug 3.1.4.r2.g298099c-1
-archlinuxcn keepassxc-git 2.7.1.r224.gcd7a53abb-1
-archlinuxcn keepassxc-git-debug 2.7.1.r224.gcd7a53abb-1
+archlinuxcn keepassxc-git 2.7.1.r224.gcd7a53abb-2
+archlinuxcn keepassxc-git-debug 2.7.1.r224.gcd7a53abb-2
 archlinuxcn kega-fusion 3.63-17
 archlinuxcn kernel-modules-hook-bindmount 0.2.4-2
 archlinuxcn kernel-modules-hook-reflink 0.1.11-1
@@ -26418,6 +26431,8 @@ archlinuxcn rescrobbled-git-debug 0.7.1.r0.g491c1fe-1
 archlinuxcn resp-app 2022.5-3
 archlinuxcn resp-app-debug 2022.5-3
 archlinuxcn restbase-git v1.1.4.r181.geac1d088-1
+archlinuxcn resticprofile 0.23.0-2
+archlinuxcn resticprofile-debug 0.23.0-2
 archlinuxcn resvg 0.35.0-1
 archlinuxcn resvg-debug 0.35.0-1
 archlinuxcn retext-git 8.0.0.r30.gadeba38-1
@@ -26634,8 +26649,8 @@ archlinuxcn supertuxkart-git-debug 23225+18587-1
 archlinuxcn suplemon 0.2.0-6
 archlinuxcn surface-control 0.4.6-1
 archlinuxcn surface-control-debug 0.4.6-1
-archlinuxcn sway-hidpi-git r7189.4326a26ad-4
-archlinuxcn sway-hidpi-git-debug r7189.4326a26ad-4
+archlinuxcn sway-hidpi-git r7189.4326a26ad-5
+archlinuxcn sway-hidpi-git-debug r7189.4326a26ad-5
 archlinuxcn swaybg-git r128.a67361e-1
 archlinuxcn swaylock-effects 1.6.10-1
 archlinuxcn swaync 0.9.0-1
