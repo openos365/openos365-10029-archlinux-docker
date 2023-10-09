@@ -1,15 +1,12 @@
-NAME="Anolis OS"
-VERSION="7.9"
-ID="anolis"
-ID_LIKE="rhel fedora centos"
-VERSION_ID="7.9"
-PRETTY_NAME="Anolis OS 7.9"
-ANSI_COLOR="0;31"
-HOME_URL="https://openanolis.cn/"
-BUG_REPORT_URL="https://bugs.openanolis.cn/"
-
-CENTOS_MANTISBT_PROJECT="CentOS-7"
-CENTOS_MANTISBT_PROJECT_VERSION="7"
-REDHAT_SUPPORT_PRODUCT="centos"
-REDHAT_SUPPORT_PRODUCT_VERSION="7"
-
+NAME="Arch Linux"
+PRETTY_NAME="Arch Linux"
+ID=arch
+BUILD_ID=rolling
+VERSION_ID=20231001.0.182270
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://archlinux.org/"
+DOCUMENTATION_URL="https://wiki.archlinux.org/"
+SUPPORT_URL="https://bbs.archlinux.org/"
+BUG_REPORT_URL="https://bugs.archlinux.org/"
+PRIVACY_POLICY_URL="https://terms.archlinux.org/docs/privacy-policy/"
+LOGO=archlinux-logo
