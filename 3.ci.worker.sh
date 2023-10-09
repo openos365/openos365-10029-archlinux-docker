@@ -9,6 +9,7 @@ cd $CMD_PATH
 echo "============================================================================"
 pwd
 
+
 echo "============================================================================"
 whoami
 
@@ -16,7 +17,17 @@ echo "==========================================================================
 env
 
 echo "============================================================================"
-if [ ! -z $${GITHUB_REPOSITORY} ];then
+if [ ! -z "${GITHUB_REPOSITORY}" ];then
+
+    # 0
+    # sudo apt update -y
+    # sudo apt upgrade -y
+    sudo apt install -y dos2unix
+    cd ~
+    curl -LO https://storage.googleapis.com/container-diff/latest/container-diff-linux-amd64
+    sudo install container-diff-linux-amd64 /usr/bin/container-diff
+    cd $CMD_PATH
+    
     # 1 
     git config --global user.email "gnuhub@gmail.com"
     git config --global user.name "gnuhub"
@@ -34,6 +45,8 @@ if [ ! -z $${GITHUB_REPOSITORY} ];then
     cat $HOME/.ssh/known_hosts
 
     # 4
+    curl https://raw.githubusercontent.com/openos365/openos365-00002-ci-github-actions-template/main/6.template.update.from.00002.sh > 6.template.update.from.00002.sh
+    chmod +x 6.template.update.from.00002.sh
     sudo cp ./6.template.update.from.00002.sh /usr/bin/6.template.update.from.00002.sh
     6.template.update.from.00002.sh
     sudo cp ./p2 /usr/bin/p2
@@ -54,14 +67,32 @@ if [ ! -z $${GITHUB_REPOSITORY} ];then
     done
 
     # 7
+    # cd $CMD_PATH
+    # apt list > 4.apt.list.txt
+    # apt list --installed > 5.apt.list.installed.txt
+   
+    # 8
     cd $CMD_PATH
+    touch 8.workflows.to.run.repos.txt
+    dos2unix 8.workflows.to.run.repos.txt
+    while read repo
+    do
+        echo $repo | tr -d '\r'
+        export repo_name=$(echo $repo | tr -d '\r')
+        echo $repo_name
+        if [ ! -z $repo_name ];then 
+            export repo_name_length=$(expr length ${repo_name})
+            echo $repo_name_length
+            if [ $repo_name_length -gt 3 ];then
+                gh workflow run 1.ci.yml --repo $repo_name --ref $GITHUB_REF_NAME
+            fi
+        fi
+    done < 8.workflows.to.run.repos.txt
 
-    # sudo apt update -y
-    # sudo apt upgrade -y
-    apt list > 4.apt.list.txt
-    apt list --installed > 5.apt.list.installed.txt
-
+    # 9
+    find ./ -name "*.sh" -exec chmod +x {} \; 
     p2 "CI-BOT:$(date +%Y.%m.%d-%H%M%S)-$GITHUB_REF_NAME-$GITHUB_RUN_NUMBER"
+    
 
 fi
 echo "============================================================================"

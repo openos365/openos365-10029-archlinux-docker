@@ -18,7 +18,9 @@ env
 echo "============================================================================"
 # TODO HERE
 
-rsync -avzP ./template/ ./
-find ./ -name "*.sh" -exec chmod +x {} \; 
+for ci_dir in `ls -d */`
+do
+	./${ci_dir}0.template.init.sh
+done
 
 echo "============================================================================"
