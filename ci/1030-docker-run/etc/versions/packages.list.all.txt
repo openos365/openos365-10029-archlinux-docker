@@ -95,7 +95,7 @@ core keyutils 1.6.3-2 [installed]
 core kmod 31-1 [installed]
 core krb5 1.20.1-1 [installed]
 core ldns 1.8.3-2 [installed]
-core lemon 3.43.1-1
+core lemon 3.43.2-1
 core less 1:643-1
 core lib32-gcc-libs 13.2.1-3
 core lib32-glibc 2.38-7
@@ -164,9 +164,9 @@ core linux-firmware-qcom 20230804.7be2766d-2
 core linux-firmware-qlogic 20230804.7be2766d-2
 core linux-firmware-whence 20230804.7be2766d-2
 core linux-headers 6.5.6.arch2-1
-core linux-lts 6.1.56-1
-core linux-lts-docs 6.1.56-1
-core linux-lts-headers 6.1.56-1
+core linux-lts 6.1.57-1
+core linux-lts-docs 6.1.57-1
+core linux-lts-headers 6.1.57-1
 core logrotate 3.21.0-2
 core lto-dump 13.2.1-3
 core lvm2 2.03.22-2 [installed]
@@ -232,10 +232,10 @@ core s-nail 14.9.24-2
 core sdparm 1.12-1
 core sed 4.9-3 [installed]
 core shadow 4.14.0-4 [installed]
-core sqlite 3.43.1-1 [installed]
-core sqlite-analyzer 3.43.1-1
-core sqlite-doc 3.43.1-1
-core sqlite-tcl 3.43.1-1
+core sqlite 3.43.2-1 [installed]
+core sqlite-analyzer 3.43.2-1
+core sqlite-doc 3.43.2-1
+core sqlite-tcl 3.43.2-1
 core sudo 1.9.14.p3-1 [installed]
 core sysfsutils 2.1.1-1
 core syslinux 6.04.pre2.r11.gbf6db5b4-4
@@ -296,7 +296,7 @@ extra acorn 1:8.10.0-1
 extra acpi 1.7-3
 extra acpi_call 1.2.2-160
 extra acpi_call-dkms 1.2.2-1
-extra acpi_call-lts 1.2.2-147
+extra acpi_call-lts 1.2.2-148
 extra acpica 20230628-1
 extra acpid 2.0.34-1
 extra acpilight 1.2-2
@@ -7149,7 +7149,7 @@ extra nvchecker 2.12-2
 extra nvidia 535.113.01-4
 extra nvidia-cg-toolkit 3.1-6
 extra nvidia-dkms 535.113.01-2
-extra nvidia-lts 1:535.113.01-3
+extra nvidia-lts 1:535.113.01-4
 extra nvidia-open 535.113.01-4
 extra nvidia-open-dkms 535.113.01-4
 extra nvidia-prime 1.0-4
@@ -10900,7 +10900,7 @@ extra r 4.3.1-2
 extra r10k 3.16.0-1
 extra r2ghidra 5.8.6-1
 extra r8168 8.052.01-3
-extra r8168-lts 8.052.01-2
+extra r8168-lts 8.052.01-3
 extra rabbitmq 3.12.0-1
 extra rabbitmqadmin 3.12.0-1
 extra racket 8.10-1
@@ -12572,7 +12572,7 @@ extra towncrier 22.12.0-3
 extra toxcore 1:0.2.18-2
 extra toxic 0.11.3-3
 extra tp_smapi 0.44-11
-extra tp_smapi-lts 0.43-343
+extra tp_smapi-lts 0.43-344
 extra tpacpi-bat 3.2-1
 extra tpm2-abrmd 3.0.0-1
 extra tpm2-openssl 1.1.1-1
@@ -14720,7 +14720,7 @@ chaotic-aur envycontrol 3.3.0-1
 chaotic-aur epdfview-git 0.2.0.r28.g6f907bd-1
 chaotic-aur epdfview-gtk3 1:0.0.1-1
 chaotic-aur epson-inkjet-printer-escpr 1.8.0-3
-chaotic-aur epson-inkjet-printer-escpr2 1.2.7-1
+chaotic-aur epson-inkjet-printer-escpr2 1.2.8-1
 chaotic-aur epsxe 2.0.5-31
 chaotic-aur epy-ereader-git r290.6b0e9fe-1
 chaotic-aur eqonomize-git r525.fd96d12-1
@@ -16923,7 +16923,7 @@ chaotic-aur qytdl 1.6-1.3
 chaotic-aur r8125-dkms 9.011.01-1
 chaotic-aur r8152-dkms 2.17.1.20230903-1
 chaotic-aur r8168-dkms 8.052.01-1
-chaotic-aur radare2-git 5.8.9.r31139.bf33a2c9a0-1
+chaotic-aur radare2-git 5.8.9.r31140.2cbc70e3ba-1
 chaotic-aur radarr 5.0.3.8127-1
 chaotic-aur radeon-profile-daemon-git 20190603.r0.g7923bd6-2
 chaotic-aur radeon-profile-git 20200824.r26.g0d632ba-1.4
@@ -17030,7 +17030,7 @@ chaotic-aur rtx 2023.10.1-1
 chaotic-aur ruby-build 20230919-1
 chaotic-aur rubymine 2023.2.3-1
 chaotic-aur rufetch 0.2.2-1
-chaotic-aur ruffle-git 1:r10668.cf3c59420-1
+chaotic-aur ruffle-git 1:r10669.2422793d1-1
 chaotic-aur ruffle-nightly-bin 2023.10.11-1
 chaotic-aur runescape-launcher 2.2.11-1
 chaotic-aur rusnapshot-git 33.b19e757-1
@@ -17472,7 +17472,7 @@ chaotic-aur ttf-font-awesome-4 4.7.0-5
 chaotic-aur ttf-freebanglafont 20130212-5
 chaotic-aur ttf-gelasio-ib 1.007-1
 chaotic-aur ttf-geosans-light 1.0-3
-chaotic-aur ttf-google-fonts-git 1:r6339.2ad7ce3c0-1
+chaotic-aur ttf-google-fonts-git 1:r6342.71aa5e42f-1
 chaotic-aur ttf-heuristica 1.0.2-5
 chaotic-aur ttf-icomoon-feather 1.0-2
 chaotic-aur ttf-impallari-cantora 1.001-7
