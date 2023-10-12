@@ -386,7 +386,7 @@ extra almanah 0.12.3-5
 extra alot 0.10-6
 extra alpine-chroot-install 0.14.0-3
 extra alpine-keyring 2.4-1
-extra alsa-card-profiles 1:0.3.81-1
+extra alsa-card-profiles 1:0.3.81-2
 extra alsa-firmware 1.2.4-3
 extra alsa-lib 1.2.10-2 [installed]
 extra alsa-oss 1.1.8-5
@@ -2895,7 +2895,7 @@ extra gst-plugin-gtk 1.22.6-1
 extra gst-plugin-libcamera 0.1.0-2
 extra gst-plugin-msdk 1.22.6-1
 extra gst-plugin-opencv 1.22.6-1
-extra gst-plugin-pipewire 1:0.3.81-1
+extra gst-plugin-pipewire 1:0.3.81-2
 extra gst-plugin-qml6 1.22.6-1
 extra gst-plugin-qmlgl 1.22.6-1
 extra gst-plugin-qsv 1.22.6-1
@@ -5548,7 +5548,7 @@ extra libphobos 1:2.105.2-1
 extra libphonenumber 1:8.13.22-1
 extra libpillowfight 0.3.0-8
 extra libpinyin 2.8.1-1
-extra libpipewire 1:0.3.81-1
+extra libpipewire 1:0.3.81-2
 extra libplacebo 5.264.1-4
 extra libplist 2.3.0-2 [installed]
 extra libpng 1.6.40-2 [installed]
@@ -8376,19 +8376,19 @@ extra pipe-rename 1.6.5-1
 extra pipectl 0.4.1-3
 extra piper 0.7-2
 extra pipesocks 2.3-4
-extra pipewire 1:0.3.81-1
-extra pipewire-alsa 1:0.3.81-1
-extra pipewire-audio 1:0.3.81-1
-extra pipewire-docs 1:0.3.81-1
-extra pipewire-ffado 1:0.3.81-1
-extra pipewire-jack 1:0.3.81-1
-extra pipewire-jack-client 1:0.3.81-1
+extra pipewire 1:0.3.81-2
+extra pipewire-alsa 1:0.3.81-2
+extra pipewire-audio 1:0.3.81-2
+extra pipewire-docs 1:0.3.81-2
+extra pipewire-ffado 1:0.3.81-2
+extra pipewire-jack 1:0.3.81-2
+extra pipewire-jack-client 1:0.3.81-2
 extra pipewire-media-session 1:0.4.2-2
-extra pipewire-pulse 1:0.3.81-1
-extra pipewire-roc 1:0.3.81-1
-extra pipewire-v4l2 1:0.3.81-1
-extra pipewire-x11-bell 1:0.3.81-1
-extra pipewire-zeroconf 1:0.3.81-1
+extra pipewire-pulse 1:0.3.81-2
+extra pipewire-roc 1:0.3.81-2
+extra pipewire-v4l2 1:0.3.81-2
+extra pipewire-x11-bell 1:0.3.81-2
+extra pipewire-zeroconf 1:0.3.81-2
 extra piping-server 0.16.0-1
 extra pitivi 2023.03-2
 extra pius 3.0.0-5
@@ -9885,6 +9885,7 @@ extra python-pygal 1:3.0.0-3
 extra python-pygaljs 1.0.2-2
 extra python-pygame 2.4.0-1
 extra python-pygame-sdl2 1:2.1.0.r436.7aa1e5a-1
+extra python-pygdbmi 0.11.0.0-3
 extra python-pygeos 0.14-2
 extra python-pygit2 1.12.1-2
 extra python-pygithub 1.59.1-1
@@ -13151,7 +13152,7 @@ extra wezterm-shell-integration 20230712.072601.f4abf8fd-1
 extra wezterm-terminfo 20230712.072601.f4abf8fd-1
 extra wf-recorder 0.4.1-1
 extra wgcf 2.2.16-1
-extra wget 1.21.4-1
+extra wget 1.21.4-1 [installed]
 extra wgetpaste 2.33-1
 extra when 1.1.45-1
 extra whipper 0.10.0-5
@@ -13783,7 +13784,7 @@ multilib lib32-libogg 1.3.5-1
 multilib lib32-libpcap 1.10.4-1
 multilib lib32-libpciaccess 0.17-1
 multilib lib32-libpgm 5.3.128-2
-multilib lib32-libpipewire 1:0.3.81-1
+multilib lib32-libpipewire 1:0.3.81-2
 multilib lib32-libpng 1.6.40-2
 multilib lib32-libpng12 1.2.59-2
 multilib lib32-libproxy 0.5.3-1
@@ -13881,9 +13882,9 @@ multilib lib32-pango 1:1.51.1-1
 multilib lib32-pcre 8.45-3
 multilib lib32-pcre2 10.42-1
 multilib lib32-pcsclite 2.0.0-1
-multilib lib32-pipewire 1:0.3.81-1
-multilib lib32-pipewire-jack 1:0.3.81-1
-multilib lib32-pipewire-v4l2 1:0.3.81-1
+multilib lib32-pipewire 1:0.3.81-2
+multilib lib32-pipewire-jack 1:0.3.81-2
+multilib lib32-pipewire-v4l2 1:0.3.81-2
 multilib lib32-pixman 0.42.2-1
 multilib lib32-polkit 123-1
 multilib lib32-popt 1.19-1
@@ -15657,7 +15658,7 @@ chaotic-aur libbaseencode 1.0.14-1
 chaotic-aur libbtbb 2020.12.R1-2.2
 chaotic-aur libcgroup 2.0-1
 chaotic-aur libcheese-git 44.1-1.1
-chaotic-aur libclc-git 1:18.0.0_r477438.4c6cba31aaaa-1
+chaotic-aur libclc-git 1:18.0.0_r477440.64d78d8b3cd0-1
 chaotic-aur libcmrt 1.0.6-2.3
 chaotic-aur libcotp 2.0.0-1
 chaotic-aur libcprime 4.5.0-1
@@ -16222,7 +16223,7 @@ chaotic-aur oddjob 0.34.7-1.3
 chaotic-aur odr-dabmod-git 2.6.0.r0.g451a7fa-1.5
 chaotic-aur odr-dabmux-git 4.4.1.r0.g36594de-1.1
 chaotic-aur ofono 1.34-1.1
-chaotic-aur oh-my-posh-bin 18.11.0-1
+chaotic-aur oh-my-posh-bin 18.12.0-1
 chaotic-aur oh-my-zsh-git r7014.772b41ea5-1
 chaotic-aur ola 0.10.9-2
 chaotic-aur ola-docs 0.10.9-2
@@ -17819,7 +17820,7 @@ chaotic-aur xdg-ninja-git r411.e88752a-1
 chaotic-aur xdg-terminal-exec-git r87.e5c20d0-1
 chaotic-aur xdman 1:7.2.11-2
 chaotic-aur xembed-sni-proxy-git v5.26.90.r223.g8acfd6785-1
-chaotic-aur xemu-git 0.7.111.r0.gedecb41b97-1
+chaotic-aur xemu-git 0.7.112.r0.g38950d7e8c-1
 chaotic-aur xen 4.17.3pre-1
 chaotic-aur xen-docs 4.17.3pre-1
 chaotic-aur xerces2-java 2.12.2-1
@@ -30068,7 +30069,7 @@ xerolinux_repo spotify-adblock-git 1:1.0.3.r0.g5a3281d-1
 xerolinux_repo statusnotifier 1.0.0-1
 xerolinux_repo sublime-merge 2091-2
 xerolinux_repo sublime-text-4 4.4152-2
-xerolinux_repo sweet-cursors-theme-git r334.6e82150-1
+xerolinux_repo sweet-cursors-theme-git r335.2910929-1
 xerolinux_repo sweet-folders-icons-git r14.b2192ff-1
 xerolinux_repo sweet-kde-git r334.6e82150-1
 xerolinux_repo sweet-kvantum-theme-git r334.6e82150-1
@@ -30155,7 +30156,7 @@ xerolinux_repo xero-pride-wallpapers-git 23.07-2
 xerolinux_repo xero-xfce-config 23.10-1
 xerolinux_repo xerolinux-mirrorlist 0.1.4-1
 xerolinux_repo xerolinux-rollback-git 0.1.34-1
-xerolinux_repo xerowelcome 1.3.3-1
+xerolinux_repo xerowelcome 1.3.3-2
 xerolinux_repo xfce4-panel-profiles 1.0.14-2
 xerolinux_repo yay-bin 12.1.3-1
 xerolinux_repo yt-dlg 1.8.5-1
