@@ -73,7 +73,7 @@ core gpgme 1.22.0-1 [installed]
 core gpm 1.20.7.r38.ge82d1a6-5 [installed]
 core grep 3.11-1 [installed]
 core groff 1.23.0-5 [installed]
-core grub 2:2.12rc1-4 [installed]
+core grub 2:2.12rc1-5 [installed]
 core gssproxy 0.9.1-2
 core guile 3.0.9-1 [installed]
 core gzip 1.13-2 [installed]
@@ -14065,7 +14065,7 @@ archcraft ckbcomp 1.221-1 [installed]
 archcraft cwm 7.1-3
 archcraft downgrade 11.3.0-1
 archcraft evilwm 1.4.2-1
-archcraft grub 2.12rc1.r49.ge58b870ff-1 [installed: 2:2.12rc1-4]
+archcraft grub 2.12rc1.r49.ge58b870ff-1 [installed: 2:2.12rc1-5]
 archcraft grub-update 2.12rc1.r49.ge58b870ff-1
 archcraft gtk3-nocsd-git r82.512c2bd-1
 archcraft i3lock-color 2.13.c.5-1
@@ -14926,7 +14926,7 @@ chaotic-aur fluent-kde-theme-git r94.83d5cc2-1
 chaotic-aur fluent-round-icon-theme-git 2023.06.07.r12.g4c0486a-1
 chaotic-aur fluffychat 1.14.1-1
 chaotic-aur flutter 3.13.6-1
-chaotic-aur flux-bin 2.1.1-1
+chaotic-aur flux-bin 2.1.2-1
 chaotic-aur flxmlrpc 1.0.1-3
 chaotic-aur flycast 2.1-2
 chaotic-aur flyctl-bin 0.1.107-1
@@ -15220,7 +15220,7 @@ chaotic-aur gruvbox-material-gtk-theme-git r23.a1295d8bc-1
 chaotic-aur gruvbox-material-icon-theme-git r23.a1295d8bc-1
 chaotic-aur grype-bin 0.70.0-1
 chaotic-aur gst-plugin-gtk4 0.11.0-2
-chaotic-aur gst-plugin-pipewire-common-git 0.3.81.r38.g77651e13-1
+chaotic-aur gst-plugin-pipewire-common-git 0.3.81.r53.ge940361c-1
 chaotic-aur gstreamer0.10 0.10.36-20
 chaotic-aur gstreamer0.10-base 0.10.36-13
 chaotic-aur gstreamer0.10-base-plugins 0.10.36-13
@@ -15343,7 +15343,7 @@ chaotic-aur insync-nemo 3.7.9.50368-1.3
 chaotic-aur insync-thunar 3.7.9.50368-1.2
 chaotic-aur intel-gmmlib-git 22.3.12.r0.gfa8ac6d-1
 chaotic-aur intel-hybrid-codec-driver-git 1:2.0.0.r170.20220515.cfb3b71-3.1
-chaotic-aur intel-media-driver-git 2023.3.3.r100.g2451cc4e2-1
+chaotic-aur intel-media-driver-git 2023.3.3.r101.gd320ebede-1
 chaotic-aur intel-ucode-clear 36610-1
 chaotic-aur intelbacklight-git r4.39eaf40-1
 chaotic-aur intellij-idea-ultimate-edition 2023.2.3-1
@@ -15387,11 +15387,11 @@ chaotic-aur jdk-doc 21-1
 chaotic-aur jdminecraftlauncher 5.2-2.1
 chaotic-aur jdownloader2 latest-17.1
 chaotic-aur jdupes 1.27.3-1
-chaotic-aur jellyfin-git 10.8.0.alpha5.r2380.gd170be88b0-1
+chaotic-aur jellyfin-git 10.8.0.alpha5.r2382.g075b828cbf-1
 chaotic-aur jellyfin-media-player 1.9.1-1.5
 chaotic-aur jellyfin-media-player-git r1715.698e18e-1
-chaotic-aur jellyfin-server-git 10.8.0.alpha5.r2380.gd170be88b0-1
-chaotic-aur jellyfin-web-git 10.8.0.alpha5.r2380.gd170be88b0-1
+chaotic-aur jellyfin-server-git 10.8.0.alpha5.r2382.g075b828cbf-1
+chaotic-aur jellyfin-web-git 10.8.0.alpha5.r2382.g075b828cbf-1
 chaotic-aur jetbrains-toolbox 2.0.4.17212-1
 chaotic-aur jeuclid-core 3.1.9-1.1
 chaotic-aur jgoodies-looks 2.8.0-4.1
@@ -15604,7 +15604,7 @@ chaotic-aur lib32-llvm-libs-git 18.0.0_r477414.30240e428f0e-1
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangohud-git 0.7.0.r47.g2b29f2d-1
-chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.178854.f1c9efc52e0-1
+chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.178855.7a3981b9a7c-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15668,7 +15668,7 @@ chaotic-aur libdrm-git 2.4.116.r23.g6abc1640-1
 chaotic-aur libeb 4.4.3-10
 chaotic-aur libelectron 1.0.15-1
 chaotic-aur libffi7 3.3-2
-chaotic-aur libfprint-git 1:1.94.6.r10.g2414dbd-1
+chaotic-aur libfprint-git 1:1.94.6.r10.g2414dbdb-1
 chaotic-aur libfpx 1.3.1.10-5
 chaotic-aur libgaminggear 0.15.1-8.3
 chaotic-aur libgbinder 1.1.34-2
@@ -15697,7 +15697,7 @@ chaotic-aur libopenmpt-svn 0.8.r19857-1
 chaotic-aur libpamac-aur 11.6.2-1
 chaotic-aur libpamac-nosnap 1:11.6.2-1
 chaotic-aur libpdfium-nojs 5993.r1.6e55da0c45-1
-chaotic-aur libpipewire-common-git 0.3.81.r38.g77651e13-1
+chaotic-aur libpipewire-common-git 0.3.81.r53.ge940361c-1
 chaotic-aur libplacebo-git 6.338.0.30.g7ca8418f-1
 chaotic-aur libpthread-stubs 0.4-1
 chaotic-aur libquotient-git 0.8.12.r160.ga313422d-1
@@ -15949,7 +15949,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.4
 chaotic-aur menulibre 1:2.2.3-2
 chaotic-aur meowsql 0.4.18-1
 chaotic-aur mergerfs 2.37.1-1
-chaotic-aur mesa-tkg-git 23.3.0_devel.178854.f1c9efc52e0-1
+chaotic-aur mesa-tkg-git 23.3.0_devel.178855.7a3981b9a7c-1
 chaotic-aur mesen2-git r2767.64210699-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -15989,7 +15989,7 @@ chaotic-aur miredo 1.2.6+r159+ge5f5652-1.1
 chaotic-aur mkbold-mkitalic 0.11-2
 chaotic-aur mkinitcpio-firmware 1.4.0-1
 chaotic-aur mkinitcpio-openswap 0.1.0-3.1
-chaotic-aur mkosi-git 18.r17.g1f043a5-1
+chaotic-aur mkosi-git 18.r18.geaf9b8b-1
 chaotic-aur mmsd-git r648.f4b8b32-1.1
 chaotic-aur moarvm 2023.09-1
 chaotic-aur mobydroid 0.6-1
@@ -16061,7 +16061,7 @@ chaotic-aur neofetch-git 7.1.0.r166.gccd5d9f5-1
 chaotic-aur neofrog-git 7.1.0.r166.gccd5d9f5-1.1
 chaotic-aur neovide-git 0.11.2.r12.g690c076-1
 chaotic-aur neovim-drop-in 1-1.1
-chaotic-aur neovim-git 0.9.0.r2006.g9c2270b834-1
+chaotic-aur neovim-git 0.9.0.r2007.g2c9f22e7e4-1
 chaotic-aur neovim-gtk 1.0.4-1
 chaotic-aur neovim-nightly-bin 0.10.0+dev+4eea609-1
 chaotic-aur neovim-plug 0.11.0-3.1
@@ -16233,7 +16233,7 @@ chaotic-aur omnisharp-roslyn 1.39.8-1
 chaotic-aur onedrive-abraunegg 2.4.25-1
 chaotic-aur onedrivegui-git 1.0.3.r2.g92d18f1-1.1
 chaotic-aur onedriver 0.14.0-0
-chaotic-aur onefetch-git 2.18.1.r70.ga0c33042-1
+chaotic-aur onefetch-git 2.18.1.r70.ga0c3304-1
 chaotic-aur oneko 1.2.5-4
 chaotic-aur onlyoffice-bin 7.4.1-1
 chaotic-aur oomox-qt5-styleplugin-git 1.4.1.r36.ge15cd47-1
@@ -16437,17 +16437,17 @@ chaotic-aur pikaur-git 1.18.3.r13.g70000af-1
 chaotic-aur pingu 0.0.5-1
 chaotic-aur pip-tools 7.3.0-1
 chaotic-aur pipe-viewer-git 0.4.8.r3.ged789b9-1
-chaotic-aur pipewire-common-alsa-git 0.3.81.r38.g77651e13-1
-chaotic-aur pipewire-common-audio-git 0.3.81.r38.g77651e13-1
-chaotic-aur pipewire-common-docs-git 0.3.81.r38.g77651e13-1
-chaotic-aur pipewire-common-ffado-git 0.3.81.r38.g77651e13-1
-chaotic-aur pipewire-common-git 0.3.81.r38.g77651e13-1
-chaotic-aur pipewire-common-jack-git 0.3.81.r38.g77651e13-1
-chaotic-aur pipewire-common-pulse-git 0.3.81.r38.g77651e13-1
-chaotic-aur pipewire-common-roc-git 0.3.81.r38.g77651e13-1
-chaotic-aur pipewire-common-v4l2-git 0.3.81.r38.g77651e13-1
-chaotic-aur pipewire-common-x11-bell-git 0.3.81.r38.g77651e13-1
-chaotic-aur pipewire-common-zeroconf-git 0.3.81.r38.g77651e13-1
+chaotic-aur pipewire-common-alsa-git 0.3.81.r53.ge940361c-1
+chaotic-aur pipewire-common-audio-git 0.3.81.r53.ge940361c-1
+chaotic-aur pipewire-common-docs-git 0.3.81.r53.ge940361c-1
+chaotic-aur pipewire-common-ffado-git 0.3.81.r53.ge940361c-1
+chaotic-aur pipewire-common-git 0.3.81.r53.ge940361c-1
+chaotic-aur pipewire-common-jack-git 0.3.81.r53.ge940361c-1
+chaotic-aur pipewire-common-pulse-git 0.3.81.r53.ge940361c-1
+chaotic-aur pipewire-common-roc-git 0.3.81.r53.ge940361c-1
+chaotic-aur pipewire-common-v4l2-git 0.3.81.r53.ge940361c-1
+chaotic-aur pipewire-common-x11-bell-git 0.3.81.r53.ge940361c-1
+chaotic-aur pipewire-common-zeroconf-git 0.3.81.r53.ge940361c-1
 chaotic-aur pix 3.0.2-1
 chaotic-aur pixelorama 0.11.2-1
 chaotic-aur pixelorama-git 2226.de7ef580-1
@@ -17648,7 +17648,7 @@ chaotic-aur vlang-git 0.4.2.r98.ge0e0987117-1
 chaotic-aur vlc-git 1:0.0.1-1
 chaotic-aur vlc-luajit 3.0.18-11
 chaotic-aur vlc-wayland-git 4.0.0.r26114.g235ba564cf-1
-chaotic-aur vmaf-git 2.3.1.r155.g49478519-1
+chaotic-aur vmaf-git 2.3.1.r88.gddf0622c-1
 chaotic-aur vmware-keymaps 1.0-3.1
 chaotic-aur vmware-workstation 17.0.2-2
 chaotic-aur vnote 3.17.0-1
@@ -17914,13 +17914,13 @@ chaotic-aur yubico-authenticator-bin 6.3.0-1
 chaotic-aur yuzu-early-access 3926-1
 chaotic-aur yuzu-git r25494.45a76637f-1
 chaotic-aur yuzu-mainline-bin 0.1582-1
-chaotic-aur yuzu-mainline-git 1575.r72.g45a7663-1
+chaotic-aur yuzu-mainline-git 1586.r0.g45a7663-1
 chaotic-aur zafiro-icon-theme 1.3-3
 chaotic-aur zandronum 3.1-2.3
-chaotic-aur zapret-common-git 50.r15.2456aae-1
-chaotic-aur zapret-docs-git 50.r15.2456aae-1
-chaotic-aur zapret-nfqws-git 50.r15.2456aae-1
-chaotic-aur zapret-tpws-git 50.r15.2456aae-1
+chaotic-aur zapret-common-git 51.r5.c2075ba-1
+chaotic-aur zapret-docs-git 51.r5.c2075ba-1
+chaotic-aur zapret-nfqws-git 51.r5.c2075ba-1
+chaotic-aur zapret-tpws-git 51.r5.c2075ba-1
 chaotic-aur zeal-git 0.7.0.r5.g2cefcd4-1
 chaotic-aur zecwallet-lite 1.8.8-2
 chaotic-aur zef 0.19.1-1
@@ -29786,7 +29786,7 @@ arcolinux_repo_xlarge whatsapp-nativefier 2.2337.7-1
 arcolinux_repo_xlarge wps-office 11.1.0.11704-2
 arcolinux_repo_xlarge wps-office-mime 11.1.0.11704-2
 arcolinux_repo_xlarge zoom 5.16.2-1
-xhbp grub 2:2.12rc1-4 [installed]
+xhbp grub 2:2.12rc1-4 [installed: 2:2.12rc1-5]
 xiso calamares-app 3.3.0alpha3-12
 xiso calamares-cfg 3.3.0.1-2
 xiso calamares-g-cfg 3.3.0.1-2
