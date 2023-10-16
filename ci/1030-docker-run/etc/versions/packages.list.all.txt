@@ -1147,7 +1147,7 @@ extra cm256cc 1.1.0-3
 extra cmake 3.27.7-1 [installed]
 extra cmake-fedora 2.9.3-7
 extra cmark 0.30.3-1
-extra cmark-gfm 0.29.0.gfm.11-1
+extra cmark-gfm 0.29.0.gfm.13-1
 extra cmatrix 2.0-2
 extra cmctl 1.11.1-1
 extra cmocka 1.1.7-1
@@ -2866,8 +2866,8 @@ extra grobi 0.6.0-3
 extra gron 0.7.1-2
 extra groovy 4.0.15-1
 extra groovy-docs 4.0.15-1
-extra grpc 1.58.1-1
-extra grpc-cli 1.58.1-1
+extra grpc 1.58.1-2
+extra grpc-cli 1.58.1-2
 extra grsync 1.3.1-1
 extra grub-btrfs 4.13-1
 extra grub-customizer 5.2.3-1
@@ -8298,7 +8298,7 @@ extra php-enchant 8.2.11-2
 extra php-fpm 8.2.11-2
 extra php-gd 8.2.11-2
 extra php-geoip 1.1.1-10
-extra php-grpc 1.58.1-1
+extra php-grpc 1.58.1-2
 extra php-igbinary 3.2.14-2
 extra php-imagick 3.7.0-6
 extra php-legacy 8.1.23-2
@@ -8311,7 +8311,7 @@ extra php-legacy-enchant 8.1.23-2
 extra php-legacy-fpm 8.1.23-2
 extra php-legacy-gd 8.1.23-2
 extra php-legacy-geoip 1.1.1-10
-extra php-legacy-grpc 1.58.1-1
+extra php-legacy-grpc 1.58.1-2
 extra php-legacy-igbinary 3.2.14-2
 extra php-legacy-imagick 3.7.0-6
 extra php-legacy-memcache 8.2-2
@@ -9241,8 +9241,8 @@ extra python-graphviz 0.20.1-3
 extra python-green 3.4.3-3
 extra python-greenlet 2.0.2-4
 extra python-grequests 0.7.0-1
-extra python-grpcio 1.58.1-1
-extra python-grpcio-tools 1.58.1-1
+extra python-grpcio 1.58.1-2
+extra python-grpcio-tools 1.58.1-2
 extra python-gssapi 1.8.2-2
 extra python-guessit 3.7.1-2
 extra python-guzzle-sphinx-theme 0.7.11-11
@@ -13141,7 +13141,7 @@ extra webrtc-audio-processing-1 1.3-2
 extra websocat 1.11.0-1
 extra websocketpp 0.8.2-1
 extra websvn 2.8.2-1
-extra weechat 4.0.5-1
+extra weechat 4.1.0-1
 extra weechat-matrix 0.3.0-10
 extra wesnoth 1:1.16.10-2
 extra weston 12.0.2-1
@@ -14679,7 +14679,7 @@ chaotic-aur dupeguru 4.3.1-1.3
 chaotic-aur duplicacy 3.2.3-1
 chaotic-aur dust3d 1.0.0rc.9-1
 chaotic-aur dwarfs 0.7.2-1.1
-chaotic-aur dwarfs-git 0.7.2.r39.g67496b3-1
+chaotic-aur dwarfs-git 0.7.2.r41.g6d994de-1
 chaotic-aur dwm 6.4-2
 chaotic-aur dwm-git 6.4.r6.g9f88553-1
 chaotic-aur dxvk-async-git 2.3.r11.ge00db245-1
@@ -15033,7 +15033,7 @@ chaotic-aur gifcurry 6.0.1.0_0-1.4
 chaotic-aur gigolo 0.5.2-1.3
 chaotic-aur gimp-elsamuko-git r90.ac9a756-1.1
 chaotic-aur gimp-extras 2.0.4-1.2
-chaotic-aur gimp-git 2:2.99.16.r632.ga101fd60eb-1
+chaotic-aur gimp-git 2:2.99.16.r633.ga2c6a5ee72-1
 chaotic-aur gimp-plugin-normalmap 1.2.3-2.4
 chaotic-aur gis-weather 0.8.4.17-1
 chaotic-aur gis-weather-git 0.8.4.17.r3.g98fd207-1
@@ -15260,7 +15260,7 @@ chaotic-aur guilded 1.0.9224397-1
 chaotic-aur guile1.8 1.8.8-10
 chaotic-aur guiscrcpy 1:2023.1.1-3.1
 chaotic-aur gwe 0.15.6-1
-chaotic-aur gyroflow-git 1.5.3.r14.ge063b060-1
+chaotic-aur gyroflow-git 1.5.3.r16.g83746fef-1
 chaotic-aur gzdoom 4.11.0-1.1
 chaotic-aur haguichi 1.4.6-1.2
 chaotic-aur hakuneko-desktop-bin 6.1.7-2.2
@@ -15446,7 +15446,7 @@ chaotic-aur kde-servicemenus-pdf-encrypt-decrypt 1-1.4
 chaotic-aur kde-servicemenus-rootactions 2.9.1-2.4
 chaotic-aur kde-servicemenus-sendtodesktop 1-1.4
 chaotic-aur kde-servicemenus-setaswallpaper 1-1.4
-chaotic-aur kdenlive-stabledeps-git 23.11.70.r18842-1
+chaotic-aur kdenlive-stabledeps-git 23.11.70.r18843-1
 chaotic-aur kdeplasma-applets-fokus 1.5.5-1.4
 chaotic-aur kdisplay-kwinft 5.27-1.2
 chaotic-aur kdocker 5.4-1.3
@@ -16162,7 +16162,7 @@ chaotic-aur nudelta 0.7.4-1
 chaotic-aur numix-circle-icon-theme-git 23.10.09.r0.g80235c9-1
 chaotic-aur numix-icon-theme-git 23.04.26.r2.gd12b26ed2-1
 chaotic-aur nurl 0.3.13-1
-chaotic-aur nushell-git 0.85.0.r134.g89ccdc2-1
+chaotic-aur nushell-git 0.85.0.r135.g5a746c0-1
 chaotic-aur nvidia-340xx 340.108-34
 chaotic-aur nvidia-340xx-dkms 340.108-34
 chaotic-aur nvidia-340xx-settings 340.108-2
@@ -16928,13 +16928,13 @@ chaotic-aur quassel-git 0.14.0.r8.g020c1634-1
 chaotic-aur quassel-light-git 0.14.0.r8.g020c1634-1
 chaotic-aur quassel-light-webengine-git 0.14.0.r8.g020c1634-1
 chaotic-aur quaternion 0.0.95.1-1.1
-chaotic-aur quaternion-git 0.0.95.1.flatpak.r40.ge69bbb7-1.1
+chaotic-aur quaternion-git 0.0.95.1.r213.g8ccd49a-2
 chaotic-aur qucs 0.0.20_rc2-2.1
 chaotic-aur qucsator-git 0.0.20.r6.gd48b91e-1
 chaotic-aur quick-lookup 2.0.0-2.3
 chaotic-aur quickdocs 2.2.6-1.3
 chaotic-aur quickemu 4.8-1.1
-chaotic-aur quickemu-git 4.8.r7.g1ccfd82-1
+chaotic-aur quickemu-git 4.8.r32.g4906752-1
 chaotic-aur quickjs 2021.03.27-1
 chaotic-aur quixel-bridge 2023.0.0-1
 chaotic-aur qutebrowser-git 3.0.0.r86.g7f9713b20-1
@@ -16958,7 +16958,7 @@ chaotic-aur raven-reader-bin 1.0.80-1
 chaotic-aur raze 1.7.1-2
 chaotic-aur rbenv 1.2.0-1
 chaotic-aur rclone-browser 1.8.0-3.3
-chaotic-aur rclone-git 1.64.0.r76.g5fa68e9ca-1
+chaotic-aur rclone-git 1.64.0.r79.g29baa5888-1
 chaotic-aur reactgame 1.3.1-1.1
 chaotic-aur realmd 0.17.1-1
 chaotic-aur realtek-firmware 20191022-1
@@ -17666,7 +17666,7 @@ chaotic-aur vkbasalt-cli 3.1.1-2
 chaotic-aur vkd3d-proton-mingw-git 2.10.r66.g07d4fbbc-1
 chaotic-aur vkd3d-proton-tkg-git 1.1.r3688.g07d4fbbc-1
 chaotic-aur vkd3d-tkg-git 1.6.r86.gf9e7cb63-1
-chaotic-aur vlang-git 0.4.2.r115.g0fb38edcb6-1
+chaotic-aur vlang-git 0.4.2.r119.g25777bde4e-1
 chaotic-aur vlc-git 1:0.0.1-1
 chaotic-aur vlc-luajit 3.0.19-1
 chaotic-aur vlc-wayland-git 4.0.0.r26141.g8b1f9fb457-1
@@ -17937,7 +17937,7 @@ chaotic-aur yubico-authenticator-bin 6.3.0-1
 chaotic-aur yuzu-early-access 3932-2
 chaotic-aur yuzu-git r25543.8becf13e8b-1
 chaotic-aur yuzu-mainline-bin 0.1589-1
-chaotic-aur yuzu-mainline-git 1589.r0.g644cf7e-1
+chaotic-aur yuzu-mainline-git 1586.r53.g8e7b2cd-1
 chaotic-aur zafiro-icon-theme 1.3-3
 chaotic-aur zandronum 3.1-2.3
 chaotic-aur zapret-common-git 51.r6.3e8d767-1
@@ -27192,7 +27192,7 @@ arch4edu espeak 1:1.48.04-4
 arch4edu f2c 20230428-1
 arch4edu fakepkg 1.42.2-1
 arch4edu fakeroot-tcp 1.32.1-1
-arch4edu fastfetch 2.1.0-1
+arch4edu fastfetch 2.1.1-1
 arch4edu fbx-sdk 2020.1.1-1
 arch4edu fcl 0.7.0-1
 arch4edu fet-timetabling 6.9.7-1
@@ -27332,6 +27332,7 @@ arch4edu migraphx 5.4.3-1
 arch4edu miktex 23.10.12-1
 arch4edu mirrorlist.arch4edu 20230426.dddb521-1
 arch4edu mmg 5.7.1-1
+arch4edu mms-git 1.1-1
 arch4edu mongodb 7.0.2-2
 arch4edu mongodb-bin 7.0.2-1
 arch4edu mongodb-tools 1:100.9.0-1 [installed]
@@ -27409,7 +27410,7 @@ arch4edu pi-hole-ftl 5.23-1
 arch4edu pi-hole-server 5.17.1-3
 arch4edu pi-hole-standalone 5.17.1-4
 arch4edu pio 2.5.2-2
-arch4edu plplot 5.15.0-7
+arch4edu plplot 5.15.0-8
 arch4edu pocketsphinx 5.0.2-1
 arch4edu praat 6.3.18-1
 arch4edu pspp 1.6.2-1
@@ -27498,7 +27499,7 @@ arch4edu python-ninja 1.11.1.1-1
 arch4edu python-nocasedict 1.0.4-2
 arch4edu python-nocaselist 1.0.6-2
 arch4edu python-numba-git 0.59.0dev0.r146.g452eb5755-1
-arch4edu python-numpy-mkl 1.26.0-2
+arch4edu python-numpy-mkl 1.26.1-1
 arch4edu python-nvd3 0.15.0-6
 arch4edu python-nvidia-ml-py 12.535.108-1
 arch4edu python-oldest-supported-numpy 2023.8.3-1
@@ -28079,7 +28080,7 @@ arch4edu r-rsm 2.10.4-1
 arch4edu r-rspc 1.2.2-5
 arch4edu r-rspectra 0.16.1-1
 arch4edu r-rsqlite 2.3.1-3
-arch4edu r-rstan 2.26.23-1
+arch4edu r-rstan 2.32.3-1
 arch4edu r-rstanarm 2.26.1-2
 arch4edu r-rstantools 2.3.1.1-1
 arch4edu r-rstpm2 1.6.2-1
@@ -28103,7 +28104,7 @@ arch4edu r-sf 1.0.14-2
 arch4edu r-sfsmisc 1.1.16-1
 arch4edu r-sgt 2.0-5
 arch4edu r-shape 1.4.6-4
-arch4edu r-shiny 1.7.5-1
+arch4edu r-shiny 1.7.5.1-2
 arch4edu r-shinyjs 2.1.0-7
 arch4edu r-shinystan 2.6.0-4
 arch4edu r-shinythemes 1.2.0-4
