@@ -1709,7 +1709,7 @@ extra ecos 2.0.10-2
 extra ecrire 0.2.0-1
 extra ecryptfs-utils 111-8
 extra edac-utils 0.18-3
-extra editline 1.17.1-2
+extra editline 1.17.1-3
 extra editorconfig-checker 2.7.2-1
 extra editorconfig-core-c 0.12.6-1
 extra edk2-aarch64 202308-3
@@ -2708,7 +2708,7 @@ extra gnome-robots 40.0-1
 extra gnome-screenshot 41.0+r25+g45f08f0-1
 extra gnome-session 45.0-1
 extra gnome-settings-daemon 45.0-1
-extra gnome-shell 1:45.0-1
+extra gnome-shell 1:45.0+r17+gebf2f8036-1
 extra gnome-shell-extension-appindicator 1:57-1
 extra gnome-shell-extension-arc-menu 51-1
 extra gnome-shell-extension-dash-to-panel 59-1
@@ -5167,7 +5167,7 @@ extra libcomps 0.1.20-1
 extra libconfig 1.7.3-2
 extra libcontentaction 0.4.3-1
 extra libcoverart 1.0.0-5
-extra libcpuid 0.6.4-1
+extra libcpuid 0.6.4-2
 extra libcroco 0.6.13-2
 extra libcrossguid 1:0.2.2-4
 extra libcryptui 1:3.12.2+r71+ged4f890e-1
@@ -5914,7 +5914,7 @@ extra libsm 1.2.4-1 [installed]
 extra libsmbios 2.4.3-6
 extra libsmf 1.3-11
 extra libsndfile 1.2.2-1 [installed]
-extra libsodium 1.0.19-1 [installed]
+extra libsodium 1.0.19-2 [installed]
 extra libsolv 0.7.24-2
 extra libsonic 0.2.0-1
 extra libsoup 2.74.3-1
@@ -6191,7 +6191,7 @@ extra loudmouth 1.5.4-1
 extra loupe 45.0-1
 extra lout 3.42.2-1
 extra love 11.4-2
-extra lowdown 1.0.2-1
+extra lowdown 1.0.2-2
 extra lprint 1.2.0-1
 extra lpsolve 5.5.2.11-2
 extra lrcalc 2.1-4
@@ -6760,7 +6760,7 @@ extra minidlna 1.3.3-1
 extra minieap 0.93-1
 extra miniflux 2.0.48-1
 extra minikube 1.31.2-1
-extra minio 2023.10.14-1
+extra minio 2023.10.16-1
 extra minio-client 2023.10.14-1 [installed]
 extra minisat 2.2.1.20201216-1
 extra miniserve 0.24.0-1
@@ -6889,8 +6889,8 @@ extra musl 1.2.4-1
 extra mustache 4.1-3
 extra mustache-d 0.1.5-12
 extra mutt 2.2.12-1
-extra mutter 45.0-1
-extra mutter-docs 45.0-1
+extra mutter 45.0+r49+g8d3d8b86e5-1
+extra mutter-docs 45.0+r49+g8d3d8b86e5-1
 extra mvt 2.4.2-1
 extra mxml 3.3.1-1
 extra mxml-docs 3.3.1-1
@@ -6987,7 +6987,7 @@ extra netcdf-fortran 4.6.1-1
 extra netcdf-fortran-openmpi 4.6.0-1
 extra netcdf-openmpi 4.9.2-3
 extra netcf 0.2.8-8
-extra netctl 1.28-2
+extra netctl 1.29-1
 extra netdata 1.42.4-2
 extra netfilter-fullconenat r73.0cf3b48-326
 extra nethack 3.6.7-5
@@ -12160,7 +12160,7 @@ extra synthv1-standalone 0.9.32-1
 extra sysbench 1.0.20-1
 extra sysdig 0.32.1-8
 extra sysdig-dkms 0.32.1-8
-extra syslog-ng 4.2.0-1
+extra syslog-ng 4.4.0-1
 extra sysprof 45.0-1
 extra sysstat 12.7.4-1
 extra system-config-printer 1.5.18-2
@@ -14989,7 +14989,7 @@ chaotic-aur fzf-tab-git r238.c2b4aa5-1
 chaotic-aur g4music 3.3-1.1
 chaotic-aur g4music-git 3.4.1.r0.g02ee2d7-1
 chaotic-aur gaiasky 3:3.5.5-2
-chaotic-aur gajim-git 1:r21239.d828a0ead-1
+chaotic-aur gajim-git 1:r21240.5ec33565f-1
 chaotic-aur gala-git 7.1.2.r17.151e5f01-1
 chaotic-aur gallery-dl 1.26.0-1
 chaotic-aur gallium-nine-git 0.9.r8.g95e0da4-1
@@ -15228,7 +15228,7 @@ chaotic-aur gruvbox-material-gtk-theme-git r23.a1295d8bc-1
 chaotic-aur gruvbox-material-icon-theme-git r23.a1295d8bc-1
 chaotic-aur grype-bin 0.71.0-1
 chaotic-aur gst-plugin-gtk4 0.11.0-2
-chaotic-aur gst-plugin-pipewire-common-git 0.3.81.r53.ge940361c-1
+chaotic-aur gst-plugin-pipewire-common-git 0.3.82.r30.gd2b6a767-1
 chaotic-aur gstreamer0.10 0.10.36-20
 chaotic-aur gstreamer0.10-base 0.10.36-13.1
 chaotic-aur gstreamer0.10-base-plugins 0.10.36-13.1
@@ -15662,7 +15662,7 @@ chaotic-aur libbaseencode 1.0.14-1
 chaotic-aur libbtbb 2020.12.R1-2.2
 chaotic-aur libcgroup 2.0-1
 chaotic-aur libcheese-git 44.1-1.1
-chaotic-aur libclc-git 1:18.0.0_r477623.7571f27ed768-1
+chaotic-aur libclc-git 1:18.0.0_r477633.c68bc1726c1c-1
 chaotic-aur libcmrt 1.0.6-2.3
 chaotic-aur libcotp 2.0.0-1
 chaotic-aur libcprime 4.5.0-1
@@ -15704,7 +15704,7 @@ chaotic-aur libopenmpt-svn 0.8.r19865-1
 chaotic-aur libpamac-aur 11.6.2-1
 chaotic-aur libpamac-nosnap 1:11.6.2-1
 chaotic-aur libpdfium-nojs 5993.r1.6e55da0c45-1
-chaotic-aur libpipewire-common-git 0.3.81.r53.ge940361c-1
+chaotic-aur libpipewire-common-git 0.3.82.r30.gd2b6a767-1
 chaotic-aur libplacebo-git 6.338.0.30.g7ca8418f-1
 chaotic-aur libpqmarble 1.3.0+12+gf240b2e-4.1
 chaotic-aur libpthread-stubs 0.4-1
@@ -16452,17 +16452,17 @@ chaotic-aur pikaur-git 1.18.3.r13.g70000af-1
 chaotic-aur pingu 0.0.5-1
 chaotic-aur pip-tools 7.3.0-1
 chaotic-aur pipe-viewer-git 0.4.8.r5.g64fd034-1
-chaotic-aur pipewire-common-alsa-git 0.3.81.r53.ge940361c-1
-chaotic-aur pipewire-common-audio-git 0.3.81.r53.ge940361c-1
-chaotic-aur pipewire-common-docs-git 0.3.81.r53.ge940361c-1
-chaotic-aur pipewire-common-ffado-git 0.3.81.r53.ge940361c-1
-chaotic-aur pipewire-common-git 0.3.81.r53.ge940361c-1
-chaotic-aur pipewire-common-jack-git 0.3.81.r53.ge940361c-1
-chaotic-aur pipewire-common-pulse-git 0.3.81.r53.ge940361c-1
-chaotic-aur pipewire-common-roc-git 0.3.81.r53.ge940361c-1
-chaotic-aur pipewire-common-v4l2-git 0.3.81.r53.ge940361c-1
-chaotic-aur pipewire-common-x11-bell-git 0.3.81.r53.ge940361c-1
-chaotic-aur pipewire-common-zeroconf-git 0.3.81.r53.ge940361c-1
+chaotic-aur pipewire-common-alsa-git 0.3.82.r30.gd2b6a767-1
+chaotic-aur pipewire-common-audio-git 0.3.82.r30.gd2b6a767-1
+chaotic-aur pipewire-common-docs-git 0.3.82.r30.gd2b6a767-1
+chaotic-aur pipewire-common-ffado-git 0.3.82.r30.gd2b6a767-1
+chaotic-aur pipewire-common-git 0.3.82.r30.gd2b6a767-1
+chaotic-aur pipewire-common-jack-git 0.3.82.r30.gd2b6a767-1
+chaotic-aur pipewire-common-pulse-git 0.3.82.r30.gd2b6a767-1
+chaotic-aur pipewire-common-roc-git 0.3.82.r30.gd2b6a767-1
+chaotic-aur pipewire-common-v4l2-git 0.3.82.r30.gd2b6a767-1
+chaotic-aur pipewire-common-x11-bell-git 0.3.82.r30.gd2b6a767-1
+chaotic-aur pipewire-common-zeroconf-git 0.3.82.r30.gd2b6a767-1
 chaotic-aur pix 3.0.2-1
 chaotic-aur pixelorama 0.11.2-1
 chaotic-aur pixelorama-git 2226.de7ef580-1
@@ -17050,7 +17050,7 @@ chaotic-aur rtx 2023.10.2-1
 chaotic-aur ruby-build 20230919-1
 chaotic-aur rubymine 2023.2.3-1
 chaotic-aur rufetch 0.2.2-1
-chaotic-aur ruffle-git 1:r10690.0a9be1592-1
+chaotic-aur ruffle-git 1:r10691.b42794043-1
 chaotic-aur ruffle-nightly-bin 2023.10.16-1
 chaotic-aur runescape-launcher 2.2.11-1.2
 chaotic-aur rusnapshot-git 33.b19e757-1
@@ -17669,7 +17669,7 @@ chaotic-aur vkd3d-tkg-git 1.6.r86.gf9e7cb63-1
 chaotic-aur vlang-git 0.4.2.r115.g0fb38edcb6-1
 chaotic-aur vlc-git 1:0.0.1-1
 chaotic-aur vlc-luajit 3.0.19-1
-chaotic-aur vlc-wayland-git 4.0.0.r26140.g244a884cd0-1
+chaotic-aur vlc-wayland-git 4.0.0.r26141.g8b1f9fb457-1
 chaotic-aur vmaf-git 2.3.1.r161.gaf31e4cd-1.1
 chaotic-aur vmware-keymaps 1.0-3.1
 chaotic-aur vmware-workstation 17.0.2-2
@@ -17840,7 +17840,7 @@ chaotic-aur xdg-ninja-git r411.e88752a-1
 chaotic-aur xdg-terminal-exec-git r93.b6d2874-1
 chaotic-aur xdman 1:7.2.11-3
 chaotic-aur xdman-beta-bin 8.0.29-5
-chaotic-aur xembed-sni-proxy-git v5.26.90.r223.g8acfd6785-1
+chaotic-aur xembed-sni-proxy-git 5.27.8-1
 chaotic-aur xemu-git 0.7.114.r0.g51b0cda5ea-1
 chaotic-aur xen 4.17.3pre-1
 chaotic-aur xen-docs 4.17.3pre-1
@@ -23592,7 +23592,7 @@ archlinuxcn emacs-julia-mode-git 1:0.402.g7a8c868-2
 archlinuxcn emacs-llvm-mode-git 477233.be81f42b551c-1
 archlinuxcn emacs-markdown-mode-git 2.6.r4.gc12adcf-1
 archlinuxcn emacs-native-comp-git 30.0.50.169270-1
-archlinuxcn emacs-native-comp-pgtk-git 30.0.50.169262-1
+archlinuxcn emacs-native-comp-pgtk-git 30.0.50.169271-1
 archlinuxcn emacs-ng-git 1:r169798.g3c822b4da8e-1
 archlinuxcn emacs-ng-git-debug 1:r169798.g3c822b4da8e-1
 archlinuxcn emacs-org-mode-git 1:9.6.1.r269.gaa2249787-1
@@ -25285,7 +25285,7 @@ archlinuxcn lib32-bluez-libs-debug 5.70-1
 archlinuxcn lib32-bluez-plugins 5.70-1
 archlinuxcn lib32-cblas 3.11.0-2
 archlinuxcn lib32-chromaprint 1.5.1-1
-archlinuxcn lib32-clang-git 18.0.0_r477553.ece5dd101c7e4-1
+archlinuxcn lib32-clang-git 18.0.0_r477623.7571f27ed7685-1
 archlinuxcn lib32-dav1d 1.3.0-1
 archlinuxcn lib32-dav1d-debug 1.3.0-1
 archlinuxcn lib32-faac 1.30-4
@@ -25344,9 +25344,9 @@ archlinuxcn lib32-libsrtp-debug 1:2.5.0-1
 archlinuxcn lib32-libtiger 0.3.4-5
 archlinuxcn lib32-libvmaf 2.3.0-2
 archlinuxcn lib32-lilv 0.24.12-2
-archlinuxcn lib32-llvm-git 18.0.0_r477553.ece5dd101c7e4-1
-archlinuxcn lib32-llvm-git-debug 18.0.0_r477553.ece5dd101c7e4-1
-archlinuxcn lib32-llvm-libs-git 18.0.0_r477553.ece5dd101c7e4-1
+archlinuxcn lib32-llvm-git 18.0.0_r477623.7571f27ed7685-1
+archlinuxcn lib32-llvm-git-debug 18.0.0_r477623.7571f27ed7685-1
+archlinuxcn lib32-llvm-libs-git 18.0.0_r477623.7571f27ed7685-1
 archlinuxcn lib32-lv2 1.18.2-1
 archlinuxcn lib32-lzo 2.10-3
 archlinuxcn lib32-mesa-git 1:23.0.0_devel.162640.0b82281e3e3b-1
