@@ -164,9 +164,9 @@ core linux-firmware-qcom 20230804.7be2766d-2
 core linux-firmware-qlogic 20230804.7be2766d-2
 core linux-firmware-whence 20230804.7be2766d-2
 core linux-headers 6.5.7.arch1-1
-core linux-lts 6.1.57-1
-core linux-lts-docs 6.1.57-1
-core linux-lts-headers 6.1.57-1
+core linux-lts 6.1.58-1
+core linux-lts-docs 6.1.58-1
+core linux-lts-headers 6.1.58-1
 core logrotate 3.21.0-2
 core lto-dump 13.2.1-3
 core lvm2 2.03.22-2 [installed]
@@ -296,7 +296,7 @@ extra acorn 1:8.10.0-1
 extra acpi 1.7-3
 extra acpi_call 1.2.2-161
 extra acpi_call-dkms 1.2.2-1
-extra acpi_call-lts 1.2.2-148
+extra acpi_call-lts 1.2.2-149
 extra acpica 20230628-1
 extra acpid 2.0.34-1
 extra acpilight 1.2-2
@@ -7149,7 +7149,7 @@ extra nvchecker 2.12-2
 extra nvidia 535.113.01-5
 extra nvidia-cg-toolkit 3.1-6
 extra nvidia-dkms 535.113.01-2
-extra nvidia-lts 1:535.113.01-4
+extra nvidia-lts 1:535.113.01-5
 extra nvidia-open 535.113.01-5
 extra nvidia-open-dkms 535.113.01-5
 extra nvidia-prime 1.0-4
@@ -8447,7 +8447,7 @@ extra pnetcdf-openmpi 1.12.3-3
 extra png++ 0.2.10-2
 extra pngcrush 1.8.13-3
 extra pngquant 3.0.1-5
-extra pnpm 8.9.0-1
+extra pnpm 8.9.2-1
 extra po4a 0.69-1
 extra pocl 4.0-2
 extra poco 1.12.4-1
@@ -10000,7 +10000,7 @@ extra python-pyswip 0.2.10-3
 extra python-pytables 3.7.0-5
 extra python-pytddmon 1.0.8-9
 extra python-pyte 0.8.1-2
-extra python-pytesseract 0.3.12-1
+extra python-pytesseract 0.3.13-1
 extra python-pytest 7.4.2-1
 extra python-pytest-aiohttp 1.0.4-3
 extra python-pytest-asyncio 0.21.1-1
@@ -10247,7 +10247,7 @@ extra python-setuptools-gettext 0.1.7-1
 extra python-setuptools-git 1.2-9
 extra python-setuptools-markdown 0.4.1-9
 extra python-setuptools-rust 1.7.0-1
-extra python-setuptools-scm 7.1.0-4
+extra python-setuptools-scm 8.0.4-1
 extra python-sgmllib3k 1.0.0-5
 extra python-sh 1.14.3-2
 extra python-shapely 2.0.1-1
@@ -10746,8 +10746,8 @@ extra qmltermwidget 0.2.0.git1-1
 extra qmmp 2.1.5-1
 extra qnapi 0.2.3-6
 extra qopenvpn 2.0.0-7
-extra qpdf 11.6.2-1
-extra qpdf-docs 11.6.2-1
+extra qpdf 11.6.3-1
+extra qpdf-docs 11.6.3-1
 extra qperf 0.4.11-3
 extra qpress 1.1-4
 extra qprint 1.1-2
@@ -10902,7 +10902,7 @@ extra r 4.3.1-2
 extra r10k 3.16.0-1
 extra r2ghidra 5.8.6-1
 extra r8168 8.052.01-4
-extra r8168-lts 8.052.01-3
+extra r8168-lts 8.052.01-4
 extra rabbitmq 3.12.0-1
 extra rabbitmqadmin 3.12.0-1
 extra racket 8.10-1
@@ -12574,7 +12574,7 @@ extra towncrier 22.12.0-3
 extra toxcore 1:0.2.18-3
 extra toxic 0.11.3-3
 extra tp_smapi 0.44-12
-extra tp_smapi-lts 0.43-344
+extra tp_smapi-lts 0.43-345
 extra tpacpi-bat 3.2-1
 extra tpm2-abrmd 3.0.0-1
 extra tpm2-openssl 1.1.1-1
@@ -14502,7 +14502,7 @@ chaotic-aur clipman 1.6.2-1
 chaotic-aur cloaker-bin 2.1-1
 chaotic-aur cloudflare-warp-bin 2023.9.301-1
 chaotic-aur cmake-extras-git r291-1
-chaotic-aur cmake-git 3.28.0.rc1.64.g734a009dcf-1
+chaotic-aur cmake-git 3.28.0.rc1.65.g4fd3397b6a-1
 chaotic-aur cmst-git 2023.03.14.20.gd986142-1
 chaotic-aur cobang 0.10.1-1.3
 chaotic-aur cockroachdb-bin 22.2.2-1
@@ -14536,7 +14536,7 @@ chaotic-aur corepaint 4.5.0-1
 chaotic-aur corepdf 4.5.0-1
 chaotic-aur coreutils-git 9.4.r54.gcaa716803-1
 chaotic-aur coreutils-hybrid 9.1_0.0.20-1
-chaotic-aur coreutils-hybrid-git 0.0.22.r0.g73b7c4613-1
+chaotic-aur coreutils-hybrid-git 0.0.22.r2.g17c044567-1
 chaotic-aur correios-git r18.0d75f6e-1
 chaotic-aur corrosion-git v0.4.3.r10.gafe12e3-1
 chaotic-aur cosmic-epoch-git r78.a9a8a74-1
@@ -16004,7 +16004,7 @@ chaotic-aur moarvm 2023.09-1
 chaotic-aur mobydroid 0.6-1.1
 chaotic-aur modprobed-db 2.46-1.3
 chaotic-aur mojave-gtk-theme-git r530.613a144-1
-chaotic-aur mold-git v2.2.0_44_g01cd5d1a-1
+chaotic-aur mold-git v2.2.0_47_gd8a4f14f-1
 chaotic-aur monkeysphere 0.44-1
 chaotic-aur moodle-dl-git v2.3.2.0.r1.g2e79839-1.2
 chaotic-aur moonlight-qt 4.3.1-1.4
@@ -16344,7 +16344,7 @@ chaotic-aur pdf-xchange 10.1.1.381-1.1
 chaotic-aur pdf2png 0.5.3-1.3
 chaotic-aur pdfbox 2.0.29-1
 chaotic-aur pdfquirk 0.95-1.3
-chaotic-aur pdfsam 5.1.3-3
+chaotic-aur pdfsam 5.1.3-3.1
 chaotic-aur peazip-gtk2-bin 9.1.0-1
 chaotic-aur peazip-qt5 9.4.0-1
 chaotic-aur pebbles-git r445.5e5e455-1.2
@@ -23758,7 +23758,6 @@ archlinuxcn firefox-esr-i18n-zh-tw 115.3.1-1
 archlinuxcn firefox-esr-noscript 11.4.26-1
 archlinuxcn firefox-esr-ublock-origin 1.52.2-1
 archlinuxcn firefox-extension-tab-stash 3.0-1
-archlinuxcn firefox-nightly-debug 120.0a1.20231015.12-1
 archlinuxcn firefox-nightly-en-us 120.0a1.20231015.12-1
 archlinuxcn firefox-nightly-ja 120.0a1.20231015.12-1
 archlinuxcn firefox-nightly-zh-cn 120.0a1.20231015.12-1
@@ -29157,7 +29156,7 @@ arcolinux_repo_3party faba-icon-theme-git 4.3.r0.g6d7ebd2-1
 arcolinux_repo_3party faba-mono-icons-git r106.2006c52-1
 arcolinux_repo_3party fancontrol-gui-git v0.8.r23.g5bfa8fa-1
 arcolinux_repo_3party fastfetch 2.1.2-1
-arcolinux_repo_3party fastfetch-git 2.1.0.r8.gf8aafb7c-1
+arcolinux_repo_3party fastfetch-git 2.1.2.r0.gef5268f7-1
 arcolinux_repo_3party filebot 5.1.1-1
 arcolinux_repo_3party find-the-command-git 2.0.1.r0.gfecba1a-1
 arcolinux_repo_3party fingerprint-gui 1.09-7
@@ -29289,7 +29288,7 @@ arcolinux_repo_3party jwm 2.4.3-1
 arcolinux_repo_3party kazam 1.4.5-9
 arcolinux_repo_3party kickoff 0.7.0-2
 arcolinux_repo_3party konsave 2.2.0-2
-arcolinux_repo_3party kripton-theme-git r142.eaca99f-1
+arcolinux_repo_3party kripton-theme-git r143.4375f54-1
 arcolinux_repo_3party ksuperkey 0.4-2
 arcolinux_repo_3party kvantum-qt5-git 1.0.9.r31.gb7015777-1
 arcolinux_repo_3party kvantum-qt6-git 1.0.7.r6.g60de08a3-1
@@ -29401,7 +29400,7 @@ arcolinux_repo_3party oh-my-zsh-git r7020.f93976875-1
 arcolinux_repo_3party oh-my-zsh-powerline-theme-git r81.56021ec-1
 arcolinux_repo_3party olivia r847.e66086d-1
 arcolinux_repo_3party ookla-speedtest-bin 1.2.0-1
-arcolinux_repo_3party openbox-arc-git 20231013.r21.5ebdb7f-1
+arcolinux_repo_3party openbox-arc-git 20231016.r21.5ebdb7f-1
 arcolinux_repo_3party openbox-themes-pambudi-git r32.8bdf5de-1
 arcolinux_repo_3party openrgb 0.9-1
 arcolinux_repo_3party optimus-manager 1.5-4
@@ -29642,7 +29641,7 @@ arcolinux_repo_3party toilet 0.3.r155.3eb9d58-1
 arcolinux_repo_3party topgrade-bin 12.0.2-2
 arcolinux_repo_3party topgrade-git 10.3.3.r1314.907465f-1
 arcolinux_repo_3party trizen 1:1.68-1
-arcolinux_repo_3party ttf-hactor 20231013-1
+arcolinux_repo_3party ttf-hactor 20231016-1
 arcolinux_repo_3party ttf-hellvetica 20191029-2
 arcolinux_repo_3party ttf-mac-fonts 20100901.134-1
 arcolinux_repo_3party ttf-material-design-iconic-font 2.2.0-1
@@ -29683,7 +29682,7 @@ arcolinux_repo_3party webapp-manager 1.3.2-1
 arcolinux_repo_3party wf-config 0.8.0-3
 arcolinux_repo_3party wf-recorder-git r182.460d454-1
 arcolinux_repo_3party wf-shell 0.7.0-3
-arcolinux_repo_3party whitesur-icon-theme-git r420.ed577377-1
+arcolinux_repo_3party whitesur-icon-theme-git r421.3186e594-1
 arcolinux_repo_3party wlogout 1.1.1-3
 arcolinux_repo_3party wlprop 1:1.0-1
 arcolinux_repo_3party wlr-randr 0.3.0-1
