@@ -1404,7 +1404,7 @@ extra deepin-desktop-schemas 6.0.5-2
 extra deepin-desktop-theme 1.0.8-1
 extra deepin-device-formatter 0.0.1.15-1
 extra deepin-dock 6.0.22-2
-extra deepin-draw 6.0.8-2
+extra deepin-draw 6.0.9-1
 extra deepin-editor 6.0.11-2
 extra deepin-file-manager 1:6.0.31-4
 extra deepin-font-manager 6.0.1-1
@@ -1412,7 +1412,7 @@ extra deepin-gettext-tools 1.0.10-1
 extra deepin-grand-search 5.4.2-1
 extra deepin-gtk-theme 2020.06.10-1
 extra deepin-icon-theme 2023.04.03-1
-extra deepin-image-editor 1.0.35-1
+extra deepin-image-editor 1.0.36-1
 extra deepin-image-viewer 5.9.13-2
 extra deepin-kwin 5.25.11-3
 extra deepin-launcher 6.0.16-1
@@ -1442,11 +1442,11 @@ extra deepin-shortcut-viewer 5.0.7-1
 extra deepin-sound-theme 15.10.6-1
 extra deepin-store 1.2.4-1
 extra deepin-system-monitor 6.0.8-2
-extra deepin-terminal 6.0.7-1
+extra deepin-terminal 6.0.8-1
 extra deepin-terminal-gtk 5.0.4.4-1
 extra deepin-turbo 0.0.6-1
 extra deepin-util-dfm 1.2.15-1
-extra deepin-voice-note 6.0.11-1
+extra deepin-voice-note 6.0.14-1
 extra deepin-wallpapers 1:1.7.7-2
 extra deepin-wallpapers-plasma 5.18.5-1
 extra deepin-wayland-protocols 1.6.0.deepin.1.2-1
@@ -1656,7 +1656,7 @@ extra dsq 0.23.0-2
 extra dssi 1.1.1-12
 extra dstat 0.7.4-5
 extra dtc 1.7.0-4
-extra dtkcommon 5.6.17-1
+extra dtkcommon 5.6.18-1
 extra dtkcore 1:5.6.17-1
 extra dtkdeclarative 5.6.17-2
 extra dtkgui 1:5.6.17-2
@@ -4686,7 +4686,7 @@ extra kconfigwidgets5 5.110.0-1 [installed]
 extra kcontacts5 5.110.0-2
 extra kcoreaddons5 5.110.0-1 [installed]
 extra kcov 41-3
-extra kcptun 20230811-1
+extra kcptun 20231012-1
 extra kcrash5 5.110.0-1 [installed]
 extra kcron 23.08.2-1
 extra kdav5 1:5.110.0-2
@@ -7244,8 +7244,8 @@ extra openbox 3.6.1-10
 extra openbsd-netcat 1.225_1-1
 extra openbve 1.9.2.3-1
 extra opencascade 1:7.6.3-3
-extra opencc 1.1.6-2
-extra opencc-doc 1.1.6-2
+extra opencc 1.1.7-1
+extra opencc-doc 1.1.7-1
 extra opencl-clhpp 2023.04.17-1
 extra opencl-clover-mesa 1:23.2.1-2
 extra opencl-headers 2:2023.04.17-2
@@ -8432,6 +8432,8 @@ extra plasma5-applets-active-window-control 1.7.3-3
 extra plasma5-applets-thermal-monitor 1.3.0-2
 extra plasma5-applets-window-buttons 0.11.1-2
 extra plasmatube 23.08.2-2
+extra platformio-core 6.1.11-1
+extra platformio-core-udev 6.1.11-1
 extra playerctl 2.4.1-3
 extra playitslowly 1.5.1-11
 extra plfit 0.9.4-1
@@ -8560,7 +8562,7 @@ extra profanity-gtk 1:0.14.0-1
 extra profile-cleaner 2.45-1
 extra profile-sync-daemon 1:6.50-1
 extra progpick 0.2.0-1
-extra progress 0.16-1
+extra progress 0.17-1
 extra proj 9.3.0-1
 extra projectm 3.1.12-4
 extra projectm-pulseaudio 3.1.12-4
@@ -8695,6 +8697,7 @@ extra python-aiosmtpd 1.4.4.post2-2
 extra python-aiosqlite 0.19.0-3
 extra python-aiostream 0.5.1-1
 extra python-aiounittest 1.4.2-2
+extra python-ajsonrpc 1.2.0-3
 extra python-alembic 1.9.4-3
 extra python-alt-pytest-asyncio 0.7.1-1
 extra python-amqp 5.1.1-3
@@ -12042,7 +12045,7 @@ extra stylelint-config-recommended 13.0.0-1
 extra stylelint-config-standard 34.0.0-1
 extra stylish-haskell 0.13.0.0-98
 extra stylua 0.18.2-1
-extra stylus 0.59.0-1
+extra stylus 0.60.0-1
 extra subbrute 1.2.1-3
 extra subdl 1.1.2-3
 extra subtitleeditor 0.54.0-5
@@ -15398,11 +15401,11 @@ chaotic-aur jdk-doc 21-1
 chaotic-aur jdminecraftlauncher 5.2-2.1
 chaotic-aur jdownloader2 latest-17.2
 chaotic-aur jdupes 1.27.3-1
-chaotic-aur jellyfin-git 10.8.0.alpha5.r2442.g1c4b0be85d-1
+chaotic-aur jellyfin-git 10.8.0.alpha5.r2444.g1c1df684ac-1
 chaotic-aur jellyfin-media-player 1.9.1-1.5
 chaotic-aur jellyfin-media-player-git r1715.698e18e-1
-chaotic-aur jellyfin-server-git 10.8.0.alpha5.r2442.g1c4b0be85d-1
-chaotic-aur jellyfin-web-git 10.8.0.alpha5.r2442.g1c4b0be85d-1
+chaotic-aur jellyfin-server-git 10.8.0.alpha5.r2444.g1c1df684ac-1
+chaotic-aur jellyfin-web-git 10.8.0.alpha5.r2444.g1c1df684ac-1
 chaotic-aur jetbrains-toolbox 2.0.4.17212-1
 chaotic-aur jeuclid-core 3.1.9-1.1
 chaotic-aur jgoodies-looks 2.8.0-4.1
@@ -15450,7 +15453,7 @@ chaotic-aur kde-servicemenus-pdf-encrypt-decrypt 1-1.4
 chaotic-aur kde-servicemenus-rootactions 2.9.1-2.4
 chaotic-aur kde-servicemenus-sendtodesktop 1-1.4
 chaotic-aur kde-servicemenus-setaswallpaper 1-1.4
-chaotic-aur kdenlive-stabledeps-git 23.11.70.r18846-1
+chaotic-aur kdenlive-stabledeps-git 23.11.70.r18848-1
 chaotic-aur kdeplasma-applets-fokus 1.5.5-1.4
 chaotic-aur kdisplay-kwinft 5.27-1.2
 chaotic-aur kdocker 5.4-1.3
@@ -15613,7 +15616,7 @@ chaotic-aur lib32-llvm-libs-git 18.0.0_r477746.52db7e27458f-1
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangohud-git 0.7.0.r51.g84daa06-1
-chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.179182.6e2bb716b0c-1
+chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.179183.f2ae21758fc-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15964,7 +15967,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.4
 chaotic-aur menulibre 1:2.2.3-2.1
 chaotic-aur meowsql 0.4.18-1.2
 chaotic-aur mergerfs 2.37.1-1
-chaotic-aur mesa-tkg-git 23.3.0_devel.179182.6e2bb716b0c-1
+chaotic-aur mesa-tkg-git 23.3.0_devel.179183.f2ae21758fc-1
 chaotic-aur mesen2-git r2768.3b72d78e-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -16014,7 +16017,7 @@ chaotic-aur moarvm 2023.09-1
 chaotic-aur mobydroid 0.6-1.1
 chaotic-aur modprobed-db 2.46-1.3
 chaotic-aur mojave-gtk-theme-git r530.613a144-1
-chaotic-aur mold-git v2.2.0_59_gab1ab78f-1
+chaotic-aur mold-git v2.2.0_60_g17c292c2-1
 chaotic-aur monkeysphere 0.44-1
 chaotic-aur moodle-dl-git v2.3.2.0.r1.g2e79839-1.2
 chaotic-aur moonlight-qt 4.3.1-1.4
@@ -16621,9 +16624,9 @@ chaotic-aur premid 2.3.2-1
 chaotic-aur prestopalette 0.1.31-1.3
 chaotic-aur primus-vk-git r156.a7971a4-1
 chaotic-aur prismlauncher 7.2-1
-chaotic-aur prismlauncher-git 7.0.r1166.g5aa2b8886-1
+chaotic-aur prismlauncher-git 7.0.r1170.g2081fcd3f-1
 chaotic-aur prismlauncher-qt5 7.2-1
-chaotic-aur prismlauncher-qt5-git 7.0.r1166.g5aa2b8886-1
+chaotic-aur prismlauncher-qt5-git 7.0.r1170.g2081fcd3f-1
 chaotic-aur prjapicula 0.9.1-2
 chaotic-aur prjoxide-git r446.36a2798-1
 chaotic-aur prjtrellis-db-git r329.4dda149-1
@@ -16870,8 +16873,8 @@ chaotic-aur qadwaitadecorations-qt6-git 0.1.0.r0.g8ef4b78-1
 chaotic-aur qbittorrent-enhanced 4.5.5.10-1.1
 chaotic-aur qbittorrent-enhanced-git 4.5.5.10.r0.g0cf9d4918-1.1
 chaotic-aur qbittorrent-enhanced-qt5 4.5.5.10-1.1
-chaotic-aur qbittorrent-git 1:5.0.0alpha1.r197.g116b05009-1
-chaotic-aur qbittorrent-nox-git 1:5.0.0alpha1.r197.g116b05009-1
+chaotic-aur qbittorrent-git 1:5.0.0alpha1.r198.g921be09d8-1
+chaotic-aur qbittorrent-nox-git 1:5.0.0alpha1.r198.g921be09d8-1
 chaotic-aur qbittorrent-qt5 4.5.5-1.1
 chaotic-aur qdigidoc4 4.4.0.4447-1
 chaotic-aur qdirstat 1.8.1-1.3
@@ -17710,7 +17713,7 @@ chaotic-aur waterfox-g3-bin 2.6-1.3
 chaotic-aur wavebox-beta 10.118.5_3-1
 chaotic-aur wavesurfer 1.8.8p5-4
 chaotic-aur waybar-experimental-git 0.9.22.r147.g5319cb6e-1
-chaotic-aur waybar-hyprland-git 0.9.22.r147.g5319cb6e-1
+chaotic-aur waybar-hyprland-git 0.9.22.r148.g871f9a12-1
 chaotic-aur waydroid 1.4.1-1
 chaotic-aur waydroid-git 1.4.1.r19.g2a2097f-1
 chaotic-aur waydroid-image 18.1_20231007-1
@@ -17793,7 +17796,7 @@ chaotic-aur wob 0.15.1-1
 chaotic-aur woeusb 5.2.4-1.1
 chaotic-aur woeusb-ng 0.2.12-3
 chaotic-aur woof-doom 12.0.0-1
-chaotic-aur woof-doom-git 12.0.0.r25.3c4823a0-1
+chaotic-aur woof-doom-git 12.0.0.r26.c7d2623f-1
 chaotic-aur wordnet-cli 3.1-4
 chaotic-aur wordnet-common 3.1-4
 chaotic-aur wordnet-tk 3.1-4
@@ -29857,7 +29860,7 @@ xerolinux_repo albert 0.22.14-1
 xerolinux_repo alpm_octopi_utils 1.0.2-6
 xerolinux_repo alsi 0.4.9-1
 xerolinux_repo ame 4.0.3-6
-xerolinux_repo android-sdk-platform-tools 34.0.4-1
+xerolinux_repo android-sdk-platform-tools 34.0.5-1
 xerolinux_repo ant-dracula-kde-theme-git v4.0.0.r27.ga6bb8dd-1
 xerolinux_repo ant-dracula-kvantum-theme-git v4.0.0.r27.ga6bb8dd-1
 xerolinux_repo antimicrox 3.3.4-3
@@ -29990,8 +29993,8 @@ xerolinux_repo libfprint-1 1.0-1
 xerolinux_repo libgbinder 1.1.34-3
 xerolinux_repo libgksu 2.0.12-9
 xerolinux_repo libglibutil 1.0.74-1
-xerolinux_repo libinput-gestures 2.74-1
-xerolinux_repo libinput_gestures_qt 0.3.2+7+g0868859-1
+xerolinux_repo libinput-gestures 2.76-1
+xerolinux_repo libinput_gestures_qt 0.3.3-1
 xerolinux_repo libkipi 23.04.3-1
 xerolinux_repo libkipi-debug 22.04.0-1
 xerolinux_repo liboobs 3.0.0-5
