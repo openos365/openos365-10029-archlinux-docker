@@ -1488,7 +1488,7 @@ extra dgedit 0.10.0-2
 extra dgen-sdl 1.33-4
 extra dhall 1.41.2-98
 extra dhall-bash 1.0.40-208
-extra dhall-docs 1.0.11-40
+extra dhall-docs 1.0.11-41
 extra dhall-json 1.7.11-113
 extra dhall-lsp-server 1.1.2-131
 extra dhall-yaml 1.2.11-114
@@ -3325,7 +3325,7 @@ extra haskell-fold-debounce 0.2.0.10-16
 extra haskell-foldable1-classes-compat 0.1-11
 extra haskell-foldl 1.4.15-10
 extra haskell-foundation 0.0.30-5
-extra haskell-fourmolu 0.4.0.0-86
+extra haskell-fourmolu 0.4.0.0-87
 extra haskell-free 5.1.10-37
 extra haskell-fsnotify 0.4.0.0-34
 extra haskell-fsnotify0.3 0.3.0.1-33
@@ -3341,9 +3341,9 @@ extra haskell-generic-trie 0.3.2-1
 extra haskell-generically 0.1.1-1
 extra haskell-generics-sop 0.5.1.3-1
 extra haskell-geniplate-mirror 0.7.9-1
-extra haskell-genvalidity 1.1.0.0-27
-extra haskell-genvalidity-hspec 1.0.0.2-28
-extra haskell-genvalidity-property 1.0.0.0-75
+extra haskell-genvalidity 1.1.0.0-28
+extra haskell-genvalidity-hspec 1.0.0.2-29
+extra haskell-genvalidity-property 1.0.0.0-76
 extra haskell-getopt-generics 0.13.1.0-13
 extra haskell-ghc-bignum-orphans 0.1.1-1
 extra haskell-ghc-check 0.5.0.8-28
@@ -3450,13 +3450,13 @@ extra haskell-hls-explicit-fixity-plugin 1.1.0.0-68
 extra haskell-hls-explicit-imports-plugin 1.2.0.0-68
 extra haskell-hls-explicit-record-fields-plugin 1.0.0.0-68
 extra haskell-hls-floskell-plugin 1.0.2.0-69
-extra haskell-hls-fourmolu-plugin 1.1.1.0-71
+extra haskell-hls-fourmolu-plugin 1.1.1.0-72
 extra haskell-hls-gadt-plugin 1.0.1.0-68
 extra haskell-hls-graph 1.9.0.0-51
 extra haskell-hls-haddock-comments-plugin 1.1.1.0-68
 extra haskell-hls-hlint-plugin 1.1.1.0-68
 extra haskell-hls-module-name-plugin 1.1.1.0-68
-extra haskell-hls-ormolu-plugin 1.0.3.0-69
+extra haskell-hls-ormolu-plugin 1.0.3.0-70
 extra haskell-hls-plugin-api 1.6.0.0-59
 extra haskell-hls-pragmas-plugin 1.0.4.0-68
 extra haskell-hls-qualify-imported-names-plugin 1.0.2.0-68
@@ -3527,7 +3527,7 @@ extra haskell-http-client-tls 0.3.6.3-14
 extra haskell-http-common 0.8.3.4-129
 extra haskell-http-conduit 2.3.8.2-30
 extra haskell-http-date 0.0.11-121
-extra haskell-http-download 0.2.1.0-16
+extra haskell-http-download 0.2.1.0-17
 extra haskell-http-media 0.8.1.0-5
 extra haskell-http-streams 0.8.9.8-22
 extra haskell-http-types 0.12.3-313
@@ -3597,7 +3597,7 @@ extra haskell-language-c99-util 0.2.0-1
 extra haskell-language-haskell-extract 0.2.4-15
 extra haskell-language-javascript 0.7.1.0-144
 extra haskell-language-python 0.5.8-140
-extra haskell-language-server 1.9.0.0-84
+extra haskell-language-server 1.9.0.0-85
 extra haskell-lattices 2.1-30
 extra haskell-lazysmallcheck 0.6-4
 extra haskell-leancheck 1.0.0-1
@@ -3739,7 +3739,7 @@ extra haskell-optparse-applicative 0.17.0.0-59
 extra haskell-optparse-generic 1.5.1-5
 extra haskell-optparse-simple 0.1.1.4-272
 extra haskell-ordered-containers 0.2.3-1
-extra haskell-ormolu 0.3.0.0-75
+extra haskell-ormolu 0.3.0.0-76
 extra haskell-pager 0.1.1.0-18
 extra haskell-pandoc 3.1.2-46
 extra haskell-pandoc-lua-engine 0.2-45
@@ -3748,14 +3748,14 @@ extra haskell-pandoc-server 0.1-125
 extra haskell-pandoc-types 1.23-35
 extra haskell-pango 0.13.8.2-56
 extra haskell-panic 0.4.0.1-24
-extra haskell-pantry 0.5.7-161
+extra haskell-pantry 0.5.7-162
 extra haskell-parallel 3.2.2.0-17
 extra haskell-parameterized-utils 2.1.7.0-9
 extra haskell-parsec-numbers 0.1.0-18
 extra haskell-parser-combinators 1.3.0-4
 extra haskell-parsers 0.12.11-85
-extra haskell-path 0.9.2-129
-extra haskell-path-io 1.8.1-19
+extra haskell-path 0.9.2-130
+extra haskell-path-io 1.8.1-20
 extra haskell-path-pieces 0.2.1-30
 extra haskell-patience 0.3-9
 extra haskell-pattern-arrows 0.0.2-25
@@ -3856,7 +3856,7 @@ extra haskell-retry 0.9.3.1-12
 extra haskell-rfc5051 0.2-8
 extra haskell-rio 0.1.22.0-82
 extra haskell-rio-orphans 0.1.2.0-264
-extra haskell-rio-prettyprint 0.1.4.0-46
+extra haskell-rio-prettyprint 0.1.4.0-47
 extra haskell-roman-numerals 0.5.1.5-30
 extra haskell-rope-utf16-splay 0.3.2.0-122
 extra haskell-rsa 2.4.1-213
@@ -4098,7 +4098,7 @@ extra haskell-utility-ht 0.0.17-8
 extra haskell-uuid 1.3.15-113
 extra haskell-uuid-types 1.0.5.1-1
 extra haskell-validation-selective 0.1.0.2-59
-extra haskell-validity 0.12.0.1-46
+extra haskell-validity 0.12.0.2-1
 extra haskell-vault 0.3.1.5-154
 extra haskell-vec 0.5-16
 extra haskell-vector 0.13.0.0-57
@@ -4226,7 +4226,7 @@ extra highlight 4.8-1
 extra highlight-gui 4.8-1
 extra highway 1.0.7-1
 extra himalaya 0.9.0-1
-extra hindent 5.3.4-93
+extra hindent 5.3.4-94
 extra hip-runtime-amd 5.6.1-1
 extra hipblas 5.6.1-1
 extra hipcub 5.6.1-1
@@ -12004,7 +12004,7 @@ extra sslsplit 0.5.5-2
 extra ssr 0.6.0-1
 extra sssd 2.9.2-1
 extra sstp-client 1:1.0.19-1
-extra stack 2.7.5-358
+extra stack 2.7.5-359
 extra stalonetray 0.8.5-1
 extra stardict 3.0.6.2-1
 extra starship 1.16.0-1
@@ -14710,9 +14710,9 @@ chaotic-aur electron18-bin 18.3.15-1
 chaotic-aur electron19-bin 19.1.9-1
 chaotic-aur electron21-bin 21.4.4-1
 chaotic-aur electronmail-bin 5.2.1-1
-chaotic-aur element-desktop-git 1.11.46.r48.gb93db38a70-1
+chaotic-aur element-desktop-git 1.11.46.r49.g80ba22aba2-1
 chaotic-aur element-desktop-nightly-bin 2023102001-1
-chaotic-aur element-web-git 1.11.46.r48.gb93db38a70-1
+chaotic-aur element-web-git 1.11.46.r49.g80ba22aba2-1
 chaotic-aur elementary-icon-theme-git 7.3.1.r2.g0e5bc62b-1
 chaotic-aur elfx86exts 0.5.0-1
 chaotic-aur elixir-latest 1.15.7-1
@@ -14721,8 +14721,8 @@ chaotic-aur elm-bin 0.19.1-1
 chaotic-aur elm-format-bin 0.8.5-1
 chaotic-aur elm-language-server 2.7.0-1
 chaotic-aur elm-platform-bin 0.19.1-2
-chaotic-aur emacs-git 30.0.50.169297-1
-chaotic-aur emacs-git-noway-widgets 30.0.50.169297-1
+chaotic-aur emacs-git 30.0.50.169306-1
+chaotic-aur emacs-git-noway-widgets 30.0.50.169306-1
 chaotic-aur emacs-ng 30.0.50-5
 chaotic-aur emacs-ng-git 1:r166863.gdbf1cc80538-1.2
 chaotic-aur emacs-pgtk-native-comp-git 30.0.50.169297-1
@@ -15104,7 +15104,7 @@ chaotic-aur gnome-terminal-transparency 3.48.2-1
 chaotic-aur gnome-x11-gesture-daemon 0.2.1-1
 chaotic-aur go-mtpfs-git 20200111-1
 chaotic-aur godot-export-templates-git 4.2.r58257.a60fc7f7c86-1
-chaotic-aur godot-git 4.2.0.r2906.gf333e4acf5b9-1
+chaotic-aur godot-git 4.2.0.r2906.gf333e4acf5b-1
 chaotic-aur godot-headless-bin 3.5.1-1
 chaotic-aur godot-mono 0.0.1-1
 chaotic-aur godot-mono-enhanced 4.1.2-2
@@ -15617,7 +15617,7 @@ chaotic-aur lib32-llvm-libs-git 18.0.0_r478147.ba8565fbcb97-1
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangohud-git 0.7.0.r51.g84daa06-1
-chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.179297.6f3dfba8030-1
+chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.179305.c3516861e86-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15968,7 +15968,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.4
 chaotic-aur menulibre 1:2.2.3-2.1
 chaotic-aur meowsql 0.4.18-1.2
 chaotic-aur mergerfs 2.37.1-1
-chaotic-aur mesa-tkg-git 23.3.0_devel.179297.6f3dfba8030-1
+chaotic-aur mesa-tkg-git 23.3.0_devel.179305.c3516861e86-1
 chaotic-aur mesen2-git r2768.3b72d78e-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -16286,7 +16286,7 @@ chaotic-aur opensnitch-ebpf-module 1.6.3-1.1
 chaotic-aur openssh-hpn 9.4p1.hpn18.1.0-1
 chaotic-aur openssh-hpn-shim 9.4p1.hpn18.1.0-1
 chaotic-aur openssl-1.0 1.0.2.u-6
-chaotic-aur openssl-git 3.2.0.alpha2.r104.g098f27f9ef-1
+chaotic-aur openssl-git 3.2.0.alpha2.r113.gb6eb95fa44-1
 chaotic-aur openswan 3.0.0-1.1
 chaotic-aur opentimelineio0.14 0.14.1-3
 chaotic-aur openttd-git 27996.bb6fa9bf3b-1
@@ -16946,7 +16946,7 @@ chaotic-aur quickemu 4.9-1
 chaotic-aur quickemu-git 4.9.r0.g265be79-1
 chaotic-aur quickjs 2021.03.27-1
 chaotic-aur quixel-bridge 2023.0.0-1
-chaotic-aur qutebrowser-git 3.0.0.r103.g47c786484-1
+chaotic-aur qutebrowser-git 3.0.2.r109.g50e811709-1
 chaotic-aur qview 6.1-2
 chaotic-aur qwertone-git 0.4.0.r0.24bcfb0-1
 chaotic-aur qytdl 1.6-1.3
@@ -17564,7 +17564,7 @@ chaotic-aur ufetch-git 0.3.r0.g12b68fa-1
 chaotic-aur uksmd 6.5.1-1
 chaotic-aur uksmd-git 6.5.1.r0.gec2bfd8-1
 chaotic-aur ulauncher 5.15.4-1
-chaotic-aur ultimate-doom-builder-git 3.0.0.r4102.efcce48-1
+chaotic-aur ultimate-doom-builder-git 3.0.0.4119.gca6769b7-1
 chaotic-aur ums 13.6.0-1.1
 chaotic-aur unflac 1.1-1.1
 chaotic-aur ungoogled-chromium 118.0.5993.88-1
@@ -17850,6 +17850,7 @@ chaotic-aur xdg-ninja-git r411.e88752a-1
 chaotic-aur xdg-terminal-exec-git r93.b6d2874-1
 chaotic-aur xdman 1:7.2.11-3
 chaotic-aur xdman-beta-bin 8.0.29-5
+chaotic-aur xdvdfs 0.6.0-1
 chaotic-aur xembed-sni-proxy-git 5.27.8-1
 chaotic-aur xemu-git 0.7.115.r0.gd6e5342f89-1
 chaotic-aur xen 4.17.3pre-1
@@ -27143,7 +27144,7 @@ archlinuxcn zenpower-dkms-git 46.5e2f56f-1
 archlinuxcn zenpower3-dkms 0.2.0-4
 archlinuxcn zeronet 0.7.1-4
 archlinuxcn zfs-dkms 2.2.0-1
-archlinuxcn zfs-dkms-git 2:2.2.99.r153.gc0e58995e3-1
+archlinuxcn zfs-dkms-git 2:2.2.99.r154.gf0f330e121-1
 archlinuxcn zfs-utils 2.2.0-1
 archlinuxcn zfs-utils-debug 2.2.0-1
 archlinuxcn zfs-utils-git 2:2.2.99.r153.gc0e58995e3-1
