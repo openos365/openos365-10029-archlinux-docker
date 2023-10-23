@@ -21,7 +21,7 @@ core ca-certificates-mozilla 3.94-1 [installed]
 core ca-certificates-utils 20220905-1 [installed]
 core coreutils 9.4-2 [installed]
 core cracklib 2.9.11-1
-core cronie 1.6.1-1
+core cronie 1.7.0-4
 core cryptsetup 2.6.1-3 [installed]
 core curl 8.4.0-2 [installed]
 core dash 0.5.12-1
@@ -1927,7 +1927,7 @@ extra fdm 2.2-2
 extra fdupes 1:2.2.1-2
 extra feathernotes 1.1.1-1
 extra featherpad 1.4.1-1
-extra feedbackd 0.2.0-2
+extra feedbackd 0.2.1-1
 extra feeluown 3.8.14-3
 extra feeluown-bilibili 0.3-1
 extra feeluown-kuwo 0.2.1-1
@@ -5323,7 +5323,7 @@ extra libhandy-docs 1.8.2-1
 extra libhandy0 0.0.13+12+gaa6b6f4-3
 extra libhangul 0.1.0-4
 extra libharu 2.4.4-1
-extra libheif 1.17.0-1
+extra libheif 1.17.1-1
 extra libhomfly 1.02r6-2
 extra libhubbub 0.3.7-2
 extra libhx 4.14-1
@@ -7383,8 +7383,8 @@ extra openvr 1.23.8-1
 extra openvswitch 3.2.0-1
 extra openxr 1.0.30-1
 extra openzwave 1.6-6
-extra opera 103.0.4928.34-1
-extra opera-ffmpeg-codecs 117.0.5938.150-1
+extra opera 104.0.4944.23-1
+extra opera-ffmpeg-codecs 118.0.5993.89-1
 extra operator-sdk 1.31.0-1
 extra ophcrack 3.8.0-4
 extra opl-synth 2.2-1
@@ -7589,7 +7589,7 @@ extra pcp-pmda-podman 6.1.0-1
 extra pcp-pmda-postgresql 6.1.0-1
 extra pcp-pmda-snmp 6.1.0-1
 extra pcsc-perl 1.4.14-14
-extra pcsc-tools 1.6.2-1
+extra pcsc-tools 1.7.0-1
 extra pcsclite 2.0.0-1
 extra pd 0.54.0-1
 extra pd-gem 0.94-11
@@ -8805,7 +8805,7 @@ extra python-bitcoinlib 0.12.0-1
 extra python-bitstring 3.1.9-4
 extra python-bitvector 3.5.0-4
 extra python-black 23.7.0-1
-extra python-bleach 6.0.0-2
+extra python-bleach 6.1.0-1
 extra python-bleak 0.21.1-1
 extra python-blessed 1.20.0-4
 extra python-blinker 1.6.2-1
@@ -9807,7 +9807,7 @@ extra python-protego 0.2.1-2
 extra python-protobuf 24.4-1
 extra python-proxmoxer 2.0.1-4
 extra python-proxy.py 2.4.3-4
-extra python-psutil 5.9.5-1
+extra python-psutil 5.9.6-1
 extra python-psycopg 3.1.12-1
 extra python-psycopg-pool 3.1.8-1
 extra python-psycopg2 2.9.9-1
@@ -10166,7 +10166,7 @@ extra python-redis 5.0.0-1
 extra python-reedsolo 1.7.0-2
 extra python-referencing 0.30.2-1
 extra python-reflink 0.2.1-5
-extra python-regex 2023.6.3-1
+extra python-regex 2023.10.3-1
 extra python-remoto 1.2.1-3
 extra python-rencode 1.0.6-8
 extra python-reportlab 3.6.12-3
@@ -11663,7 +11663,7 @@ extra sbc 2.0-1
 extra sbcl 2.3.8-1
 extra sbctl 0.12-1
 extra sbsigntools 0.9.5-1
-extra sbt 1:1.8.2-2
+extra sbt 1:1.8.3-1
 extra sbxkb 0.7.6-6
 extra sc 7.16-8
 extra sc3-plugins 3.13.0-1
@@ -14350,7 +14350,7 @@ chaotic-aur bootiso 4.2.0-1.1
 chaotic-aur bootstrap 5.3.2-1
 chaotic-aur boringtun 0.5.2-3
 chaotic-aur boston-icon-theme 2.0-1
-chaotic-aur bottles 2:51.9-1.1
+chaotic-aur bottles 2:51.9-2
 chaotic-aur boxtron 0.5.4-1.6
 chaotic-aur bpytop-git 1.0.68.r3.gac0f666-1.4
 chaotic-aur brave-bin 1:1.59.120-1
@@ -14511,7 +14511,7 @@ chaotic-aur clipman 1.6.2-1
 chaotic-aur cloaker-bin 2.1-1
 chaotic-aur cloudflare-warp-bin 2023.9.301-1
 chaotic-aur cmake-extras-git r291-1
-chaotic-aur cmake-git 3.28.0.rc2.122.g8a79a20257-1
+chaotic-aur cmake-git 3.28.0.rc2.126.ga835d583f5-1
 chaotic-aur cmst-git 2023.03.14.20.gd986142-1
 chaotic-aur cobang 0.10.1-1.3
 chaotic-aur cockroachdb-bin 22.2.2-1
@@ -14723,7 +14723,7 @@ chaotic-aur elm-format-bin 0.8.5-1
 chaotic-aur elm-language-server 2.7.0-1
 chaotic-aur elm-platform-bin 0.19.1-2
 chaotic-aur emacs-git 30.0.50.169368-1
-chaotic-aur emacs-git-noway-widgets 30.0.50.169352-1
+chaotic-aur emacs-git-noway-widgets 30.0.50.169368-1
 chaotic-aur emacs-ng 30.0.50-5
 chaotic-aur emacs-ng-git 1:r166863.gdbf1cc80538-1.2
 chaotic-aur emacs-pgtk-native-comp-git 30.0.50.169368-1
@@ -15620,7 +15620,7 @@ chaotic-aur lib32-llvm-libs-git 18.0.0_r478333.dc5341069315-1
 chaotic-aur lib32-lv2 1.18.10-1.1
 chaotic-aur lib32-lzo 2.10-2
 chaotic-aur lib32-mangohud-git 0.7.0.r52.g672d648-1
-chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.179319.e0301659f1f-1
+chaotic-aur lib32-mesa-tkg-git 23.3.0_devel.179328.7a3fb60ac85-1
 chaotic-aur lib32-mjpegtools 2.2.1-1.3
 chaotic-aur lib32-neon 0.32.5-1
 chaotic-aur lib32-nss-mdns 0.15.1-1
@@ -15971,7 +15971,7 @@ chaotic-aur mendeleydesktop-bundled 1.19.8-1.4
 chaotic-aur menulibre 1:2.2.3-2.1
 chaotic-aur meowsql 0.4.18-1.2
 chaotic-aur mergerfs 2.37.1-1
-chaotic-aur mesa-tkg-git 23.3.0_devel.179319.e0301659f1f-1
+chaotic-aur mesa-tkg-git 23.3.0_devel.179328.7a3fb60ac85-1
 chaotic-aur mesen2-git r2768.3b72d78e-1
 chaotic-aur meshlab 2022.02-1.1
 chaotic-aur meshlab-git 2022.02.r129.gc139a651f-1
@@ -15993,7 +15993,7 @@ chaotic-aur microsoft-edge-stable-bin 118.0.2088.61-1
 chaotic-aur migrate 4.16.2-1
 chaotic-aur miktex 23.10.12-1
 chaotic-aur mindustry 1:7.0.146-1
-chaotic-aur mindustry-git 7.0.146.r180.g4f701a7063-1
+chaotic-aur mindustry-git 7.0.146.r184.g2aad7ddde0-1
 chaotic-aur mindustry-server 1:7.0.146-1
 chaotic-aur minecraft-launcher 1:1.0.1221-1.4
 chaotic-aur minecraft-technic-launcher 4.819-1
@@ -16015,13 +16015,13 @@ chaotic-aur miredo 1.2.6+r159+ge5f5652-1.1
 chaotic-aur mkbold-mkitalic 0.11-2
 chaotic-aur mkinitcpio-firmware 1.4.0-1
 chaotic-aur mkinitcpio-openswap 0.1.0-3.1
-chaotic-aur mkosi-git 18.r86.g2203b76-1
+chaotic-aur mkosi-git 18.r87.g0e054bc-1
 chaotic-aur mmsd-git r648.f4b8b32-1.1
 chaotic-aur moarvm 2023.09-1
 chaotic-aur mobydroid 0.6-1.1
 chaotic-aur modprobed-db 2.46-1.3
 chaotic-aur mojave-gtk-theme-git r533.52eb883-1
-chaotic-aur mold-git 2.3.1.r19.g42eabf9f-1
+chaotic-aur mold-git 2.3.1.r20.g2d4ba3ac-1
 chaotic-aur monkeysphere 0.44-1
 chaotic-aur moodle-dl-git v2.3.2.0.r1.g2e79839-1.2
 chaotic-aur moonlight-qt 4.3.1-1.4
@@ -16289,7 +16289,7 @@ chaotic-aur opensnitch-ebpf-module 1.6.3-1.1
 chaotic-aur openssh-hpn 9.4p1.hpn18.1.0-1
 chaotic-aur openssh-hpn-shim 9.4p1.hpn18.1.0-1
 chaotic-aur openssl-1.0 1.0.2.u-6
-chaotic-aur openssl-git 3.2.0.alpha2.r113.gb6eb95fa44-1
+chaotic-aur openssl-git 3.2.0.alpha2.r133.gfac61ea461-1
 chaotic-aur openswan 3.0.0-1.1
 chaotic-aur opentimelineio0.14 0.14.1-3
 chaotic-aur openttd-git 28026.d1351fa0d2-1
@@ -16997,8 +16997,8 @@ chaotic-aur rescrobbled-git 0.7.1.r0.g491c1fe-1
 chaotic-aur reshade-shaders-git r33.9e9fa9e-1
 chaotic-aur resp-app 2022.5-1.3
 chaotic-aur responsively 1.8.0-1
-chaotic-aur restic-git 0.16.0.r95.g62af0d769-1
-chaotic-aur resvg 0.35.0-1
+chaotic-aur restic-git 0.16.0.r104.gd6917c7e0-1
+chaotic-aur resvg 0.36.0-1
 chaotic-aur retroarch-autoconfig-udev-git r2183.0ce2aa1-1
 chaotic-aur retrolink-git r22.628f147-1.4
 chaotic-aur retroshare 0.6.6-2.1
@@ -17671,7 +17671,7 @@ chaotic-aur virtualbox-ext-oracle 7.0.12-1
 chaotic-aur virtualbox-unattended-templates 7.0.12-1
 chaotic-aur visual-studio-code-bin 1.83.1-1
 chaotic-aur visual-studio-code-insiders-bin 1698039223-1
-chaotic-aur vita3k-git r3441.7890e3c7-1
+chaotic-aur vita3k-git r3442.fdf37177-1
 chaotic-aur vital-synth 1.5.5-1.2
 chaotic-aur vivaldi-snapshot 6.4.3160.29-1
 chaotic-aur vivaldi-snapshot-ffmpeg-codecs 118.0.5993.96-1
@@ -17680,7 +17680,7 @@ chaotic-aur vkbasalt-cli 3.1.1-2
 chaotic-aur vkd3d-proton-mingw-git 2.10.r84.g36b78584-1
 chaotic-aur vkd3d-proton-tkg-git 1.1.r3706.g36b78584-1
 chaotic-aur vkd3d-tkg-git 1.6.r86.gf9e7cb63-1
-chaotic-aur vlang-git 0.4.2.r150.g8a8129cd5c-1
+chaotic-aur vlang-git 0.4.2.r153.g9051ac8921-1
 chaotic-aur vlc-git 0.0.1-1
 chaotic-aur vlc-luajit 3.0.19-1
 chaotic-aur vlc-wayland-git 4.0.0.r26275.gcf7adbd232-1
@@ -17971,9 +17971,9 @@ chaotic-aur zenpower-dkms-git 46.5e2f56f-1.2
 chaotic-aur zenpower3-dkms 0.2.0-3.1
 chaotic-aur zenstates-git r6.0bc27f4-1
 chaotic-aur zfs-dkms 2.2.0-1
-chaotic-aur zfs-dkms-git 2:2.2.99.r162.g797f55ef12-1
+chaotic-aur zfs-dkms-git 2:2.2.99.r164.ge9725abd83-1
 chaotic-aur zfs-utils 2.2.0-1
-chaotic-aur zfs-utils-git 2:2.2.99.r162.g797f55ef12-1
+chaotic-aur zfs-utils-git 2:2.2.99.r164.ge9725abd83-1
 chaotic-aur zimg-git 3.0.5.150.g7143181-1
 chaotic-aur zimg-git-debug 3.0.5.150.g7143181-1
 chaotic-aur zlib-ng-git r2320.9fb955b8-1
