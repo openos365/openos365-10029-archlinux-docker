@@ -128,7 +128,7 @@ core libnfnetlink 1.0.2-1 [installed]
 core libnftnl 1.2.6-1 [installed]
 core libnghttp2 1.57.0-1 [installed]
 core libnl 3.8.0-1 [installed]
-core libnsl 2.0.0-3 [installed]
+core libnsl 2.0.1-1 [installed]
 core libp11-kit 0.25.0-2 [installed]
 core libpcap 1.10.4-1 [installed]
 core libpipeline 1.5.7-1
@@ -250,7 +250,7 @@ core tpm2-tss 4.0.1-1 [installed]
 core traceroute 2.1.3-1
 core tzdata 2023c-2 [installed]
 core unixodbc 2.3.12-1
-core usbutils 015-3
+core usbutils 016-2
 core util-linux 2.39.2-1 [installed]
 core util-linux-libs 2.39.2-1 [installed]
 core vi 1:070224-6
@@ -481,7 +481,7 @@ extra archlinux-repro 20230525-1
 extra archlinux-themes-slim 1.2-6
 extra archlinux-wallpaper 1.6.1-6
 extra archlinux-xdg-menu 0.7.6.6-1
-extra ardour 8.0-1
+extra ardour 8.1-1
 extra arduino 1:1.8.19-2
 extra arduino-avr-core 1.8.3-2
 extra arduino-builder 1.6.1-2
@@ -13784,7 +13784,7 @@ multilib lib32-libnewt 0.52.23-1
 multilib lib32-libnghttp2 1.57.0-1
 multilib lib32-libnl 3.8.0-1
 multilib lib32-libnm 1.44.2-1
-multilib lib32-libnsl 2.0.0-2
+multilib lib32-libnsl 2.0.1-1
 multilib lib32-libogg 1.3.5-1
 multilib lib32-libpcap 1.10.4-1
 multilib lib32-libpciaccess 0.17-1
@@ -14381,7 +14381,7 @@ chaotic-aur budgie-network-applet 2.2-1.5
 chaotic-aur budgie-screenshot-applet 0.4.3.r0.gd92b06c-3.5
 chaotic-aur budgie-sntray-git 0.4.13.1.r3.ga5028a3-1
 chaotic-aur bulky 2.10-1
-chaotic-aur burpsuite 2023.10.3-1
+chaotic-aur burpsuite 2023.10.3.1-1
 chaotic-aur buttercup-desktop 2.20.2-1
 chaotic-aur buttermanager 2.5.0-1.3
 chaotic-aur bwidget 1.9.16-2
@@ -15112,7 +15112,7 @@ chaotic-aur gnome-terminal-transparency 3.48.2-1
 chaotic-aur gnome-x11-gesture-daemon 0.2.1-1
 chaotic-aur go-mtpfs-git 20200111-1
 chaotic-aur godot-export-templates-git 4.2.r58257.a60fc7f7c86-1
-chaotic-aur godot-git 4.2.0.r3014.ge8d57afaeccf-1
+chaotic-aur godot-git 4.2.0.r3014.ge8d57afaecc-1
 chaotic-aur godot-headless-bin 3.5.1-1
 chaotic-aur godot-mono 0.0.1-1
 chaotic-aur godot-mono-enhanced 4.1.2-2
@@ -15367,7 +15367,7 @@ chaotic-aur insync-nemo 3.7.9.50368-1.3
 chaotic-aur insync-thunar 3.7.9.50368-1.2
 chaotic-aur intel-gmmlib-git 22.3.12.r0.gfa8ac6d-1.1
 chaotic-aur intel-hybrid-codec-driver-git 1:2.0.0.r170.20220515.cfb3b71-3.2
-chaotic-aur intel-media-driver-git 2023.3.3.r131.gedb049920-1
+chaotic-aur intel-media-driver-git 2023.3.3.r133.g186364342-1
 chaotic-aur intel-ucode-clear 36610-1
 chaotic-aur intelbacklight-git r4.39eaf40-1
 chaotic-aur intellij-idea-ultimate-edition 2023.2.3-1
@@ -15700,6 +15700,7 @@ chaotic-aur libgdm-plymouth-prime 43.0-1.3
 chaotic-aur libgdm-prime 45.0.1-1
 chaotic-aur libgksu 2.0.12-9.3
 chaotic-aur libglibutil 1.0.74-1
+chaotic-aur libhelium 1.7.2-1
 chaotic-aur libinput-gestures 2.76-1.2
 chaotic-aur libinput-gestures-qt 0.4-1
 chaotic-aur libinput_gestures_qt 0.3.3-1
@@ -16267,7 +16268,7 @@ chaotic-aur omnisharp-roslyn 1.39.10-1
 chaotic-aur onedrive-abraunegg 2.4.25-1
 chaotic-aur onedrivegui-git 1.0.3.r2.g92d18f1-1.1
 chaotic-aur onedriver 0.14.1-0
-chaotic-aur onefetch-git 2.18.1.r72.g66d7d5c-1
+chaotic-aur onefetch-git 2.18.1.r72.g66d7d5c6-1
 chaotic-aur oneko 1.2.5-4
 chaotic-aur onlyoffice-bin 7.5.0-1
 chaotic-aur oomox-qt5-styleplugin-git 1.4.1.r36.ge15cd47-1
@@ -17085,7 +17086,7 @@ chaotic-aur rustdesk-nightly 1.2.4-0
 chaotic-aur rustdesk-server-bin 1.1.8_2-1
 chaotic-aur rustow-git 0.4.beta.r32.g37815bc-1
 chaotic-aur rustup-git 1.26.0.r168.g33ad33ef-1
-chaotic-aur ryujinx-git r3080.171b46ef49-1
+chaotic-aur ryujinx-git r3080.171b46ef4-1
 chaotic-aur ryzen-controller-bin 2.6.0-2
 chaotic-aur ryzen_smu-dkms-git 162.e61177d-1
 chaotic-aur ryzenadj-git 0.14.0.r0.g0460a4d-1
