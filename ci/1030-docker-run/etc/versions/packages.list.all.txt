@@ -32,7 +32,7 @@ core dbus-docs 1.14.10-1
 core debugedit 5.0-5 [installed]
 core debuginfod 0.189-3
 core device-mapper 2.03.22-2 [installed]
-core dialog 1:1.3_20230209-1
+core dialog 1:1.3_20231002-1
 core diffutils 3.10-1 [installed]
 core ding-libs 0.6.2-1
 core dmraid 1.0.0.rc16.3-14
@@ -92,7 +92,7 @@ core json-c 0.17-1 [installed]
 core kbd 2.6.3-1 [installed]
 core keyutils 1.6.3-2 [installed]
 core kmod 31-1 [installed]
-core krb5 1.20.1-1 [installed]
+core krb5 1.20.1-2 [installed]
 core ldns 1.8.3-2 [installed]
 core lemon 3.43.2-1
 core less 1:643-1
@@ -9595,7 +9595,7 @@ extra python-mutagen 1.47.0-1
 extra python-mutatormath 3.0.1-4
 extra python-mygpoclient 1.9-2
 extra python-mypy_extensions 1.0.0-3
-extra python-mysql-connector 8.1.0-1
+extra python-mysql-connector 8.2.0-1
 extra python-mysqlclient 2.1.1-2
 extra python-myst-parser 2.0.0-1
 extra python-nampa 1.0-3
@@ -9612,7 +9612,7 @@ extra python-netaddr 0.8.0-7
 extra python-netcdf4 1.6.5-1
 extra python-netcdf4-openmpi 1.6.5-1
 extra python-netifaces 0.11.0-4
-extra python-networkx 3.1-1
+extra python-networkx 3.2.1-1
 extra python-neutronclient 11.0.0-1
 extra python-nine 1.1.0-7
 extra python-nkdfu 0.2-2
@@ -16216,7 +16216,7 @@ chaotic-aur nvidia-zen 535.113.01.2+6.5.9.zen2.1-1
 chaotic-aur nvim-ghost-git 0.3.2.r20.ga1ca0b2-1
 chaotic-aur nvim-yarp-git r59.bb5f5e0-1.2
 chaotic-aur nvlax-git r11.b3699ad-8
-chaotic-aur nvm 0.39.5-1
+chaotic-aur nvm 0.39.5-1 [installed]
 chaotic-aur nwg-bar 0.1.4-1
 chaotic-aur nwg-displays 0.3.8-1
 chaotic-aur nwg-dock 0.3.9-1
@@ -26028,7 +26028,7 @@ archlinuxcn nvidia-utils-beta 545.23.06-1
 archlinuxcn nvidia-vaapi-driver-git 0.0.10.r20.g7c8b677-1
 archlinuxcn nvidia-vaapi-driver-git-debug 0.0.10.r20.g7c8b677-1
 archlinuxcn nvim-packer-git r574.ea0cc3c-1
-archlinuxcn nvm 0.39.5-1
+archlinuxcn nvm 0.39.5-1 [installed]
 archlinuxcn nwg-bar 0.1.4-1
 archlinuxcn nwg-bar-debug 0.1.4-1
 archlinuxcn nwg-drawer 0.3.9-1
@@ -27553,7 +27553,7 @@ arch4edu nomachine 8.9.1-1
 arch4edu nvidia-container-runtime 3.13.1-4
 arch4edu nvidia-container-toolkit 1.13.5-1
 arch4edu nvidia-docker 2.13.0-1
-arch4edu nvm 0.39.5-1
+arch4edu nvm 0.39.5-1 [installed]
 arch4edu oce 0.18.3-2
 arch4edu octave-control 3.6.1-1
 arch4edu octave-general 2.1.2-1
