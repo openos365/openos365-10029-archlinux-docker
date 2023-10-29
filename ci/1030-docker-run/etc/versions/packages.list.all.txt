@@ -13681,7 +13681,7 @@ multilib lib32-amdvlk 2023.Q4.1-1
 multilib lib32-apitrace 11.1-1
 multilib lib32-at-spi2-core 2.50.0-1
 multilib lib32-attr 2.5.1-1
-multilib lib32-brotli 1.0.9-12
+multilib lib32-brotli 1.1.0-1
 multilib lib32-bzip2 1.0.8-3
 multilib lib32-cairo 1.18.0-1
 multilib lib32-cdparanoia 10.2-4
@@ -13756,7 +13756,7 @@ multilib lib32-libdbusmenu-glib 16.04.0-5
 multilib lib32-libdbusmenu-gtk2 16.04.0-5
 multilib lib32-libdbusmenu-gtk3 16.04.0-5
 multilib lib32-libdecor 0.2.0-1
-multilib lib32-libdrm 2.4.116-1
+multilib lib32-libdrm 2.4.117-1
 multilib lib32-libdv 1.0.0-8
 multilib lib32-libelf 0.189-1
 multilib lib32-libepoxy 1.5.10-1
@@ -13806,7 +13806,7 @@ multilib lib32-libsamplerate 0.2.2-2
 multilib lib32-libshout 2.4.6-3
 multilib lib32-libsm 1.2.4-1
 multilib lib32-libsndfile 1.2.2-1
-multilib lib32-libsodium 1.0.18-2
+multilib lib32-libsodium 1.0.19-1
 multilib lib32-libsoup 2.74.3-1
 multilib lib32-libsoup3 3.4.4-1
 multilib lib32-libssh2 1.11.0-1
@@ -13934,7 +13934,7 @@ multilib lib32-vulkan-intel 1:23.2.1-2
 multilib lib32-vulkan-mesa-layers 1:23.2.1-2
 multilib lib32-vulkan-radeon 1:23.2.1-2
 multilib lib32-vulkan-swrast 1:23.2.1-2
-multilib lib32-vulkan-validation-layers 1.3.261.1-1
+multilib lib32-vulkan-validation-layers 1.3.268.0-1
 multilib lib32-vulkan-virtio 1:23.2.1-2
 multilib lib32-wavpack 5.6.0-1
 multilib lib32-wayland 1.22.0-1
@@ -14231,6 +14231,7 @@ chaotic-aur arm-linux-gnueabi-binutils 2.41-1
 chaotic-aur armcord-git r997.4cb480c-1
 chaotic-aur armorpaint-git 1.0.alpha.r3503.g7a8cc15c-1
 chaotic-aur arp-scan-git r452.eac7a7d-1
+chaotic-aur art-rawconverter 1.20.2-3
 chaotic-aur art-rawconverter-git 1.20.2.r9.gc2a681faf-1
 chaotic-aur art-rawconverter-imageio 20230524-1
 chaotic-aur artemis3 3.2.4-1
@@ -14697,7 +14698,7 @@ chaotic-aur dupeguru 4.3.1-1.3
 chaotic-aur duplicacy 3.2.3-1
 chaotic-aur dust3d 1.0.0rc.9-1
 chaotic-aur dwarfs 0.7.2-1.1
-chaotic-aur dwarfs-git 0.7.2.r41.g6d994de-1
+chaotic-aur dwarfs-git 0.7.2.r44.gdd639c6-1
 chaotic-aur dwm 6.4-2
 chaotic-aur dwm-git 6.4.r6.g9f88553-1
 chaotic-aur dxvk-async-git 2.3.r11.ge00db245-1
@@ -16317,7 +16318,7 @@ chaotic-aur optimus-manager-qt 1.6.9-2
 chaotic-aur optimus-manager-qt-git 1.6.9.r6.g15adfc4-1
 chaotic-aur orage 4.18.0-1.2
 chaotic-aur orbada 1.2.5.395-1
-chaotic-aur orchis-theme-git 2023.10.20.r7.g5e78cce5-1
+chaotic-aur orchis-theme-git 2023.10.20.r8.gbb0362b0-1
 chaotic-aur organize 2.2.0-1.4
 chaotic-aur orjail 1.1-2.1
 chaotic-aur os-prober-btrfs 1.79-5.1
@@ -17710,7 +17711,7 @@ chaotic-aur vkbasalt-cli 3.1.1-2
 chaotic-aur vkd3d-proton-mingw-git 2.10.r91.gf968afb7-1
 chaotic-aur vkd3d-proton-tkg-git 1.1.r3712.g5e31159a-1
 chaotic-aur vkd3d-tkg-git 1.6.r86.gf9e7cb63-1
-chaotic-aur vlang-git 0.4.2.r195.gb9d0aedb09-1
+chaotic-aur vlang-git 0.4.2.r197.g52a556c346-1
 chaotic-aur vlc-luajit 3.0.19-1
 chaotic-aur vlc-wayland-git 4.0.0.r26302.gba147775f8-1
 chaotic-aur vmaf-git 2.3.1.r161.gaf31e4cd-1.1
@@ -17938,7 +17939,7 @@ chaotic-aur xxd-standalone 9.0.1843-1
 chaotic-aur xylib 1.6-2.3
 chaotic-aur yacreader 9.13.1-1
 chaotic-aur yacreaderlibraryserver 9.13.1-1
-chaotic-aur yacy-git 1.92.r1466.g9c8fb9798-1
+chaotic-aur yacy-git 1.92.r1467.g4a54b2470-1
 chaotic-aur yagf 0.9.5-3.3
 chaotic-aur yambar-git 1.10.0.r10.g89e7413-1
 chaotic-aur yandex-disk 0.1.6.1080-1.1
@@ -28852,7 +28853,7 @@ garuda garuda-settings-manager-notifier 1.0.2-5
 garuda garuda-settings-manager-notifier-git 1.0.2.r5.gb0542a1-1
 garuda garuda-setup-assistant 3.1.11-1
 garuda garuda-starship-prompt 1.0.3-1
-garuda garuda-sway-settings 1.1.11-2
+garuda garuda-sway-settings 1.1.14-1
 garuda garuda-system-maintenance 2.0.5-2
 garuda garuda-system-maintenance-git r41.92a2d1d-1
 garuda garuda-tools-base-git r200.0199570-1
